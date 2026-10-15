@@ -17,3 +17,5 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+*.png
