@@ -1,0 +1,8 @@
+# CPT dataset pipeline (scripts/cpt). Python 3.10+.
+pymupdf>=1.24
+tokenizers>=0.20
+huggingface_hub>=0.25
+pyarrow>=15
+numpy
+datasketch>=1.6
+# Optional, in a separate environment (it pins many packages):  pip install label-studio

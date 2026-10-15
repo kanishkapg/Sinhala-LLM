@@ -1,0 +1,782 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "නර්තනයේ මූලික අංගහාරය වනුයේ,",
+        "choices": [
+            "දෘණ්ඩිය යි.",
+            "මණ්ඩිය යි.",
+            "නමස්කාරය යි.",
+            "මිටරියන යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සෑම ගොඩ සරඹයක්‌ අවසානයේ ම නටනු ලබන විශේෂ පද කොටස,",
+        "choices": [
+            "හමාර පදය වේ.",
+            "ඉරට්ටිය වේ.",
+            "කස්තිරම වේ.",
+            "අඩව්ව වේ."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "විනෝදාස්වාදය මුල්කොටගෙන නිර්මාණය වී ඇති ගැමි නැටුමක්‌ වන්නේ,",
+        "choices": [
+            "කළගෙඩි නැටුම",
+            "කුලු නැටුම",
+            "ගොයම්‌ නැටුම",
+            "කඩු නැටුම"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "\"සතුටට පත්වීම ' සඳහා බලපාන පරිසර සිද්ධියක්‌ විය හැක්කේ,",
+        "choices": [
+            "මල්‌ පරවීම.",
+            "ගසක්‌ කැපීම.",
+            "ඉර බැස යාම,",
+            "සමනලයෙකු දැකීම."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සාම්ප්‍රදායික වාද්‍ය භාණ්ඩයක්‌ වන්නේ,\n",
+        "choices": [
+            "ටින්‌ බෙරය",
+            "එක්ස්රේ රබාන",
+            "ගැට බෙරය",
+            "දඬු බෙරය"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සබරගමු නර්තන සම්ප්‍රදායේ ප්‍රධාන වාද්‍ය භාණ්ඩය ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "ගැටබෙරය යි.",
+            "තම්මැට්ටම යි.",
+            "දවුල යි.",
+            "තාලම්පට යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "පහතරට නර්තන සම්ප්‍රදාය වඩාත්‌ ප්‍රචලිත ප්‍රදේශයකි.",
+        "choices": [
+            "මහනුවර",
+            "කූරුණෑගල",
+            "දුම්බර",
+            "මාතර"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "දේශීය නර්තන සම්ප්‍රදායන්වල තාල තැබීමට යොදා ගන්නේ,",
+        "choices": [
+            "තාලම්පට යි.",
+            "රබාන යි.",
+            "අත්මිණිය යි.",
+            "උඩැක්කිය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "උඩරට නර්තන සම්ප්‍රදායේ ප්‍රධාන ඇඳුම්‌ කට්ටලය වන්නේ,\n",
+        "choices": [
+            "වෙස්‌ ඇඳුම්‌ කට්ටලය යි.",
+            "පබළු ඇඳුම්‌ කට්ටලය යි.",
+            "දෙවොල්‌ ඇඳුම්‌ කට්ටලය යි.",
+            "තෙල්මේ ඇඳුම්‌ කට්ටලය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "උඩරට සාම්ප්‍රදායික වන්නම්‌ ගණන,",
+        "choices": [
+            "12 කි.",
+            "16 කි.",
+            "18 කි.",
+            "21කි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KYhpVRZN7GCW-kOuTsUP9_IwQ3MN61L9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "එක්‌ තැනක ස්ථාවරව සිටිමින්‌ සිදුකරන චලන,",
+        "choices": [
+            "සංචාරී චලන වේ.",
+            "ස්ථිතික චලන වේ.",
+            "අභිචලන වේ.",
+            "සංචලන වේ."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "ඉරට ඔබිය ඉර මුදුනේ සිටියා ...................... යන කවි පදය අයත්‌ වන්නේ,",
+        "choices": [
+            "නැළවිලි කවි වලටය.",
+            "කළගෙඩි කවි වලටය.",
+            "ලී කෙළි කවි වලටය.",
+            "ගොයම්‌ කවි වලටය."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "ගුරු ගෙදර අධ්‍යාපනය හා සබැඳි චාරිත්‍රයක්‌ නොවන්නේ,",
+        "choices": [
+            "වැඩිහිටියන්ට ගරු කිරීම.",
+            "ගුරු නමස්කාරය කිරීම.",
+            "වාද්‍ය භාණ්ඩ වලට ගරු නොකිරීම.",
+            "දණ්ඩි කඳට නමස්කාර කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "පා සරඹ නර්තනය කිරීමෙන්‌ පසුව අවසානයේ නටනු ලබන්නේ,",
+        "choices": [
+            "හමාර පදය",
+            "කස්තිරම",
+            "සීරුමාරුව",
+            "අඩව්ව"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "තත්‌ ජිත්‌ තොං නං තා .......යන කස්තිරම අයත්‌ ගොඩ සරඹය වන්නේ,",
+        "choices": [
+            "දෙවන ගොඩ සරඔය යි.",
+            "පළමු ගොඩ සරඹය යි.",
+            "සිව්වන ගොඩ සරඔය යි.",
+            "තුන්වන ගොඩ සරඹය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සාම්ප්‍රදායික වාද්‍ය භාණ්ඩයකි,",
+        "choices": [
+            "දඬු බෙරය",
+            "ටින්‌ බෙරය",
+            "උඩැක්කිය",
+            "එක්ස්රේ රබාන"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "උඩරට නර්තන සම්ප්‍රදායේ ප්‍රධාන වාද්‍ය භාණ්ඩය වන්නේ,",
+        "choices": [
+            "දෙවොල්‌ බෙරය",
+            "තම්මැට්ටම",
+            "දවුල",
+            "ගැටබෙරය"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "මාත්‍රා 2 තනි තිතට නටනු ලබන වන්නමකි,",
+        "choices": [
+            "තුරඟා වන්නම",
+            "හනුමා වන්නම",
+            "සැවුලා වන්නම",
+            "වෛරොඩි වන්නම"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "ගැමි නැටුම්‌ වල සුවිශේෂි ලක්‍ෂණයක්‌ නොවන්නේ,",
+        "choices": [
+            "සංකීර්ණ බව",
+            "සාමුහික බව",
+            "එමකම",
+            "සරල බව"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "නර්තනයේ ප්‍රධාන මෙවලම වන්නේ,",
+        "choices": [
+            "ශරීරය",
+            "දෙපා",
+            "මුහුණ",
+            "හිස"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1pDYnweNuJNsfkjtLDy6I3_0r0Rk506sX/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "උඩරට නර්තන සම්ප්‍රදායේ නමස්කාර සරඹයේ දී දෙවනුව වැඳීම කරනුයේ,",
+        "choices": [
+            "බුදුන්වහන්සේට ය.",
+            "ගුරුවර, දෙමාපියන්ට ය.",
+            "දෙවියන්ට ය.",
+            "පොළාව මහී කාන්තාවන්ට ය."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1T2x_iz4NZkL1WiCIJECO1wHBCcTJzh4N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "“තෙයි තිතා තෙයි\" මෙය,",
+        "choices": [
+            "හතරවන පා සරඹය යි.",
+            "තුන්‌ වන පා සරඹය යි.",
+            "පස්වන පා සරඹය යි.",
+            "හයවන පා සරඹය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1T2x_iz4NZkL1WiCIJECO1wHBCcTJzh4N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "“'ගත්තකු ජිත්තම්‌ - ගජිතකු ජිත්තම්‌ - තරිකිට ජිත්‌ තරිකිට දොම්කිට තා” මෙය,",
+        "choices": [
+            "තුන්වන ගොඩ සරඹයේ කස්තිරමයි.",
+            "හතරවන ගොඩ සරඹයේ කස්තිරමයි.",
+            "දෑල අඩියේ කස්තිරමයි.",
+            "සිව්‌ අඩියේ කස්තිරමයි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1T2x_iz4NZkL1WiCIJECO1wHBCcTJzh4N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "තුරඟා වන්නෙමේ කස්තිරමේ මුල්‌ පද කොටස වන්නෙ,",
+        "choices": [
+            "\"තත්‌ තකට තක රොං\" ...... ය.",
+            "“කුද ගජිගත කුද තා'' ....... ය.",
+            "\"තකු තකට ගත දොංත\"...... ය.",
+            "“කුද ගජිත කුද ගජිත\" ...... ය."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1T2x_iz4NZkL1WiCIJECO1wHBCcTJzh4N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "පහතරට හා සරබරගමු නර්තන සම්ප්‍රදායන්වල ප්‍රධාන වාද්‍ය භාණ්ඩ වන්නේ පිළිවෙලින්‌,",
+        "choices": [
+            "ගැටබෙරය හා දවුල යි.",
+            "යක්බෙරය හා දවුල යි.",
+            "දවුල හා යක්බෙරය යි.",
+            "ගැටබෙරය හා උඩැක්කිය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1T2x_iz4NZkL1WiCIJECO1wHBCcTJzh4N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "නම්‍යතා අභ්‍යාස වල නිරතවීමේ වැදගත්කමක්‌ වන්නේ,",
+        "choices": [
+            "ශාරීරික සමබරතාවය ඇතිකර ගැනීම යි.",
+            "බර වැඩි කර ගැනීම යි.",
+            "සිරුර පැහැපත්‌ කර ගැනීම යි.",
+            "විනෝදයක්‌ ලැබීම යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RbtF2mQCIpnYK0dUmO_JNus4aFuCV0VR/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "පා සරඹ හඳුන්වන තවත්‌ නාමයක්‌ වන්නේ,",
+        "choices": [
+            "ගොඩ සරඹ ය.",
+            "දණ්ඩියමේ සරඹ ය.",
+            "හමාර පදය ය.",
+            "ඉලංගම්‌ සරඹ ය."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RbtF2mQCIpnYK0dUmO_JNus4aFuCV0VR/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සබරගමු නර්තන සම්ප්‍රදායේ ප්‍රධාන ශාන්තිකර්මය වනුයේ,",
+        "choices": [
+            "දෙවොල්‌ මඩු ශාන්තිකර්මයයි.",
+            "කොහොඹා කංකාරි ශාන්තිකර්මයයි.",
+            "පහන්මඩු ශාන්තිකර්මයයි.",
+            "බලි ශාන්තිකර්මයයි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RbtF2mQCIpnYK0dUmO_JNus4aFuCV0VR/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "”අද වෙස්සන්තර රාජ පුතා\" යන නාට්‍ය ගීතයේ පද රචනය කරනු ලැබුවේ,",
+        "choices": [
+            "සුනිල්‌ ශාන්ත මහතා විසිනි.",
+            "නීතීඥ ජෝන්ද සිල්වා මහතා විසිනි.",
+            "මර්සලින්‌ ජයකොඩි පියතුමා විසිනි.",
+            "හර්ෂණ දිසානායක මහතා විසිනි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RbtF2mQCIpnYK0dUmO_JNus4aFuCV0VR/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "පංචතූර්ය වර්ගීකරණයේ 'විතතාතත' වර්ගයට අයත්‌ වාද්‍ය භාණ්ඩයකි,",
+        "choices": [
+            "ගැට බෙරය",
+            "තම්මැට්ටම",
+            "දවුල",
+            "උඩැක්කිය"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RbtF2mQCIpnYK0dUmO_JNus4aFuCV0VR/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "සබරගමු නර්තන සම්ප්‍රදායේ පා සරඹ සඳහා හාචිතා කරනු ලබන නාමය වන්නේ,",
+        "choices": [
+            "පා සරඹ",
+            "දොඹින පද",
+            "මණ්ඩි පද",
+            "ඉලංගම්‌ සරඹ"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ScHmCcJKS-wy9Iaq8_YCvUauXTj9Bmhc/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "\"තත්‌, ජිත්‌, තොං, නං\" උඩරට නර්තන සම්ප්‍රදායේ,",
+        "choices": [
+            "කස්තිරමක්‌ වේ.",
+            "සකර බීජාක්ෂර වේ.",
+            "අඩව්වක්‌ වේ.",
+            "හමාර පදයක්‌ වේ."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ScHmCcJKS-wy9Iaq8_YCvUauXTj9Bmhc/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "වෛරොඩි වන්නමට අදාළ බෙර පදය වන්නේ,",
+        "choices": [
+            "කුද ගත ගත දොමී",
+            "ජිං ජිං ගත කුද",
+            "දොං ජිංත ගත දොංත",
+            "ජිං ගත ගො ගො"
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ScHmCcJKS-wy9Iaq8_YCvUauXTj9Bmhc/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "නම්‍යතා අභ්‍යාසය කිරීම මඟින්‌ වර්ධනය කරගත හැක්කේ,",
+        "choices": [
+            "නර්තන හැකියාව, ඇතිකර ගැනීමයි.",
+            "රස වින්දනය ඇති කිරීමයි.",
+            "ගායනය කිරීමට හැකිවීමයි.",
+            "ශරීරයේ ස්ථුලතාවය පාලනය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ScHmCcJKS-wy9Iaq8_YCvUauXTj9Bmhc/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "\"සූරිය කුල ඇති හිරු දෙවියන්‌ නේ\" මෙය,",
+        "choices": [
+            "ලී කෙළි කවියකි.",
+            "පතුරු කවියකි.",
+            "සවරං කවියකි.",
+            "කළගෙඩි කවියකි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ScHmCcJKS-wy9Iaq8_YCvUauXTj9Bmhc/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "හය' නැමති ස්ථායි භාවය මතු නොවන අවස්ථාවකි,",
+        "choices": [
+            "භයානක සත්වයෙකු දැකීම.",
+            "සමීපතම මිතුරෙකු හමුවීම.",
+            "රිය අනතුරක්‌ දැකීම.",
+            "මිනිස්‌ ගැටුමක්‌ දැකීම."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/102iOrr5P6hGRYa1XzeichVWtquG3t5YE/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "\"ලොව සෙත්‌ කරවන පත්තිනි සඳිනේ” යන කවිය අයත්‌ ගැම්‌ නැටුම වන්නේ,",
+        "choices": [
+            "ගොයම්‌ නැටුම යි.",
+            "සවරං නැටුම යි.",
+            "පතුරු නැටුම යි.",
+            "ලී කෙළි නැටුම යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/102iOrr5P6hGRYa1XzeichVWtquG3t5YE/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "මහ තනි තිතට අයත්‌ තාල රූපය වන්නේ,",
+        "choices": [
+            "මාත්‍රා 2 + 2 තාල රූපය යි.",
+            "මාත්‍රා 3 + 3 තාල රූපය යි.",
+            "මාත්‍රා 4 + 4 තාල රූපය යි.",
+            "මාත්‍රා 2 + 3 තාල රූපය යි."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/102iOrr5P6hGRYa1XzeichVWtquG3t5YE/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Dancing",
+        "category": "Humanities",
+        "question": "වෛරොඩි වන්නමට අයත්‌ කස්තිරමෙහි මුල්‌ පද කොටස,",
+        "choices": [
+            "රුඳ ගත ගත ගත කුකුඳත්‌ ය.",
+            "රුංතක ජිංතක තරිකිට කුංඳත්‌ ය.",
+            "කුඳ ගජත කුඳ තා ය.",
+            "තජ්ජිත්‌ තොංනං තා ය."
+        ],
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/102iOrr5P6hGRYa1XzeichVWtquG3t5YE/view?usp=drive_link"
+        }
+    }
+]

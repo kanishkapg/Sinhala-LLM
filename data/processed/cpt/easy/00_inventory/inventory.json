@@ -1,0 +1,4600 @@
+[
+  {
+    "book_id": "art_g6_si",
+    "file": "data/raw/g6/art g-6 S.pdf",
+    "subject": "Art",
+    "subject_si": "චිත්‍ර කලාව",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 47,
+    "low_text_pages": [
+      32
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMMalithi": {
+        "chars": 47706,
+        "action": "convert",
+        "sample": "p1: i"
+      },
+      "TT15FCO00": {
+        "chars": 684,
+        "action": "convert",
+        "sample": "p8: Ñ;% l,dj 6 fY%aKsh - w;sf¾l lshúï fmd;"
+      },
+      "TimesNewRoman": {
+        "chars": 623,
+        "action": "keep",
+        "sample": "p1: www.nie.lk"
+      },
+      "TT23F0O00": {
+        "chars": 456,
+        "action": "convert",
+        "sample": "p36: Ñ;% l,dj 6 fYa%Ksh - w;sf¾l lshúï fmd;"
+      },
+      "TT1CFDO00": {
+        "chars": 380,
+        "action": "convert",
+        "sample": "p26: Ñ;% l,dj 6 fYa%Ksh - w;sf¾l lshùï fmd;"
+      },
+      "TT2B4BO00": {
+        "chars": 266,
+        "action": "convert",
+        "sample": "p1: Ñ;% l,dj 6 fY%aKsh - w;sf¾l lshúï fmd;"
+      },
+      "FMAbabld": {
+        "chars": 261,
+        "action": "convert",
+        "sample": "p2: fjí wvúh"
+      },
+      "FMAbhaya": {
+        "chars": 96,
+        "action": "convert",
+        "sample": "p24: miqìu"
+      },
+      "FMSamantha": {
+        "chars": 58,
+        "action": "convert",
+        "sample": "p5: ye¢kaùu"
+      },
+      "Arial": {
+        "chars": 15,
+        "action": "keep",
+        "sample": "p46: A -"
+      },
+      "FMGanganee": {
+        "chars": 8,
+        "action": "convert",
+        "sample": "p16: cSù"
+      },
+      "FMBindumathi": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "buddhism_g6_si",
+    "file": "data/raw/g6/buddhism g-6 S.pdf",
+    "subject": "Buddhism",
+    "subject_si": "බුද්ධ ධර්මය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 128,
+    "low_text_pages": [
+      4,
+      5,
+      8,
+      117,
+      126,
+      127,
+      128
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 105806,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbabldBold": {
+        "chars": 5441,
+        "action": "convert",
+        "sample": "p1: ish¨ u fm<fmd;a bf,lafg%dksla udOHfhka ,nd .ekSug"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 216,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMSamanthax": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p1: nqoaO O¾uh"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 17,
+        "action": "keep",
+        "sample": "p1: www.edupub.gov.lk"
+      },
+      "FMMalithix": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p7: ("
+      },
+      "SymbolMT": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p22: √"
+      },
+      "FMEmaneex": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "catholic_g6_si",
+    "file": "data/raw/g6/catholic g-6 S.pdf",
+    "subject": "Catholicism",
+    "subject_si": "කතෝලික ධර්මය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 136,
+    "low_text_pages": [
+      1,
+      3,
+      8,
+      134,
+      135
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 96042,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbabldBold": {
+        "chars": 7213,
+        "action": "convert",
+        "sample": "p2: m<uq jk uqøKh"
+      },
+      "FMDeranax": {
+        "chars": 2868,
+        "action": "convert",
+        "sample": "p14: Ôú;hg ì|la"
+      },
+      "FMAbhayax": {
+        "chars": 1616,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "FMGanganeex": {
+        "chars": 571,
+        "action": "convert",
+        "sample": "p11: 1     Y=oaO  nhsn,h"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 429,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMEmaneex": {
+        "chars": 290,
+        "action": "convert",
+        "sample": "p1: lf;da,sl O¾uh"
+      },
+      "Wingdings-Regular": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p76: "
+      }
+    }
+  },
+  {
+    "book_id": "christianism_g6_si",
+    "file": "data/raw/g6/christianism g-6 S.pdf",
+    "subject": "Christianity",
+    "subject_si": "ක්‍රිස්තියානි ධර්මය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 110,
+    "low_text_pages": [
+      1,
+      3,
+      4,
+      8,
+      10,
+      110
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 80283,
+        "action": "convert",
+        "sample": "p5: fm<fmd; úfgl oekqï fldaIaGd.drhls' th ;j;a úfgl wm"
+      },
+      "SARAWIPULA": {
+        "chars": 11988,
+        "action": "convert",
+        "sample": "p11: lshjd n,uq"
+      },
+      "FMAbabldBold": {
+        "chars": 7160,
+        "action": "convert",
+        "sample": "p1: l%sia;shdks O¾uh"
+      },
+      "FMDeranax": {
+        "chars": 4025,
+        "action": "convert",
+        "sample": "p23: ieu flkl= u wdorfhka /l"
+      },
+      "FMSLRAbhayax": {
+        "chars": 1251,
+        "action": "convert",
+        "sample": "p6: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMGanganeex": {
+        "chars": 561,
+        "action": "convert",
+        "sample": "p11: 1'"
+      },
+      "FMMaduriThin": {
+        "chars": 395,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 141,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FS-Chami.": {
+        "chars": 69,
+        "action": "convert",
+        "sample": "p68: cq"
+      },
+      "MonotypeSorts": {
+        "chars": 46,
+        "action": "drop",
+        "sample": "p23: v"
+      },
+      "ArialMT": {
+        "chars": 21,
+        "action": "keep",
+        "sample": "p6: -"
+      },
+      "FMBasurux": {
+        "chars": 18,
+        "action": "convert",
+        "sample": "p32: a"
+      },
+      "FMEmaneex": {
+        "chars": 8,
+        "action": "convert",
+        "sample": "p40: Ôjudk yv"
+      },
+      "SymbolMT": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p52: ·"
+      },
+      "ZWAdobeF": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "civic_g6_si",
+    "file": "data/raw/g6/civic g-6 S.pdf",
+    "subject": "Civics",
+    "subject_si": "පුරවැසි අධ්‍යාපනය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 116,
+    "low_text_pages": [
+      1,
+      4,
+      8,
+      9,
+      10,
+      64,
+      116
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 84326,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbabldBold": {
+        "chars": 11986,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "FMAbhayax": {
+        "chars": 1476,
+        "action": "convert",
+        "sample": "p5: oshqKqfõ ysKsfm; lrd .uka lrkd j;auka f,djg\" ks;e;"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 370,
+        "action": "keep",
+        "sample": "p38: School Culture"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 321,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMBasurux": {
+        "chars": 208,
+        "action": "convert",
+        "sample": "p19: mdi,a ixúOdk"
+      },
+      "MinionPro-Bold": {
+        "chars": 152,
+        "action": "keep",
+        "sample": "p2: Published by"
+      },
+      "Wingdings-Regular": {
+        "chars": 104,
+        "action": "drop",
+        "sample": "p15: "
+      },
+      "FMGanganeex": {
+        "chars": 97,
+        "action": "convert",
+        "sample": "p9: wm cSj;ajk m%foaYh"
+      },
+      "FMSamanthax": {
+        "chars": 43,
+        "action": "convert",
+        "sample": "p1: mqrjeis wOHdmkh"
+      },
+      "ArialMT": {
+        "chars": 31,
+        "action": "keep",
+        "sample": "p2: ISBN 978 - 955 - 25 - 0260 - 6"
+      },
+      "SymbolMT": {
+        "chars": 14,
+        "action": "keep",
+        "sample": "p16: →"
+      },
+      "FMEmaneex": {
+        "chars": 9,
+        "action": "convert",
+        "sample": "p11: wfma mdi,"
+      },
+      "FMSamanthaBoldx": {
+        "chars": 8,
+        "action": "convert",
+        "sample": "p18: ³"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 7,
+        "action": "keep",
+        "sample": "p28: 1"
+      },
+      "Algerian": {
+        "chars": 6,
+        "action": "keep",
+        "sample": "p11: 01"
+      },
+      "MinionPro-Regular": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p7: II"
+      },
+      "Wingdings2": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p21: "
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMAbhaya-Bold": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "Wingdings3": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "dancing_g6_si",
+    "file": "data/raw/g6/dancing g-6 S.pdf",
+    "subject": "Dancing",
+    "subject_si": "නර්තනය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 87,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 78031,
+        "action": "convert",
+        "sample": "p2: cd;sl wOHdmk wdh;kh"
+      },
+      "FMAbabldBold": {
+        "chars": 4740,
+        "action": "convert",
+        "sample": "p1: k¾;kh 6 fYa%Ksh - w;sf¾l lshùï fmd;"
+      },
+      "FMSamanthax": {
+        "chars": 3993,
+        "action": "convert",
+        "sample": "p1: k¾;kh"
+      },
+      "TimesNewRoman": {
+        "chars": 454,
+        "action": "keep",
+        "sample": "p1: www.nie.lk"
+      },
+      "FMEmaneex": {
+        "chars": 5,
+        "action": "convert",
+        "sample": "p2: k¾;kh"
+      },
+      "Symbol": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p23: "
+      },
+      "TimesNewRomanItalic": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p30: +"
+      },
+      "Calibri": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p74: ×"
+      },
+      "Wingdings": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p57: "
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMBindumathix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g6_p1_si",
+    "file": "data/raw/g6/drama g-6 p-I S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 6,
+    "part": "p1",
+    "medium": "si",
+    "pages": 24,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 46958,
+        "action": "convert",
+        "sample": "p2: ³ ckl;d mdrïmßl ixialD;sl odhdohka fõ' tkï\" fïjd r"
+      },
+      "FMAbabld": {
+        "chars": 1780,
+        "action": "convert",
+        "sample": "p1: 1 mdvu ( ckl;d Yío k.d lshjuq'"
+      },
+      "FMAbhayax": {
+        "chars": 1203,
+        "action": "convert",
+        "sample": "p13: 01' ixjdo lshùfï § yeÕSï m%ldYlrk wdldr folla ,shk"
+      },
+      "SARA-SIRI": {
+        "chars": 755,
+        "action": "convert",
+        "sample": "p1: 01' kdgH yd rx. l,dj ms<sn`o isoaOdka; wOHhkh lsÍu"
+      },
+      "Su_MADURA2": {
+        "chars": 427,
+        "action": "convert",
+        "sample": "p7: mdhkd ldf, § - ? oj,a uykais ù - lkak foa /ia lrhs"
+      },
+      "SARA-RAMANEE": {
+        "chars": 384,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "SA-Nimali": {
+        "chars": 264,
+        "action": "convert",
+        "sample": "p1: ^m<uq jdrh&"
+      },
+      "SARA-KALANEE": {
+        "chars": 242,
+        "action": "convert",
+        "sample": "p1: 06 fYa%Ksh"
+      },
+      "Century725BlkBT": {
+        "chars": 192,
+        "action": "keep",
+        "sample": "p1: Grade 06"
+      },
+      "FMBindumathi": {
+        "chars": 172,
+        "action": "convert",
+        "sample": "p22: fuu m%iak m;%fha"
+      },
+      "FMAbabldBold": {
+        "chars": 122,
+        "action": "convert",
+        "sample": "p6: mejreu"
+      },
+      "NelumPC": {
+        "chars": 91,
+        "action": "convert",
+        "sample": "p11: laIKsl ksrEmKhla hkq l=ula o@"
+      },
+      "apex-a.pura-010": {
+        "chars": 49,
+        "action": "convert",
+        "sample": "p1: m<uq jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "Calibri": {
+        "chars": 41,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "TimesNewRoman": {
+        "chars": 38,
+        "action": "keep",
+        "sample": "p22: I"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "SARA-MAHEE": {
+        "chars": 10,
+        "action": "convert",
+        "sample": "p1: Ys%"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "Symbol": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p22: "
+      },
+      "apex-a.pura-008": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p15: æ"
+      },
+      "CourierNew": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "Arial": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "FMMalithi": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g6_p2_si",
+    "file": "data/raw/g6/drama g-6 p-II S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 6,
+    "part": "p2",
+    "medium": "si",
+    "pages": 21,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 38797,
+        "action": "convert",
+        "sample": "p2: iudcfha úúO ñksiqka uqK.efia' úúO ;rd;srïj, ksr; j"
+      },
+      "FMAbabld": {
+        "chars": 2121,
+        "action": "convert",
+        "sample": "p1: 1 mdvu ( ñksiqka wkqlrKh lruq'"
+      },
+      "SARA-PUNCHI": {
+        "chars": 483,
+        "action": "convert",
+        "sample": "p2: 1 mdvu ("
+      },
+      "SARA-RAMANEE": {
+        "chars": 336,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "FMAbhayax": {
+        "chars": 321,
+        "action": "convert",
+        "sample": "p3: i;a;aj pß;j, úfYaI ,laIK yd bßhõ y÷kd .; yelsh'"
+      },
+      "SARA-SIRI": {
+        "chars": 278,
+        "action": "convert",
+        "sample": "p1: 01' kdgH yd rx. l,dj ms<sn`o isoaOdka; wOHhkh lsÍu"
+      },
+      "FMAbabldBold": {
+        "chars": 245,
+        "action": "convert",
+        "sample": "p8: udkqI yd wêudkqI pß; hkq fudkjd o@"
+      },
+      "SA-Nimali": {
+        "chars": 231,
+        "action": "convert",
+        "sample": "p1: ^fojk jdrh&"
+      },
+      "Century725BlkBT": {
+        "chars": 168,
+        "action": "keep",
+        "sample": "p1: Grade 06"
+      },
+      "TimesNewRoman": {
+        "chars": 124,
+        "action": "keep",
+        "sample": "p3: i."
+      },
+      "apex-a.pura-010": {
+        "chars": 94,
+        "action": "convert",
+        "sample": "p1: fojk jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "Calibri": {
+        "chars": 34,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "SARA-KALANEE": {
+        "chars": 20,
+        "action": "convert",
+        "sample": "p1: 06 fYa%Ksh"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "FMBindumathi": {
+        "chars": 15,
+        "action": "convert",
+        "sample": "p21: 01'"
+      },
+      "SARA-MAHEE": {
+        "chars": 10,
+        "action": "convert",
+        "sample": "p1: Ys%"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "Symbol": {
+        "chars": 5,
+        "action": "keep",
+        "sample": "p20: "
+      },
+      "Arial": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p20: √"
+      },
+      "CourierNew": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "apex-a.pura-008": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMMalithi": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "geo_g6_si",
+    "file": "data/raw/g6/geo g-6 S.pdf",
+    "subject": "Geography",
+    "subject_si": "භූගෝල විද්‍යාව",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 72,
+    "low_text_pages": [
+      5,
+      8,
+      40,
+      69,
+      70
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 35908,
+        "action": "convert",
+        "sample": "p11: mdi, msysá .u fyda k.rh"
+      },
+      "FMAbabldBold": {
+        "chars": 5957,
+        "action": "convert",
+        "sample": "p2: m<uqjk uqøKh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 3029,
+        "action": "keep",
+        "sample": "p1: www.edupub.gov.lk"
+      },
+      "FMAbhaya": {
+        "chars": 2404,
+        "action": "convert",
+        "sample": "p1: ish¨ u fm<fmd;a bf,lafg%dksla udOHfhka ,nd .ekSug"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 907,
+        "action": "drop",
+        "sample": "p30: Aø©Âh®"
+      },
+      "FMSamanthax": {
+        "chars": 397,
+        "action": "convert",
+        "sample": "p1: 6 fY%a‚h"
+      },
+      "FMEmaneex": {
+        "chars": 195,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 187,
+        "action": "keep",
+        "sample": "p16: Direction)"
+      },
+      "MinionPro-Regular": {
+        "chars": 136,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "SHREE-TAM7-1316": {
+        "chars": 109,
+        "action": "drop",
+        "sample": "p4: Aµ]ß öÁS©v¯õ´ ¡¼uøÚ¨"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 35,
+        "action": "keep",
+        "sample": "p71: http://en.wikipedia.org /21/07/2014"
+      },
+      "Algerian": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "SymbolMT": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p33: √"
+      },
+      "BaskOldFace": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p11: »"
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "health_g6_si",
+    "file": "data/raw/g6/health g-6 S.pdf",
+    "subject": "Health",
+    "subject_si": "සෞඛ්‍ය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 158,
+    "low_text_pages": [
+      1,
+      3,
+      10
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 116472,
+        "action": "convert",
+        "sample": "p11: i÷ks iy puß tl u mka;sfha bf.k"
+      },
+      "FMAbhaya": {
+        "chars": 5744,
+        "action": "convert",
+        "sample": "p1: fi!LHh"
+      },
+      "FMSamanthax": {
+        "chars": 5613,
+        "action": "convert",
+        "sample": "p5: fmrjok"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 3898,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMAbabldBold": {
+        "chars": 3739,
+        "action": "convert",
+        "sample": "p6: kshdukh yd wëlaIKh"
+      },
+      "0KDBOLIDDAbold": {
+        "chars": 714,
+        "action": "convert",
+        "sample": "p14: yels±hs n,uq"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 672,
+        "action": "drop",
+        "sample": "p157: Ti¯ {øÓ"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 143,
+        "action": "keep",
+        "sample": "p11: (Concept of health)"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 20,
+        "action": "keep",
+        "sample": "p79: x"
+      },
+      "Wingdings3": {
+        "chars": 13,
+        "action": "drop",
+        "sample": "p69: "
+      },
+      "Webdings": {
+        "chars": 3,
+        "action": "drop",
+        "sample": "p71: "
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p111: m"
+      },
+      "MinionPro-Regular": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p124: 1"
+      },
+      "Wingdings-Regular": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p106: "
+      },
+      "Wingdings2": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "history_g6_si",
+    "file": "data/raw/g6/history g-6 S.pdf",
+    "subject": "History",
+    "subject_si": "ඉතිහාසය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 68,
+    "low_text_pages": [
+      1,
+      10,
+      68
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 75768,
+        "action": "convert",
+        "sample": "p6: f,dalfha wd¾Ól\" iudÔh\" ixialD;sl yd ;dlaI‚l ixj¾Ok"
+      },
+      "FMAbabldBold": {
+        "chars": 2870,
+        "action": "convert",
+        "sample": "p1: b;sydih"
+      },
+      "F2": {
+        "chars": 1974,
+        "action": "convert",
+        "sample": "p5: .re wOHdmk wud;H;=udf.a m‚jqvh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 892,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMGanganeex": {
+        "chars": 330,
+        "action": "convert",
+        "sample": "p13: l"
+      },
+      "NCNitusha": {
+        "chars": 267,
+        "action": "drop",
+        "sample": "p67: midj;Jg; ghlrhiy khztu;fSk; ,ytrkhff;"
+      },
+      "TAM-Tamil003": {
+        "chars": 211,
+        "action": "drop",
+        "sample": "p67: ¬õˆFòê£¬ôJ™ ÜÂñF‚èŠð´‹«ð£¶ õ¼ìˆFŸ° 200,000 Ïð£Œ è£"
+      },
+      "Calibri": {
+        "chars": 119,
+        "action": "keep",
+        "sample": "p11: ."
+      },
+      "MinionPro-Regular": {
+        "chars": 119,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "SHREE-TAM7-1316": {
+        "chars": 109,
+        "action": "drop",
+        "sample": "p4: Aµ]ß öÁS©v¯õ´ ¡¼uøÚ¨"
+      },
+      "FMBasurux": {
+        "chars": 86,
+        "action": "convert",
+        "sample": "p67: ieu mdi,a orejl= u fkdñf,a"
+      },
+      "FMAbabld": {
+        "chars": 32,
+        "action": "convert",
+        "sample": "p6: fmrjok"
+      },
+      "Arial-BoldMT": {
+        "chars": 27,
+        "action": "keep",
+        "sample": "p9: www.e-thaksalawa.moe.gov.lk"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 5,
+        "action": "keep",
+        "sample": "p9: ."
+      },
+      "FMSamanthax": {
+        "chars": 4,
+        "action": "convert",
+        "sample": "p9: g'''"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p32: ."
+      },
+      "TrebuchetMS": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p53: -"
+      },
+      "F1": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "F3": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "islam_g6_si",
+    "file": "data/raw/g6/islam g-6 S.pdf",
+    "subject": "Islam",
+    "subject_si": "ඉස්ලාම් ධර්මය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 120,
+    "low_text_pages": [
+      1,
+      3,
+      8
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 110825,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbabldBold": {
+        "chars": 2274,
+        "action": "convert",
+        "sample": "p4: wdkkao iurfldaka"
+      },
+      "ArabicTypesetting": {
+        "chars": 1166,
+        "action": "drop",
+        "sample": "p36: يكَ لَِ لَ شُدَهْحَ وُّ لَاإلَ اإلَّ اللْ"
+      },
+      "Calibri": {
+        "chars": 222,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 146,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMSLRBasurux": {
+        "chars": 121,
+        "action": "convert",
+        "sample": "p51: udf.a"
+      },
+      "Impact": {
+        "chars": 49,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "FMSamanthax": {
+        "chars": 24,
+        "action": "convert",
+        "sample": "p34: kÔia j¾."
+      },
+      "FMEmaneex": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p1: bia,dï O¾uh"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 2,
+        "action": "drop",
+        "sample": "p39: \""
+      },
+      "Wingdings2": {
+        "chars": 2,
+        "action": "drop",
+        "sample": "p85: "
+      },
+      "SymbolMT": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p120: √"
+      }
+    }
+  },
+  {
+    "book_id": "music_g6_si",
+    "file": "data/raw/g6/music g-6 S.pdf",
+    "subject": "Eastern Music",
+    "subject_si": "පෙරදිග සංගීතය",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 70,
+    "low_text_pages": [
+      38
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 73591,
+        "action": "convert",
+        "sample": "p2: cd;sl wOHdmk wdh;kh"
+      },
+      "TimesNewRoman": {
+        "chars": 3740,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMAbabldBold": {
+        "chars": 1352,
+        "action": "convert",
+        "sample": "p1: ^2015 j¾Ifha isg l%shd;aul fõ'&"
+      },
+      "Arial": {
+        "chars": 759,
+        "action": "keep",
+        "sample": "p20: •"
+      },
+      "FMSamanthax": {
+        "chars": 362,
+        "action": "convert",
+        "sample": "p4: ksfhdacH wOHlaI ckrd,af.a mKsúvh"
+      },
+      "TimesNewRomanBold": {
+        "chars": 255,
+        "action": "keep",
+        "sample": "p15: ."
+      },
+      "FMEmaneex": {
+        "chars": 55,
+        "action": "convert",
+        "sample": "p1: fmrÈ. ix.S;h"
+      },
+      "DL-Paras.": {
+        "chars": 29,
+        "action": "convert",
+        "sample": "p22: i   ß   .   u   m   O  ks   i"
+      },
+      "FootlightMTLight": {
+        "chars": 13,
+        "action": "keep",
+        "sample": "p47: ....."
+      },
+      "FMGanganeex": {
+        "chars": 9,
+        "action": "convert",
+        "sample": "p8: wNHdih 01"
+      },
+      "Symbol": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p24: "
+      },
+      "FranklinGothicBook": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p47: ."
+      },
+      "FixedMiriamTransparent": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p47: ."
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMBindumathix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "Calibri": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "CalibriBold": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "science_g6_si",
+    "file": "data/raw/g6/science g-6 S.pdf",
+    "subject": "Science",
+    "subject_si": "විද්‍යාව",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 184,
+    "low_text_pages": [
+      1,
+      3
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 124585,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMMalithix": {
+        "chars": 15295,
+        "action": "convert",
+        "sample": "p13: úoHdj"
+      },
+      "FMAbabldBold": {
+        "chars": 7177,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbhaya": {
+        "chars": 7005,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh"
+      },
+      "FMEmaneex": {
+        "chars": 4451,
+        "action": "convert",
+        "sample": "p13: l%shdldrlu 1'1"
+      },
+      "AGaramondPro-Regular": {
+        "chars": 1893,
+        "action": "keep",
+        "sample": "p35: (mass)"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 945,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0257-6"
+      },
+      "MyriadPro-Regular": {
+        "chars": 663,
+        "action": "keep",
+        "sample": "p13: |"
+      },
+      "FMSamanthax": {
+        "chars": 264,
+        "action": "convert",
+        "sample": "p12: úÿ f,djg msúfiuq'''"
+      },
+      "MinionPro-Regular": {
+        "chars": 180,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Times-Roman": {
+        "chars": 140,
+        "action": "keep",
+        "sample": "p97: sound"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 109,
+        "action": "keep",
+        "sample": "p14: (growth)"
+      },
+      "AGaramondPro-Bold": {
+        "chars": 103,
+        "action": "keep",
+        "sample": "p35: (matter)"
+      },
+      "Wingdings-Regular": {
+        "chars": 92,
+        "action": "drop",
+        "sample": "p19: y"
+      },
+      "FMSLRAbhayax": {
+        "chars": 59,
+        "action": "convert",
+        "sample": "p171: ck"
+      },
+      "FMGanganeex": {
+        "chars": 41,
+        "action": "convert",
+        "sample": "p1: úoHdj"
+      },
+      "MyriadPro-Bold": {
+        "chars": 33,
+        "action": "keep",
+        "sample": "p13: 01"
+      },
+      "Calibri": {
+        "chars": 24,
+        "action": "keep",
+        "sample": "p172: 32.5"
+      },
+      "Calibri-Bold": {
+        "chars": 24,
+        "action": "keep",
+        "sample": "p171: 0"
+      },
+      "IskoolaPota": {
+        "chars": 22,
+        "action": "keep",
+        "sample": "p131: අතර"
+      },
+      "ArialMT": {
+        "chars": 14,
+        "action": "keep",
+        "sample": "p173: 35"
+      },
+      "Wingdings2": {
+        "chars": 4,
+        "action": "drop",
+        "sample": "p108: "
+      },
+      "MyriadPro-Semibold": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p129: A"
+      },
+      "Times-Bold": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p171: mm"
+      },
+      "FMAbhaya-Bold": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p171: /"
+      }
+    }
+  },
+  {
+    "book_id": "sinhala_g6_si",
+    "file": "data/raw/g6/sinhala g-6 S.pdf",
+    "subject": "Sinhala",
+    "subject_si": "සිංහල",
+    "grade": 6,
+    "part": "",
+    "medium": "si",
+    "pages": 152,
+    "low_text_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 132484,
+        "action": "convert",
+        "sample": "p11: fkdñf,a fnod yeÍu i|yd h'"
+      },
+      "FMAbabldBold": {
+        "chars": 21663,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "FMEmaneex": {
+        "chars": 2912,
+        "action": "convert",
+        "sample": "p9: mgqk"
+      },
+      "FMAbhaya": {
+        "chars": 1191,
+        "action": "convert",
+        "sample": "p1: isxy,"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 909,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0254-5"
+      },
+      "MinionPro-Regular": {
+        "chars": 221,
+        "action": "keep",
+        "sample": "p1: ."
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 51,
+        "action": "keep",
+        "sample": "p11: ‘"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 31,
+        "action": "keep",
+        "sample": "p21: Vanished Trails"
+      },
+      "Wingdings2": {
+        "chars": 19,
+        "action": "drop",
+        "sample": "p47: "
+      },
+      "Wingdings-Regular": {
+        "chars": 7,
+        "action": "drop",
+        "sample": "p35: "
+      },
+      "IskoolaPota": {
+        "chars": 7,
+        "action": "keep",
+        "sample": "p87: ව"
+      },
+      "FMMalithix": {
+        "chars": 6,
+        "action": "convert",
+        "sample": "p59: ilialv"
+      },
+      "Baamini-Plain": {
+        "chars": 3,
+        "action": "drop",
+        "sample": "p17: \\"
+      },
+      "Wingdings3": {
+        "chars": 3,
+        "action": "drop",
+        "sample": "p82: "
+      },
+      "FMSamanthax": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "AmSamanthaNormal": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMAbhaya-Bold": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "art_g7_si",
+    "file": "data/raw/g7/art g-7 S.pdf",
+    "subject": "Art",
+    "subject_si": "චිත්‍ර කලාව",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 54,
+    "low_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "scanned": true,
+    "fonts": {}
+  },
+  {
+    "book_id": "buddhism_g7_si",
+    "file": "data/raw/g7/buddhism g-7 S.pdf",
+    "subject": "Buddhism",
+    "subject_si": "බුද්ධ ධර්මය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 168,
+    "low_text_pages": [
+      1,
+      5,
+      8,
+      9,
+      10,
+      95
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 168048,
+        "action": "convert",
+        "sample": "p2: ish¨ ysñlï weúßKs"
+      },
+      "FMAbabldBold": {
+        "chars": 5595,
+        "action": "convert",
+        "sample": "p1: nqoaO O¾uh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 530,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "HoboStd": {
+        "chars": 42,
+        "action": "keep",
+        "sample": "p11: 01"
+      },
+      "FM-ABILIC": {
+        "chars": 39,
+        "action": "convert",
+        "sample": "p150: fmdf<dkakrej jgodf.h"
+      },
+      "AaAnita": {
+        "chars": 26,
+        "action": "convert",
+        "sample": "p130: i."
+      },
+      "TimesNewRomanPSMT-SC700": {
+        "chars": 6,
+        "action": "keep",
+        "sample": "p159: 4"
+      },
+      "Wingdings-Regular": {
+        "chars": 5,
+        "action": "drop",
+        "sample": "p38: "
+      },
+      "FMMalithix": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p7: ("
+      }
+    }
+  },
+  {
+    "book_id": "catholic_g7_si",
+    "file": "data/raw/g7/catholic g-7 S.pdf",
+    "subject": "Catholicism",
+    "subject_si": "කතෝලික ධර්මය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 110,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 93301,
+        "action": "convert",
+        "sample": "p1: lkakdähla iQ¾h wdf,dalhg w,a,d wjYH ;ekg tu wdf,da"
+      },
+      "FMAbabldBold": {
+        "chars": 3184,
+        "action": "convert",
+        "sample": "p3: ;=kla"
+      },
+      "FMDeranax": {
+        "chars": 1857,
+        "action": "convert",
+        "sample": "p3: Tfí jpkfhka\" l%shdfjka yd wdo¾Yfhka hq.fha"
+      },
+      "FMGanganeex": {
+        "chars": 455,
+        "action": "convert",
+        "sample": "p1: bY%dfh,a  Èjeisjre"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 270,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "Helabasa": {
+        "chars": 41,
+        "action": "convert",
+        "sample": "p1: 1"
+      },
+      "Calibri": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "christianism_g7_si",
+    "file": "data/raw/g7/christianism g-7 S.pdf",
+    "subject": "Christianity",
+    "subject_si": "ක්‍රිස්තියානි ධර්මය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 94,
+    "low_text_pages": [
+      1,
+      3,
+      8,
+      10
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMSLRAbhayax": {
+        "chars": 72698,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "SARAWIPULA": {
+        "chars": 8615,
+        "action": "convert",
+        "sample": "p11: —foú iñ|dKka jykafia"
+      },
+      "FMEconbldBold": {
+        "chars": 3468,
+        "action": "convert",
+        "sample": "p1: l%sia;shdks O"
+      },
+      "FMAbhayax": {
+        "chars": 1643,
+        "action": "convert",
+        "sample": "p2: f;jk uqøKh    2018"
+      },
+      "FMDeranax": {
+        "chars": 1444,
+        "action": "convert",
+        "sample": "p51: ms%h ñ;=r\""
+      },
+      "FMGanganeex": {
+        "chars": 1194,
+        "action": "convert",
+        "sample": "p11: W;am;a;s 2(7-8\" Y=' uf;õ 6(25-34\" 18(6"
+      },
+      "FMAbabldBold": {
+        "chars": 520,
+        "action": "convert",
+        "sample": "p1: ¾"
+      },
+      "FMEmaneex": {
+        "chars": 275,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 196,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0267-5"
+      },
+      "MonotypeSorts": {
+        "chars": 194,
+        "action": "drop",
+        "sample": "p13: k"
+      },
+      "Calibri": {
+        "chars": 60,
+        "action": "keep",
+        "sample": "p86: Ceylon Bible Society"
+      },
+      "ArialMT": {
+        "chars": 44,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMBasurux": {
+        "chars": 43,
+        "action": "convert",
+        "sample": "p19: pl%dldr foaj ksuejqï"
+      },
+      "FreedomExtendedNormal": {
+        "chars": 33,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "ACaslonPro-Bold": {
+        "chars": 22,
+        "action": "keep",
+        "sample": "p14: 1."
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p81: “"
+      },
+      "KozGoPro-Bold": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p46: \u0001"
+      },
+      "FMBindumathix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "civic_g7_si",
+    "file": "data/raw/g7/civic g-7 S.pdf",
+    "subject": "Civics",
+    "subject_si": "පුරවැසි අධ්‍යාපනය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 120,
+    "low_text_pages": [
+      1,
+      4,
+      5,
+      7,
+      8,
+      85,
+      86
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 88379,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh"
+      },
+      "FMAbabldBold": {
+        "chars": 9129,
+        "action": "convert",
+        "sample": "p2: ish¨ ysñlï weúßKs'"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 646,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0276-7"
+      },
+      "Wingdings2": {
+        "chars": 310,
+        "action": "drop",
+        "sample": "p11: "
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 228,
+        "action": "keep",
+        "sample": "p9: 1"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 118,
+        "action": "keep",
+        "sample": "p17: I"
+      },
+      "FMSamanthax": {
+        "chars": 71,
+        "action": "convert",
+        "sample": "p7: 1 -   ¡\t- 45"
+      },
+      "FMEmaneex": {
+        "chars": 52,
+        "action": "convert",
+        "sample": "p1: mqrjeis wOHdmkh"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 28,
+        "action": "keep",
+        "sample": "p111: Mesua"
+      },
+      "Tharmini-Plain": {
+        "chars": 19,
+        "action": "drop",
+        "sample": "p112: ehf kuk;"
+      },
+      "MinionPro-Regular": {
+        "chars": 13,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Wingdings3": {
+        "chars": 3,
+        "action": "drop",
+        "sample": "p75: "
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "Calibri": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "dancing_g7_si",
+    "file": "data/raw/g7/dancing g-7 S.pdf",
+    "subject": "Dancing",
+    "subject_si": "නර්තනය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 67,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 61418,
+        "action": "convert",
+        "sample": "p2: ^2016 isg l%shd;aul fõ&"
+      },
+      "FMSamanthax": {
+        "chars": 4201,
+        "action": "convert",
+        "sample": "p1: k¾;kh"
+      },
+      "FMAbabldBold": {
+        "chars": 2797,
+        "action": "convert",
+        "sample": "p1: k¾;kh 7 fYa%Ksh - w;sf¾l lshùï fmd;"
+      },
+      "FMAbhaya#20x": {
+        "chars": 2166,
+        "action": "drop",
+        "sample": "p50: \u0001L"
+      },
+      "FMAbabld#20Bold": {
+        "chars": 358,
+        "action": "drop",
+        "sample": "p50: \u0001\u0002\u0003\u0001\u0004\u0005\u0006\u0005\u0007\b\t\n\u000b\f\u0004\u0005\r\u0005\u000e\u0003\f\u0007\u0002\u000f\u0005\u000f\f\u0004\u0010\u0011\u0005\u0007\u0012\u0013\u0003"
+      },
+      "TimesNewRoman": {
+        "chars": 312,
+        "action": "keep",
+        "sample": "p1: www.nie.lk"
+      },
+      "FMSamantha#20x": {
+        "chars": 197,
+        "action": "drop",
+        "sample": "p50: \u0016\u0003\u0017\n\u0010\u0018\u0002\u0019\u0013\u0006\u0004\u0003\u0006\u001a\u001b\u001c\u001d\u0006\u0017\u0019\u0010\u0017\t\u001e\u0006\u001f\u0003\t\u0017\t\u001e\u0006\u000e\u0003\u0011\u0017\t\u001e\u0006 \u0003\b\u0010!\u0006\"#\u0006\u001a\u0004"
+      },
+      "Times#20New#20Roman": {
+        "chars": 120,
+        "action": "keep",
+        "sample": "p50: \u0001"
+      },
+      "TimesNewRomanBold": {
+        "chars": 9,
+        "action": "keep",
+        "sample": "p23: +"
+      },
+      "FMEmaneex": {
+        "chars": 5,
+        "action": "convert",
+        "sample": "p2: k¾;kh"
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMBindumathix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "Calibri": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g7_p1_si",
+    "file": "data/raw/g7/drama g-7 p-I S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 7,
+    "part": "p1",
+    "medium": "si",
+    "pages": 20,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 29375,
+        "action": "convert",
+        "sample": "p2: <uqka f.a fi,a,ï f.j,a"
+      },
+      "FMAbabld": {
+        "chars": 2174,
+        "action": "convert",
+        "sample": "p1: 1' mdvu ("
+      },
+      "FMAbhayax": {
+        "chars": 1282,
+        "action": "convert",
+        "sample": "p2: ( -"
+      },
+      "SARA-SIRI": {
+        "chars": 690,
+        "action": "convert",
+        "sample": "p1: 01' kdgH yd rx. l,dj ms<sn`o isoaOdka; wOHhkh lsÍu"
+      },
+      "SARA-RAMANEE": {
+        "chars": 320,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "FMAbabldBold": {
+        "chars": 221,
+        "action": "convert",
+        "sample": "p2: mejreu"
+      },
+      "SA-Nimali": {
+        "chars": 220,
+        "action": "convert",
+        "sample": "p1: ^fojk jdrh&"
+      },
+      "Century725BlkBT": {
+        "chars": 160,
+        "action": "keep",
+        "sample": "p1: Grade 07"
+      },
+      "TimesNewRoman": {
+        "chars": 58,
+        "action": "keep",
+        "sample": "p4: Theatre"
+      },
+      "apex-a.pura-010": {
+        "chars": 49,
+        "action": "convert",
+        "sample": "p1: m<uq jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "Calibri": {
+        "chars": 31,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "SARA-KALANEE": {
+        "chars": 27,
+        "action": "convert",
+        "sample": "p1: 07 fYa%Ksh"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "SARA-PUNCHI": {
+        "chars": 12,
+        "action": "convert",
+        "sample": "p11: isß ix>fndaê"
+      },
+      "FMBindumathi": {
+        "chars": 12,
+        "action": "convert",
+        "sample": "p20: 02'"
+      },
+      "SARA-MAHEE": {
+        "chars": 10,
+        "action": "convert",
+        "sample": "p1: Ys%"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "Symbol": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p14: "
+      },
+      "IskoolaPota": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p16: A"
+      },
+      "Arial": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p19: √"
+      },
+      "FMMalithi": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g7_p2_si",
+    "file": "data/raw/g7/drama g-7 p-II S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 7,
+    "part": "p2",
+    "medium": "si",
+    "pages": 23,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 24550,
+        "action": "convert",
+        "sample": "p4: ñksiqka jk wmg wdfõksl yeisÍï rgdjla mj;S' tfuka u"
+      },
+      "FMAbhayax": {
+        "chars": 10350,
+        "action": "convert",
+        "sample": "p2: wmg yuqkk l,djka oDIH l,d udOH\" Y%jH l,d udOH yd ."
+      },
+      "IskoolaPota": {
+        "chars": 2449,
+        "action": "keep",
+        "sample": "p16: වගම"
+      },
+      "FMBindumathi": {
+        "chars": 1824,
+        "action": "convert",
+        "sample": "p13: hd¨fjda ud¿fjda hd¨fjda"
+      },
+      "FMAbabld": {
+        "chars": 1453,
+        "action": "convert",
+        "sample": "p1: 1 mdvu ( úoHq;a udOHfhka olsk fõÈld kdgH"
+      },
+      "SARA-SIRI": {
+        "chars": 544,
+        "action": "convert",
+        "sample": "p1: ^"
+      },
+      "SARA-RAMANEE": {
+        "chars": 368,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "FMAbabldBold": {
+        "chars": 306,
+        "action": "convert",
+        "sample": "p2: wNHdi ^ms<s;=re ,shkak& ("
+      },
+      "apex-a.pura-010": {
+        "chars": 280,
+        "action": "convert",
+        "sample": "p1: fojk jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "NPW-Kasun": {
+        "chars": 253,
+        "action": "convert",
+        "sample": "p1: ^fojk jdrh&"
+      },
+      "Century725BlkBT": {
+        "chars": 184,
+        "action": "keep",
+        "sample": "p1: Grade 07"
+      },
+      "SARA-SETH": {
+        "chars": 106,
+        "action": "convert",
+        "sample": "p18: rx. wNHdi hkq rx.kfha fh§ug fmr k¿fjl= úiska YdÍßl"
+      },
+      "SARA-PUNCHI": {
+        "chars": 48,
+        "action": "convert",
+        "sample": "p10: fõI"
+      },
+      "Calibri": {
+        "chars": 37,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "kaputadotcom": {
+        "chars": 33,
+        "action": "convert",
+        "sample": "p13: //"
+      },
+      "TimesNewRoman": {
+        "chars": 20,
+        "action": "keep",
+        "sample": "p2: animation"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "SARA-KALANEE": {
+        "chars": 11,
+        "action": "convert",
+        "sample": "p1: 07 fYa%Ksh"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "SARA-PRAMESHA": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p10: '"
+      },
+      "Wingdings": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p23: "
+      },
+      "Helvetica": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "Arial": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "geo_g7_si",
+    "file": "data/raw/g7/geo g-7 S.pdf",
+    "subject": "Geography",
+    "subject_si": "භූගෝල විද්‍යාව",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 84,
+    "low_text_pages": [
+      6,
+      10,
+      33,
+      35,
+      84
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 44428,
+        "action": "convert",
+        "sample": "p1: ish¨ u fm<fmd;a bf,lafg%dksla udOHfhka ,nd .ekSug"
+      },
+      "FMAbabldBold": {
+        "chars": 10640,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 2173,
+        "action": "keep",
+        "sample": "p2: ISBN     978-955-25-0580-5"
+      },
+      "FMEmaneex": {
+        "chars": 1691,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "SHREE-TAM7-0803": {
+        "chars": 1399,
+        "action": "drop",
+        "sample": "p21: ¦Â"
+      },
+      "FMMalithix": {
+        "chars": 860,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld ud;d"
+      },
+      "FMAbhaya": {
+        "chars": 478,
+        "action": "convert",
+        "sample": "p24: fmaÿre;=vqj"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 300,
+        "action": "keep",
+        "sample": "p13: 2015/07/10"
+      },
+      "MinionPro-Regular": {
+        "chars": 154,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "TimesNewRomanPS-BoldItal": {
+        "chars": 122,
+        "action": "keep",
+        "sample": "p13: https://www.google.lk"
+      },
+      "FMSamanthax": {
+        "chars": 64,
+        "action": "convert",
+        "sample": "p1: 7 fY%a‚h"
+      },
+      "FMSandhyaneex": {
+        "chars": 55,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "MyriadPro-Regular": {
+        "chars": 36,
+        "action": "keep",
+        "sample": "p24: 6"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 34,
+        "action": "keep",
+        "sample": "p26: (global.britannica.com 2015/03/13)"
+      },
+      "Helvetica-Bold": {
+        "chars": 17,
+        "action": "keep",
+        "sample": "p1: www.edupub.gov.lk"
+      },
+      "Helvetica": {
+        "chars": 11,
+        "action": "keep",
+        "sample": "p2: ©"
+      },
+      "FuturaBT-Bold": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p11: 01"
+      },
+      "Garamond": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p30: km"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 2,
+        "action": "drop",
+        "sample": "p55: /"
+      }
+    }
+  },
+  {
+    "book_id": "health_g7_si",
+    "file": "data/raw/g7/health g-7 S.pdf",
+    "subject": "Health",
+    "subject_si": "සෞඛ්‍ය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 183,
+    "low_text_pages": [
+      1,
+      3,
+      4,
+      6,
+      7,
+      8,
+      10
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 134339,
+        "action": "convert",
+        "sample": "p1: fi!LHh"
+      },
+      "FMAbabldBold": {
+        "chars": 5100,
+        "action": "convert",
+        "sample": "p7: ¡"
+      },
+      "FMSamanthax": {
+        "chars": 4309,
+        "action": "convert",
+        "sample": "p5: fmrjok"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 2346,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMAbhayax": {
+        "chars": 1656,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "0KDBOLIDDAbold": {
+        "chars": 1068,
+        "action": "convert",
+        "sample": "p16: yels±hs n,uq"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 741,
+        "action": "drop",
+        "sample": "p180: ¤øÇ¯õÚ öPõsoø»"
+      },
+      "Tahoma": {
+        "chars": 415,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "FMEmaneex": {
+        "chars": 35,
+        "action": "convert",
+        "sample": "p100: wdydr ldKavh"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 23,
+        "action": "keep",
+        "sample": "p62: (Pivot"
+      },
+      "FMMalithix": {
+        "chars": 14,
+        "action": "convert",
+        "sample": "p100: f"
+      },
+      "Wingdings2": {
+        "chars": 4,
+        "action": "drop",
+        "sample": "p37: "
+      },
+      "MinionPro-Regular": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "Webdings": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "history_g7_si",
+    "file": "data/raw/g7/history g-7 S.pdf",
+    "subject": "History",
+    "subject_si": "ඉතිහාසය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 88,
+    "low_text_pages": [
+      1,
+      8,
+      10,
+      44,
+      86,
+      87,
+      88
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 85901,
+        "action": "convert",
+        "sample": "p11: i`oyd h'"
+      },
+      "FMAbabldBold": {
+        "chars": 8978,
+        "action": "convert",
+        "sample": "p1: b;sydih"
+      },
+      "FMAbhayax": {
+        "chars": 1726,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "IskoolaPota": {
+        "chars": 1425,
+        "action": "keep",
+        "sample": "p11: න"
+      },
+      "FMSamanthax": {
+        "chars": 576,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 169,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Times-Roman": {
+        "chars": 128,
+        "action": "keep",
+        "sample": "p2: Published by"
+      },
+      "Wingdings-Regular": {
+        "chars": 78,
+        "action": "drop",
+        "sample": "p26: ?"
+      },
+      "Webdings": {
+        "chars": 30,
+        "action": "drop",
+        "sample": "p11: z"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 22,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0275-0"
+      },
+      "Wingdings2": {
+        "chars": 12,
+        "action": "drop",
+        "sample": "p13: Ø"
+      }
+    }
+  },
+  {
+    "book_id": "islam_g7_si",
+    "file": "data/raw/g7/islam g-7 S.pdf",
+    "subject": "Islam",
+    "subject_si": "ඉස්ලාම් ධර්මය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 135,
+    "low_text_pages": [
+      1,
+      8,
+      10,
+      75,
+      76,
+      77,
+      78
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 119840,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "FMSamanthax": {
+        "chars": 3716,
+        "action": "convert",
+        "sample": "p6: kshdukh yd wëlaIKh"
+      },
+      "FMAbabldBold": {
+        "chars": 2631,
+        "action": "convert",
+        "sample": "p1: bia,dï"
+      },
+      "TraditionalArabic-Bold": {
+        "chars": 2552,
+        "action": "drop",
+        "sample": "p12: ِلَإلهَ إالَّ اللّه مُحَمَّدٌ رَّسُوْلُ اللّه"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 303,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0269-9"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 117,
+        "action": "drop",
+        "sample": "p21: 1."
+      },
+      "MinionPro-Regular": {
+        "chars": 90,
+        "action": "keep",
+        "sample": "p2: Published by  : Educational Publications Departmen"
+      },
+      "Impact": {
+        "chars": 47,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "AdobeArabic-Regular": {
+        "chars": 25,
+        "action": "drop",
+        "sample": "p78: ِحَتّٰى مَطْلَعِ الْفَجْر"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 19,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "MinionPro-Bold": {
+        "chars": 7,
+        "action": "keep",
+        "sample": "p9: -   I"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p91: - I"
+      },
+      "SHREE-TAM7-1316": {
+        "chars": 2,
+        "action": "drop",
+        "sample": "p7: ."
+      },
+      "Wingdings2": {
+        "chars": 2,
+        "action": "drop",
+        "sample": "p90: "
+      },
+      "SymbolMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p124: √"
+      },
+      "AdobeArabic-Bold": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p48: ٓ"
+      },
+      "SHREE-TAM7-0803": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p70: :"
+      },
+      "Tam-Tamil017": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "TAMKavi": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "SHREE-TAM7-0801": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "MyriadHebrew-Regular": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "music_g7_si",
+    "file": "data/raw/g7/music g-7 S.pdf",
+    "subject": "Eastern Music",
+    "subject_si": "පෙරදිග සංගීතය",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 77,
+    "low_text_pages": [
+      18,
+      22,
+      24,
+      26,
+      29,
+      33,
+      35,
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      52,
+      55,
+      60,
+      66,
+      67,
+      69,
+      72,
+      76,
+      77
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 41940,
+        "action": "convert",
+        "sample": "p2: cd;sl wOHdmk wdh;kh"
+      },
+      "FMAbabldBold": {
+        "chars": 1250,
+        "action": "convert",
+        "sample": "p1: ^2015 j¾Ifha isg l%shd;aul fõ'&"
+      },
+      "TimesNewRoman": {
+        "chars": 945,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMEmaneex": {
+        "chars": 230,
+        "action": "convert",
+        "sample": "p1: fmrÈ. ix.S;h"
+      },
+      "FMSamanthax": {
+        "chars": 89,
+        "action": "convert",
+        "sample": "p4: ksfhdacH wOHlaI ckrd,af.a mKsúvh"
+      },
+      "Symbol": {
+        "chars": 69,
+        "action": "keep",
+        "sample": "p13: "
+      },
+      "Arial": {
+        "chars": 43,
+        "action": "keep",
+        "sample": "p12: '"
+      },
+      "Calibri": {
+        "chars": 26,
+        "action": "keep",
+        "sample": "p50: Bow"
+      },
+      "FMBindumathix": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p18: ±"
+      },
+      "TimesNewRomanBold": {
+        "chars": 17,
+        "action": "keep",
+        "sample": "p10: #"
+      },
+      "Latha": {
+        "chars": 5,
+        "action": "drop",
+        "sample": "p54: Frest"
+      },
+      "FMDeranax": {
+        "chars": 2,
+        "action": "convert",
+        "sample": "p39: KS"
+      },
+      "AharoniBold": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p62: /"
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "science_g7_p1_si",
+    "file": "data/raw/g7/science g-7 p-I S.pdf",
+    "subject": "Science",
+    "subject_si": "විද්‍යාව",
+    "grade": 7,
+    "part": "p1",
+    "medium": "si",
+    "pages": 162,
+    "low_text_pages": [
+      1
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 112080,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMMalithix": {
+        "chars": 11832,
+        "action": "convert",
+        "sample": "p11: úoHdj"
+      },
+      "FMAbhaya": {
+        "chars": 8164,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh"
+      },
+      "FMAbabldBold": {
+        "chars": 4875,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMEmaneex": {
+        "chars": 3883,
+        "action": "convert",
+        "sample": "p9: mgqk"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1375,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0273-6"
+      },
+      "MyriadPro-Regular": {
+        "chars": 497,
+        "action": "keep",
+        "sample": "p11: |"
+      },
+      "AGaramondPro-Regular": {
+        "chars": 461,
+        "action": "keep",
+        "sample": "p13: 01."
+      },
+      "MinionPro-Regular": {
+        "chars": 210,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMSamanthax": {
+        "chars": 155,
+        "action": "convert",
+        "sample": "p11: Ydl úúO;ajh"
+      },
+      "FMDeranax": {
+        "chars": 72,
+        "action": "convert",
+        "sample": "p119: ì;a;r lyuoh"
+      },
+      "MyriadPro-Bold": {
+        "chars": 60,
+        "action": "keep",
+        "sample": "p11: 01"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 50,
+        "action": "keep",
+        "sample": "p15: (Mimosa)"
+      },
+      "Wingdings-Regular": {
+        "chars": 42,
+        "action": "drop",
+        "sample": "p38: y"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 31,
+        "action": "keep",
+        "sample": "p1: I"
+      },
+      "FMGanganeex": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p1: úoHdj"
+      },
+      "MyriadArabic-Regular": {
+        "chars": 15,
+        "action": "keep",
+        "sample": "p38: --- --"
+      },
+      "ArialMT": {
+        "chars": 13,
+        "action": "keep",
+        "sample": "p156: x"
+      },
+      "MyriadArabic-Bold": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p38: +"
+      },
+      "SymbolMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p41: µ"
+      },
+      "TimesNewRomanPS-BoldItalicMT": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p41: ("
+      }
+    }
+  },
+  {
+    "book_id": "science_g7_p2_si",
+    "file": "data/raw/g7/science g-7 p-II S.pdf",
+    "subject": "Science",
+    "subject_si": "විද්‍යාව",
+    "grade": 7,
+    "part": "p2",
+    "medium": "si",
+    "pages": 142,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 97831,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "FMMalithix": {
+        "chars": 12386,
+        "action": "convert",
+        "sample": "p11: úoHdj"
+      },
+      "FMAbhaya": {
+        "chars": 5236,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh  2015"
+      },
+      "FMAbabldBold": {
+        "chars": 4489,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMEmaneex": {
+        "chars": 3122,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1914,
+        "action": "keep",
+        "sample": "p1: www.edupub.gov.lk"
+      },
+      "MyriadPro-Regular": {
+        "chars": 432,
+        "action": "keep",
+        "sample": "p11: |"
+      },
+      "AGaramondPro-Regular": {
+        "chars": 278,
+        "action": "keep",
+        "sample": "p17: Y"
+      },
+      "MinionPro-Regular": {
+        "chars": 134,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "FMSamanthax": {
+        "chars": 100,
+        "action": "convert",
+        "sample": "p11: èjksh"
+      },
+      "Wingdings-Regular": {
+        "chars": 67,
+        "action": "drop",
+        "sample": "p24: y"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 38,
+        "action": "keep",
+        "sample": "p23: (Amoeba)"
+      },
+      "FMSLRAbhayax": {
+        "chars": 30,
+        "action": "convert",
+        "sample": "p22: ;ekqï tallh"
+      },
+      "FMGanganeex": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p1: úoHdj"
+      },
+      "MyriadPro-Bold": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p11: 11"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 12,
+        "action": "keep",
+        "sample": "p1: II"
+      },
+      "MinionPro-BoldCn": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p91: /"
+      }
+    }
+  },
+  {
+    "book_id": "sinhala_g7_si",
+    "file": "data/raw/g7/sinhala g-7 S.pdf",
+    "subject": "Sinhala",
+    "subject_si": "සිංහල",
+    "grade": 7,
+    "part": "",
+    "medium": "si",
+    "pages": 208,
+    "low_text_pages": [
+      1,
+      5,
+      6,
+      10,
+      208
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 162655,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "FMAbabldBold": {
+        "chars": 40331,
+        "action": "convert",
+        "sample": "p1: isxy,"
+      },
+      "FMSamanthaBoldx": {
+        "chars": 2196,
+        "action": "convert",
+        "sample": "p11: 3"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1638,
+        "action": "keep",
+        "sample": "p13: Folk tales from Asia for Children Everywhere - Boo"
+      },
+      "FMAbhaya": {
+        "chars": 1137,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMSamanthax": {
+        "chars": 895,
+        "action": "convert",
+        "sample": "p11: f.dú ìßhf.a kqjK"
+      },
+      "ArialMT": {
+        "chars": 477,
+        "action": "keep",
+        "sample": "p13: 1"
+      },
+      "FMEmaneex": {
+        "chars": 147,
+        "action": "convert",
+        "sample": "p11: mgqk"
+      },
+      "FMMalithix": {
+        "chars": 53,
+        "action": "convert",
+        "sample": "p119: iqkaor fyda¾gka ;ekak"
+      },
+      "MinionPro-Regular": {
+        "chars": 24,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Times": {
+        "chars": 22,
+        "action": "keep",
+        "sample": "p2: ISBN 978-955-25-0270-5"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 8,
+        "action": "keep",
+        "sample": "p101: 6"
+      },
+      "KELANI-Plain": {
+        "chars": 7,
+        "action": "convert",
+        "sample": "p103: wdrdOkd"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p9: −"
+      }
+    }
+  },
+  {
+    "book_id": "art_g8_si",
+    "file": "data/raw/g8/art g-8 S.pdf",
+    "subject": "Art",
+    "subject_si": "චිත්‍ර කලාව",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 26,
+    "low_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "scanned": true,
+    "fonts": {}
+  },
+  {
+    "book_id": "buddhism_g8_si",
+    "file": "data/raw/g8/buddhism g-8 S.pdf",
+    "subject": "Buddhism",
+    "subject_si": "බුද්ධ ධර්මය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 164,
+    "low_text_pages": [
+      8,
+      144,
+      164
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 195199,
+        "action": "convert",
+        "sample": "p2: ish¨ ysñlï weúß"
+      },
+      "FMAbabldBold": {
+        "chars": 12888,
+        "action": "convert",
+        "sample": "p1: 8 fY%a‚h"
+      },
+      "FMEmaneex": {
+        "chars": 1106,
+        "action": "convert",
+        "sample": "p1: nqoaO O¾uh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 501,
+        "action": "keep",
+        "sample": "p1: www.edupub.gov.lk"
+      },
+      "Chamodi": {
+        "chars": 38,
+        "action": "convert",
+        "sample": "p11: 01"
+      },
+      "TektonPro-BoldCond": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p133: i"
+      },
+      "Cambria": {
+        "chars": 9,
+        "action": "keep",
+        "sample": "p7: I"
+      },
+      "Wingdings-Regular": {
+        "chars": 8,
+        "action": "drop",
+        "sample": "p99: "
+      },
+      "FMBindumathix": {
+        "chars": 6,
+        "action": "convert",
+        "sample": "p145: 20"
+      }
+    }
+  },
+  {
+    "book_id": "catholic_g8_si",
+    "file": "data/raw/g8/catholic g-8 S.pdf",
+    "subject": "Catholicism",
+    "subject_si": "කතෝලික ධර්මය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 108,
+    "low_text_pages": [
+      1,
+      3,
+      8
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 98951,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbabldBold": {
+        "chars": 4353,
+        "action": "convert",
+        "sample": "p5: fmrjok"
+      },
+      "FMDeranax": {
+        "chars": 1686,
+        "action": "convert",
+        "sample": "p13: Y=N jofkys m‚jqvlrejl= jkak'"
+      },
+      "FMGanganeex": {
+        "chars": 609,
+        "action": "convert",
+        "sample": "p11: Æla Y=NdrxÑfha l;=jrhd"
+      },
+      "FMEmaneex": {
+        "chars": 282,
+        "action": "convert",
+        "sample": "p1: lf;da,sl O¾uh"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 187,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 167,
+        "action": "keep",
+        "sample": "p1: i"
+      }
+    }
+  },
+  {
+    "book_id": "christianism_g8_si",
+    "file": "data/raw/g8/christianism g-8 S.pdf",
+    "subject": "Christianity",
+    "subject_si": "ක්‍රිස්තියානි ධර්මය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 122,
+    "low_text_pages": [
+      1,
+      3,
+      8,
+      10
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 132253,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMDeranax": {
+        "chars": 8102,
+        "action": "convert",
+        "sample": "p12: bkamiq foúhka jykafia¦ wmf.a iajrEmh wkqj\" wmf.a"
+      },
+      "FMAbabldBold": {
+        "chars": 5492,
+        "action": "convert",
+        "sample": "p5: fmrjok"
+      },
+      "FMGanganeex": {
+        "chars": 511,
+        "action": "convert",
+        "sample": "p1: 8"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 366,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMEmaneex": {
+        "chars": 22,
+        "action": "convert",
+        "sample": "p1: l%sia;shdks O¾uh"
+      },
+      "SymbolMT": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "Chamodi": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "civic_g8_si",
+    "file": "data/raw/g8/civic g-8 S.pdf",
+    "subject": "Civics",
+    "subject_si": "පුරවැසි අධ්‍යාපනය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 160,
+    "low_text_pages": [
+      1,
+      4,
+      5,
+      8,
+      10,
+      160
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 131511,
+        "action": "convert",
+        "sample": "p11: fmdÿ fiajd"
+      },
+      "FMAbabldBold": {
+        "chars": 15308,
+        "action": "convert",
+        "sample": "p2: rcfha uqøK kS;s.; ixia:dfõ"
+      },
+      "FMAbhaya": {
+        "chars": 2226,
+        "action": "convert",
+        "sample": "p2: ish¨ ysñlï weúßKs'"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1073,
+        "action": "keep",
+        "sample": "p2: ISBN"
+      },
+      "FMSamanthax": {
+        "chars": 974,
+        "action": "convert",
+        "sample": "p9: mgqk"
+      },
+      "MinionPro-Regular": {
+        "chars": 354,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Wingdings3": {
+        "chars": 346,
+        "action": "drop",
+        "sample": "p11: "
+      },
+      "Wingdings2": {
+        "chars": 257,
+        "action": "drop",
+        "sample": "p47: "
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 165,
+        "action": "keep",
+        "sample": "p17: Water Supply"
+      },
+      "FMEmaneex": {
+        "chars": 52,
+        "action": "convert",
+        "sample": "p1: mqrjeis wOHdmkh"
+      },
+      "Wingdings-Regular": {
+        "chars": 9,
+        "action": "drop",
+        "sample": "p72: "
+      },
+      "Arial-Black": {
+        "chars": 6,
+        "action": "keep",
+        "sample": "p9: -"
+      }
+    }
+  },
+  {
+    "book_id": "dancing_g8_si",
+    "file": "data/raw/g8/dancing g-8 S.pdf",
+    "subject": "Dancing",
+    "subject_si": "නර්තනය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 78,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 66633,
+        "action": "convert",
+        "sample": "p2: ^2017 isg l%shd;aul fõ&"
+      },
+      "FMAbabldBold": {
+        "chars": 6746,
+        "action": "convert",
+        "sample": "p1: k¾;kh 6 fYa%Ksh - w;sf¾l lshùï fmd;"
+      },
+      "FMAbhaya": {
+        "chars": 2227,
+        "action": "convert",
+        "sample": "p46: 38"
+      },
+      "FMAbabld": {
+        "chars": 752,
+        "action": "convert",
+        "sample": "p46: k¾;kh 8  fYa%Ksh - w;sf¾l lshùï fmd;"
+      },
+      "TimesNewRoman": {
+        "chars": 537,
+        "action": "keep",
+        "sample": "p2: ©"
+      },
+      "FMSamanthax": {
+        "chars": 497,
+        "action": "convert",
+        "sample": "p1: k¾;kh"
+      },
+      "FMEmaneex": {
+        "chars": 5,
+        "action": "convert",
+        "sample": "p2: k¾;kh"
+      },
+      "MicrosoftSansSerif": {
+        "chars": 4,
+        "action": "drop",
+        "sample": "p29: \u0000"
+      },
+      "FMSamantha": {
+        "chars": 1,
+        "action": "convert",
+        "sample": "p59: ="
+      },
+      "FMMalithix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      },
+      "FMBindumathix": {
+        "chars": 0,
+        "action": "convert",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g8_p1_si",
+    "file": "data/raw/g8/drama g-8 p-I S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 8,
+    "part": "p1",
+    "medium": "si",
+    "pages": 33,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 59908,
+        "action": "convert",
+        "sample": "p1: kdgH fm< rpkh"
+      },
+      "FMAbhaya": {
+        "chars": 8004,
+        "action": "convert",
+        "sample": "p5: .%Slajrekaf.a hqÿjdhka fkdfyd;a fhdaOhska w;r b;d "
+      },
+      "FMAbabld": {
+        "chars": 3089,
+        "action": "convert",
+        "sample": "p1: 1 mdvu ( kdgH fm<l uQ,sldx. y÷kd.ksuq' -"
+      },
+      "SARA-KALANEE": {
+        "chars": 1676,
+        "action": "convert",
+        "sample": "p1: 08 fYa%Ksh"
+      },
+      "SARA-SIRI": {
+        "chars": 967,
+        "action": "convert",
+        "sample": "p1: 01' kdgH yd rx. l,dj ms<sn`o isoaOdka; wOHhkh lsÍu"
+      },
+      "SARA-RAMANEE": {
+        "chars": 528,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "SA-Nimali": {
+        "chars": 363,
+        "action": "convert",
+        "sample": "p1: ^m<uq jdrh&"
+      },
+      "Century725BlkBT": {
+        "chars": 264,
+        "action": "keep",
+        "sample": "p1: Grade 08"
+      },
+      "FMDerana": {
+        "chars": 114,
+        "action": "convert",
+        "sample": "p3: - mqj;am;lska Wmqgd.;a m%jD;shla"
+      },
+      "TimesNewRoman": {
+        "chars": 58,
+        "action": "keep",
+        "sample": "p15: Teatre Games"
+      },
+      "Calibri": {
+        "chars": 57,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "apex-a.pura-010": {
+        "chars": 49,
+        "action": "convert",
+        "sample": "p1: m<uq jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "SARA-MAHEE": {
+        "chars": 10,
+        "action": "convert",
+        "sample": "p1: Ys%"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "Arial": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      },
+      "CambriaMath": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "drama_g8_p2_si",
+    "file": "data/raw/g8/drama g-8 p-II S.pdf",
+    "subject": "Drama and Theatre",
+    "subject_si": "නාට්‍ය හා රංග කලාව",
+    "grade": 8,
+    "part": "p2",
+    "medium": "si",
+    "pages": 25,
+    "low_text_pages": [],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 32082,
+        "action": "convert",
+        "sample": "p1: - pß;hg Tìk k¿jka f;dard .ksuq'"
+      },
+      "FMAbhaya": {
+        "chars": 19556,
+        "action": "convert",
+        "sample": "p9: wf;a we;s lsßleá orefjla\""
+      },
+      "FMAbabld": {
+        "chars": 1262,
+        "action": "convert",
+        "sample": "p1: 1 mdvu  ( kdgH fm<l i;r wNskh Ndú; l< hq;= wdldrh'"
+      },
+      "SARA-SIRI": {
+        "chars": 744,
+        "action": "convert",
+        "sample": "p1: ^"
+      },
+      "SARA-RAMANEE": {
+        "chars": 400,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. l,dj"
+      },
+      "SA-Nimali": {
+        "chars": 275,
+        "action": "convert",
+        "sample": "p1: ^fojk jdrh&"
+      },
+      "Century725BlkBT": {
+        "chars": 200,
+        "action": "keep",
+        "sample": "p1: Grade 08"
+      },
+      "FMAbabldBold": {
+        "chars": 62,
+        "action": "convert",
+        "sample": "p9: f;audjla Tiafia mßl,amkh fufyhjuq\""
+      },
+      "apex-a.pura-010": {
+        "chars": 49,
+        "action": "convert",
+        "sample": "p1: fojk jdrfha f;audjka yd mdvï fm<.eiau"
+      },
+      "Calibri": {
+        "chars": 41,
+        "action": "keep",
+        "sample": "p1: 1"
+      },
+      "SARA-KALANEE": {
+        "chars": 27,
+        "action": "convert",
+        "sample": "p1: 08 fYa%Ksh"
+      },
+      "Centaur": {
+        "chars": 18,
+        "action": "keep",
+        "sample": "p1: sameenis@gmail.com"
+      },
+      "FMRajantha": {
+        "chars": 16,
+        "action": "convert",
+        "sample": "p1: kdgH yd rx. ld,j"
+      },
+      "TimesNewRoman": {
+        "chars": 11,
+        "action": "keep",
+        "sample": "p19: (Freezing)"
+      },
+      "apex-a.pura-017": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p1: 0772805550"
+      },
+      "SARA-PUNCHI": {
+        "chars": 3,
+        "action": "convert",
+        "sample": "p8: ls%"
+      },
+      "Arial": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "geo_g8_si",
+    "file": "data/raw/g8/geo g-8 S.pdf",
+    "subject": "Geography",
+    "subject_si": "භූගෝල විද්‍යාව",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 76,
+    "low_text_pages": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      10,
+      38,
+      64,
+      73,
+      74,
+      75,
+      76
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 44963,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMAbabldBold": {
+        "chars": 6217,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1168,
+        "action": "keep",
+        "sample": "p13: (Celestial objects)"
+      },
+      "TimesNewRomanPS-BoldItalicMT": {
+        "chars": 926,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 606,
+        "action": "keep",
+        "sample": "p14: (coronal loops)"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 501,
+        "action": "keep",
+        "sample": "p9: 1"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 387,
+        "action": "drop",
+        "sample": "p25: bõ°ØÖz öuõSv"
+      },
+      "FMSamanthax": {
+        "chars": 131,
+        "action": "convert",
+        "sample": "p1: N+f.da, úoHdj"
+      },
+      "FMMalithix": {
+        "chars": 110,
+        "action": "convert",
+        "sample": "p9: fi!r.%y"
+      },
+      "ArialMT": {
+        "chars": 104,
+        "action": "keep",
+        "sample": "p2: Published by : Educational Publications Department"
+      },
+      "TimesNewRomanPS-BoldItal": {
+        "chars": 38,
+        "action": "keep",
+        "sample": "p46: http://files.prokerala.com/maps/india/"
+      },
+      "FMEmaneex": {
+        "chars": 37,
+        "action": "convert",
+        "sample": "p1: 08 fY%aKsh"
+      },
+      "MyriadPro-Regular": {
+        "chars": 27,
+        "action": "keep",
+        "sample": "p13: »"
+      },
+      "FMAbhaya-Bold": {
+        "chars": 27,
+        "action": "convert",
+        "sample": "p16: rƒpˆly¥{"
+      },
+      "FMAbhayax": {
+        "chars": 24,
+        "action": "convert",
+        "sample": "p67: lfmd,a,"
+      },
+      "MinionPro-Regular": {
+        "chars": 23,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMAbhaya-Light": {
+        "chars": 4,
+        "action": "convert",
+        "sample": "p2: 2020"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 4,
+        "action": "keep",
+        "sample": "p9: 1"
+      },
+      "FMSLRAbabldBold": {
+        "chars": 4,
+        "action": "convert",
+        "sample": "p11: 1"
+      }
+    }
+  },
+  {
+    "book_id": "health_g8_si",
+    "file": "data/raw/g8/health g-8 S.pdf",
+    "subject": "Health",
+    "subject_si": "සෞඛ්‍ය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 216,
+    "low_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      216
+    ],
+    "scanned": true,
+    "fonts": {
+      "FMAbhaya": {
+        "chars": 1470,
+        "action": "convert",
+        "sample": "p5: oshqKqfõ ysKsfm; lrd .uka lrkd j;auka f,djg\" ks;e;"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1005,
+        "action": "keep",
+        "sample": "p214: lead-up games"
+      },
+      "FMAbhayax": {
+        "chars": 896,
+        "action": "convert",
+        "sample": "p214: wkq l%Svd"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 835,
+        "action": "drop",
+        "sample": "p214: ÁÈ ÂøÍ¯õmk"
+      },
+      "FMAbabldBold": {
+        "chars": 44,
+        "action": "convert",
+        "sample": "p5: fmrjok"
+      },
+      "MinionPro-Regular": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p5: v"
+      }
+    }
+  },
+  {
+    "book_id": "history_g8_si",
+    "file": "data/raw/g8/history g-8 S.pdf",
+    "subject": "History",
+    "subject_si": "ඉතිහාසය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 88,
+    "low_text_pages": [
+      1,
+      5,
+      10,
+      76
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 103059,
+        "action": "convert",
+        "sample": "p11: Y%S ,xldj hkq jir fooyia mkaishhl"
+      },
+      "FMAbabldBold": {
+        "chars": 11789,
+        "action": "convert",
+        "sample": "p1: b;sydih"
+      },
+      "FMAbhaya": {
+        "chars": 2401,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMSamanthax": {
+        "chars": 591,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "MinionPro-Regular": {
+        "chars": 196,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Webdings": {
+        "chars": 87,
+        "action": "drop",
+        "sample": "p13: z"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 59,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0291-0"
+      },
+      "MyriadPro-Regular": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p33: »"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p34: II"
+      },
+      "Wingdings2": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p88: "
+      }
+    }
+  },
+  {
+    "book_id": "islam_g8_si",
+    "file": "data/raw/g8/islam g-8 S.pdf",
+    "subject": "Islam",
+    "subject_si": "ඉස්ලාම් ධර්මය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 138,
+    "low_text_pages": [
+      1,
+      8,
+      138
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 144400,
+        "action": "convert",
+        "sample": "p3: Y%S ,xld cd;sl .Sh"
+      },
+      "FMAbabldBold": {
+        "chars": 10733,
+        "action": "convert",
+        "sample": "p1: bia,dï"
+      },
+      "ArabicTypesetting": {
+        "chars": 6734,
+        "action": "drop",
+        "sample": "p13: الرَّحَْن"
+      },
+      "FMSamanthax": {
+        "chars": 2503,
+        "action": "convert",
+        "sample": "p6: fufyhùu"
+      },
+      "FMAbhaya": {
+        "chars": 2437,
+        "action": "convert",
+        "sample": "p2: wOHdmk m%ldYk fomd¾;fïka;=j úiska"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 389,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0285-9"
+      },
+      "FMEmaneex": {
+        "chars": 271,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMSamanthaBoldx": {
+        "chars": 253,
+        "action": "convert",
+        "sample": "p6: kshdukh yd wëlaIKh"
+      },
+      "AdobeNaskh-Medium": {
+        "chars": 73,
+        "action": "drop",
+        "sample": "p102: أْ مَقْعَدَهُ مِنَ النَّارَّمَنْ كَذِبَ عَلَي َّ م"
+      },
+      "SHREE-TAM7-3900": {
+        "chars": 49,
+        "action": "drop",
+        "sample": "p11: 1"
+      },
+      "SHREE-TAM7-0800": {
+        "chars": 47,
+        "action": "drop",
+        "sample": "p57: ·"
+      },
+      "AdobeArabic-Regular": {
+        "chars": 25,
+        "action": "drop",
+        "sample": "p78: ِحَتّٰى مَطْلَعِ الْفَجْر"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 20,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "Wingdings2": {
+        "chars": 4,
+        "action": "drop",
+        "sample": "p44: "
+      },
+      "MinionPro-Regular": {
+        "chars": 2,
+        "action": "keep",
+        "sample": "p24: kh"
+      },
+      "SHREE-TAM7-0805": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p22: 3"
+      },
+      "SHREE-TAM7-1316": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "Wingdings-Regular": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "SHREE-TAM7-1366": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      },
+      "SHREE-TAM7-0803": {
+        "chars": 0,
+        "action": "drop",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "music_g8_si",
+    "file": "data/raw/g8/music g-8 S.pdf",
+    "subject": "Eastern Music",
+    "subject_si": "පෙරදිග සංගීතය",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 82,
+    "low_text_pages": [
+      40,
+      78,
+      80
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhaya#20x": {
+        "chars": 77792,
+        "action": "drop",
+        "sample": "p2: \u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\t\u0002\n\u000b\u0006\u0007\u0002\f\u0003"
+      },
+      "FMAbabld#20Bold": {
+        "chars": 4407,
+        "action": "drop",
+        "sample": "p1: \u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\t\u0001\u0006\n\u000b\u0007\f\u0001\r\u0004\u0005\f\u000e\u000f"
+      },
+      "Times#20New#20Roman": {
+        "chars": 2282,
+        "action": "keep",
+        "sample": "p1: \u0001"
+      },
+      "Upmusic": {
+        "chars": 1608,
+        "action": "drop",
+        "sample": "p10: /"
+      },
+      "Calibri": {
+        "chars": 1266,
+        "action": "keep",
+        "sample": "p11: \u0001"
+      },
+      "Arial": {
+        "chars": 634,
+        "action": "keep",
+        "sample": "p9: \u0001"
+      },
+      "Symbol": {
+        "chars": 140,
+        "action": "keep",
+        "sample": "p21: \u0001"
+      },
+      "FMEmanee#20x": {
+        "chars": 73,
+        "action": "drop",
+        "sample": "p1: \u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\u0005"
+      },
+      "Angsana#20New": {
+        "chars": 37,
+        "action": "drop",
+        "sample": "p11: \u0001"
+      },
+      "Arial#20Bold": {
+        "chars": 23,
+        "action": "keep",
+        "sample": "p53: \u0001\u0002\u0003\u0002\u0003\u0004\u0005\u0006\u0004\u0007"
+      },
+      "FMMalithi#20x": {
+        "chars": 9,
+        "action": "drop",
+        "sample": "p2: \u0001"
+      },
+      "Times#20New#20Roman#20Bo": {
+        "chars": 3,
+        "action": "keep",
+        "sample": "p77: \u0001\u0001\u0001"
+      },
+      "FMBindumathi#20x": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p2: \u0001"
+      },
+      "Microsoft#20Sans#20Serif": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p52: ฀"
+      }
+    }
+  },
+  {
+    "book_id": "science_g8_p1_si",
+    "file": "data/raw/g8/science g-8 p-I S.pdf",
+    "subject": "Science",
+    "subject_si": "විද්‍යාව",
+    "grade": 8,
+    "part": "p1",
+    "medium": "si",
+    "pages": 134,
+    "low_text_pages": [
+      1,
+      5
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 118596,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "FMMalithix": {
+        "chars": 11336,
+        "action": "convert",
+        "sample": "p11: úoHdj"
+      },
+      "FMAbabldBold": {
+        "chars": 6648,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMAbhaya": {
+        "chars": 5928,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh  2016"
+      },
+      "FMEmaneex": {
+        "chars": 2785,
+        "action": "convert",
+        "sample": "p9: mgqk"
+      },
+      "MinionPro-Regular": {
+        "chars": 1379,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 1209,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0289-7"
+      },
+      "MyriadPro-Regular": {
+        "chars": 421,
+        "action": "keep",
+        "sample": "p11: |"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 289,
+        "action": "keep",
+        "sample": "p1: I"
+      },
+      "FMSamanthax": {
+        "chars": 234,
+        "action": "convert",
+        "sample": "p11: laIqø Ôùkaf.a"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 85,
+        "action": "keep",
+        "sample": "p12: (Chlamydomonas)"
+      },
+      "AGaramondPro-Regular": {
+        "chars": 56,
+        "action": "keep",
+        "sample": "p85: i."
+      },
+      "FMGanganeex": {
+        "chars": 19,
+        "action": "convert",
+        "sample": "p1: úoHdj"
+      },
+      "MyriadPro-Bold": {
+        "chars": 10,
+        "action": "keep",
+        "sample": "p94: N"
+      },
+      "Calibri": {
+        "chars": 9,
+        "action": "keep",
+        "sample": "p20: √"
+      },
+      "MyriadPro-Cond": {
+        "chars": 8,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "SymbolMT": {
+        "chars": 6,
+        "action": "keep",
+        "sample": "p22: •"
+      },
+      "Wingdings-Regular": {
+        "chars": 5,
+        "action": "drop",
+        "sample": "p16: y"
+      }
+    }
+  },
+  {
+    "book_id": "science_g8_p2_si",
+    "file": "data/raw/g8/science g-8 p-II S.pdf",
+    "subject": "Science",
+    "subject_si": "විද්‍යාව",
+    "grade": 8,
+    "part": "p2",
+    "medium": "si",
+    "pages": 152,
+    "low_text_pages": [
+      1,
+      8
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 139064,
+        "action": "convert",
+        "sample": "p2: m%:u uqøKh  2016"
+      },
+      "FMMalithix": {
+        "chars": 10746,
+        "action": "convert",
+        "sample": "p11: úoHdj"
+      },
+      "FMAbabldBold": {
+        "chars": 7851,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "FMEmaneex": {
+        "chars": 2871,
+        "action": "convert",
+        "sample": "p4: wms fjuq tl ujlf. orefjda"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 2231,
+        "action": "keep",
+        "sample": "p6: -"
+      },
+      "MinionPro-Regular": {
+        "chars": 1117,
+        "action": "keep",
+        "sample": "p1: i"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 505,
+        "action": "keep",
+        "sample": "p1: II"
+      },
+      "MyriadPro-Regular": {
+        "chars": 466,
+        "action": "keep",
+        "sample": "p11: |"
+      },
+      "FMAbhaya": {
+        "chars": 299,
+        "action": "convert",
+        "sample": "p57: ²"
+      },
+      "Times-Roman": {
+        "chars": 188,
+        "action": "keep",
+        "sample": "p2: Published by  :  Educational Publications Departme"
+      },
+      "FMSamanthax": {
+        "chars": 150,
+        "action": "convert",
+        "sample": "p11: udkj"
+      },
+      "Wingdings-Regular": {
+        "chars": 98,
+        "action": "drop",
+        "sample": "p12: y"
+      },
+      "MyriadPro-Bold": {
+        "chars": 81,
+        "action": "keep",
+        "sample": "p28: V"
+      },
+      "ArialMT": {
+        "chars": 29,
+        "action": "keep",
+        "sample": "p2: ISBN"
+      },
+      "R1": {
+        "chars": 14,
+        "action": "convert",
+        "sample": "p1: fldgi"
+      },
+      "MyriadPro-Cond": {
+        "chars": 13,
+        "action": "keep",
+        "sample": "p11: 9"
+      },
+      "FMGeethikaBold": {
+        "chars": 5,
+        "action": "convert",
+        "sample": "p1: úoHdj"
+      },
+      "SymbolProportionalBT-Reg": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p88: "
+      },
+      "Calibri": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p105: √"
+      },
+      "SymbolMT": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p105: ×"
+      },
+      "ZapDingbats": {
+        "chars": 1,
+        "action": "drop",
+        "sample": "p114: l"
+      },
+      "Arial-BoldMT": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  },
+  {
+    "book_id": "sinhala_g8_si",
+    "file": "data/raw/g8/sinhala g-8 S.pdf",
+    "subject": "Sinhala",
+    "subject_si": "සිංහල",
+    "grade": 8,
+    "part": "",
+    "medium": "si",
+    "pages": 206,
+    "low_text_pages": [
+      1,
+      4,
+      5,
+      8,
+      46,
+      206
+    ],
+    "scanned": false,
+    "fonts": {
+      "FMAbhayax": {
+        "chars": 166206,
+        "action": "convert",
+        "sample": "p6: 1' r;akisß wrx.,"
+      },
+      "FMAbabldBold": {
+        "chars": 41708,
+        "action": "convert",
+        "sample": "p1: isxy,"
+      },
+      "FMEmaneex": {
+        "chars": 2544,
+        "action": "convert",
+        "sample": "p9: w"
+      },
+      "FMSamanthax": {
+        "chars": 1392,
+        "action": "convert",
+        "sample": "p70: n,ka lv;=rd yer oEfia'"
+      },
+      "FMAbhaya": {
+        "chars": 1253,
+        "action": "convert",
+        "sample": "p1: wOHdmk m%ldYk fomd¾;fïka;=j"
+      },
+      "TimesNewRomanPSMT": {
+        "chars": 759,
+        "action": "keep",
+        "sample": "p2: Published by: Educational Publications Department"
+      },
+      "ArialMT": {
+        "chars": 480,
+        "action": "keep",
+        "sample": "p11: 1"
+      },
+      "FMSamanthaBoldx": {
+        "chars": 463,
+        "action": "convert",
+        "sample": "p9: 1"
+      },
+      "FMBasurux": {
+        "chars": 162,
+        "action": "convert",
+        "sample": "p72: ² mka j¾.j,ska ;kd.kakd u¨"
+      },
+      "FMGemunux": {
+        "chars": 109,
+        "action": "convert",
+        "sample": "p71: fmd,s;Sskaj,ska isÿ jk ydks"
+      },
+      "TimesNewRomanPS-ItalicMT": {
+        "chars": 43,
+        "action": "keep",
+        "sample": "p25: The Religion of Man"
+      },
+      "TimesNewRomanPS-BoldMT": {
+        "chars": 40,
+        "action": "keep",
+        "sample": "p24: ‘"
+      },
+      "Time-Roman": {
+        "chars": 23,
+        "action": "keep",
+        "sample": "p2: ISBN  978-955-25-0286-6"
+      },
+      "MinionPro-Regular": {
+        "chars": 16,
+        "action": "keep",
+        "sample": "p2: ii"
+      },
+      "FMAbhaya-Bold": {
+        "chars": 10,
+        "action": "convert",
+        "sample": "p70: 2020.05.20"
+      },
+      "FranklinGothic-Demi": {
+        "chars": 1,
+        "action": "keep",
+        "sample": "p72: !"
+      },
+      "AdobeHebrew-Regular": {
+        "chars": 0,
+        "action": "keep",
+        "sample": ""
+      }
+    }
+  }
+]

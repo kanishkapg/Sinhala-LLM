@@ -1,0 +1,3182 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උපාසක බළලා, ",
+        "choices": [
+            "සුදන වෙස් ගත් දුදනා",
+            "දුදන වෙස් ගත් සුඳනා",
+            "සුදන වෙස් ගත් උපාසකයා",
+            "උපාසක හා බළල් වෙස් ගත් දුදනා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දිවෙන් දිව ගාගෙන, ",
+        "choices": [
+            "දිවට දිව තියා බැඳගෙන",
+            "දැඩි මිතුරන් සේ හැසිරීම",
+            "දැඩි මිතුරු දමින් බැඳී සිටීම",
+            "දිවෙන් මිතුරන් හඳුනා ගැනීම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"කෙනෙකුගෙන් ලාභ ප්‍රයෝජන ලබමින් සිට ඔහුට විපතක් සිදු කිරීම\" මේ අදහසට වඩාත් යෝග්‍ය ප්‍රස්තාව පිරුළ තෝරන්න. ",
+        "choices": [
+            "ගලෙන් පට්ටයක් ගන්නවා වගේ.",
+            "අඟේ ඉඳන් කන කනවා වගේ.",
+            "අතු කඩා මොර කනවා වගේ.",
+            "කටුස්සාගේ කරේ රන් බැන්දා වගේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන වචන ආකාරාදියට සකස් කළ විට නිවැරදි විය යුතු ආකාරය තෝරන්න. ",
+        "choices": [
+            "සුසංවර, සුන්දර, සුභාවිත, සුයාමය, සුලලිත",
+            "සුභාවිත, සුලලිත, සුසංවර, සුන්දර, සුයාමය",
+            "සුන්දර, සුභාවිත, සුලලිත, සුයාමය, සුසංවර",
+            "සුන්දර, සුභාවිත, සුයාමය, සුලලිත, සුසංවර"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " 'ඡ, ඣ', 'ට, ඨ' මෙම අක්ෂරවල උත්පත්ති ස්ථාන පිළිවෙලින්, ",
+        "choices": [
+            "කණ්ඨජ හා තාලුජ යි.",
+            "තාලුජ හා මූර්ධජ යි.",
+            "දන්තජ හා තාලුජ යි.",
+            "ඕෂ්ඨජ හා මූර්ධජ යි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ඌ' යන ස්වරයට පසුව හා 'ල' යන ව්‍යඤ්ජනයට පසුව යෙදෙන අක්ෂර වන්නේ, ",
+        "choices": [
+            "'ඍ' සහ 'ව' අක්ෂර ය.",
+            "'එ' සහ 'ර' අක්ෂර ය.",
+            "'උ' සහ 'ය' අක්ෂර ය.",
+            "'ඔ' සහ 'ශ' අක්ෂර ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එකිනෙකට සමාන අර්ථ යෙදුණු යුගල පදය වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "නඩු හබ",
+            "අඟර දඟර",
+            "ඔප්පු තිරප්පු",
+            "යාම් ඊම්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " 'විශාල' යන පදයට සමාන පදයක් නොවන පදය තෝරන්න. ",
+        "choices": [
+            "පෘථුල",
+            "තුමුල",
+            "පතළ",
+            "විසල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දක්වෙන් පද අතරෙන් උපසර්ග නාම පදය තෝරන්න. ",
+        "choices": [
+            "දුසිරිත්",
+            "දුරේක්ෂය",
+            "දුමිඳු",
+            "දුක්ඛිත"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අක්ෂර වින්‍යාසය නිවැරදි ව යෙදී ඇති පද පේලිය තෝරන්න. ",
+        "choices": [
+            "සමස්ථ, විශ්වය, විස්මය",
+            "නිෂ්ඵල, න්‍යෂ්ඨික, ආභාසය",
+            "පිළිවෙළ, විනිශ්චය, වීරෝධාර",
+            "මාර්ගස්ථ, විස්තරය, ප්‍රස්තාර"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "විරාම ලක්ෂණවලින් ඇල ඉර (/) යෙදෙන අවස්ථාවක් වන්නේ මින් කුමක් ද? ",
+        "choices": [
+            "ශෝකයක් හඟවන ප්‍රකාශනයක දී.",
+            "අමතර තොරතුරක් දැක්වීමේ දී.",
+            "යම් ප්‍රකාශයක් කෙටි කිරීමේ දී.",
+            "විකල්ප ව්‍යවහාර දැක්වීමක දී."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"දරුවන්ගේ භාෂා ඥානය හා වාක්කෝෂය පුළුල් කිරීම ද ළමා සාහිත්‍යයෙන් අපේක්ෂිත ය.\" මෙම වාක්‍යයේ යෙදී ඇති විශේෂණ පද දෙකක් වන්නේ, ",
+        "choices": [
+            "වාක්කෝෂය හා අපේක්ෂිත",
+            "භාෂා හා පුළුල්",
+            "භාෂා හා ළමා",
+            "ඥානය හා ළමා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍ය අතරෙන් නිවැරදි වාක්‍ය තෝරන්න. ",
+        "choices": [
+            "අලි රංචුව ගමට පහර දෙයි.",
+            "සමහරු ජීවිතය බේරා ගනිති.",
+            "ගංගාවෝ හඬ නොනගා ගලයි.",
+            "ගස් පෙළ ඉදිරී වැටෙත්."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"ඔවුහු මා හඳුනා ගත්හ\" මෙම වාක්‍යය කර්ම කාරකයට හැර වූ පසු පැවතිය යුතු නිවැරදි ස්වරූපය වනුයේ, ",
+        "choices": [
+            "ඔවුහු විසින් මම හඳුනා ගනු ලැබීමි.",
+            "ඔවුන් විසින් මම හඳුනා ගනු ලැබීමි.",
+            "ඔවුන් විසින් මා හඳුනා ගනු ලැබීමි.",
+            "මා ඔවුන් විසින් හඳුනා ගනු ලැබීමි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"හිස් රැවුල් කපන්නා\", \"සතුන් බලා ගන්නා තැනැත්තා\" මේ අදහස්වලට යෙදෙන තනි පද පිළිවෙලින් දැක්වෙන පිළිතුර තෝරන්න. ",
+        "choices": [
+            "එඬේරා හා ගොපල්ලා",
+            "ගොපල්ලා හා කරණවෑමියා",
+            "කරණවෑමියා හා එඬේරා",
+            "කරණවෑමියා හා ගොපල්ලා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුව' යන පදයට බහු අර්ථ පදයක් නොවන්නේ කුමන පදය ද? ",
+        "choices": [
+            "මුහළ",
+            "මුඛය",
+            "මුහුණ",
+            "මුවා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " 'වපුරයි' යන ක්‍රියා පදයේ අතීත කාල ප්‍රථම පුරුෂ බහුවචන ක්‍රියා පදය වන්නේ, ",
+        "choices": [
+            "වැපුරුවේය.",
+            "වැපුරූහ.",
+            "වැපුරුවෙහු.",
+            "වැපිරිණි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ධීවර භාෂාවේ 'ඉයත්තුව' යනුවෙන් හඳුන් වන්නේ, ",
+        "choices": [
+            "මුහුදු රළ යි.",
+            "ඉදල යි.",
+            "කාලගුණය යි.",
+            "එළිපත්ත යි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තාලුජ අක්ෂර පමණක් අන්තර්ගත පිළිතුර තෝරන්න. ",
+        "choices": [
+            "ක ඛ ග ඝ ඞ",
+            "ට ඨ ඩ ඪ ණ",
+            "ච ඡ ජ ඣ ඤ",
+            "ත ථ ද ධ න"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසය සහිත පදය තෝරන්න. ",
+        "choices": [
+            "කොට්ඨාශය",
+            "ලේඛන",
+            "සමස්ථ",
+            "දෘෂ්ඨිය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වැසි \"වැස්සොත්\" ගඟ පිටාර ගලයි. උඩු කොමා  සහිත පද කුමන වියරණ වර්ගයට අයත්වේදැයි තෝරන්න. ",
+        "choices": [
+            "මිශ්‍ර ක්‍රියා",
+            "කාලාර්ථයේ අසම්භාව්‍ය ක්‍රියා",
+            "අනියමාර්ථයේ අසම්භාව්‍ය ක්‍රියා",
+            "පූර්ව ක්‍රියා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ඔහු සේවකයා ලවා වැඩ \"කරවයි\". උඩු කොමා සහිත පද කුමන වියරණ වර්ගයට අයත්වේදැයි තෝරන්න. ",
+        "choices": [
+            "ප්‍රයෝජ්‍යා ක්‍රියා",
+            "මිශ්‍ර ක්‍රියා",
+            "පූර්ව ක්‍රියා",
+            "විධි ක්‍රියා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"ඕ තොමෝ\" සතුටින් ක්‍රියා කළා ය. උඩු කොමා සහිත පද කුමන වියරණ වර්ගයට අයත්වේදැයි තෝරන්න.  ",
+        "choices": [
+            "ස්ත්‍රී ලිංග බහුවචන පදයකි.",
+            "පුරුෂලිංග ඒකවචන පදයකි.",
+            "ස්ත්‍රී ලිංග ඒකවචන පදයකි.",
+            "පුරුෂලිංග බහුවචන පදයකි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මව්වරු දරුවන් \"උදෙසා\" කැපවෙති. උඩු කොමා සහිත පද කුමන වියරණ වර්ගයට අයත්වේදැයි තෝරන්න.   ",
+        "choices": [
+            "යුගල පදයකි.",
+            "තනි පදයකි.",
+            "උපසර්ග පදයකි.",
+            "නිපාත පදයකි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ගෞරවය නැතිව යාම යන අදහස පළ කරන රූඪී පදය තෝරන්න. ",
+        "choices": [
+            "බහින කලාව",
+            "කොරේ පිටට මරේ",
+            "සායම යනවා",
+            "ඇඟේ ලේ වතුර වුණා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. \"මර ඇඳේ\" සිටිය සිරිපාල කියූ වදනට කාගෙත් සිත් කම්පා වුණි. ",
+        "choices": [
+            "මරලතෝනි දෙමින්",
+            "අන්තිම අවස්ථාවට පත් වෙමින්",
+            "මාරයාගේ ඇඳෙහි නිදාගනිමින්",
+            "දැඩි රෝගයක පෙළමින්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. ගුණපාල \"හය හතර\" නොදන්නා කෙනෙකු මෙන් හැසිරුණේ ය. ",
+        "choices": [
+            "ඉලක්කම් දන්නේ නොමැති",
+            "අධිෂ්ඨානයක් නොමැති",
+            "තර්කානුකූලභාවයක් නොමැති",
+            "දැනුම් තේරුම් නොමැති"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. කිසිවක් කරගත නොහැකි වූ ඔහු \"කරබා ගෙන\" සිටියේ ය. ",
+        "choices": [
+            "නිශ්ශබ්දව",
+            "කර සහ අත අල්ලාගෙන",
+            "දැඩි ආඩම්බරයට පත්ව",
+            "අසරණතාවයට ලක්ව"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අකාරාදි පිළිවෙළ නිවැරදි ව දැක්වෙන පද පේළිය තෝරන්න. ",
+        "choices": [
+            "ආගමනය, ආක්‍රමණය, ආචාර, ආධාර",
+            "අභිමානය, අභිප්‍රාය, සම්ප්‍රදාය, අධම",
+            "ඉතාලිය, ඉතියෝපියාව, රුසියාව, ශ්‍රී ලංකාව",
+            "රිදී, රත්තරන්, තඹ, ඇලුමිනියම්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සෑම පදයක ම අක්ෂර වින්‍යාසය නිවැරදි ව යෙදි ඇති පද පේළිය තෝරන්න. ",
+        "choices": [
+            "කතා වින්‍යාශය, ප්‍රතිභාව, හේතුඵල සම්බන්ධතා, පිලිරුව",
+            "නෂ්ටාවශේෂ, සන්තුෂ්ටිය, ප්‍රහර්ෂය, ධර්මිෂ්ඨ",
+            "කණ්ඨජ අක්ෂර, අන්තඃස්තාක්ෂර, විශේෂ, පිළියෙළ",
+            "විශ්මය, හසළත්වය, සුලළිත, පුස්ථකාලය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " \"කමතට\" යන පදයෙහි අන්තර්ගත ව්‍යඤ්ජන අක්ෂර වර්ග වනුයේ, ",
+        "choices": [
+            "කණ්ඨජ, මූර්ධජ හා දන්තජ ය.",
+            "කණ්ඨජ, ඕෂ්ඨජ හා දන්තජ ය.",
+            "කණ්ඨජ, ඕෂ්ඨජ, දන්තජ හා මූර්ධජ ය.",
+            "මූර්ධජ, කණ්ඨජ හා දන්තජ ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අනුක්ත නාම පද තුනක් හා උක්ත නාම පදයක් ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "දරුවෙකු, කාන්තාවක්, මා, තොප",
+            "තොපි, අහිංසකයෝ, දරුවන්, මගීන්",
+            "නාට්‍යාංනාවක, මහල්ලෙකු, ශිල්පීන්, ඔවුන්",
+            "විනිශ්චකාරතුමා, දරුවෙක්, මැහැල්ලියක්, තා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"නටමින්\" යන ක්‍රියාපදයේ 'නට' යනු, ",
+        "choices": [
+            "නිපාතයකි.",
+            "ප්‍රත්‍යයකි.",
+            "ධාතු ප්‍රකෘතියකි.",
+            "නාමයකි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " 'ගුරුළුගෝමින් විසින් පොළොන්නරු යුගයේ දී අමාවතුර ලියන ලදී.' යන වාක්‍යයෙහි උක්තය වනුයේ, ",
+        "choices": [
+            "පොළොන්නරු යුගයේ ය.",
+            "ගුරුළුගෝමින් ය.",
+            "අමාවතුර ය.",
+            "ගුරුළු ගෝමින් විසින් ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති ව්‍යාකරණ ප්‍රවර්ගයට  අයත් නොවන පදයක් සහිත වරණය තෝරන්න. ",
+        "choices": [
+            "මිශ්‍ර ක්‍රියා - සොයමින්, බල බලා, නටමින්, දැක දැක",
+            "ඌෂ්මාක්‍ෂර - (අ), ස, හ, ය",
+            "නිපාත - ද, මෙන්, සේ, වගේ",
+            "උපසර්ග - නි, අව, උප, කු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් නිවැරදි  අර්ථය දෙන පිළිතුර තෝරන්න. කෙටි කතාවක් නිර්මාණය කිරීම \"ආකස්මිකව\" කළ හැකි දෙයක් නොව සතත්‍යභ්‍යාසය තුළින් කළ හැක්කකි, ",
+        "choices": [
+            "අත්දැකීම් රහිතව",
+            "හේතුවක් නැතිව",
+            "නිරන්තර අභ්‍යාස සහිතව",
+            "පරිකල්පනය සහිතව"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් නිවැරදි  අර්ථය දෙන පිළිතුර තෝරන්න.  භාෂාව පිළිබඳ ඔහු සතු \"හසළත්වය\" එම කෙටි කතාව කියවීමෙන් මනාව පැහැදිලි වේ. ",
+        "choices": [
+            "නිපුණ බව",
+            "පළපුරුද්ද",
+            "දියුණු බව",
+            "පුදුම සහගත බව"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් නිවැරදි  අර්ථය දෙන පිළිතුර තෝරන්න.  ආචාර්ය සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මැතිතුමා සේවයට කැප වූ ගුරු පරපුරක් බිහි කිරීමෙහි ලා \"පුරෝගාමී\" විය. ",
+        "choices": [
+            "ඉදිරිපත් විය.",
+            "මුල් විය.",
+            "උද්‍යෝගිමත් විය.",
+            "උත්සාහ විය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ප්‍රයෝජ්‍ය ක්‍රියාවක් යෙදී ඇති වාක්‍ය කුමක් ද? ",
+        "choices": [
+            "ඇමතිතුමා නියෝග පනවයි.",
+            "කපටි නරියා හාවා රවටයි.",
+            "ගුරුවරයා ශිෂ්‍යයෙකු නටවයි.",
+            "ඔහු ගී ගයා වේදිකාවෙන් බැස ගියේ ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එක් එක් පද පේළියේ දක්වා ඇති පදවලට සමානාර්ථ යෙදුම් පමණක් ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "වියළි - ශුෂ්ක, කුම්භය - කළගෙඩිය, වත - වස්ත්‍රය, සිඳු - ගංගාව",
+            "උවම් - උපමා, කෞශල්‍ය - කුසලතා, ඉසිඹු - විශ්‍රාම, ආහාර - එළවළු",
+            "පරිශීලනය - හැදෑරීම , උක්තීන් - කියමන්, පිල්බර - මොනර, සව් - සියලු",
+            "රෝදය - චක්‍රය, විකසිත - මුකුලිත, විහඟ - කුරුලු, තරිඳු - දිනිඳු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "විරුද්ධාර්ථවත් පද යුගලයක් ඇතුළත් නොවන වරණය තෝරන්න. ",
+        "choices": [
+            "ආචාර -  අනාචාර",
+            "ආගන්තුක - නේවාසික",
+            "ප්‍රබල - දුබල",
+            "රක්ෂිත - සුරක්ෂිත"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දී ඇති වචන ගොනු අතුරෙන් අන්‍යෝන්‍ය වශයෙන් සමීප කාර්යයන් සමඟ බැඳී නොපවත්නා පද පේළිය ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "වාලුකාංගණ, බෝධිඝර, පටිමාඝර, චේතියඝර",
+            "බක්කම්මා, මහම්මා, කුඩප්පච්චි, ලොකුතාත්තා",
+            "කොස්ස, ඉදල, රේක්කය, දෙබල",
+            "වාච්‍යර්ථය, ධ්වනිතාර්ථය, පරිකල්පනය, න්‍යාය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සුන්දර+ඊය යන ප්‍රකෘතිය හා ප්‍රත්‍යය එක්වූ විට සකස් වන පදය නිවැරදි ව දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "සුන්දරීය.",
+            "සුන්දර ය.",
+            "සෞන්දරී ය.",
+            "සෞන්දර්යය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දී ඇති අක්ෂර ගැළපීමෙන් නිර්මාණය වන නිවැරදි නාට්‍ය නාමය හඳුන්වන්න, ",
+        "choices": [
+            "තත්රංත",
+            "හසිහුංබා",
+            "බරිනෑනා",
+            "ලල්ලවෙහුං"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " පහත දක්වන වාක්‍ය අතුරෙන් මනා පද ගැලපීමෙන් යුක්ත අර්ථාන්විත වාක්‍යය තෝරන්න. ",
+        "choices": [
+            "අන්තර්ගත කෘතියකි බුත්සරණ නව අරහාදී බුදුගුණ සියල්ලක් ම.",
+            "නිදහස් අදහස් ප්‍රකාශ කිරීම, ජනිත කිරීම ස්වාධීන දේශයක් පමණි.",
+            "සියල්ල එක්තැන්වන කලා මාධ්‍යකි නාට්‍ය කලාව, එනම් කාව්‍ය, ගීතය හා චිත්‍ර.",
+            "විශේෂාංග ලිපියක් එහි අන්තර්ගත කරුණු සම්බන්ධ සෑම පාර්ශවයක් ම ආවරණය කරමින් සම්පාදනය කරන ලද්දක් විය යුතු ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "යම් අරමුණකින් තොරව කටයුතු කිරීම, යන අදහසට වඩාත් ගැළපෙන ප්‍රස්තාව පිරුළ තෝරන්න.  ",
+        "choices": [
+            "වක්කඩේ හකුරු හැංගුවා වගේ.",
+            "කළුවා මාරපන් ගියා වගේ.",
+            "දී කිරට බලල්ලුත් සාක්ෂි.",
+            "විද්දෙ හාවට වැදුණෙ පඳුරට."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අසිරු අවස්ථාවේ උපකාර කළ අය නොසලකා හැරීම, යන අදහසට වඩාත් ගැළපෙන ප්‍රස්තාව පිරුළ තෝරන්න.  ",
+        "choices": [
+            "දී කිරට බලල්ලුත් සාක්ෂි.",
+            "තැටිය රත්වුණු විට රොටිය පුච්චා ගැනීම.",
+            "අව්ව තිබෙන විට පිදුරු වේලා ගැනීම.",
+            "වහලෙට නැගි ඉනිමගට පයින් ගැසීම."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "කෙනෙකුට තමා නුරුස්සන පුද්ගලයකු හමුවීම, යන අදහසට වඩාත් ගැළපෙන ප්‍රස්තාව පිරුළ තෝරන්න.   ",
+        "choices": [
+            "උඩින් මිතුරු යටින් හතුරු.",
+            "කලකදි වහලු කලක දි රස වෙනවා ලූ.",
+            "නයාට අඳුකොළ වගේ.",
+            "එපා වාහෙට හොදි බෙදන්නා වගේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න. ",
+        "choices": [
+            "ඔවුන් නිතිපතා පන්සිල් සුරකින බෞද්ධයන් වෙති.",
+            "ඕ තොමෝ නින්දට යාමට පෙර තම දෙමව්පියන් වැන්දෝ ය.",
+            "දරුවන් නිතිපතා තම වගකීම් ඉටු කළ යුත්තෝ ය.",
+            "සියලු උසස්පෙළ සිසුන් රැස්වීම සඳහා සහභාගී විය යුතුය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "රෝගීහු රෝහලේ නැවතී ප්‍රතිකාර ලබා ඇත.",
+            "දුටුගැමුණු රජතුමා රට දැහැමින් පාලනය කළ ධර්මිෂ්ඨ රජකෙනෙක් ලූ.",
+            "අපි නීතිගරුක පුද්ගලයෝ වන්නේ කවදා ද?",
+            "තොප උදෙන් ම පාසලේ ක්‍රීඩාංගණයට ගියෙහු."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "අභය භුමියේ දී සංචාරකයින් විසින් සත්තු නරඹන ලදහ.",
+            "අපේ පන්තිය අසළ තබා තිබූ මල් පෝච්චි යමෙක් විසින් සොරාගෙන ඇත.",
+            "බුද්ධිමත් ගුරුවරියක සාහිත්‍ය නිර්මාණ කෙරෙහි අප යොමු කළහ.",
+            "පියුම්හු උදෙන් ම විකසිත වෙයි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දන ගැනීමට අත්‍යාවශ්‍යම කාරණයක්! හ්ම්, දැන් කියනු අර රුධිරය ගැන කතාව..... හුණුවටයේ කතාව නාටකයේ ඇතුළත් මෙය ප්‍රකාශ කරන ලද්දේ, \n",
+        "choices": [
+            "අසඩක් ය.",
+            "1 වන නීතිඥයා ය.",
+            "නටාලියා ය.",
+            "සයිමන් ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පුරාණ ලංකාවේ \"හේන් ඇල්ලීම\" යනුවෙන් අදහස් කරන්නේ, ",
+        "choices": [
+            "හේන සඳහා අවශ්‍ය උපකරණ සොයා ගැනීමයි.",
+            "හේන වැඩ කිරීමට පෙර තෝරා ගත් පදුරකට වැඳීමයි.",
+            "ගොවියා හේනෙහි වැඩ ආරම්භ කිරීමයි.",
+            "ගොවියා හේන සඳහා සුබ දිනයක් තෝරා ගැනීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " පහත දක්වන වාක්‍යය ලේබන ව්‍යවහාරයට හැරවූ විට වඩාත් නිවැරදි වන්නේ කුමක් ද? \"අපි ඒ දරුවොත් එක්ක උදේ රැයින් ම පිටත් වුණා.\" ",
+        "choices": [
+            "අපි එම දරුවන් සමඟ උදේ හා රාත්‍රියේ පිටත් වුණෙමු.",
+            "අපි එම දරුවන් සමඟ උදෙන්ම පිටත් වුණෙමු.",
+            "අප දරුවොත් සමඟ උදේ පාන්දරම පිටත් වුණි.",
+            "අපි ඒ දරුවෝ එක්ක උදෙන්ම ගියෙමු."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මොනරාගල පෙදෙසෙහි \"කුදහන්නැතුං වරෙල්ලා\" යනුවෙන් අදහස් කරන්නේ, ",
+        "choices": [
+            "පමා නො වී ආ යුතු බව පැවසීමට ය.",
+            "නිදාගන්නෙ නැතිව සිටිය යුතු බව පැවසීමට ය.",
+            "නිදාගැනීමට ප්‍රමාද නොවිය යුතු බව පැවසීමට ය.",
+            "පමා නොවී නිදාගත යුතු බව පැවසීමට ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වැව මඟින් බුදුන් වහන්සේ විසින් අනුදක්නා ලද නිරවද්‍ය ජීවනෝපායක් වූ කෘෂිකර්මාන්තයට අවශ්‍ය දියවර ප්‍රදානය කෙරුණු අතර, වැව් ඉස්මත්තේ වූ දාගැබ් සදාචාර සම්පන්න ජන සමාජයකට අවශ්‍ය බෞද්ධ වටපිටාව නිර්මාණය කර දුන්නේ ය. ",
+        "choices": [
+            "කෘෂි කෘෂිකර්මාන්තයට අවශ්‍ය දියවර වැව තුළින් ලබාදුන් අතර සදාචාර සම්පන්න ජන ජීවිතයක් බුදුන් වහන්සේ අනුදක්වන ලදී.",
+            "බුදුන් වහන්සේ විසින් අනුදක්නා කෘෂිකර්මාන්තයට වැව්වලින් ජලය ලබාදුන්නා සේ ම දාගැබ තුළින් සදාචාර සම්පන්න ජන සමාජයකට සුදුසු වටපිටාවක් නිර්මාණය විණි.",
+            "වැව මඟින් බුදුන් වහන්සේ අනුදක්නා කෘෂිකර්මාන්තයත් දාගැබ තුළින් සදාචාර සම්පන්න ජන සමාජයක් පිළිබිඹු කළේ ය.",
+            "වැව මඟින් බුදුන්වහන්සේ අනුදක්නා කෘෂි කර්මාන්තයත් බෞද්ධ වටපිටාවක් නිර්මාණය කිරීමට දාගැබත් ජනතාවට උපකාරී විය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න.\nශිෂ්‍ය නායකයින් පවරන වැඩවල දී \"කර ඇරීම\" දිනිඳුගේ සිරිත ය. ",
+        "choices": [
+            "සහය වීම",
+            "කැප වී සිටීම",
+            "මඟ හැරීම",
+            "මුල් තැන ගැනීම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න.\n ධනවත් ව්‍යාපාරිකයෙකු වූ පෙරේරාගේ සියලු වස්තුව \"ඈලියාවට ගියේ\" ඔහුගේ පුතා සුරාවට ලොල් වූ නිසා ය. ",
+        "choices": [
+            "විනාශයට පත්වූයේ",
+            "ඈලියාව ප්‍රදේශයට ගියේ",
+            "විශාලත්වයට පත්වූයේ",
+            "උමතු බවට පත්වූයේ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. ශ්‍රමදානයට සහභාගි වූ දෙමව්පියන් \"ගජරාමෙට\" වැඩ කළ බැවින් ක්‍රීඩා පිටියේ වැඩ ඉක්මනින් නිමා විය, ",
+        "choices": [
+            "අලසකමට",
+            "කඩිසරකමට",
+            "නිර්ව්‍යාජ කමින්",
+            "සෙනෙහසින්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අකාරාදි පිළිවෙළ නිවැරදි ව දැක්වෙන පද පේළිය තෝරන්න. ",
+        "choices": [
+            "ගාල්ල, ගම්පහ, ගලේවෙල, ගෙලිඔය",
+            "කුරුණෑගල, කෑගල්ල, කැකිරාව, කළුතර",
+            "අනුරාධපුර, අඹේවෙල, අවිස්සාවේල්ල, අලව්ව",
+            "රත්නපුර, මහනුවර, යාපනය, පස්යාල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සෑම පදයක ම අක්ෂර වින්‍යාසය නිවැරදි පද පේළිය තෝරන්න. ",
+        "choices": [
+            "විලාසය, වීරෝදාර, කුලුණින්, ප්‍රතිඵල",
+            "විචක්ෂණ, අධිකාරිතුමා, ආකර්ශනීය, වයිවරණ",
+            "පරිපෝෂිත, ගාම්භීරත්වය, ධ්වනිපූර්ණ, චිරන්ථන",
+            "වාච්‍යර්ථ, ලංකේශ්වර, වර්ෂණය, නර්ථනය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"කුරුල්ලා\" යන්න අයත් වන්නේ, ",
+        "choices": [
+            "ස්වර සන්ධියට",
+            "ද්විත්ව රූප සන්ධියට",
+            "පූරස්වර ලෝප සන්ධියට",
+            "පරරූප සන්ධියට"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උක්ත පද දෙකක් හා අනුක්ත පද දෙකක් යෙදී ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "මගීහු, දරුවෝ, සතුරන්, කුරුල්ලෙක්",
+            "සිංහයෝ, මිනිස්සු, දැරියක, කුමාරයෙක්",
+            "කුමාරයෙකු, දැරියක, සිංහ ධේනුවක, දූෂකයෙකු",
+            "එළදෙනක, දේශපාලනඥයෙකු, ගැහැනියක්, ඔවුහු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නගර + ඉක යන ප්‍රකෘතිය හා ප්‍රත්‍යය එක් වූ විට නිවැරදි ව දැක්වෙන වරණය තෝරන්න. ",
+        "choices": [
+            "නගරික",
+            "නාගරික",
+            "නගරයික",
+            "නාගරයික"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති ව්‍යාකරණ ප්‍රවර්ගයට අයත් නොවන පදයක් සහිත වරණය තෝරන්න. ",
+        "choices": [
+            "සර්ව නාම - ඔහු, තෝ , නුඹ, මම",
+            "මූර්ධජ අක්ෂර - ණ, ට, ර, ඩ",
+            "අසම්භාව්‍ය ක්‍රියා - කියතොත්, ලියද්දී, ලියමින්, නැටුවොත්",
+            "සන්ධි - නිලුපුල් , වටොර, එදිනෙදා, වට්ටිය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " 'නටති' යන ක්‍රියා පදයේ 'නට' යනු, ",
+        "choices": [
+            "ක්‍රියා පදයකි",
+            "නාම ප්‍රකෘතියකි",
+            "නාම පදයකි",
+            "ධාතු ප්‍රකෘතියකි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ද්විත්ව උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදි ව දක්වන පිළිතුර තෝරන්න.\n 'අ' යනු \"කණ්ඨඡ\" අක්ෂරයකි, ",
+        "choices": [
+            "දිවේ මුල කොටස උගුර දෙසට ළං වීමෙන් උපදින ශබ්ද.",
+            "දිවේ මැද කොටස තල්ල වෙත සමීපවීම නිසා උපදින ශබ්ද.",
+            "යටිතොල හා උඩුතොල ආධාරයෙන් උපදින ශබ්ද.",
+            "දිවේ අග කොටස උඩු දත් වැටියේ ස්පර්ශ වීමෙන් උපදින ශබ්ද."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදි ව දක්වන පිළිතුර තෝරන්න. සාර්ථක කෙටි කතාවක් නිර්මාණය කිරීම \"ආකස්මිකව\" සිදුවන්නක් නොවේ, ",
+        "choices": [
+            "අනුමාන සිතුවිල්ලක් ඇතිව",
+            "හේතුවක් නැතිව",
+            "අදහසක් නොමැතිව",
+            "පරිකල්පනයක් ඇතිව"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදි ව දක්වන පිළිතුර තෝරන්න. ඔහුගේ හිසෙහි තැනින් තැන \"නරමුල්\" දක්නට තිබුණේ ය. ",
+        "choices": [
+            "හිසකෙස් නොමැති තැන්",
+            "සුදු ලප වැනි තැන්",
+            "පැසුණු කෙස්",
+            "නහර ගැට"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දී ඇති වචන ගොනු අතරින් අන්‍යෝන්‍ය වශයෙන් සමීප කාර්යයන් සමඟ බැඳී නොපවත්නා පද ජේලිය තෝරන්න. ",
+        "choices": [
+            "කණ්ඨජ, මූර්ධජ, ඕෂ්ඨජ, තාලුජ",
+            "පොත, පෑන, පැන්සල, නිළ ඇඳුම",
+            "ස්වර, පරස්වර ලෝප, පූර්වරූප, ද්විත්වරූප",
+            "චතුරස්‍රය, ෂඩස්‍රය, සමචතුරස්‍රය, ත්‍රිකෝණය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එක් එක් පද පේළියේ දී ඇති පදවලට සමානාර්ථයක් නොදෙන පදයක් ඇතුළත් පද පේළිය තෝරන්න. ",
+        "choices": [
+            "කේශ - කෙස්, බෙල්ල - ගෙල, උවම් - උපමා, සබවස - සත්‍ය වචන",
+            "නිශා - රාත්‍රිය, පුල් - පිපුණු, සුනෙර - මහාමේරු, සිඳු - සමුද්‍රය",
+            "ගඟ - නදිය, ප්‍රාකාරය - පවුර, සුදු - ශ්වේත, බිරිඳ - පාදපරිචාරිකා",
+            "කුලුණින් - කරුණාව, විලිකුන් - ඉඳුණු, නිසයුරු - හිරු, උදුළ - බබලන"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " විරුද්ධාර්ථවත් පද යුගලයක් ඇතුළත් වන වරණය තෝරන්න. ",
+        "choices": [
+            "තරිඳු - නිශාකර",
+            "හීන - කුලහීන",
+            "අනූන - සුලබ",
+            "උත්තම - අධම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ආශිර්වාද ක්‍රියාවක් යෙදී ඇති වාක්‍ය කුමක් ද? ",
+        "choices": [
+            "දරුවනි, වැරදි ක්‍රියාවල නොයෙදෙනු.",
+            "දරුවාට සුවය ලැබෙන බව ඇය ප්‍රකාශ කළා ය.",
+            "ඔහුගේ සිත සුවපත් වේවා'යි විදුහල්පතිතුමා පැවසුවේ ය.",
+            "ඔවුන් අනුන්ට හිංසා නොකරනු ඇතැයි මම සිතමි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිවැරදි අදහස දෙන ප්‍රකාශය තෝරන්න. ",
+        "choices": [
+            "'දැරියක්' යන්න සර්ව නාම පදයකි.",
+            "'යති' යනු වර්තමාන කාල ප්‍රථම පුරුෂ බහුවචන පදයකි.",
+            "මා විසින් පොතක් බැලෙයි. මෙහි උක්ත කතෘ වනුයේ 'මා' යන්නය.",
+            "'මලණු' යන්න මධ්‍යම පුරුෂ ඒක වචන නාම පදයකි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වාසි පැත්තට කවුරුත් හිතවත්ව කතා කිරීම, යන අදහසට වඩාත් ම ගැළපෙන ප්‍රස්තාව පිරුළ අන්තර්ගත වරණය තෝරන්න. ",
+        "choices": [
+            "වැල යනු අතටම මැස්ස ගහනවා වගේ.",
+            "දී කිරට බළල්ලුත් සාක්කි ලූ.",
+            "ජාඩියට මූඩිය වගේ.",
+            "ආඬි හත්දෙනාගේ කැඳ හැලිය වගේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිවැරදි දේ නොකොට නිෂ්ඵල අනුවණ ක්‍රියාවල යෙදීම, යන අදහසට වඩාත් ම ගැළපෙන ප්‍රස්තාව පිරුළ අන්තර්ගත වරණය තෝරන්න.  ",
+        "choices": [
+            "අතීසාරෙට අමුඩෙ ගහනවා වගේ.",
+            "දැලි පිහියෙන් කිරි කන්නා වගේ.",
+            "කැලේ මාරු උණාට කොටියගෙ පුල්ලි වෙනස් වන්නේ නෑ වගේ.",
+            "දේසේ හැටියට බාසෙ කිව්ව ලූ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " හොඳ දේවල්වලිනුත් අයහපත සිදුවීම, යන අදහසට වඩාත් ම ගැළපෙන ප්‍රස්තාව පිරුළ අන්තර්ගත වරණය තෝරන්න.   ",
+        "choices": [
+            "කපුරු මලේ සුවඳට බඹරුන් මැරෙනවා ලූ.",
+            "කැලේට පායපු සඳ වාගේ.",
+            "වඳින්න ගිය දේවාලෙ හිස මත කඩා වැටුණා වගේ.",
+            "ගමේ යකා පිට යකාට වඩා හොඳයි කීවා ලූ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උපසර්ග පදයක් යෙදී ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "අක්කා ද නංගී ද උදෙන් ම පාසල් ගියහ.",
+            "උවදුරෙන් බේරීමට සුපැහැදිලි තීරණයක් ගත යුතු බව ඇය කීවා ය.",
+            "හදිසි ආපදා අවස්ථාවක් ඇති වුවහොත් දැනුම් දිය යුතු දුරකතන අංක ඇත.",
+            "සාගරය බඳු වේදනාවෝ සුන් වෙලා යනවෝ....."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "ඔවුන් එම ප්‍රශ්නය වටහා ගැනීම යෙහෙකි.",
+            "දක්ෂ කථිකාවක් වන්නේ කෙසේ ද?",
+            "ඔවුහු සුවපත් වේවා!",
+            "හෙතෙමේ උදෙන් ම රිය පාසල වෙත ගියහ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "නදී තොමෝ ගම්මැද්දෙන් සෙමෙන් සෙමෙන් ගලා බසිති.",
+            "සියලු රියදුරෝ ආරක්ෂක පටි භාවිත කළ යුත්තෝ ය.",
+            "දරුවන් විසින් මාර්ග නීතිරීතිහු පිළිපැදෙයි.",
+            "මා නිරතුරුව පොත පත පරිශීලනය කරමි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "ආචාර්යවරුන් ක්‍රීඩාපිටියෙහි ඉඳ ඇත.",
+            "අපි දරුවන් පිළිබඳව නිරන්තරයෙන් විමසිලිමත් විය යුතුය.",
+            "ක්‍රීඩකයන් සියල්ලෝ ම අත්පන්දු ක්‍රීඩාවෙහි යෙදෙයි.",
+            "අප සියල්ලන් ම ශ්‍රී ලාංකිකයෝ වෙමු."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍ය ලේඛන ව්‍යවහාරයට හැරවූ විට නිවැරදි වන්නේ කුමක් ද? ''එයාලා ගෙදර නැති වෙලේ යාළුවෙක් ගෙදර ආවා.'' ",
+        "choices": [
+            "ඔවුහු ගෙදර නොමැති මොහොතේ යාළුවෙක් පැමිණියේ ය.",
+            "ඔවුහු ගෙදර නොසිටි වෙලේ යාළුවෙක් නිවසට ආවා.",
+            "ඔවුහු නිවසේ නොමැති මොහොතේ මිතුරෙක් නිවසට පැමිණියේ ය.",
+            "ඔවුන් ගෙදර නොමැති මොහොතේ මිතුරෙකු නිවසට පැමිණියේ ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිවැරදිව දක්වා ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "කැලණි පාලම - ආර්.ආර්. සමරකෝන්, කුවේණි - එදිරිවීර සරච්චන්ද්‍ර",
+            "සිංහබාහු - එදිරිවීර සරච්චන්ද්‍ර , තට්ටු ගෙවල් - සුගතපාල ද සිල්වා",
+            "නරිබැනා - දයානන්ද ගුණවර්ධන, බෝඩිංකාරයෝ - හෙන්රි ජයසේන",
+            "මනමේ - එදිරිවීර සරච්චන්ද්‍ර , කුවේණි - ආර්.ආර්. සමරකෝන්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උපමාවක් සහිත වරණය තෝරන්න. ",
+        "choices": [
+            "පතසන් අවරගිරි නැටියෙන් වැටෙන කල.....",
+            "රත් වැ ගිය යවට වැනි ඇස්......",
+            "ඈතැ ධූලින් වැසීගිය ඇත් රජ යැ....",
+            "තරිදා කරන සොමි කැලුමෙන් පැතිරීම....."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"මේ මිනිස්සු තමයි මහ පොළොවෙ නියම පුත්තු\" මෙම පාඨය සඳහන් පාඩමේ නම වනුයේ. ",
+        "choices": [
+            "තොරොක්කෝව",
+            "සාහිත්‍ය නිර්මාණ විචාරය",
+            "මං තනන්නෝ",
+            "මහාචාර්ය සේනක බිබිලේ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " \"අකීකරු පුත්‍රයකුගේ ලෝකය\" නමැති පද්‍ය නිර්මාණය, ",
+        "choices": [
+            "මහගම සේකරගේ ය.",
+            "පරාක්‍රම කොඩිතුවක්කුගේ ය.",
+            "එච්.එම්. කුඩලිගමයන්ගේ ය.",
+            "දයාසේන ගුණසිංහගේ ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "රූපකයක් රහිත වරණය තෝරන්න. ",
+        "choices": [
+            "සාගරය බඳු වේදනාවෝ සුන්වෙලා යනවෝ......",
+            "අම්මා සඳකි මා ඒ ලොව......",
+            "ජාතිය රන් විමනක් වේ ආගම මිණී පහනක් වේ.......",
+            "කුරා කුහුඹු මිනිසා වෙමි මා......"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මොනරාගල ප්‍රදේශයේ \"කුදහන්නැතුං වරෙල්ලා\" යනුවෙන් අදහස් කරන්නේ, ",
+        "choices": [
+            "පමා නොවී ආ බව පැවසීමටය.",
+            "කරදර නොකර ආ යුතු බව කීමට ය.",
+            "නිදාගන්නේ නැතිව ආ යුතු බව කීමටය.",
+            "නිදාගන්නේ නැතිව ගියා යන්න කීමටය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මෙමෝ පතක අන්තර්ගත කාර්යයක් වනුයේ, ",
+        "choices": [
+            "එක් පුද්ගලයෙකුට පමණක් තොරතුරක් ලබා දීම.",
+            "කිසියම් කණ්ඩායමකට තොරතුරක් දැනුම් දීම.",
+            "කිසිවිටෙක අගය කිරීමක් හෝ දිරි ගැන්වීමක් මෙමගින් නොකිරීමය.",
+            "වෙළඳ දැන්වීම් හා නව නිෂ්පාදනයන් හඳුන්වා දීමය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1V0xSmBOeRRDM9VXrmy6J0ClRBG8-I_dr "
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. ඔහු \"ගිනි කන වෙළෙන්දකු\" බව එදින වඩාත් තහවුරු විය.  ",
+        "choices": [
+            "අව්වේ වැඩ කරන්නෙකු",
+            "වෙළඳ බඩුවලින් ඉතා අසාධාරණ ලෙස ලාභ ගන්නෙකු",
+            "දුක්මහන්සි වෙන අයකු",
+            "සාධාරණ වෙළෙන්දෙකු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. ස්වාමියා තමන්ගේ \"අත් පා බැඳ\" වැඩ ගන්නේ යැයි සමහර සේවකයෝ කියති. ",
+        "choices": [
+            "පහරදීම්වලට ලක්කොට",
+            "උසස්වීම් නොදී",
+            "ඉල්ලීම් නොසලකා",
+            "ණය සහනාධාර නොදී"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. තාත්තා \"නා කපන වැස්සේ\" නිවසට පැමිණියේ ය. ",
+        "choices": [
+            "ඉතාමත් තද වැස්සේ",
+            "නා ගස් පවා කඩා වැටෙන තරම් වැස්සේ",
+            "හෙමිහිට වහින වැස්සේ",
+            "කළුවර කපා වහින වැස්සේ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "භාෂාව යනු නිර්මාණකරුවාගේ සාහිත්‍යය,",
+        "choices": [
+            "උපකරණය යි",
+            "තේමාව යි",
+            "පාඨයයි",
+            "මෙවලමයි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සෑම පදයක ම පදවල අක්ෂර වින්‍යාසය නිවැරදිව යෙදී ඇති පද පේළිය තෝරන්න. ",
+        "choices": [
+            "මොනරා, කනගාටුව, කොට්ඨාසය, විමර්ශනය",
+            "උච්චාරණය, කණ්ඩායම, ප්‍රවිෂ්ට, හෙන්ඩුව",
+            "කසළ, පතුල, අළුත්වැඩියාව, නිෂ්ඵල",
+            "නළල, පාපිලි, සෙවණ, පරමාදර්ෂය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පුරුද්ද, විරූඪ , මිනිත්තුව, චිත්‍ර යන වචනවල දෙවැනි අකුරෙහි අන්තර්ගත පිල්ලම අනුපිළිවෙලින් දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "ඇදපිල්ල, දීර්ඝ ඇදපිල්ල, කෙටි ඉස්පිල්ල, රකාරාංශය",
+            "කෙටි පාපිල්ල, දීර්ඝ පාපිල්ල, කෙටි ඉස්පිල්ල, රකාරාංශය",
+            "කෙටි පාපිල්ල, දීර්ඝ ඇදපිල්ල, කෙටි ඉස්පිල්ල, රකාරාංශය",
+            "කෙටි පාපිල්ල, දීර්ඝ පාපිල්ල, රකාරාංශය, කෙටි ඉස්පිල්ල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උදක' යන පදයෙහි අන්තර්ගත ව්‍යඤ්ජන අක්ෂර වර්ග වනුයේ, ",
+        "choices": [
+            "කණ්ඨජ, ඕෂ්ඨජ, දන්තජ",
+            "ඕෂ්ඨජ, දන්තජ, මූර්ධජ",
+            "තාලුජ, දන්තජ, කණ්ඨජ",
+            "ඕෂ්ඨජ, දන්තජ, කණ්ඨජ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අකාරාදී පිළිවෙල නිවැරදි ව දැක්වන පද පේළිය තෝරන්න. ",
+        "choices": [
+            "පොත, පෑන, මකන, පැන්සල",
+            "මරදන්කඩවල, මරදාන, යාපනය, වළස්මුල්ල",
+            "පන්සල, පල්ලිය, කෝවිල, පාසල",
+            "කලිසම, ගවුම, සාරිය, සරම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උක්ත නාම පද පමණක් යෙදී ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "ළමයා, ගැහැනියක, ගවයෙක්, කුරුල්ලෝ",
+            "කම්කරුවෝ, අපි, සතුන්, දෙවියෝ",
+            "පක්ෂීහු, පාලකයෝ, ඔවුන්, ගොවිහු",
+            "ගායිකාවක්, වෙළෙන්දෝ, මල්ලියෙක්, පිළිහුඩුවෙක්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ඇගේ දත් \"කොඳ කැකුළු\" මෙන් බබළයි. යන වාක්‍යයේ \"කොඳ කැකුළු\" යන්නෙහි විභක්තිය කුමක් ද? ",
+        "choices": [
+            "ප්‍රථමා",
+            "කර්ම",
+            "කර්තෘ",
+            "කරණ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එම \"දරුදැරියෝ \" වෙහෙස මහන්සි වී මල් පාත්තිය සැකසූහ. මෙහි දරුදැරියෝ යන්න අයත් සමාසය කුමක් ද? ",
+        "choices": [
+            "විශේෂණ",
+            "අන්‍යාර්ථ",
+            "'ද' කාරාර්ථ",
+            "විභක්ති"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " \"වර්ග+ඉක\" යන ප්‍රකෘතිය සහ ප්‍රත්‍යය එක් වූ විට සකස් වන පදය නිවැරදි ව දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "වාර්ගික",
+            "වර්ගික",
+            "වර්ගයික",
+            "වාර්ගයික"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති ව්‍යාකරණ ප්‍රවර්ගයට අයත් 'නොවන' පදයක් සහිත වරණය තෝරන්න. ",
+        "choices": [
+            "නිපාත - නිතර, අහෝ, පිණිස, හෙවත්",
+            "පූර්ව ක්‍රියා - ගොස්, බලා, සභා, ලියා",
+            "කෘදන්ත - නටන්නා, කියන, රකින්නී, නරඹන",
+            "ප්‍රයෝජා ක්‍රියා - කඩවයි, ලියවයි, දුවවයි, බලවයි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " අසම්භාව්‍ය ක්‍රියාවක් යෙදී නැති වරණය තෝරන්න. ",
+        "choices": [
+            "ඔහු දුවද්දී වැටුණි.",
+            "අද වැස්සොත් වැව පිරේවි",
+            "හිරු නැගෙත නෙලුම් පිපේ",
+            "මගේ වැඩබලා මව සතුටු විය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එය \"අනුචිත\" තීරණයකි. උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "සුදුසු",
+            "ප්‍රමාණවත්",
+            "කාලෝචිත",
+            "නුසුදුසු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": " ඔහු \"සියලඟ\" දූවිලි තවරා ගනිමින් සෙල්ලම් කළේ ය. උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "තමන්ගේ ළඟ",
+            "සීයා ළඟ",
+            "මුළු ශරීරය ම",
+            "පාදවල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එම \"වෘත්තාන්තය\" හරි ම රසවත් ය. උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "කතාව",
+            "රවුම",
+            "පාඩම",
+            "ඡේදය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දී ඇති වචන ගොනු අතුරෙන් අන්‍යෝන්‍ය වශයෙන් සමීප කාර්යයන් සමග බැඳි නොපවත්නා පද පේළිය ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "ඔසරිය, ගවුම, සාය, හැට්ටය",
+            "කලිසම, සරම, කමිසය, බැනියම",
+            "මාලය, මුද්ද, ඔරලෝසුව, කැඩපත",
+            "මල්, පහන්, හඳුන්කුරු, පහන්තිර"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එක් එක් පද පේළියේ දක්වා ඇති පදවලට සමානාර්ථ යෙදුම් පමණක් ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "සකල - සියලු, රාවය - නද, මිත්‍යා - සකි, තෙල් - තෛල",
+            "පතළ - පැතිරුණු, අංජන - අඳුන්, ලෝකය - ජගත්, පියුම් - මහනෙල්",
+            "දේව - අසුර, වෙළඳ - වාණිජ, උද්‍යාන - උයන්, නයන - නෙත්",
+            "කළල්  - වැලි, ඉක්මන් - සෙද, සිංහ - මෘගරාජ, නිති - නිතර"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති පදයට සමානාර්ථයක් නොදෙන පදයක් ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "සතුට - ප්‍රීතිය, ප්‍රහර්ෂය, සොම්නස, ආහ්ලාදය",
+            "සක්දෙව් - සුරපති, විදුරවි, තිදසිදු, දැමිඳුරු",
+            "භූමි - මිහි, ධරණී, පොළොව, මී",
+            "පොත - ගත, ග්‍රන්ථය, පුස්තකය, කෘතිය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "විරුද්ධාර්ථවත් පද යුගලයක් ඇතුළත් නොවන වරණය තෝරන්න. ",
+        "choices": [
+            "ඥාති - මිත්‍ර",
+            "ලේඛන - භාෂණ",
+            "අනුමාන - ප්‍රත්‍යක්ෂ",
+            "ආධුනික - ප්‍රවීණ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වැරදි අදහස දෙන ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ඓ, ඖ සංයුක්ත ස්වර අක්ෂර ය.",
+            "''සාදනු ලබයි'' යන්ත කර්මකාරක වර්තමාන කාල ඒකවචන ක්‍රියාවකි.",
+            "පූර්ව ක්‍රියාවක් දෙවරක් යෙදීමෙන් ද මිශ්‍ර ක්‍රියාවක් සකසා ගත හැකි ය.",
+            "'නො හැකි' යන්නෙහි 'නො' යනු උපසර්ගය කි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වන වාක්‍ය අතුරෙන් මනා පද ගැළපීමෙන් යුක්ත අර්ථාන්විත වාක්‍යය තෝරන්න. ",
+        "choices": [
+            "අවම මව්පිය දූ දරු සබඳතාවය මත දුරස්ථභාවය ඔවුන් අතර වේ.",
+            "සංචාරක වැඩි පක්ෂීන්ගේ පැමිණීම අලංකාර පරිසරය වඩවයි.",
+            "නාවික යාත්‍රාවක් වෙරළට සේන්දු වෙද්දී ඊට පසුපසින් උස් ජල පාරක් දිස්විය.",
+            "එතුමාගේ විස්මිත අදහස් හමුවේ නර්කානුකූල වූ ජනතාව හඬ නැගුන."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"තමා කළ වැරැද්ද තමාට ම දැනීම\" යන අදහසට වඩාත් ගැළපෙන ප්‍රස්තාව පිරුළ තෝරන්න,",
+        "choices": [
+            "ගඟට ඉනි කැපුවා වගේ.",
+            "අබ කෑ මිනිහගෙ නහය දනව වගේ.",
+            "අතු කඩා මොර කන්නා වගේ.",
+            "මහ මුහුදට දෙහි මිරිකුවා වගේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"අවදානම් ලෙස කටයුතු කිරීම\", යන අදහසට වඩාත් ගැළපෙන ප්‍රස්තාව පිරුළ තෝරන්න ",
+        "choices": [
+            "දියකාවගෙ පිටේ ලුණු හැංගුවා වගේ.",
+            "අඟේ ඉඳන් කන කනවා වගේ.",
+            "දිය යටින් ගින්දර ගෙන යනවා වගේ.",
+            "දැලි පිහියෙන් කිරි කනවා වගේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ස්වර සන්ධියට හා පරස්වරලෝප සන්ධියට අදාළ නිදසුන් පිළිවෙළින් දක්වන වරණය තෝරන්න. ",
+        "choices": [
+            "ලකඹර, සුරාසුර",
+            "යනෙන, සුරඟන",
+            "ලකඹර, සුරඟන",
+            "ඔවුනොවුන්, සුරාසුර"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍ය තෝරන්න. ",
+        "choices": [
+            "සාමාජිකයෝ සියල්ලෝ ම අසුන් ගත්හ.",
+            "විනිසුරුවරු පැමිණියහොත් අපි තරගය ආරම්භ කරමු.",
+            "එම උපදේශකතුමා පියෙක් වැනි උතුමෙක් ය.",
+            "සතුරෝ ආසන්න කඳවුර වටලාගෙන ඇත."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූලව නිවැරදි වාක්‍ය තෝරන්න. ",
+        "choices": [
+            "සහෝදරයාත් මමත් පැරණි නිවස වෙත ගියෙමි.",
+            "වැඩිහිටියෝ සැමදා පිදියයුත්තන් වෙති.",
+            "ආයෝජකයන් විසින් නව නිෂ්පාදන ව්‍යාපෘති අරඹන ලදී.",
+            "අසල්වැසියෝ සමඟ ගෙහිමියා සාකච්ඡා කරති."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත වාක්‍ය ලේඛන ව්‍යවහාරයට හැරවූ විට වඩාත් නිවැරදි වන්නේ කුමක් ද? \"ඒ ගොල්ලො කඩිමුඩියේ එද්දි මං පුදුම වුණා.\" ",
+        "choices": [
+            "ඔවුහු හදිසියේ පැමිණෙද්දී මම පුදුමයට පත් වීමි.",
+            "ඔවුන් හදිසියේ පැමිණෙද්දී මම පුදුමයට පත්වීමි.",
+            "ඔවුන් හදිසියේ පැමිණෙද්දී මා පුදුමයට පත්වීමි.",
+            "ඔවුහු හදිසියේ පැමිණෙද්දී මා පුදුමයට පත්වීමි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"මංතනන්නෝ \" කෙටි කතාවේ කතුවරයා කවුද? ",
+        "choices": [
+            "මහගම සේකර",
+            "ගුණදාස අමරසේකර",
+            "මාර්ටින් වික්‍රමසිංහ",
+            "ජි.බී. සේනානායක"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"මේ අසේව වැදහොත් වඳුරා මරා මස් කොට අනුභව කිරීමෙන් ශරීරයත් පෘෂ්ටි කොට ගෙන\" මෙහි 'අසේව' යන්නෙහි අර්ථය වන්නේ, ",
+        "choices": [
+            "කුසගින්නේ",
+            "නින්දේ",
+            "වෙහෙසව",
+            "විවේකව"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "රූපකයක් සහිත පද්‍ය පේළිය කුමක් ද? ",
+        "choices": [
+            "මීර ජලය ඇළ දොළ කඳු පිටින් බට",
+            "සැලෙන පහන සිළු වැනි රගන ලිය සෑදී",
+            "හෙළන නගන අත නුවනග බැලුම් දිදී",
+            "උදුල සොමි කැලුම් නිසයුරු හිමි පුවළ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"පසුගිය නත්තල කාලේ නිවාඩුවෙයි මං ආවේ \nපුංචි බේබි එක්කල පාසල් යන්නයි මං ආවේ\" මෙම කොටස උපුටා ගත් \"පියසේන ඇසූ ප්‍රශ්නයක්\" පැදිපෙළ නිර්මාණය කළේ කවුද? ",
+        "choices": [
+            "මොනිකා රුවන් පතිරණ",
+            "ශ්‍රී චන්ද්‍රරත්න මානවසිංහ",
+            "රැපියල් තෙන්නකෝන්",
+            "විමල් දිසානායක"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තොටගමුවේ ශ්‍රී රාහුල හිමියන් රචනා කළ සන්දේශ කාව්‍යයක් වන්නේ, ",
+        "choices": [
+            "හංස සන්දේශයයි",
+            "ගිරා සන්දේශයයි",
+            "පරෙවි සන්දේශයයි",
+            "කෝකිල සන්දේශයයි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "හේන් ගොවිතැනේ දී 'පාවහන්' යන්නට භාවිතා කළ වචනය වන්නේ, ",
+        "choices": [
+            "ජාලය",
+            "වාංපතුල්",
+            "කූටාලම",
+            "මාගල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සාහිත්‍යකරුවා යොදා ගන්නා භාෂාවේ විශේෂ ලක්ෂණය වන්නේ \"හැඟීම් දැනවීමේ ශක්තිය යි\". මෙහි උඩු කොමා යොදා ඇති කොටස හඳුන්වන පිළිතුර වන්නේ, ",
+        "choices": [
+            "ප්‍රතිභාව",
+            "ව්‍යුත්පත්තිය",
+            "පරිකල්පනය",
+            "භාවික ගුණය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත සඳහන් වාක්‍යයේ අදහසට වඩාත් සමීප අදහස දෙන වරණය තෝරන්න. 'බහු සන්නිවේදන මාධ්‍ය ව්‍යාප්තිය හේතුවෙන් සම්මත ව්‍යවහාර ප්‍රචලිත වීමත් සමාන අධ්‍යාපන අවස්ථාවත් නිසා වර්තමානය වන විට ප්‍රාදේශීය හා සමාජමය උපභාෂා භාවිතයෙන් ඈත්වනු පෙණේ.' ",
+        "choices": [
+            "වර්තමානයේ සමාජීය උපභාෂා හා ප්‍රාදේශීය ව්‍යවහාර අධ්‍යාපනය හා සන්නිවේදනය හේතුවෙන් තවදුරටත් ප්‍රචලිතව ඇත.",
+            "ප්‍රාදේශීය ව්‍යවහාර හා සමාජීය උපභාෂා ව්‍යවහාර, භාවිතයට සමාන අධ්‍යාපන අවස්ථා හා සම්මත ව්‍යවහාර එක්වීම තරමක් දුරට බලපා ඇත.",
+            "සම්මත ව්‍යවහාර භාවිතයට හේතු වූ සන්නිවේදනයත් සමාන අධ්‍යාපනයත් වර්තමානයේ ප්‍රාදේශීය හා සමාජීය උපභාෂා ව්‍යවහාර ඈත් වීමට හේතු වී ඇත.",
+            "බහු සන්නිවේදනවල ව්‍යාප්තිය නිසා සම්මත ව්‍යවහාර සමාජයට එක්වීමෙන් ප්‍රාදේශීය ව්‍යවහාර සමහරක් සමාජයෙන් ඈත්  වෙමින් තිබේ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. අනතුරේ දී ජාති භේද නො තකා සැමට \"අතදීම\" අගය කළ යුතුය.",
+        "choices": [
+            "එකගතාවය පළකිරීම.",
+            "අත්වැල් බැඳගැනීම.",
+            "සහාය වීම.",
+            "යමක් පරිත්‍යාග කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. මේ දිනවල \"කුණුකොල්ලයට\" එළවළු විකිණෙන නිසා එය ගොවියාගේ ආර්ථීකයට බලපායි.",
+        "choices": [
+            "ඉහළ මිලකට",
+            "ඉතා අඩු මිලකට",
+            "සාධාරණ මිලකට",
+            "වෙනස් වන මිලකට"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථයට වඩාත් සමීප අර්ථය දෙන පිළිතුර තෝරන්න. \"ඉබාගාතේ යන\" තරුණ පිරිසගේ ආකල්ප සංවර්ධනයට ස්වේච්ඡ සංවිධානයක් පියවර ගනී.",
+        "choices": [
+            "අරමුණක් නැතිව ක්‍රියාකරන",
+            "නිහඩ ව සිටින",
+            "හුදකලා වූ",
+            "බුද්ධිමත් ව නොසිතන"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සෑම පදයක ම අක්ෂර වින්‍යාසය නිවැරදි ව දැක්වෙන පද පේළිය තෝරන්න.",
+        "choices": [
+            "නිශ්චල, නීත්‍යානුකූල, සම්ප්‍රදාය, ආවේණික",
+            "වීරෝදාර, දර්ශනීය, පිලිසඳර, ප්‍රවීණත්වය",
+            "ධාරාණිපාත, සමතුලනය, සමස්ථය, ශුෂ්ක ප්‍රදේශ",
+            "ඓශ්වර්ය, අර්බුදයක්, අවකාශය, පුරාවෘත්ත"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සුභාරති, සෙවිලි, හැරුණු, නිසැක යන පදවල දෙවැනි අක්ෂරයෙහි ඇති පිල්ලම අනුපිළිවෙළින් යෙදී ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "ඇලපිල්ල, කෙටි ඉස්පිල්ල, කෙටි පාපිල්ල, කෙටි ඇදය",
+            "ඇලපිල්ල, කෙටි ඉස්පිල්ල, කෙටි ඇදය, කෙටි පාපිල්ල",
+            "ඇදපිල්ල, කෙටි ඉස්පිල්ල, ඇදපිල්ල, කොම්බුව",
+            "ඇලපිල්ල, කොම්බුව, කෙටි ඇදය, කෙටි ඇදය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"අඩසඳ\" යන පදයෙහි අන්තර්ගත ව්‍යංජන අක්ෂර වර්ග වනුයේ,",
+        "choices": [
+            "තාලුජ, මූර්ධජ, දන්තජ",
+            "කණ්ඨජ, මූර්ධජ, ඕෂ්ඨජ",
+            "ඕෂ්ඨජ, මූර්ධජ, දන්තජ",
+            "කණ්ඨජ, මූර්ධජ, දන්තජ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අකාරදි පිළිවෙළ නිවැරදි ව දැක්වෙන පේළිය තෝරන්න.",
+        "choices": [
+            "නවීනතම, නීතිගරුක, පාපකාරී, සත්ක්‍රියාව",
+            "ගායනය, රංගනය, නිර්මාණය, වාදනය",
+            "චිත්තරූප, පරිකල්පනය, අලංකාර, රූපකාර්ථ",
+            "අරමුණ, අත්දැකීම, නිපුණතාව, කථීකත්වය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උක්ත නාමපද පමණක් යෙදී ඇති වරණය තෝරන්න.",
+        "choices": [
+            "කාන්තාවක, ලේඛකයෝ, සෙබළෙක්, මම",
+            "දරුවෙක්, අපි, ගොවියෝ, රීතීහු",
+            "තොපි, සතුරෝ, පුෂ්පයෝ, උපාසකයෙකු",
+            "ක්‍රීඩකයෝ, ඇමතිවරු, ධීවරයන්, ඔවුහු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දරුවන්ට පොතපතින් දැනුම ලැබේ. යන වාක්‍යයෙහි \"පොතපතින්\" යන්නෙහි විභක්තිය කුමක් ද?",
+        "choices": [
+            "අවධි",
+            "සම්බන්ධ",
+            "කර්ම",
+            "කරණ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"කුරුලුහඬ\" යන්න අයත් වනුයේ,",
+        "choices": [
+            "විශේෂණ සමාසයට ය.",
+            "විභක්ති සමාසයට ය.",
+            "අන්‍යාර්ථ සමාසයට ය.",
+            "අව්‍ය සමාසයට ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පුරාණ+ඉක යන ප්‍රකෘතිය හා ප්‍රත්‍ය එක් වූ විට සකස් වන පදය නිවැරදි ව දැක්වෙන වරණය තෝරන්න.",
+        "choices": [
+            "පුරාණයික",
+            "පුරාණික",
+            "පෞරාණික",
+            "පෞරාණීක"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති ව්‍යාකාරණ ප්‍රවර්ගයට අයත් නොවන පදයක් සහිත වරණය තෝරන්න.",
+        "choices": [
+            "තද්ධිත - දිරිමත්, දේශීය, නවීනතම, පවිත්‍රතා",
+            "විශේෂණ සමාස - සිව්දිසා, බොරදිය, පටුපාර, ගුණසයුර",
+            "කෘදන්ත - හදාරන, නයන, කරන, බලන",
+            "ප්‍රයෝජ්‍ය ක්‍රියා - ලියවයි, සාදවයි, කරවයි, පමුණුවයි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පූර්ව ක්‍රියාවක් යෙදී ඇති වාක්‍ය තෝරන්න.",
+        "choices": [
+            "නිරීක්ෂකයෝ වාර්තා සොයමින් සිටිති.",
+            "ගම්වැසියෝ ප්‍රපාතයට බැස පිරිස බේරා ගත්හ.",
+            "ඔහු සිතුවම වර්ණ ගන්වද්දී කාලය නිමාවිය.",
+            "අපනයන ආදායම අඩු වුවහොත් එය ආර්ථීකයට පහරකි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දැක්වෙන වරණය තෝරන්න. \"අද්‍යතන\" ශ්‍රම බළකාය රටේ සංවර්ධනයට යෙදා ගැනීම කාගේත් අපේක්ෂාවයි.",
+        "choices": [
+            "වර්තමාන",
+            "සමකාලීන",
+            "අතීත",
+            "අවම වශයෙන්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දැක්වෙන වරණය තෝරන්න. එතුමා ගතකළ \"අල්පේච්ඡ\" ජීවිතය සැමගේ අවධානයට යොමු විය.",
+        "choices": [
+            "ස්වල්ප දෙයින් සෑහීමකට පත්වන",
+            "ශෝකජනක",
+            "අඩු වත්කම් සහිත",
+            "ඉසුරුමත්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උඩු කොමා සහිත කොටසේ අර්ථය නිවැරදිව දැක්වෙන වරණය තෝරන්න. බොහෝ වේලාවක් සාකච්ඡාවේ යෙදුණු නිලධාරීහු ජල ව්‍යාපෘතිය පිළිබඳ ව \"සම්මුතියකට\" එළඹුණි.",
+        "choices": [
+            "ස්ථීරතාවයකට",
+            "විරෝධයකට",
+            "තාවකාලික විසඳුමකට",
+            "එකඟතාවයකට"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "දී ඇති වචන ගොනු අතරින් අන්‍යෝන්‍ය වශයෙන් සමීප සම්බන්ධයක් නොපවත්නා පද පේළිය ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "දොර, ජනේලය, ඉස්තෝප්පුව, කොරිඩෝව",
+            "ඇස්, කෙස්, නිය, දත්",
+            "සොරොව්ව, පිටවාන, රළපනාව, උදැල්ල",
+            "කලිසම, කමිසය, සරම, බැනියම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 144,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එක් එක් පද පේළියේ දක්වා ඇති පදවලට සමානාර්ථ යෙදුම් පමණක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "පියුම් - පංකජ, මාගම - අඹුව, සතුට - ප්‍රමෝදය, පුල් - පිපුණු",
+            "ජාතිය - දැය, නිති - නිරතුරු, ලෝකය - භුවන, දාරක - දරු",
+            "අහස - ගහමග, කොණ්ඩය - කියඹු, චන්ද්‍රයා - අඹරමිණි, රත්රන් - කනක",
+            "ආකූල - නිරාකූල, අකමැති - අරුචි, රෝගී - ගිලන්, අඩක් - අර්ධයක්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 145,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මුලින් දී ඇති පදයට සමානාර්ථයක් නොදෙන පදයක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "මුනිඳු - ගොයුම්, දසබල, සුගත, තිලොවග",
+            "මිත්‍රයා- සකි, යහළුවා, මිතුරා, සගයා",
+            "වනාන්තරය - කැලෑව, වළ, වනය, අරණ",
+            "ඉක්මනින් - හනික, නොපමාව, කඩිනමින්, වහාම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 146,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "විරුද්ධාර්ථවත් පද යුගලයක් ඇතුළත් නොවන වරණය තෝරන්න.",
+        "choices": [
+            "අභිමුඛ - අනභිමුඛ",
+            "එඩිතර - බියගුලු",
+            "ප්‍රපාතය - හෙල",
+            "පූර්ව - පශ්චිම"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 147,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වැරදි අදහස දෙන ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "\"ගුරුතුමා\" යනු පූර්ව ස්වර ලෝප සන්ධියට අයත් පදයකි.",
+            "සියලු ම ස්වර ශබ්ද ඝෝෂ ගණයට අයත් ය.",
+            "\"නිවා තාරකා පියවා ගෙන දෑස\" මෙහි \"නිවා\" යනු පූර්ව ක්‍රියා පදයකි.",
+            "\"රැකුම්\" යන කෘදන්ත පදය සෑදී ඇත්තේ රක්+උම් --> රැකුම් ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 148,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍ය අතුරෙන් මනා පද ගැළපීමෙන් යුක්ත අර්ථාන්විත වාක්‍ය තෝරන්න.",
+        "choices": [
+            "භාෂාවට ඉංග්‍රීසි ඇතුළුවන බොහෝ වචන සිංහලයි.",
+            "තීරු ලිපි මාලාවෙන් ලිපි දෙකක වගතුග කොටස් මේ පාඩමේ ඇතුළත් කර ඇත.",
+            "මිනිස්සු ජීවිතය වැඩකටයුතු අරභයා කරති.",
+            "ඇතැම් විට කතුවරු සිය නාමය වෙනුවට ආරෑඪ නාමයකින් තීරුලිපි සම්පාදනය කරති."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 149,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "වඩා ප්‍රයෝජනවත් දෙයක් විනාශ කර ඊට අඩුවෙන් ප්‍රයෝජනවත් ඇති දෙයක් කිරීම, යන අදහසට වඩාත් ම ගැළපෙන ප්‍රස්තාව පිරුළ අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "අනුන්ගේ පානෙන් එළිය බලනව වගෙයි.",
+            "දිය රෙද්දෙන් බෙල්ල කපනව වගෙයි.",
+            "ඉගුරු දීලා මිරිස් ගත්තා වගෙයි.",
+            "අටුව කඩා පුටුව හැදුවා වගෙයි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 150,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිතර කාර්යයන් හි යෙදී සිටින පුද්ගලයාගේ දැනුම මුවහත් වේ, යන අදහසට වඩාත් ම ගැළපෙන ප්‍රස්තාව පිරුළ අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "පෙරළෙන ගලේ පාසි නොබැඳේ.",
+            "කණ කොකාගෙ සුද පෙනෙන්නේ ඉගිළෙන විට ලු",
+            "ගල හොඳනම් අඹරන කහ මක්වේ ද?",
+            "පල ඇති රුකටලු ගල් ගහන්නේ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 151,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ගාත්‍රාක්ෂර ලෝප සන්ධියට හා ද්විත්ව රෑප සන්ධියට අදාළ නිදසුන් පිළිවෙළින් දැක්වෙන වරණය තෝරන්න.",
+        "choices": [
+            "කොස්සැට, කොළොම්තොට",
+            "කොළොම්තොට, කොස්සැට",
+            "කොළොම්තොට, ඇද්දළ",
+            "ඇද්දළ, දඩයම්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 152,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූල ව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "ළමයි පාඩම් කරන විට ගුරුතුමා පැමිණියේ ය.",
+            "පියා හෝ මව රැස්වීමට සහභාගී වන්නී ය.",
+            "මම පලතුරු කන කිරිල්ලියක් දුටුවෙමි.",
+            "පන්තියේ ළමයින් ඇත."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 153,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූල ව නිවැරදි වාක්‍යය තෝරන්න.",
+        "choices": [
+            "ගොවියන් සමග නිලධාරියා සාකච්ඡා කළෝ ය.",
+            "ගුරුවරු පන්ති පටන් ගන්නේ කවදා ද?",
+            "\"දරුවන් හොඳින් ඉගෙන ගනිති\"යි දෙමව්පියෝ සිතති.",
+            "අපේ මිතුරෝ තරගයෙන් ජය ගනීවි."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 154,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍යය ලේඛන ව්‍යවහාරයට හැර වූ විට වඩාත් නිවැරදි වන්නේ කුමක් ද? \"මං එනකොට ම එයාලා නැගිටල මට ආචාර කළා\"",
+        "choices": [
+            "මං එද්දී ඔවුහු මට වැන්ද හ.",
+            "මං පැමිණෙද්දී ම ඔවුහු නැගිට ගිය හ.",
+            "මම එද්දී ම ඔවුහු මට නැගිට ආචාර කළහ.",
+            "මා පැමිණෙන විට ම ඔවුහු නැගිට මට ආචාර කළහ."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 155,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සේනක බිබිලේ මහතා විසින් සැලසුම් කළ ශ්‍රී ලංකාවට ගැළපෙන ඖෂධ ප්‍රතිපත්තියක් නොවන්නේ,",
+        "choices": [
+            "මිල අධික වුව ද ශ්‍රී ලංකාවට අවශ්‍යය යැයි සිතා එවැනි බෙහෙත් ගෙන ඒම.",
+            "ලංකාවට අනවශ්‍ය බෙහෙත් වර්ග ගෙන්වීම නතර කිරීම.",
+            "මෙරට ඖෂධ ගෙන්වීම සහ මෙරට ඖෂධ බෙදා හැරීම සම්පූර්ණයෙන් ම රජයේ ආයතනයන්ට පැවරීම.",
+            "ලංකාවේ ඖෂධ නිෂ්පාදනය, තත්ත්ව පාලන අංශය සහ පරියේෂණ අංශය දියුණු කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 156,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තලමල පිපිලා නාට්‍යයේ ඇතුළත් \"ආරා තලමල ගොන් වැඩුනා සේ \n මෝරා තලමල එන අන්දන් \n පීරා වරලස අවුල් හරින සේ \n තලමල සුළගට යන අන්දන්\" යන පද්‍ය ගායනා කරන්නේ,",
+        "choices": [
+            "හේතු",
+            "සභාපති",
+            "සුදු මහත්තයා",
+            "රංබරණා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 157,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"වාලධිය\" හා \"හළුයේ\" යන පදවල අදහස නිවැරදි ව අනුපිළිවෙළින් දක්වා ඇති වරණය තෝරන්න. ",
+        "choices": [
+            "වලිගය, අළුකළේ",
+            "පපුව, මුදා හැරියේ",
+            "වලිගය, මුදාහැරියේ",
+            "වීදිය, මුදා හැරියේ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 158,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "මොනරාගල පළාතේ \"කොකිස්\" යන්නෙන් අදහස කරන්නේ, ",
+        "choices": [
+            "කිරි අල",
+            "වට්ටක්කා",
+            "ගස්ලබු",
+            "ඉරිඟු"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    },
+    {
+        "q_no": 159,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "1948 ආණ්ඩුක්‍රම ව්‍යවස්ථාව සම්පාදනය කළේ කවු ද?",
+        "choices": [
+            "රොබට් මාර්ස්",
+            "ෂර්ලි ද අල්විස්",
+            "ශ්‍රීමත් වෝල්ටර් බුකැනන්",
+            "අයිවර් ජෙනිංග්ස්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1N8V-ugAPciMhXrrDMvG8mvncyme9bLiw "
+        }
+    }
+]

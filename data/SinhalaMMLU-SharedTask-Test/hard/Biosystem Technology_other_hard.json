@@ -1,0 +1,822 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පිෂ්ඨය මගින් කිරි අපමිශ්‍රණය වීම හඳුනා ගැනීමේ පොදු ක්‍රමය වනුයේ,",
+        "choices": [
+            "මද්‍යසාර එකතු කිරීම ය.",
+            "කිරි රත් කිරීම ය.",
+            "අයඩීන් ද්‍රාවණය එකතු කිරීම ය.",
+            "අන්වීක්ෂය මගින් නිරීක්ෂණය කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "අච්චාරු සඳහා වඩාත් සුදුසු ඇසුරුම වනුයේ,",
+        "choices": [
+            "වීදුරු භාජන ය.",
+            "ටින් බහාලුම් ය.",
+            "ඇලුමිනියම් දවටන ය.",
+            "පොලිතීන් සිප්ලොක් මලු ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "කළු ගම්මිරිස් නිෂ්පාදනය සඳහා ගම්මිරිස් ඇට උණු ජලයේ ගිල්වීමේ අරමුණ වනුයේ,",
+        "choices": [
+            "ඉක්මනින් වියළා ගැනීම ය.",
+            "අඩංගු තෙල් ප්‍රමාණය අඩු කර ගැනීම ය.",
+            "ගමිමිරිස් ඇටවල හැඩය වෙනස් කිරීම ය.",
+            "ඒකාකාර වර්ණයක් ලබා ගැනීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "අලංකරණය සඳහා ආකර්ෂණීය සහ කල් පවතින පත්‍ර ලබා ගැනීමට වඩාත් සුදුසු ශාකය වනුයේ, ",
+        "choices": [
+            "බිගෝනියා ය.",
+            "ඩැසීනා ය.",
+            "ඇග්ලෝනිමා ය.",
+            "සින්ඩප්සස් ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පෝෂක චක්‍රීකරණය, වියෝජනය හා පාංශු සෞඛ්‍යට බලපාන පාංශු මහා ජීවීන් වනුයේ, \n",
+        "choices": [
+            "ආත්‍රොපෝඩාවන්, ප්‍රොටොසෝවාවන් සහ බැක්ටීරියාවන් ය.",
+            "බැක්ටීරියාවන්, ප්‍රොටොසෝවාවන් සහ ගැඩවිල් පණුවන් ය.",
+            "ගැඩවිල් පණුවන්, බැක්ටීරියාවන් සහ ආත්‍රොපෝඩාවන් ය.",
+            "ගැඩවිල් පණුවන්, ආත්‍රොපෝඩාවන් සහ මොලස්කාවන් ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "දම්වැල් මැනුමේ දී, අනුලම්බ ලබා ගැනීම සඳහා භාවිත කරන උපකරණය වන්නේ,",
+        "choices": [
+            "මාලිමාව ය,",
+            "දෘශ්‍ය චතුරස්‍රය ය,",
+            "තියොඩොලයිටය ය.",
+            "තල මේසය ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "තල මේස මැනුමේ ඳී, ඇලිඩේඩය, මූලිකව ම යොදාගනු ලබන්නේ,",
+        "choices": [
+            "කෝණ මැනීම සඳහා ය.",
+            "උන්නතාංශය නිර්ණය කිරීම සඳහා ය.",
+            "තල මේසය මට්ටම් කිරීම සඳහා ය.",
+            "වස්තූන් වෙත දෘෂ්ටි රේඛා ඇඳීම සඳහා ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ආව්ලතාව මගින්, ප්‍රධාන වශයෙන් දක්වනු ලබන්නේ, ජලයේ",
+        "choices": [
+            "ලවණ අඩංගු බව ය.",
+            "අවලම්බිත අංශු අඩංගු බව ය.",
+            "කාබනික ද්‍රව්‍ය අඩංගු බව ය.",
+            "ද්‍රාව්‍ය ඔක්සිජන් අඩංගු බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ක්ෂුද්‍ර ප්‍රචාරණයේ දී පූර්වගයේ (explant) මතුපිට ජීවාණුහරණය, බොහෝවිට සිදුකරනු ලබන්නේ,",
+        "choices": [
+            "උණුසුම් ජලය භාවිතයෙනි.",
+            "ටීපෝල් දියර භාවිතයෙනි.",
+            "ක්ලෝරොක්ස් දියර භාවිතයෙනි.",
+            "දිලීරනාශක දියර භාවිතයෙනි."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ක්ෂේත්‍රයේ සෘජුව ම සංස්ථාපනය කිරීම සඳහා තවාන් පැළ බඳුන්ගත කිරීමට වඩාත් ම යෝග්‍ය බහාළුම් වනුයේ,",
+        "choices": [
+            "මැටි බඳුන් ය.",
+            "ප්ලාස්ටික් තැටි ය.",
+            "පොලිසැක් මලු ය.",
+            "පොල් කෙඳි බඳුන් ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "නරක් වූ ආහාර පරිභෝජනය හා සම්බන්ධ වඩාත් ම සුලබ සෞඛ්‍ය අවදානම වනුයේ,",
+        "choices": [
+            "ආසාදන ඇතිවීම ය.",
+            "බර අඩු වීම ය.",
+            "පෝෂණ ඌනතා ඇතිවීම ය.",
+            "ප්‍රතිශක්තිය අඩු වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ජෛවපද්ධති කෙරෙහි අධික තීව්‍රතාවෙන් යුත් වර්ෂාපතනවල ප්‍රධාන බලපෑම වනුයේ,",
+        "choices": [
+            "උතුරු පළාතේ වෙරළ ඛාදනය වීම ය.",
+            "මධ්‍යම පළාතේ හදිසි ගංවතුර සහ නායයෑම් ඇතිවීම ය.",
+            "අතරමැදි කලාපයේ වර්ෂාපතන රටාව වෙනස් වීම ය.",
+            "බස්නාහිර පළාතේ තෙත් බිම්වල ජලය රඳා පැවතීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "අපජලය පිරිපහදු කිරීමේ දී, කාබනික ද්‍රව්‍ය වියෝජනය සඳහා බැක්ටීරියා යොදා ගනු ලබන පියවර වනුයේ, ",
+        "choices": [
+            "මූලික පිරියම් කිරීම ය.",
+            "ද්විතියික පිරියම් කිරීම ය.",
+            "තෘතීයික පිරියම් කිරීම ය.",
+            "රොන්බොර පිරියම් කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "අභිජනන රටාව අනුව, විසිතුරු මසුන්, බිත්තර දමන සහ පැටවුන් බිහිකරන ලෙස කාණ්ඩ ගත කළ හැකි ය. පැටවුන් බිහිකරන මසුන් සඳහා උදාහරණ වනුයේ,",
+        "choices": [
+            "ගෝල්ඩ්ෆිෂ් සහ මොලී මත්ස්‍යයින් ය.",
+            "ෆයිටර් මත්ස්‍යයින් සහ මොලී මත්ස්‍යයින් ය.",
+            "ස්වෝඩ්ටේල් මත්ස්‍යයින් සහ ප්ලේටි මත්ස්‍යයින් ය.",
+            "ස්වෝඩ්ටේල් මත්ස්‍යයින් සහ ෆයිටර් මත්ස්‍යයින් ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවට හඳුන්වා දුන් විදේශීය ආහාරමය මත්ස්‍ය විශේෂ කිහිපයක් ස්වාභාවිකව ම මිරිදිය ජලාශවල බෝවන බව වාර්තා වී ඇත. එවැනි විශේෂයකට උදාහරණයක් වනුයේ,",
+        "choices": [
+            "කැට්ලා ය.",
+            "තිලාපියා ය.",
+            "රිදී කාපයා ය.",
+            "හිස ලොකු කාපයා ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ආහාර අසාත්මිකතාව වඩාත් හොඳින් විස්තර කළ හැකි වනුයේ,",
+        "choices": [
+            "ආහාරයට දක්වන මානසික අකමැත්තක් ලෙස ය.",
+            "සමහර ආහාර මගින් ඇතිවන පෝෂණ ඌනතාවක් ලෙස ය.",
+            "ආහාරවල ඇති විශේෂිත ප්‍රෝටීනවලට ප්‍රතිශක්තිකරණ පද්ධති දක්වන ප්‍රතික්‍රියාවක් ලෙස ය.",
+            "අපවිත්‍ර ආහාර අනුභව කිරීමෙන් ඇතිවන බැක්ටීරියා ආසාදන ආකාරයක් ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ 1980 අංක 26 දරන ආහාර පනතට අනුව අපමිශ්‍රිත ආහාර,",
+        "choices": [
+            "විකිණීම, දඬුවම් ලැබිය හැකි වරදකි.",
+            "අපනයනය කිරීම සඳහා පමණක් අවසර දී ඇත.",
+            "සුදුසු ලෙස ලේබල් කර විකිණීමට අවසර දී ඇත.",
+            "සාම්ප්‍රදායික පිළිවෙත් යටතේ සැකසු ආහාර ලෙස විකිණීමට අවසර දී ඇත."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "කිරි, බැක්ටීරියා මගින් අපවිත්‍රණය වී ඇති මට්ටම නිර්ණය කිරීම සඳහා වඩාත් ම යෝග්‍ය පරීක්ෂණය වනුයේ,",
+        "choices": [
+            "ගර්බර් පරීක්ෂාව ය.",
+            "රෙසසුරීන් පරීක්ෂාව ය.",
+            "දෛහික සෛල ගණන් කිරීම ය.",
+            "තාපාංකයේ දී කැටි ගැසීමේ පරීක්ෂාව ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "කෘතිම රැක්කවීම සඳහා ගනු ලබන කිකිළි බිත්තරවල දර්ශීය හැඩය වනුයේ,",
+        "choices": [
+            "කෙළවර දෙක ම මොට වූ ඕවලාකාර හැඩය ය.",
+            "කෙළවර දෙකම උල් වූ ඕවලාකාර හැඩය ය. ම",
+            "කෙළවර දෙක ම මොට වූ බොහෝ දුරට වටකුරු වූ හැඩය ය.",
+            "එක් කෙළවරක් මොට වූ සහ අනෙක් කෙළවර උල් වූ ඕවලාකාර හැඩය ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "නව ආහාර නිෂ්පාදනයක් පිළිබඳ ඉන්ද්‍රීය ගෝචර ඇගයීමක් පැවැත්වීමේ මුලික අරමුණ වනුයේ,",
+        "choices": [
+            "ආහාරයේ පෝෂණ අන්තර්ගතය තක්සේරු කිරීමට ය.",
+            "ආහාරයේ නිෂ්පාදන වියදම ඇස්තමේන්තු කිරීමට ය.",
+            "ආහාරයට ඇති පාරිභෝගික පිළිගැනීම ඇගයීමට ය.",
+            "ආහාරය ක්ෂුද්‍රජීවීන්ගෙන් අපවිත්‍රණය වී ඇත්දැයි පරීක්ෂා කිරීමට ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ආහාර ලේබලයක “Best before” යන යෙදුමේ තේරුම වනුයේ,",
+        "choices": [
+            "මෙම දිනය දක්වා පමණක් ආහාර ප්‍රදර්ශනය කළ හැකි ය යන්න ය.",
+            "මෙම දිනය දක්වා ආහාරයේ ප්‍රශස්ත ගුණාත්මකභාවය පවත්නා බව ය.",
+            "මෙම දිනයෙන් පසු ආහාරයේ ලේබලය ප්‍රතිස්ථාපනය කළ යුතු බව ය.",
+            "මෙම දිනයෙන් පසු ආහාරය පරිභෝජනය කිරීම හානිදායක බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ උඩරට ප්‍රදේශයේ ස්ථාපනය කරනු ලබන ආරක්ෂිත කෘෂිකාර්මික ව්‍යුහයන්හි බහුල ව භාවිත කරනු ලබන ආවරණ ද්‍රව්‍ය වනුයේ, ",
+        "choices": [
+            "වීදුරු ය.",
+            "ඇලුමිනේට් ය.",
+            "සෙවණ දැල් ය.",
+            "පාරදෘශ්‍ය පොලිතීන් ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "බිම් මැනුම සහ මට්ටම් ගැනීමේ දී, එක්තරා හැරවුම් ලක්ෂණයක පසු දැක්ම සහ පෙර දැක්ම පිළිවෙළින් මීටර් 1.25 සහ මීටර් 1.75 කි. පසු දැක්මේ උන්නතාංශයට සාපේක්ෂව පෙර දැක්මේ උන්නතාංශය වනුයේ, ",
+        "choices": [
+            "මීටර 0.5 ක් ඉහළිනි.",
+            "මීටර 0.5 ක් පහළිනි.",
+            "මීටර 1.75 ක් ඉහළිනි.",
+            "මීටර 3.00 ක් පහළිනි."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පැස්චරීකරණ ක්‍රියාවලියට පදනම් වූ මූලධර්මය වනුයේ,",
+        "choices": [
+            "හානිකර ක්ෂුද්‍රජීවීන් විනාශ කිරීම සඳහා ආහාරයෙන් සියලු ම ඔක්සිජන් ඉවත් කිරීම ය.",
+            "ගුණාත්මකභාවයට අවම බලපෑමක් ඇතිවන ලෙස ආහාර රත් කිරීම මගින් හානිකර ක්ෂුදුජීවීන් විනාශ කිරීම ය.",
+            "දර පිලිස්සීමෙන් ලබා ගන්නා දුම් ගැසීම මගින් හානිකර ක්ෂුදුජිවීන් අක්‍රීය කිරීම ය.",
+            "බින්දුවට වඩා අඩු උෂ්ණත්වයේ ආහාර අධිශීතනය කිරීමෙන් හානිදායක ක්ෂුද්‍රජීවීන් අක්‍රීය කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ආහාර කර්මාන්තයේ දී, පටල පෙරීම යනු විවිධ ද්‍රව පිරිසිදු කිරීම, සාන්ද්‍රණය කිරීම සහ සංඝටක වෙන් කිරීම සඳහා බහුල ව භාවිත වන වෙන් කිරීමේ ක්‍රියාවලියකි. කිරි කර්මාන්තයේ පටල පෙරීමේ දී පටලය මගින් ප්‍රධාන වශයෙන් රඳවා ගන්නා සංරචක වනුයේ,",
+        "choices": [
+            "ප්‍රෝටීන සහ මේද ය.",
+            "ලවණ සහ ඛනිජ ය.",
+            "විටමින් සහ හෝර්මෝන ය.",
+            "ජල අණු සහ එන්සයිම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "වී තැම්බීමේ ක්‍රියාවලියේ නිවැරදි අනුපිළිවෙළ වනුයේ, \n",
+        "choices": [
+            "පෙගවීම → වියළීම → හුමාලයෙන් තැම්බීම → කෙටීම.",
+            "කෙටීම → වියළීම → පෙගවීම → හුමාලයෙන් තැම්බීම.",
+            "පෙගවීම → හුමාලයෙන් තැම්බීම → වියළීම → කෙටීම.",
+            "වියළීම → පෙගවීම → හුමාලයෙන් තැම්බීම → කෙටීම."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "සංසරණය වන, පෝෂකවලින් සපිරි ඔක්සිජනීකෘත ජල ද්‍රාවණයක මුල් ගිල්වා තැබීම මගින් ශාක නිෂ්පාදනය කරන ලබන ජල රෝපිත වගා ක්‍රමය හඳුන්වන්නේ, \n",
+        "choices": [
+            "වා ගත වගා තාක්ෂණය ලෙස ය.",
+            "ගැඹුරු ධාරා වගා තාක්ෂණය ලෙස ය.",
+            "මුල් ගිල්වීමේ වගා තාක්ෂණය ලෙස ය.",
+            "පෝෂක පටල වගා තාක්ෂණය ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "වාරි ජල සම්පාදන පද්ධතියක පිහිටා ඇති කේන්ද්‍රාපසාරී පොම්පයක චුසන හිස, බෙදාහැරීමේ හිස සහ ඝර්ෂණ හිස පිළිවෙළින් 3 m, 9 m හා 0.5 m වේ. මෙම පද්ධතියෙහි මුළු හිස වනුයේ, \n",
+        "choices": [
+            "3.5 m.",
+            "9.5 m.",
+            "11.5 m.",
+            "12.5 m."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "බින්දු ජල සම්පාදන පද්ධතිවල ඇති එක් ප්‍රධාන හැට්ටුවක් වන්නේ විමෝචක අවහිර වීම ය. මෙම ගැටළුව වැළැක්වීම සඳහා භාවිතා කරන පොදු තාක්ෂණය වනුයේ, \n",
+        "choices": [
+            "පෙරහනක් හරහා ජලය පසට විමෝචනය කිරීම ය.",
+            "විමෝචක වෙනුවට පෙර සැකසූ සිදුරු සහිත ජල සම්පාදන පටි භාවිතා කිරීම ය.",
+            "පද්ධතියේ ජල පීඩනය නියාමනය කිරීමට පීඩන මානයක් සවි කිරීම ය.",
+            "ප්‍රධාන නළ මාර්ගය තුළ පෙරහන් ඒකකයක් ස්ථාපනය කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පොදු අවකාශයක, භූ දර්ශනයට අවම නඩත්තුවකින් යුතු සංස්කෘතික උරුම ඒකාබද්ධ කිරීම සඳහා වඩාත් සුදුසු අංග වනුයේ, \n",
+        "choices": [
+            "ප්‍රතිමා සහ බිතු සිතුවම් ය.",
+            "මායිම් සහ වැටි ය.",
+            "මල් පාත්ති සහ තණ පිට්ටනි ය.",
+            "ගිම්හාන කූටි සහ ප්‍රතිමා ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "කසළ කළමනාකරණයේ දී ජනනය වන්නා වූ කසළ ප්‍රමාණය අඩු කර ගැනීම සඳහා හොඳ ම විකල්පය වනුයේ, \n",
+        "choices": [
+            "නැවත භාවිතා කිරීම ය.",
+            "ප්‍රතිචක්‍රීකරණය ය.",
+            "බැහැර කිරීම ය.",
+            "දවා අළු කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "බෝග වගා බිම්වල, අතුරු යත් ගෑම මගින් පාංශු සෞඛ්‍ය වැඩිදියුණු කරන්නේ ප්‍රධාන වශයෙන්, \n",
+        "choices": [
+            "පසෙහි pH අගය නියාමනය කිරීමෙනි.",
+            "වල් පැලෑටි වර්ධනය වීම පාලනය කිරීමෙනි.",
+            "පසෙහි ව්‍යුහයට බාධා කිරීමෙනි.",
+            "වාතය සහ තෙතමනය ඇතුළු වීම වැඩි කිරීමෙනි."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ට්‍රැක්ටරයක එන්ජිම ගියර් පෙට්ටියට සම්බන්ධ කරන සංරචකය හඳුන්වන්නේ,",
+        "choices": [
+            "ක්ලචය ලෙස ය.",
+            "ජව ගනුව ලෙස ය.",
+            "නිමි එළවුම ලෙස ය.",
+            "ආන්තර කට්ටලය ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ස්වයංකීයකරණ පද්ධතියක, සංවේදු්‍රකයෙන් දත්ත ලබා ගන්නා හා තීරණ ගන්නා සංරචකය හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "පිලියවනය ලෙස ය.",
+            "ස්විචය ලෙස ය.",
+            "ඔදයනය ලෙස ය.",
+            "පාලකය ලෙස ය,"
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "ගොවි මහතෙකුට නැප්සැක් ඉසිනයක් භාවිතයෙන් ඔහුගේ ශාකවල පත්‍රවලට දියර පොහොර යෙදීමට අවශ්‍ය විය. මෙම අභ්‍යාසයේ දී අනුගමනය කළ යුතු පළමු පියවර වනුයේ,",
+        "choices": [
+            "ජලය භාවිතයෙන් ඉසිනය ක්‍රමාංකනය කිරීම ය.",
+            "ටැංකියට සෘජුව ම පොහොර පිරවීම ය.",
+            "ක්ෂේත්‍රයේ මැද සිට ඉසීම ආරම්භ කිරීම ය.",
+            "සෘජු සූර්යාලෝකය යටතේ ඉසීම ආරම්භ කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පොල්තෙල් නිස්සාරණය සම්බන්ධයෙන් නිවැරදි ප්‍රකාශය වනුයේ, \n",
+        "choices": [
+            "සුදු පොල්තෙල් පිරිසිදු කිරීමකින් තොර ව කොප්පරාවලින් නිස්සාරණය කරනු ලැබේ.",
+            "වර්ජින් පොල්තෙල් පිරිසිදු කිරීමකින් තොර ව නැවුම් පොල්කිරිවලින් නිස්සාරණය කරනු ලැබේ.",
+            "වර්ජින් පොල්තෙල් කොප්පරාවලින් නිස්සාරණය කර විරංජනකාරක භාවිතයෙන් තව දුරටත් පිරිසිදු කරනු ලැබේ.",
+            "වර්ජින් පොල්තෙල් නැවුම් පොල්කිරිවලින් නිස්සාරණය කර විරංජනකාරක භාවිතයෙන් තව දුරටත් පිරිසිදු කරනු ලැබේ."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "පරිපථයක ධාරාව මැනීම සඳහා මල්ටිමීටරය සම්බන්ධ කළ යුත්තේ, ",
+        "choices": [
+            "සෘජුව ම බැටරියට ය.",
+            "පරිපථයට සමාන්තර ව ය.",
+            "පරිපථයට ශ්‍රේණිගත ව ය.",
+            "සෘජුව ම ප්‍රතිරෝධකය හරහා ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "වොට් 60ක බල්බයක් පැය 2ක් භාවිත කරන්නේ නම් මෙම බල්බය විසින් පාරිභෝජනය කරනු ලබන විදුලි ශක්තිය වනුයේ, \n",
+        "choices": [
+            "0.012 kW h වේ.",
+            "0.12 kW h වේ.",
+            "1.20 kW h වේ.",
+            "120.00 kW h වේ."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "PLC බහුල ව භාවිත කරනුයේ කාර්මික ස්වයංක්‍රීයකරණයේ දී ය. PLC යන කෙටි යෙදුමෙන් දැක්වෙන්නේ, ",
+        "choices": [
+            "Programmable Logic Controller වේ.",
+            "Programmable Load Controller වේ.",
+            "Permanent Logic Controller වේ.",
+            "Parallel Logic Converter වේ."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "උපාධි ප්‍රදානෝත්සවයක් සඳහා සංවිධායකයෝ වේදිකාව ඉදිරිපිට සිරස් ව පිහිටුවිය හැකි මල් සැරසිල්ලක් තැබීමට තීරණය කළ හ. මෙම මල් සැකසුම සැලසුම් කිරීමේ දී සලකා බැලිය යුතු සාධක වැදගත් වනුයේ,",
+        "choices": [
+            "ප්‍රදේශයේ මල්වල සුලබතාව සහ ඒවායේ මිල ය,",
+            "මල්වල සුවඳ හා වර්ණ පටිපාටියේ ගැළපීම ය.",
+            "මල් සැකසුමේ උස සහ එහි සමස්ත දෘශ්‍ය සමතුලිතතාව ය.",
+            "භාවිත කරන ලද මල් වර්ග ගණන සහ නිර්මාණයේ සරල බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Biosystem Technology",
+        "category": "stem",
+        "question": "බෑග් සෑදීමේ ව්‍යාපෘතියක් ආරම්භ කිරීම සඳහා ව්‍යවසායකයකු වසරක සහන කාලයක් සහිත බැංකු ණයක් සඳහා ඉල්ලුම් කළේ ය. සහන කාලය තුළ, ",
+        "choices": [
+            "කිසිඳු පොලියක් අය නොකෙරේ.",
+            "පොලිය පමණක් ගෙවිය යුතු ය.",
+            "ණයෙන් කොටසක් කපා හරිනු ලැබේ.",
+            "අඩු පොලී අනුපාතයක් අය කෙරේ."
+        ],
+        "metadata": {
+            "subject_original": "ජෛව පද්ධති තාක්ෂණවේදය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126759&token=&preview=1 "
+        }
+    }
+]

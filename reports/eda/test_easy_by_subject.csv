@@ -1,0 +1,18 @@
+subject,questions,category,question_chars_median,sinhala_ratio_mean,negation_%,multi_statement_%,label_combination_options_%,fill_in_blank_%,figure_or_table_ref_%,all_or_none_of_above_%,numeric_options_%,low_sinhala_text_%
+Arts,100,humanities,63.0,0.97,7.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+Buddhism,162,humanities,58.5,0.96,6.79,0.0,0.0,1.85,0.0,0.0,0.0,0.0
+Catholicism,132,humanities,50.0,0.94,3.79,0.0,0.0,4.55,0.0,0.0,0.0,0.0
+Christianity,130,humanities,51.0,0.94,6.92,0.0,0.0,0.0,0.0,0.0,0.77,0.0
+Civics,123,social_science,72.0,0.97,16.26,0.0,0.0,0.0,0.0,0.0,1.63,0.0
+Eastern music,142,humanities,47.5,0.92,6.34,0.7,0.0,9.15,0.0,0.0,0.0,0.0
+Eastern_music,1,humanities,47.0,0.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Geography,117,social_science,71.0,0.79,8.55,1.71,1.71,40.17,0.85,0.0,2.56,23.08
+Health and Physical Science,130,social_science,60.0,0.94,11.54,0.0,0.0,0.77,0.0,2.31,0.77,0.0
+History,151,humanities,67.0,0.96,9.27,5.96,3.97,1.99,0.0,0.66,1.32,0.0
+Islam,108,humanities,42.0,0.94,1.85,0.0,0.0,0.0,0.0,0.0,4.63,0.0
+Sinhala language and literature,154,language,52.0,0.93,20.13,0.0,0.0,13.64,0.0,0.0,0.65,0.0
+Sinhala_language_and_literature,1,language,38.0,0.76,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+dancing,108,humanities,49.5,0.94,1.85,0.0,0.0,9.26,0.0,0.93,0.93,0.0
+drama and Theatre ,127,humanities,44.0,0.96,22.83,20.47,0.0,6.3,0.0,0.0,0.0,0.0
+drama_and_theatre,1,humanities,668.0,0.92,0.0,100.0,0.0,100.0,0.0,0.0,0.0,0.0
+science,164,stem,59.5,0.96,23.78,7.93,3.05,0.0,0.61,3.66,0.0,0.0

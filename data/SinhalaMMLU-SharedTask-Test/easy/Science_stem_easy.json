@@ -1,0 +1,1842 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Science",
+        "category": "stem",
+        "question": "දිග මැනීමට යොදාගන්නා අන්තර්ජාතික ඒකකය කුමක්‌ ද?",
+        "choices": [
+            "මිලි මීටර්‌",
+            "නැනෝමීටර්‌",
+            "මීටර්‌",
+            "කිලෝමීටර්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජලයේ ඝන අවස්ථාව සඳහා උදාහරණ පෙන්වන්නේ,",
+        "choices": [
+            "අයිස්‌, හුමාලය, හිම",
+            "හුමාලය, ජලවාෂ්ප, ජලය",
+            "ජල වාෂ්ප, අයිස්‌, ජලය",
+            "ග්ලැසියර්‌, අයිස්‌, හිම"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Science",
+        "category": "stem",
+        "question": "කිවුල්‌ ජලය ආශ්‍රිතව වැවෙන සුවිශේෂී අනුවර්තන දරණ ශාකයකි,",
+        "choices": [
+            "කිරල",
+            "දිය කඳුරු",
+            "කුඹුක්‌",
+            "උණ"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Science",
+        "category": "stem",
+        "question": "මිරිදිය, කරදිය, කිවුල්‌ දිය පවතින ස්ථාන පිළිවෙලින්‌ දැක්වෙන්නේ,",
+        "choices": [
+            "ගංගා, මුහුදු, වැව්‌",
+            "ළිං, ගංගා, සාගර",
+            "පොකුණු, ළිං, කලපු",
+            "ළිං, සාගර, කලපු"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ස්වාභාවික ශබ්ද පමණක්‌ අඩංගු පිළිතුර තෝරන්න.",
+        "choices": [
+            "සීනු හඬ, කුරුළු නාදය",
+            "ගෙරවුම්‌ හඬ, මුහුදු රළ නැගීම",
+            "සුළගේ හඬ, බෙර ශබ්දය",
+            "නළා හඬ, රැහැයියන්ගේ නාදය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Science",
+        "category": "stem",
+        "question": "සිසුවෙකු පැවසූ යම්‌ ප්‍රකාශයක්‌ හා හේතුවක්‌ පහත දැක්වේ.\nප්‍රකාශය - වීදුරු කැපීම සඳහා දියමන්ති භාවිත කරයි.\nහේතුව - දියමන්ති දැඩි බවින්‌ අධික බැවිනි.\nඒ අනුව",
+        "choices": [
+            "හේතුව සත්‍ය අතර ප්‍රකාශය අසත්‍ය වේ.",
+            "ප්‍රකාශය සත්‍ය අතර හේතුව අසත්‍ය වේ.",
+            "හේතුව හා ප්‍රකාශය අසත්‍ය වේ.",
+            "ප්‍රකාශය හා හේතුව සත්‍ය වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පිළිවෙලින්‌ ස්වයංපෝෂී ජීවියෙකු හා විෂමපෝෂී ජීවියෙකු සඳහන්කර ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "අඹ, කෝට්ටෝරුවා",
+            "කොස්‌, දෙල්‌",
+            "ගවයා කොටියා",
+            "කොටියා, නයා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Science",
+        "category": "stem",
+        "question": "චුම්බක පිළිබඳ සත්‍ය වගන්තිය තෝරන්න.",
+        "choices": [
+            "සජාතීය චුම්ඛක ධ්‍රැව ආකර්ෂණය වේ.",
+            "චුම්බකවලට සියලුම ලෝහ ආකර්ෂණය වේ.",
+            "දණ්ඩ චුම්ඛකයක වැඩිම බලයක්‌ ඇත්තේ චුම්බකය මධ්‍යයේ ය.",
+            "චිජාතීය චුම්බක ධ්‍රැව ආකර්ෂණය වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Science",
+        "category": "stem",
+        "question": "සංචරණය කළ නොහැකි නමුත්‌ චලන පෙන්වන සතුන්‌ අඩංගු වන්නේ,",
+        "choices": [
+            "මුහුදු මල, කොරල්‌ බුහුඛබාවන්‌",
+            "තාපස කකුළුවා, මුහුදු අශ්වයා",
+            "පැරම්සියම්‌, ඇමීඛා",
+            "සමනලයා, මුවා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Science",
+        "category": "stem",
+        "question": "දණ්ඩ චුම්බකයක ආකර්ෂණ බල වැඩිපුරම ඇත්තේ,",
+        "choices": [
+            "උත්තර ධ්‍රැවයේ ය.",
+            "දක්ෂිණ ධ්‍රැවයේ ය.",
+            "චුම්බකයේ මධ්‍යයේ ය.",
+            "චුම්බක ධ්‍රැව දෙකෙහිම ය. (එහි දෙකෙළවරය)"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Science",
+        "category": "stem",
+        "question": "යම්‌ සංසිද්ධියක්‌ පිළිබඳව සිසුවෙකු පැවසූ වදන්‌ කිහිපයක්‌ පහත දැක්වේ.\n(a) අවර්ණ හුනු දියර තුළට ප්‍රශ්වාස චාතය යැවූ විට හුනු දියර කිරිපාට වේ.\n(b) තවදුරටත්‌ ප්‍රාශ්වාස චාතය යවන විට හුනු දියර අවර්ණ වේ.\n(c) ප්‍රාශ්වාස වාතයේ කාඛන්ඩයොක්සයිඩ්‌ අඬංගු වේ.\nසත්‍ය වගන්තිය ඇතුළත්‌ පිළිතුර තෝරන්න.",
+        "choices": [
+            "a",
+            "b",
+            "a සහ b",
+            "a, b සහ c"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ සුළං බලාගාරය ඇති ස්ථානයකි,",
+        "choices": [
+            "හම්බන්තොට",
+            "රන්දෙනිගල",
+            "ලක්‍ෂපාන",
+            "සපුගස්කන්ද"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ඒක බීජ පත්‍රී ශාක පමණක්‌ ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "උණ, කොස්‌, පොල්‌",
+            "පුවක්‌, කිතුල්‌, තුත්තිරි",
+            "කජු, අඹ, දෙල්‌",
+            "මෑ, මුං, බෝංචි"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Science",
+        "category": "stem",
+        "question": "නොවිකා ගිලීම සිදුකර සතෙකි,",
+        "choices": [
+            "ගෙම්බා",
+            "මුවා",
+            "ගවයා",
+            "කොටියා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ශාකයක (පැළයක) වර්ධනය (උස) මැනීමට භාවිත කළ හැකි උපකරණයකි,",
+        "choices": [
+            "ආර්ද්‍රතාමානය",
+            "වෘද්ධිමානය",
+            "පීඩනමානය",
+            "පානමානය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Science",
+        "category": "stem",
+        "question": "බලශක්ති සංරක්ෂණය සඳහා අනුගමනය කළ හැකි ක්‍රියාමාර්ගයක්‌ නොවන්නේ,",
+        "choices": [
+            "අනවශ්‍ය විදුලි බුබුළු නිවා දැම්මයි.",
+            "LED විදුලි පහන්‌ භාවිතය යි.",
+            "ශීතකරණයේ දොර වැඩිවේලාවක්‌ විවෘත ව තැබීමයි.",
+            "ස්වාභාවික ආලෝකය ලැබෙන පරිදි දොර ජනෙල්‌ සවිකිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1x8eHbKIqlhjD7UkvnFxTZlAwpOUBQ3Y4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වර්ෂාපතනය ප්‍රකාශ කරන ඒකකය කුමක්‌ ද?",
+        "choices": [
+            "නැනොමීටර්‌",
+            "මිලිමීටර්‌",
+            "සෙන්ටිමීටර්‌",
+            "මීටර්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Science",
+        "category": "stem",
+        "question": "නාය යෑම්‌ අඩුවෙන්ම සිදුවන දිස්ත්‍රික්කයකි,",
+        "choices": [
+            "බදුල්ල",
+            "කෑගල්ල",
+            "රත්නපුරය",
+            "පුත්තලම"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Science",
+        "category": "stem",
+        "question": "විදුලි ධාරාවක්‌ ගලායන පරිපථයක විදුලි ගමනට එරෙහිව ඇතිවන බාධාව වන්නේ,",
+        "choices": [
+            "විභවයයි.",
+            "තාපයයි.",
+            "ප්‍රතිරෝධයයි.",
+            "පීඩනයයි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Science",
+        "category": "stem",
+        "question": "\"බැලූන්‌ වලින්‌ සකස්‌ කළ තොරණක දහවල්‌ වන විට බැලූන්‌ එක දෙක පිපිරි ගියේය.'' එයට හේතුව නම්‌,",
+        "choices": [
+            "ඝන වල ප්‍රසාරණයයි.",
+            "වායු වල ප්‍රසාරණයයි.",
+            "ද්‍රව වල ප්‍රසාරණයයි.",
+            "ඉහත කිසිවක්‌ නොවේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජලයේ අවස්ථා විපර්යාස කිහිපයක්‌ පහත දැක්වේ. නිවැරදි පිළිතුර කුමක්‌ ද?",
+        "choices": [
+            "ජලය, තාපය පිටකිරීම --> අයිස්‌",
+            "අයිස්‌, තාපය පිටකිරීම --> ද්‍රව ජලය",
+            "අයිස්‌, තාපය පිටකිරීම --> ජලවාෂ්ප",
+            "ද්‍රව ජලය, තාපය උරා ගැනීම --> අයිස්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Science",
+        "category": "stem",
+        "question": "සිසුවෙක්‌ ආලෝකය සම්බන්ධව පැවසූ වගන්ති කීපයක්‌ පහත දැක්වේ. ඒ අනුව නිවැරදි පිළිතුර තෝරන්න.\na) ආලෝකය සරල රේඛබීයව ගමන්‌ කරයි.\nb) ආලෝක කිරණ සමූහයක්‌ එකතු වී ආලෝක කදම්බයක්‌ සෑදේ.\nc) පාරාන්ධ ද්‍රව්‍ය තුළින්‌ ආලෝකය ගමන්‌ කරයි.",
+        "choices": [
+            "a පමණක්‌ නිවැරදියි.",
+            "b පමණක්‌ නිවැරදියි.",
+            "a හා b නිවැරදියි.",
+            "a, b හා c නිවැරදියි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පහත දැක්වෙන වගන්ති අතරින්‌ නිවැරදි වගන්ති පමණක්‌ ඇති පිළිතුර තෝරන්න.\na) ඇමීබා ස්ථිර හැඩයක්‌ නැති ක්‍ෂුද්‍ර ජිවියෙකි.\nb) සතුන්‌ ශ්වසනය කරන අතර ශාක ශ්වසනය නොකරයි.\nc) සතුන්‌ බොහෝවිට ස්වයංපෝෂී වේ.\nd) මුහුදුමල සංචරණය කළ නොහැකි චලන පමණක්‌ පෙන්වන සතෙකි.",
+        "choices": [
+            "b හා d",
+            "a හා d",
+            "a, b හා c",
+            "c හා d"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පහත දී ඇති ප්‍රකාශය හා හේතුව ඇසුරින්‌ නිවැරදි පිළිතුර තෝරන්න. \nප්‍රකාශය :- මාළු ටැංකිය වීදුරු වලින්‌ සාදා ඇති නිසා එහි සිටින මාළු පිටතින්‌ දැකිය හැක.\nහේතුව :- වීදුරු පාරදෘශ්‍ය ද්‍රව්‍යයකි.",
+        "choices": [
+            "ප්‍රකාශය හා හේතුව අසත්‍ය වේ.",
+            "ප්‍රකාශය සත්‍ය අතර හේතුව අසත්‍ය වේ.",
+            "ප්‍රකාශය අසත්‍ය අතර හේතුව සත්‍ය වේ.",
+            "ප්‍රකාශය හා හේතුව යන දෙකම සත්‍ය වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ ජල විදුලි බලාගාරයක්‌, සුළං බලාගාරයක්‌, තාප විදුලි බලාගාරයක්‌, පිහිටා ඇති ස්ථාන අනුපිළිවෙලින්‌ නිවැරදිව දක්වා ඇත්තේ කුමන පිළිතුරෙහි ද?",
+        "choices": [
+            "කොත්මලේ, පුත්තලම, නොරොච්චෝලය",
+            "පුත්තලම, හම්බන්තොට, නොරොච්චෝලය",
+            "ලක්‍ෂපාණ, රන්දෙනිගල, රන්ටැඹේ",
+            "වික්ටෝරියා, කැලණිතිස්ස, කොත්මලේ"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පදාර්ථයක්‌ සඳහා උදාහරණයකි,",
+        "choices": [
+            "තාපය",
+            "ආලෝකය",
+            "වාතය",
+            "ශබ්දය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Science",
+        "category": "stem",
+        "question": "නිවාසවල ශක්ති ප්‍රභවයක්‌ ලෙස බහුලව භාවිත වන ජෛව ස්කන්ධයකි,",
+        "choices": [
+            "LP ගෑස්",
+            "දර",
+            "භූමිතෙල්‌",
+            "විදුලිය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ගේට්ටු, ග්‍රිල්‌, කඩු, පිහි, ආදිය තැනීමට යකඩ ලෝහය බහුලව භාවිත කරයි. එයට හේතු වන යකඩ ලෝහය සතු ගුණාංගයකි,",
+        "choices": [
+            "ශක්තිමත්‌ හා දැඩි බව",
+            "භංගුර බව",
+            "රැව්‌ දීම",
+            "ප්‍රත්‍යස්ථ බව"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පහත සඳහන්‌ වගන්ති අතරින්‌ වැරදි වගන්තිය හෝ වගන්ති තෝරන්න.\na) වායු පීඩනය අඩු ස්ථානයක්‌ පීඩන අවපාතයක්‌ ලෙස හැඳින්වේ.\nb) ශ්‍රී ලංකාවට බලපාන සුළි සුළං බොහෝ විට හටගන්නේ බෙංගාල බොක්ක ආශ්‍රිත ඉහළ වායුගෝලයේ ය.\nc) සුළඟක්‌ හමා යනුයේ අඩු පීඩන ප්‍රදේශයක සිට වැඩි පීඩන ප්‍රදේශයකටය.",
+        "choices": [
+            "a.",
+            "b.",
+            "c.",
+            "a හා b."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Science",
+        "category": "stem",
+        "question": "තණකොළ --> තණකොළ පෙත්තා --> කටුස්සා --> බළලා\nඉහත ආහාර දාමයේ සිටින යැපෙන්නන්‌ සංඛ්‍යාව කොපමණ ද?",
+        "choices": [
+            "එකකි.",
+            "දෙකකි.",
+            "තුනකි.",
+            "හතරකි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Science",
+        "category": "stem",
+        "question": "නිවස තුළ ශීතරකරණ භාවිත කරන ආකාරය අනුව ද විදුලිය ඉතිරි කර ගත හැකිය. විදුලිය වැඩියෙන්‌ වැය වන අයුරින්‌ ශීතකරණය වැරදි ආකාරයට භාවිත කරන අවස්ථාවකි,",
+        "choices": [
+            "ශීතකරණයේ දොර විවෘත කරන වාර ගණන අඩු කිරීම.",
+            "රත්‌ වූ ද්‍රව්‍ය නිවුණු පසු ශීතකරණයට දැමීම.",
+            "ශීතකරණය හිරුඑළිය නොවැටෙන ස්ථානයක තැබීම.",
+            "ශීතකරණය බිත්තියට ඉතා ආසන්නව තැබීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වර්ෂාපතනය අපේක්‍ෂිත ප්‍රමාණයට වඩා අඩු වීම නිසා නියං ඇතිවේ. නියං ඇතිවීම කෙරෙහි අඩුවෙන්ම බලපාන හේතුව කුමක්‌ ද?",
+        "choices": [
+            "වනාන්තර විනාශ කිරීම.",
+            "ලැව්ගිනි ඇති වීම.",
+            "අධික ලෙස ෆොසිල ඉන්ධන දහනය කිරීම.",
+            "වන වගා ඇති කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/17HMO2TWbq5pYujMBCckvq7Vi4c1BZbWJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පහත දී ඇති ශාක අතරින්‌ අපුෂ්ප ශාකය කුමක්‌ ද?",
+        "choices": [
+            "වද",
+            "රෝස",
+            "මඤ්ඤොක්කා",
+            "මඩු"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Science",
+        "category": "stem",
+        "question": "pH අගය 7 ට අඩු හා 7 ට වැඩි ද්‍රව්‍යය පිළිවෙලින්‌ දක්වා ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "හුණුදියරය, සීනි ද්‍රාවණය",
+            "විනාකිරි, හුණුදියරය",
+            "අළු ද්‍රාවණය, විනාකිරි",
+            "සෝඩියම්‌ හයිඩ්‍රොක්සයිඩ්‌, හුණුදියරය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ධාරිත්‍රකයක ගබඩා කරන ආරෝපණ මනින ඒකකය වන්නේ,",
+        "choices": [
+            "වෝල්ට්‌ ය.",
+            "ඇම්පියර්‌ ය.",
+            "ෆැරඩ්‌ ය.",
+            "කූලෝම්‌ ය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජීවයේ ව්‍යුහමය හා කෘත්‍යමය ඒකකය කුමක්‌ ද?",
+        "choices": [
+            "පටකය",
+            "ජීවියා",
+            "සෛලය",
+            "පද්ධතිය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ධ්වනිය වඩාත්‌ වේගයකින්‌ ගමන්‌ කරන්නේ පහත සඳහන කුමන ද්‍රව්‍යය තුළින්‌ ද?",
+        "choices": [
+            "වාතය",
+            "වානේ",
+            "මිරිදිය",
+            "කරදිය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Science",
+        "category": "stem",
+        "question": "a) කාරයක්‌ පණගැන්වීමට බැටරියක්‌ යොදාගැනීම.\nb) පා පැදියක ලාම්පුව දල්වා ගැනීම.\nc) සූර්ය කෝෂයක්‌ මගින්‌ ගණක යන්ත්‍රයක්‌ ක්‍රියාකරවීම.\nඉහත a, b, c අවස්ථාවල නිපදවෙන ධාරාව නිවැරදි අනුපිළිවෙලින්‌ දක්වා ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "සරල ධාරාව, ප්‍රත්‍යාවර්තක ධාරාව, ප්‍රත්‍යාවර්තක ධාරාව",
+            "සරල ධාරාව, සරල ධාරාව, ප්‍රත්‍යාවර්තක ධාරාව",
+            "ප්‍රත්‍යාවර්තක ධාරාව, සරල ධාරාව, සරල ධාරාව",
+            "සරල ධාරාව, ප්‍රත්‍යාවර්තක ධාරාව, සරල ධාරාව"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ආහාර ජීර්ණ පද්ධතියටත්‌ ශ්වසන පද්ධතියටත්‌ පොදු ව්‍යුහය කුමක්‌ ද?",
+        "choices": [
+            "ස්වරාලයයි.",
+            "ග්‍රසනිකාවයි.",
+            "අන්නසඝ්‍රෝතයයි.",
+            "ශ්වාසනාලයයි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Science",
+        "category": "stem",
+        "question": "අන්වීක්‍ෂය සම්බන්ධ ප්‍රකාශ තුනක්‌ පහත දක්වේ.\n(a) අවනෙත වස්තුවට සමීප කාචයයි.\n(b) දළ සීරුමාරුව මගින්‌ දේහ නළය චලනය කළ හැකිය.\n(c) අවනෙත ලෙස අවතල කාච යොදා ගනී.\nමේවායින්‌ සත්‍ය වන්නේ,",
+        "choices": [
+            "a හා b වේ.",
+            "a හා c වේ.",
+            "b හා c වේ.",
+            "A, B හා C සියල්ලම වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Science",
+        "category": "stem",
+        "question": "උප ඡායාවක්‌ ලබාගැනීම සඳහා,",
+        "choices": [
+            "ආලෝක ප්‍රභවය හා වස්තුව අතර දුර අඩුචිය යුතුය.",
+            "වස්තුව හා තිරය අතර දුර වැඩිවිය යුතුය.",
+            "වස්තුව හා තිරය අතර දුර සමාන විය යුතුය.",
+            "ආලෝක ප්‍රභවය හා වස්තුව අතර දුර වැඩි විය යුතුය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජලය සම්බන්ධව පහත දී ඇති වගන්ති අතරින්‌ අසත්‍ය වගන්තිය තෝරන්න.",
+        "choices": [
+            "උක්‌ ශාකයෙන්‌ සීනි නිපදවා ගැනීමට හැකිවී ඇත්තේ ජලයේ ද්‍රාවක ගුණය නිසාය.",
+            "මී හරකුන්‌ උණුසුම්‌ වේලාවට ජලයේ බැස සිටීමේදී වැදගත්‌ වන්නේ ජලයේ සිසිලන කාරක ගුණයයි.",
+            "ජීවීන්ගේ සිරුර තුළ සිදුවන ජීව ක්‍රියා සඳහා ජලය මාධ්‍යයක්‌ ලෙස ක්‍රියා නොකරයි.",
+            "විටමින්‌, ඖෂධ වැනි දෑ සිරුරේ අවශ්‍ය ස්ථාන වලට පරිවහනය කිරීමට ජලයේ ද්‍රාවක ගුණය උපකාර වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Science",
+        "category": "stem",
+        "question": "රතු, සුදු, කහ, කොළ පාට වලින්‌ වර්ණ ගැන්වූ සර්වසම ඉරටු කෑලි 25 ක්‌ බැගින්‌ කොළපාට තණකොළ\nපිට්ටනියක විසිරුවා හරින ලදී. සිසුන්‌ 4 දෙනකු යොදවා වර්ණ හතරේ ඉරටු වෙන වෙනම අහුලා ගැනීමට\nඋපදෙස්‌ ලබා දුන්නේය. අහුලා අවසන්‌ කිරීමට වැඩිම වේලාවක්‌ ගත වූයේ කුමන වර්ණයෙන්‌ යුත්‌ ඉරටු ද?",
+        "choices": [
+            "රතු",
+            "කහ",
+            "කොළ",
+            "සුදු"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Science",
+        "category": "stem",
+        "question": "භුතැටි පිළිබඳව සත්‍ය වගන්තිය තෝරන්න.",
+        "choices": [
+            "භූතැටි ඉතා සෙමින්‌ චලනය වේ.",
+            "කබොලේ සිට හරය දක්වා විහිදෙයි.",
+            "භු තැටි මායිම්‌ ආකාර දෙකකට චලනය වේ.",
+            "භු තැටි මායිම්‌ බොහොමයක්‌ ගොඬබිමෙහි දක්නට ලැබේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පරිසර උෂ්ණත්වය දිනෙන්‌ දින ඉහළ යාමට හේතු පිළිබඳව දී ඇති ප්‍රකාශ අතරින්‌ වඬා නිවැරදි පිළිතුර තෝරන්න.",
+        "choices": [
+            "වනාන්තර කපා විනාශ කිරීම.",
+            "ද්‍රව්‍යය දහනය අධික වීම.",
+            "ක්‍රියාත්මක වන කර්මාන්ත ශාලා වැඩිවීම.",
+            "ඉහත සඳහන්‌ සියළුම ක්‍රියා වැඩිවීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1_nhNKFbNtkjySlinunDkc_4jd6-MwF8N/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජලයේ හොඳින් දියවන ද්‍රව්‍යයකි.",
+        "choices": [
+            "සීනි",
+            "සබන්",
+            "කහ කුඩු",
+            "මැටි"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Science",
+        "category": "stem",
+        "question": "නටන ජලයේ උෂ්ණත්වය වන්නේ,",
+        "choices": [
+            "100°F",
+            "100°C",
+            "373°C",
+            "100 K"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පෘථිවි කබොල සෑදී ඇත්තේ,",
+        "choices": [
+            "නිකල් හා සිලිකන් වලිනි.",
+            "ඔක්සිජන් හා සිලිකන් වලිනි.",
+            "පාෂාණ හා පස් වලිනි.",
+            "පාෂාණ වලිනි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වැලි පසක,",
+        "choices": [
+            "කාබනික ද්‍රව්‍ය බහුලය.",
+            "මැටි වැඩිපුර අඩංගු ය.",
+            "පාංශු වාතය රැඳීම අඩුය.",
+            "පාංශු ජලය රැඳීම අඩුය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ෆිනෝප්තලීන් වල වර්ණය රෝස පැහැයට හරවන රසායන ද්‍රව්‍යයකි,",
+        "choices": [
+            "හයිඩ්‍රොක්ලෝරික් අම්ලය",
+            "සෝඩියම් හයිඩ්‍රොක්සයිඩ් ද්‍රාවණය",
+            "කොපර් සල්ෆේට් ද්‍රාවණය",
+            "සෝඩියම් ක්ලෝරයිඩ් ද්‍රාවණය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පිඟන් කර්මාන්ත ශාලාවල භාවිතයට ගන්නා ඛනිජයක් වන්නේ,",
+        "choices": [
+            "කෙයොලින් ය.",
+            "මිනිරන් ය.",
+            "පෙල්ස්පාර් ය.",
+            "ඇපටයිට් ය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පිරිමැදීමට ලක් නොවූ වස්තු තුල (+) හා (-) ආරෝපණ ඇත. හිස් තැනට සුදුසු නිවැරදි පිළිතුර තෝරන්න.",
+        "choices": [
+            "සමාන සංඛ්‍යා වලින්.",
+            "අසමාන සංඛ්‍යා වලින්.",
+            "විශාල සංඛ්‍යා වලින්.",
+            "එකම ස්ථානයට රැස්වූ"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වෛරස නිරීක්ෂණය කිරීම සඳහා යොදාගත හැකි වඩා සුදුසු උපකරණය කුමක්ද?",
+        "choices": [
+            "ඉලෙක්ට්‍රෝන අන්වීක්ෂය",
+            "අත් කාචය",
+            "ආලෝක අන්වීක්ෂය",
+            "විශාලක කාචය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Science",
+        "category": "stem",
+        "question": "\"ගිරවා කොළ පාට නිසා ගසක වසා සිටින විට පහසුවෙන් හඳුනා ගැනීම අපහසුය.\" මෙම සංසිද්ධිය හැඳින්වීමට වඩාත් සුදුසු පදය",
+        "choices": [
+            "අනාකූල හැඩය",
+            "ප්‍රතිරෝධය",
+            "වේශාන්තරය",
+            "විලෝපීයතාවය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Science",
+        "category": "stem",
+        "question": "අසත්‍ය වගන්තිය තෝරන්න.",
+        "choices": [
+            "විස්ථාපනය විශාලත්වයක් හා ස්ථිර දිශාවක් සහිත මිනුමකි.",
+            "බලයක් යෙදීමෙන් වස්තුවක් චලනය කළ හැකිය.",
+            "බලයට විශාලත්වයක් හා දිශාවක් නැත.",
+            "චලිතය ආරම්භ කළ ස්ථානයත් චලිතය අවසන් කළ ස්ථානයත් අතර සෘජු දුර විස්ථාපනයයි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වායුගෝලයේ කෘත්‍යයක් නොවන්නේ,",
+        "choices": [
+            "ධ්වනි ශක්තිය ගමන් කිරීමට අවශ්‍ය මාධ්‍යක් ලෙස ක්‍රියාකරයි.",
+            "ජල චක්‍රයට අවශ්‍ය ජලවාෂ්ප සැපයීමයි.",
+            "පියාසර කරන ජීවීන්ට ආධාර වීමයි.",
+            "ප්‍රභාසංශ්ලේෂණයට අවශ්‍ය ඔක්සිජන් වායුව ලබාදීමයි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පාසල් සිසුන් ප්‍රවාහනය කරන අවස්ථාවල බර වාහන ධාවනය නතර කිරීම සුදුසු බව මහජන මතයයි. එයට වඩාත් ගැලපෙන හේතුව වන්නේ,",
+        "choices": [
+            "වාහන නළා හඬ නිසා අධික ඝෝෂාවක් ඇති වීමය.",
+            "පරිසරයට දුම් පිටවීම නිසා පරිසරය අපැහැදිලි වීමය.",
+            "පරිසර උෂ්ණත්වය ඉහළ යාම නිසා සිසුන් අපහසු තත්ත්වයට පත්වීමය.",
+            "අනතුරක් සිදු වුවහොත් ඇති වන හානිය වැඩිවීමය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1s04133g5AnTyxFcEVAwxriLNIKfx7Rpt/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වෛරස මගින්‌ බෝ වන රෝගයක්‌ නො වන්නේ,",
+        "choices": [
+            "ක්ෂය රෝගය",
+            "ඒඩ්ස්‌",
+            "ඉබෝලා",
+            "කොරෝනා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Science",
+        "category": "stem",
+        "question": "කොපර්‌ සල්ෆේට්‌ සෑදී ඇති මූලද්‍රව්‍ය වන්නේ,",
+        "choices": [
+            "කොපර්‌, නයිට්‍රජන්‌, ඔක්සිජන්‌",
+            "සල්ෆර්‌, කොපර්‌, මැග්නීසියම්‌",
+            "ඔක්සිජන්‌, සල්ෆර්‌, කොපර්‌",
+            "පොස්පරස්‌, කොපර්‌, සල්ෆර්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වායු ගෝලයේ ජල වාෂ්ප අවශෝෂනය සඳහා හැඬගැසුනු ශාකයකට උදාහරණයකි,",
+        "choices": [
+            "ඇන්තූරියම්‌",
+            "ඕකිඩ්‌",
+            "කිරළ",
+            "බේදුරු"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ද්‍රව වශයෙන්‌ හමුවන විදුලිය සන්නයනය කරනු ලබන ලෝහය වන්නේ,\n",
+        "choices": [
+            "සෝඩියම්‌",
+            "කැල්සියම්‌",
+            "කොපර්‌",
+            "රසදිය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ස්වාභාවිකව ඇති නොවන ශබ්දයක්‌ සඳහා නිදසුනක්‌ වන්නේ,",
+        "choices": [
+            "මුහුදු රළ මඟින්‌ නැගෙන ශබ්දය",
+            "ගසක්‌ ඇතිල්ලෙන ශබ්දය",
+            "පන්සලේ ඝණ්ඨාර හඬ",
+            "අකුණු හඬ"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Science",
+        "category": "stem",
+        "question": "මිනිස්‌ සිරුරේ නිපදවන බහිස්‍රාවී ද්‍රව්‍යයක්‌ සඳහා නිදසුනක්‌ නොවන්නේ,",
+        "choices": [
+            "යුරියා",
+            "මළපහ",
+            "මුත්‍රා",
+            "කාබන්ඩයොක්සයිඩ්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පදාර්ථය සතු ලක්ෂණ කිහිපයක්‌ පහත දැක්වේ.\nA. නිශ්චිත පරිමාවක්‌ ඇත. \nB. නිශ්චිත හැඩයක්‌ නැත.\nC. පහසුවෙන්‌ සම්පිණ්ඩනය කළ හැක.\nඉහත ලක්ෂණ අතුරින්‌ වායු සතු ලක්ෂණ වන්නේ,",
+        "choices": [
+            "A, B පමණි.",
+            "B,C පමණි.",
+            "A, C පමණි.",
+            "A, B, C සියල්ල ම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ගිල්ලුම්‌ තාපකය (හීටරය) භාවිතයෙන්‌ අපට ලැබෙනුයේ විද්‍යුත්‌ ධාරාවේ කුමන ඵලයක්‌ ද?",
+        "choices": [
+            "චුම්භක ඵලය",
+            "ප්‍රකාශ ඵලය",
+            "රසායනික එලය",
+            "තාපන ඵලය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Science",
+        "category": "stem",
+        "question": "මුලින්‌ ම පදාර්ථයේ අසන්තතික බව ප්‍රකාශ කරන ලද්දේ,\n",
+        "choices": [
+            "ඩිමොක්‍රටීස්‌ ය.",
+            "ඇරිස්ටෝටල්‌ ය.",
+            "ඇරිස්ටාකස්‌ ය.",
+            "ලූක්‍රේෂස්‌ ය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ස්ථිර චුම්භක භාවිත කරන අවස්ථාවක්‌ නොවන්නේ,",
+        "choices": [
+            "විදුලි සීනුව",
+            "මාලිමාව",
+            "මෝටරය",
+            "ස්ජීකරය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වායව කඳේ ආහාර තැම්පත්‌ කර ඇති ශාකයකි,",
+        "choices": [
+            "කෙසෙල්‌",
+            "අර්ථාපල්‌",
+            "කිතුල්‌",
+            "කැරට්‌"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ද්‍රව්‍යක ඝනත්වය සම්බන්දයෙන්‌ ඉදිරිපත්‌ කළ ප්‍රකාශ කිහිපයක්‌ පහත දැක්වේ,\nA. සංශුද්ධ ද්‍රව්‍ය සඳහා ඝනත්වය නිශ්චිත අගයකි.\nB. යම්‌ ද්‍රවෟක ඒකක පරිමාවක ස්කන්ධය ඝනත්වය වේ.\nC. යම්‌ ද්‍රව්‍යයක්‌ සඳහා අනන්‍ය නොවන ගුණයකි.\nඉහත ප්‍රකාශවලින්‌ නිවැරදි වන්නේ,",
+        "choices": [
+            "A පමණි.",
+            "B පමණි.",
+            "C පමණි.",
+            "A, B පමණි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Science",
+        "category": "stem",
+        "question": "මිනිසාගේ මධ්‍ය ස්නායු පද්ධතියට අයත්‌ ප්‍රධාන කොටස්‌ දෙක වන්නේ,",
+        "choices": [
+            "මොළය හා සුසුම්නාව පමණි.",
+            "මොළය හා පර්යන්ත ස්නායු පද්ධතිය පමණි.",
+            "මොළය හා අනුමස්තිෂ්කය පමණි.",
+            "සුසුම්නා ස්නායු පමණි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පදාර්ථ පමණක්‌ අන්තර්ගත පිළිතුර තෝරන්න.",
+        "choices": [
+            "ධූවිලි, ධීවනිය, ජලය",
+            "ධුවිලි, වාතය, ජලය",
+            "ජලය, තාපය, වාතය",
+            "ජලය, දුවිලි, ආලෝකය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Science",
+        "category": "stem",
+        "question": "සංශුද්ධ ද්‍රව්‍යයක්‌ තෝරන්න.",
+        "choices": [
+            "කොළ කැඳ",
+            "ලුණු ද්‍රාවණය",
+            "කොපර්සල්ෆේට්‌ ද්‍රාවණය",
+            "රසදිය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජලයේ වෙනත්‌ ද්‍රව්‍යයක්‌ දිය වී ඇති විට එහි තාපංංකය,",
+        "choices": [
+            "සෙල්සියස්‌ 100 ට අඩු හෝ වැඩි විය හැක.",
+            "සෙල්සියස්‌ 100 ය වේ.",
+            "සෙල්සියස්‌ 100 ට අඩුය.",
+            "සෙල්සියස්‌ 100 ට වැඩිය."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Science",
+        "category": "stem",
+        "question": "බේකරි කර්මාන්තයට වැදගත්වන ක්ඝුද්‍ර ජීවි ආකාරයකි,",
+        "choices": [
+            "ඇල්ගේ",
+            "බැක්ටීරියා",
+            "වෛරස",
+            "දිලීර"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Science",
+        "category": "stem",
+        "question": "කුඩැල්ලා අයත්වන සත්ව ඛාණ්ඩය වන්නේ,",
+        "choices": [
+            "මොලුස්කා",
+            "නිඩාරියා",
+            "ආත්‍රපෝඩා",
+            "ඇනලීඩා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Science",
+        "category": "stem",
+        "question": "උත්ස්වේදනය වළක්වා ගැනීමට පතු සිහින්‌ වී ඇති ශාකයකි,",
+        "choices": [
+            "පතොක්‌",
+            "කස",
+            "නවහන්දි",
+            "කනේරු"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Science",
+        "category": "stem",
+        "question": "රසායනික විපර්යාසයක්‌ දැක්වෙන පිළිතුර වන්නේ,",
+        "choices": [
+            "අයිස්‌ දුව බවට පත්‌ වීම.",
+            "හුමාලය ඝණිභවනය වීම.",
+            "දර දහනය.",
+            "ඝන ඉටි ද්‍රව."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1F9n4RkMYrt2nkgVKnSRoopXuC5jFidGO/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Science",
+        "category": "stem",
+        "question": "බේකරි කර්මාන්තය සඳහා බහුලවම භාවිතා කරන ක්ෂුද්‍ර ජීවීයා වන්නේ,",
+        "choices": [
+            "ඇමීබා",
+            "පෙනිසිලියම්",
+            "යීස්ට්",
+            "පැරමීසියම්"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Science",
+        "category": "stem",
+        "question": "දේහය මතුපිට බාහිර සැකිල්ලක් දැකිය නොහැක්කේ,",
+        "choices": [
+            "කොරල් බුහුබාවා",
+            "පත්තෑයා",
+            "ගොළුබෙල්ලා",
+            "පත්තෑ පණුවා"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Science",
+        "category": "stem",
+        "question": "සල්ෆර් කුඩු හා යකඩ කුඩු තදින් රත්කර සිසිල් වීමට තැබූ විට සෑදෙන මිශ්‍රණයේ වර්ණය හා පදාර්ථ අවස්ථාව වන්නේ,",
+        "choices": [
+            "කළු පැහැති ඝනයකි.",
+            "නිල් පැහැති ද්‍රවයකි.",
+            "දුඹුරු පැහැති ඝනයකි.",
+            "නිල් පැහැති ඝනයකි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ද්‍රව වශයෙන් පවතින අලෝහ මූල ද්‍රව්‍යයකි.",
+        "choices": [
+            "රසදිය",
+            "පොස්පරස්",
+            "ජලය",
+            "බ්‍රෝමීන්"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Science",
+        "category": "stem",
+        "question": "තෘණ, හබරල, අර්තාපල් වැනි ශාකවල පත්‍ර අග්‍රය පිළිස්සී තිබෙන බව නිරීක්ෂණය කළ හැකි වේ. මීට හේතුව විය හැක්කේ,",
+        "choices": [
+            "බිංදුදය",
+            "විසරණය",
+            "ආස්‍රැතිය",
+            "උත්ස්වේදනය"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Science",
+        "category": "stem",
+        "question": "උත්ස්වේදන ක්‍රියාවලිය අඩු කිරීමට හේතු වන සාධකයක් වන්නේ,",
+        "choices": [
+            "අධික සූර්ය තාපය",
+            "අධික ආලෝකය",
+            "අධික ආර්ද්‍රතාවය",
+            "අධික සුළඟ"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Science",
+        "category": "stem",
+        "question": "චුම්බක උතුර ඇත්තේ සත්‍ය උතුරට මඳක්,",
+        "choices": [
+            "ඊසාන දෙසිනි.",
+            "වයඹ දෙසිනි.",
+            "උතුරු දෙසිනි.",
+            "නිරිත දෙසිනි."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Science",
+        "category": "stem",
+        "question": "දෙබර දෂ්ඨනයකදී දෂ්ඨ කළ ස්ථානයේ ආලේප කළ හැකි ද්‍රව්‍යයක් වන්නේ,",
+        "choices": [
+            "දෙහි",
+            "හුණු",
+            "බේකින් සෝඩා",
+            "පොල්තෙල්"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Science",
+        "category": "stem",
+        "question": "දේහ සමතුලිතතාවය සඳහා දායක වන මධ්‍ය ස්නායු පද්ධතියේ කොටස වන්නේ,",
+        "choices": [
+            "මස්තිෂ්කය",
+            "අනුමස්තිෂ්කය",
+            "සුෂුම්නා ශීර්ෂකය",
+            "සුෂුම්නාව"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Science",
+        "category": "stem",
+        "question": "පිළිවෙලින් බැක්ටීරියාවක් හා ප්‍රෝටොසෝවාවෙකු මගින් වැළදෙන රෝග වන්නේ,",
+        "choices": [
+            "ක්ෂය රෝගය, ලීෂ්මානියාව",
+            "ලාදුරු, අළුහම්",
+            "ඩෙංගු, පෝලියෝ",
+            "ඇමීබා අතිසාරය, ලීෂ්මානියාව"
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ආහාර ඇසුරුමක ඇති අවාසියක් වන්නේ,",
+        "choices": [
+            "රසකාරක වර්ණක ආදිය ඇසුරුම සමඟ ප්‍රතික්‍රියා කිරීම.",
+            "වාතය හා ජලය ඇතුළු නොවීම.",
+            "ගබඩා කිරීම පහසු වීම.",
+            "ක්ෂුද්‍ර ජීවී ක්‍රියාකාරිත්වය අඩු වීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Science",
+        "category": "stem",
+        "question": "වර්ෂා රටාව වෙනස් වීම කෙරෙහි බලපාන ස්වභාවික හේතුවක් වන්නේ,",
+        "choices": [
+            "හරිතාගාර වායු මුදා හැරීම.",
+            "එල් - නිනෝ සංසිද්ධිය ඇති වීම.",
+            "අක්‍රමවත් ඉදිකිරීම.",
+            "වනාන්තර විනාශ කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ජල ගැලීම් සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශය වන්නේ,",
+        "choices": [
+            "කොළඹ වැනි නාගරික ප්‍රදේශ වලට ඇතිවන ජල ගැලීම් ක්ෂණික ජල ගැලීම් වේ.",
+            "ජල ගැලීම් හේතුවෙන් විවිධ බෝ නොවන රෝග පැතිරීමට වැඩි ඉඩක් ඇති වේ.",
+            "ආපදා මල්ලක් තබා ගැනීම ඉන් ආරක්ෂා වීමට හේතුවක් වේ.",
+            "නිවසින් ඉවත්ව යන විට නිවසේ විදුලිය විසන්ධි කළ යුතු වේ."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Science",
+        "category": "stem",
+        "question": "ආස්‍රැතිය සිදුවිය හැකි අවස්ථාවක් විය හැක්කේ,",
+        "choices": [
+            "ප්‍රභාසංශ්ලේෂණයට අවශ්‍ය කාබන් ඩයොක්සයිඩ් පත්‍ර තුළට ඇතුල් වීම.",
+            "උත්ස්වේදනයේ දී ජලය වායුගෝලයට පිට වීම.",
+            "ශාක මුලට ජලය ඇතුළු වීම.",
+            "ශ්වසන ක්‍රියාවලියේදී කාබන්ඩයොක්සයිඩ් වායුගෝලයට මුදා හැරීම."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Science",
+        "category": "stem",
+        "question": "මීට් බෝල්ස්, සොසේජස් වැනි ආහාර අයත් කාණ්ඩය වන්නේ,",
+        "choices": [
+            "ඍජුවම ආහාරයට ගත හැකි.",
+            "ක්ෂණිකව සකස් කර ආහාරයට ගත යුතු.",
+            "පරිභෝජනයට පෙර පිසීම කළ යුතු.",
+            "පරිභෝජනයට පෙර ශීතකරණයේ තැබිය යුතු."
+        ],
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EQWnNGFToUgBSoaRJZQWzGNdKICZ2u6t/view?usp=drive_link"
+        }
+    }
+]

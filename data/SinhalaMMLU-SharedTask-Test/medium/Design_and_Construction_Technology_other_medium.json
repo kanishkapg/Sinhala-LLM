@@ -1,0 +1,742 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ඉංජිනේරු සැලසුම් ශිල්පියෙකු විසින් අඳිනු ලැබූ සැලසුම් චිත්‍රයක පහළින් පරිමාණය දැක්වීමට තිබූ ස්ථානයෙහි 1 : 200 ලෙස සඳහන් කර තිබෙනු දක්නට ලැබුණි. එමගින් අදහස් කරනුයේ එම චිත්‍රය,",
+        "choices": [
+            "කුඩා කර ඇඳීමේ පරිමාණයකි.",
+            "විශාල කර ඇඳීමේ පරිමාණයකි.",
+            "සම්පූර්ණ පරිමාණයට ඇඳි චිත්‍රයකි.",
+            "ඉහත කිසිවක් නොවේ."
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සැලසුම් චිත්‍ර ඇඳීමේ දී යම් වස්තුවක් කුඩා කර ඇඳීමේ දී හෝ විශාල කර ඇඳීමේ දී අනුගමනය කළ යුතු පරිමාණ භාගයන් දක්වන අන්තර්ජාතික සංවිධානය වනුයේ,",
+        "choices": [
+            "ශ්‍රී ලංකා ඉංජිනේරු ආයතනය (IESL)",
+            "විදුලි හා ඉලෙක්ට්‍රොනික ඉංජිනේරු ආයතනය (IEEE)",
+            "ජාත්‍යන්තර ප්‍රමිති සංවිධානය (ISO)",
+            "ශ්‍රී ලංකා ප්‍රමිති ආයතනය (SLS)"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "කුළුණු, බාල්ක, කොන්ක්‍රීට් ඇතුළු හා ලින්ටල වැනි වැරගැන් වූ කොන්ක්‍රීට් ව්‍යුහ නිර්මාණය සඳහා යොදාගන්නා නිවැරදි මිශ්‍රණ අනුපාතය වන්නේ,",
+        "choices": [
+            "1:3:6 (40)",
+            "1:2:4 (20)",
+            "1:1:2 (20)",
+            "1:12:3 (12)"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "කොන්ක්‍රීට් බැහුම් පරික්ෂාව (Slump Test) සඳහා යොදා නොගන්නා උපකරණයක් වන්නේ,",
+        "choices": [
+            "කේතු ජින්නකය",
+            "පෙදරේරු හැන්ද",
+            "මිනුම් පෙට්ටිය",
+            "කෝදුව"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "වැඩ කිරීමේ පහසුව හා උසස් නිමාවක් ලබාගැනීම සඳහා ආවුද මුවහත් කිරීම අත්‍යවශ්‍ය කරුණකි. ඇඹරුම් විදුම් කටුවක් හොඳින් මුවහත් තැබීමට යොදා ගන්නා උපකරණය,",
+        "choices": [
+            "වැලිගල",
+            "තෙල්ගල",
+            "තුන්හුලස් පීර",
+            "රෝද ගිනිගල"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "NVQ (National Vocational Qualification) සලකනුයේ,",
+        "choices": [
+            "NVQ 07 මට්ටම",
+            "NVQ 06 මට්ටම",
+            "NVQ 05 මට්ටම",
+            "NVQ 04 මට්ටම"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ඉදිකිරීමක දී ඒ සඳහා වැයවන වියදම් ප්‍රධාන කරුණු කීපයක් යටතේ වර්ග කෙරේ. එහිදී උඩිස් වියදම (Over heards) ගණයට අයත් නොවන වියදම් කවරේද?",
+        "choices": [
+            "ගෙවල් කුලී",
+            "ජල ගාස්තු",
+            "තීන්ත",
+            "විදුලිය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සිරිපාල නිවසෙහි තිබූ පොල්ගසක් කපා එය 7 m ක් දිග කැබලි දෙකකට වෙන් කරන ලදී. ලී කොටයෙහි වට ප්‍රමාණය 4400 mm බව සොයා ගත්තේ නම් එහි අරය ගණනය කරන්න.",
+        "choices": [
+            "0.1 m",
+            "0.35 m",
+            "0.7 m",
+            "0.2 m"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ඉහත පොල් ලී කොටන් දෙකෙහි සම්පුර්ණ පරිමාව ගණනය කරන්න.",
+        "choices": [
+            "43.12 m3",
+            "21.56 m3",
+            "27.01 m3",
+            "56.0 m3"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ඉදිකිරීම් කටයුතුවල දී නිමහම් කිරීමේ එක් අදියරක් ලෙස ඔප දැමීම හැඳින්විය හැක. පහත ආලේපන වර්ග අතරින් ඔප දැමීම සඳහා භාවිත නොකරන ආලේප වර්ගය වනුයේ,",
+        "choices": [
+            "ඉටි ආලේපය",
+            "වාර්නිෂ් ආලේපය",
+            "ප්‍රංශ පොලිෂ්",
+            "ලැකර් ආලේපය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "නිර්මාණය කළ හැටුමක් මත බර යෙදූ විට හැඩ යම් ප්‍රමාණයකට වෙනස් විය හැකි වුවත් ඇළවීම, හැකිලීම සිදු නොවී පැවතීම හඳුන්වන විශේෂිත ගුණාංගය,",
+        "choices": [
+            "ශක්තිය",
+            "කල්පැවැත්ම",
+            "පීඩනය",
+            "ස්ථායිතාව"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ආනතිය වැඩි පොළොව පෘෂ්ඨවල සෝදාපාළුව පාලනය කිරීම සඳහා ද, පොළොව මතුපිට පෘෂ්ඨය වැර ගැන්වීම සඳහා ද ඉදිකරන විශේෂිත බැමි වර්ගය කුමක්ද?",
+        "choices": [
+            "ගේ බියන් රැඳවුම් බිත්ති",
+            "විෂම රළුගල් බැම්ම",
+            "සංකීර්ණ රළුගල් බැම්ම",
+            "ෆ්ලෙමිෂ් බැම්ම"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "දී ඇති සරල රේඛාව සමාන කොටස් 4කට බෙදීමේ දී අත්‍යාවශ්‍ය නොවන ජ්‍යාමිතික උපකරණය කුමක්ද?",
+        "choices": [
+            "අඩිකෝදුව",
+            "විහිත චතුරස්‍ර යුගලය",
+            "කවකටුව",
+            "HB පැන්සල"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ඝන අඛණ්ඩ රේඛා ඇඳීම සඳහා යොදාගන්නා පැන්සල් වර්ගය වනුයේ,",
+        "choices": [
+            "3H",
+            "2H",
+            "H",
+            "HB"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සාමාන්‍ය ඇඳීමේ කඩදාසිය වන A2 කඩදාසියක් ගෙන ඉන් හරි අඩක් කඩදාසියේ දික් අතට බෙදා වෙන් කරගත් විට එය හඳුන්වන කඩදාසි නාමය හා දිග, පළල පිළිවෙළින් නිවැරදිව දක්වා ඇති වරණය තෝරන්න.",
+        "choices": [
+            "A1 - 840 x 594 mm",
+            "A0 - 1788 x 841 mm",
+            "A4 - 297 x 210 mm",
+            "A3 - 420 x 297 mm"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සරල රේඛීය පාද තුනක් හෝ වැඩි සංඛ්‍යාවකින් සමන්විත සංවෘත්ත රූපයක් හඳුන්වන නම කුමක්ද?",
+        "choices": [
+            "පංචාස්‍රය",
+            "සෘජුකෝණාස්‍රය",
+            "බහුඅස්‍රය",
+            "කේතුක ඛණ්ඩය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "උපකරණයේ ක්‍රියාකාරීත්වය සඳහා අවශ්‍ය වන ජවය වොට් වලින් (Watt) හෝ අශ්වබල වලින් (Hourse Power) සඳහන් කර තිබෙනු දක්නට ලැබේ. මෙහි දී අශ්වබල එකක් ලෙස ගණනය කරනු ලබන්නේ,",
+        "choices": [
+            "750.5 W",
+            "102.5 W",
+            "549.5 W",
+            "746.5 W"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "වීදුරු, ගොඩනැගිලි නිමහම් කිරීම් සඳහා බහුලව යොදා ගන්නා අමුද්‍රව්‍යයකි. මෙලෙස බහුලව යොදා ගැනීමට හේතුවක් නොවන්නේ,",
+        "choices": [
+            "උණුසුම රඳවා ගත හැකි නිසාවෙනි.",
+            "ශබ්ද පරිවාරක නිසාවෙනි.",
+            "ආලෝකය විනිවිද යාම නිසාවෙනි.",
+            "මිලෙන් ඉතා අධික වීම නිසාවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "PVC නළ නිෂ්පාදනයේ දී TYPE 600 ලෙස සඳහන් කිරීමෙන් අදහස් වනුයේ,",
+        "choices": [
+            "එම නළය වර්ග 600 කට අයත් වන බව ය.",
+            "බාහිර විශ්කම්භය 600 mm වන බව ය.",
+            "කිලෝ පැස්කල් 600 යක පීඩනයකට ඔරොත්තු දෙන බව ය.",
+            "එම නළය ලංකාවේ නිෂ්පාදිත 600 වන වර්ගයට අයත් බව ය."
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සම්පත් අරපිරිමැස්මෙන් භාවිත කිරීම සඳහා හඳුන්වා දී ඇති සංකල්පයක් වන්නේ,",
+        "choices": [
+            "7R",
+            "5S",
+            "3R",
+            "10S"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ආරුක්කු ඉදිකිරීමේ දී එහි හැඩය පවත්වා ගැනීමට විවිධ ගඩොල් වර්ග යොදාගනී. පහත ඒවා අතුරින් ආරුක්කු ඉදිකිරීමේ දී යොදා නොගන්නා ගඩොල් වර්ගය වනුයේ,",
+        "choices": [
+            "ඉලුම් කැට",
+            "කුඤ්ඤ හැඩයට කැපූ ගඩොල්",
+            "සාමාන්‍ය සම්මත ගඩොල්",
+            "විෂම රළුගල්"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "1: 500 කුඩා කර ඇඳීමේ පරිමාණයට අඳින ලද චිත්‍රයක ඇඳි එක් සරල රේඛාවක දිග 100 mm ලෙස සොයා ගත්තේ නම් එම රේඛාවේ සත්‍ය දිග (සැබෑ දිග) කොපමණ ද?",
+        "choices": [
+            "50000 mm",
+            "25 000 mm",
+            "10000 mm",
+            "5000 mm"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "විදුලි උපකරණවල, මෝටර් රථවල සඳහන් කෙටි යෙදුමක් ලෙස දක්නට ලැබෙන RPM යන්නෙහි තේරුම කුමක්ද?",
+        "choices": [
+            "මිනිත්තුවකට භ්‍රමණය වන වට ගණන",
+            "මිනිත්තුවකදී ගමන් කළ හැකි මීටර ගණන",
+            "මිනිත්තුවකට කළ හැකි කාර්ය ප්‍රමාණය",
+            "මිනිත්තුවක් තුළ දී කාර්යක්ෂමතාවය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "දැව හා ලෝහ ඕනෑම කෝණික හැඩයකට කපා ගැනීම සඳහා භාවිත කළ හැකි උපකරණය කුමක්ද?",
+        "choices": [
+            "රොටරි හැමරය",
+            "කම්පක උපකරණය",
+            "ඇන්ගල් ග්‍රයින්ඩරය",
+            "රාමු කියත"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "විවිධ ඉදිකිරීම් කටයුතු වල දී උපකරණයක් වෙනුවට උපකරණ සකස් කර භාවිතයට ගැනීමට සිදුවන අවස්ථා තිබේ. මෙවැනි උපකරණ හඳුන් වන විශේෂිත නම කුමක්ද?",
+        "choices": [
+            "හැටුම් උපකරණ",
+            "මැනීමේ උපකරණ",
+            "අනුයෝගී උපකරණ",
+            "කේන්ද්‍රීය උපකරණ"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "දැව භාවිත කර සිදු කරන නිර්මාණ වල දී විවිධ හේතූන් මත දැව මූට්ටු යොදාගැනීමට සිදුවේ. පහත මුට්ටු අතුරින් පළල වැඩි කිරීමට යොදන මූට්ටු වර්ගයක් නොවන්නේ,",
+        "choices": [
+            "හේත්තු මුට්ටුව",
+            "පලු මුට්ටුව",
+            "තට්ටු මුට්ටුව",
+            "කයිනෝක්කු මුට්ටුව"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "හුණු බදාම සකස්කර ගැනීමේ දී හුණු සහ වැලි ජලය සමග අනා දිනක් පමණ වසා තැබීමෙන් පසු කපරාරුවට යොදා ගැනීමෙන් බදාමයේ වැඩි දියුණු වන ගුණාංගය කුමක්ද?",
+        "choices": [
+            "සම්පීඩනය",
+            "ප්‍රත්‍යාස්ථතාව",
+            "දැඩි බව",
+            "සුවිකාර්යතාවය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "නිමහම් ලේපයක් ලෙස තීන්ත ආලේප කිරීමේ දී යටි ආලේපයක් යෙදීමේ අරමුණක් වන්නේ,",
+        "choices": [
+            "දැවයට උරාගන්නා තීන්ත ප්‍රමාණය වැඩි කිරීම.",
+            "තෙතමනය උරාගැනීම පාලනය කිරීම.",
+            "දැවයට අමතර ශක්තියක් ලබාදීම.",
+            "දැවය පිරිසිදු කිරීමේ හැකියාව වැඩිදියුණු කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "හැටුම් මත විවිධ හේතූන් නිසා ක්‍රියාත්මක වන භාරයන් ප්‍රධාන කොටස් තුනක් යටතේ වර්ගී කරණය කරයි. මේවා අතරින් සජීවී භාරයන් සඳහා බලපාන සාධකයක් නොවන්නේ කුමක්ද?",
+        "choices": [
+            "ගම්‍යතොව",
+            "කම්පනය",
+            "හැටුම",
+            "විස්ථාපනය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "විවිධ නිමවුම් සඳහා විවිධ වූ නිමහම් කිරීමේ ක්‍රම මෙන් ම විවිධ වූ ආවුද හා උපකරණ යොදාගනී. මේවා අතරින් රාස්පය (Rasp) භාවිත කරනු ලබන වඩාත් නිවැරදි කාරණය කුමක්ද?",
+        "choices": [
+            "සන්ධි කළ කොටස් සුමට ලෙස මට්ටම් කරගැනීමට",
+            "කෝණික හැඩ නියමිත පරිදි සුමට කර ගැනීමට",
+            "යතුගා මට්ටම් කර ඇති ලී පෘෂ්ඨ තවදුරටත් සුමට කර ගැනීමට",
+            "දැව පෘෂ්ඨය තීරු ආකාරයට සුමට කර ගැනීමට"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "කපරාරු කිරීම සඳහා බදාම වර්ග සකස් කර ගැනීමේ දී සිමෙන්ති, හුණු බදාමය සඳහා සිමෙන්ති, හුණු හා වැලි මිශ්‍ර කරනු ලබන අනුපාතය නිවැරදිව දක්වා ඇති වරණය වනුවේ.",
+        "choices": [
+            "1:2:3",
+            "1:1:5",
+            "1:3:1",
+            "2:1:1"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "කොටස් එකලස් කිරීමට යොදා ගන්නා වර්ගයක් නොවනුයේ,",
+        "choices": [
+            "ඇණ වර්ග",
+            "සරනේරු වර්ග",
+            "මැලියම් වර්ග",
+            "සොයිබ වර්ග"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "මුවහත් කිරීමේ ආවුද උපකරණවලට අයත් නොවන්නේ,",
+        "choices": [
+            "පීරි තලය",
+            "රාස්පය",
+            "ගිනිගල් යන්ත්‍රය",
+            "තෙල් බඳුන"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "කොන්ක්‍රීට් යාන්ත්‍රිකව සුසංහසනය කිරීමේ දී උපයෝගී කර නොගන්නා කම්පක (Vibrator) වර්ගය වනුයේ,",
+        "choices": [
+            "පෙවුම් කම්පකය",
+            "පෘෂ්ඨ කම්පකය",
+            "හැඩයම් කම්පකය",
+            "තල කම්පකය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "ශ්‍රී ලංකාවේ දැව හා සම්බන්ධ රජයේ වගකිය යුතු ප්‍රධාන ආයතනය වන්නේ,",
+        "choices": [
+            "රාජ්‍ය දැව සංස්ථාව",
+            "මහවැලි අධිකාරිය",
+            "වන සංරක්ෂණ දෙපාර්තමේන්තුව",
+            "රාජ්‍ය ඉංජිනේරු ආයතනය"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "විනිවිද පෙනෙන සිහින් ප්ලාස්ටික් බටයක ජලය පුරවා සකස් කරගන්නා අනුයෝගී උපකරණය වනුයේ,",
+        "choices": [
+            "ලෙවලය (Sprit Level)",
+            "ලෙවල් බටය (Level Tube)",
+            "තියඩොලයිට්ටුව (Theodolite)",
+            "ලඹය (Plumb Bob)"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Design and Construction Technology",
+        "category": "other",
+        "question": "සිරස් රේඛාවට ලම්භකව අඳින රේඛාවයි",
+        "choices": [
+            "සරල රේඛාව",
+            "තිරස් රේඛාව",
+            "ආනත රේඛාව",
+            "සමාන්තර රේඛාව"
+        ],
+        "metadata": {
+            "subject_original": "නිර්මාණකරණය හා ඉදිකිරීම් තාක්‍ෂණවේදය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1c159bcWFW-nMUJwI-rrfjd8bR839RX6e/view?usp=drive_link"
+        }
+    }
+]

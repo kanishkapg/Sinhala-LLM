@@ -1,0 +1,25 @@
+<View>
+  <Header value="$book_id — page $page ($why)"/>
+  <View style="display: flex; gap: 16px;">
+    <View style="flex: 1;">
+      <Image name="page" value="$image" zoom="true"/>
+    </View>
+    <View style="flex: 1;">
+      <Text name="text" value="$text"/>
+      <Choices name="verdict" toName="text" choice="single" showInline="true" required="true">
+        <Choice value="OK"/>
+        <Choice value="Minor errors"/>
+        <Choice value="Broken"/>
+      </Choices>
+      <Choices name="error_type" toName="text" choice="multiple" showInline="true">
+        <Choice value="Wrong letters / conversion"/>
+        <Choice value="Broken sentence order (layout)"/>
+        <Choice value="Caption / label noise"/>
+        <Choice value="Header / footer / page number"/>
+        <Choice value="Missing text"/>
+      </Choices>
+      <TextArea name="notes" toName="text" rows="3"
+                placeholder="One fix per line: wrong -> right   e.g. ගැටලූව -> ගැටලුව"/>
+    </View>
+  </View>
+</View>

@@ -1,0 +1,602 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "පාසල්‌ සංවිධාන ව්‍යුහයේ දළ සැලැස්ම තුළ ඇතුළත්‌ නොවන පාර්ශ්වයක්‌ වන්නේ,",
+        "choices": [
+            "ශිෂ්‍ය ශිෂ්‍යාවන්‌",
+            "ගුරුවරුන්‌",
+            "විදුහල්පති",
+            "දෙමව්පියන්‌"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1iQL2azhN-sjxQhUmYgWQ2XaC6T5k8MZB/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ජීව දත්ත තොරතුරු පත්‍රිකාවක ඇතුළත්‌ නොකළ යුතු කරුණක්‌ වන්නේ,",
+        "choices": [
+            "නම",
+            "ලිපිනය",
+            "දේශපාලන පක්ෂය",
+            "උපන්‌ දිනය"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1iQL2azhN-sjxQhUmYgWQ2XaC6T5k8MZB/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "“නිදහස්‌ අධ්‍යාපනයේ පියා\" යන විරුද නාමය ලද්දේ,",
+        "choices": [
+            "ආනන්ද සමරකෝන්‌ මහතා",
+            "සේනක බ්ිබ්ලේ මහතා",
+            "සී.ඩබ්ලිව්‌.ඩබ්ලිච්‌. කන්නන්ගර මහතා",
+            "මාර්ටින්‌ වික්‍රමසිංහ මහතා"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1iQL2azhN-sjxQhUmYgWQ2XaC6T5k8MZB/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "සැලසුම්‌ සහගත ශිෂඝ්‍යයෙකුගේ ලක්ෂණයකි,",
+        "choices": [
+            "වැඩ කල්‌ දමයි.",
+            "අතාවශ්‍ය පියවර අත්හරී.",
+            "ක්‍රමානුකූලව කටයුතු කරයි.",
+            "අභියෝගවලට මුහුණ නොදෙයි."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1iQL2azhN-sjxQhUmYgWQ2XaC6T5k8MZB/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ලිපි, පාර්සල්‌ හා විදුලි පණිවිඩ ජනතාව වෙත බෙදාහරින නිලධාරියා වන්නේ,",
+        "choices": [
+            "පොලිස්‌ නිලධාරී",
+            "තැපැල්‌ නිලධාරී",
+            "ග්‍රාම නිලධාරී",
+            "හෙද නිලධාරී"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1iQL2azhN-sjxQhUmYgWQ2XaC6T5k8MZB/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ළමා මිතුරු පාසල්‌ පරිසරයක දැකිය හැකි ලක්ෂණයක්‌ වන්නේ මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "ප්‍රජා සහභාගීත්වය හිඟවීම.",
+            "ජලය හා සෞඛ්‍යාරක්‍ෂිත පහසුකම්‌ සපයා නොමැති වීම.",
+            "සුරක්ෂිත ඉගෙනුම්‌ පරිසරයක්‌ තිබීම.",
+            "ගුරුවරු ඉගෙනුම්‌ ඉගැන්වීම්‌ ක්‍රමවේදය එකම ආකාරයකින්‌ පවත්වාගෙන යාම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1PCjyMhmlwdJjKIwQB6EvpmmnPYHlxXIx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ආගමික සිද්ධස්ථාන මඟින්‌ ඉටුවන සේවාවකි,",
+        "choices": [
+            "දහම්‌ දැනුම ලබාදීම.",
+            "ජාතික ආරක්‍ෂාව තහවුරු කිරීම.",
+            "සෞඛ්‍ය සේවා පවත්වාගෙන යාම.",
+            "ආදායම්‌ බදු එකතු කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1PCjyMhmlwdJjKIwQB6EvpmmnPYHlxXIx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "සැලසුම්කරණය හා සංවිධානය නිසා,",
+        "choices": [
+            "කාලය නාස්ති වෙයි.",
+            "සම්පත්‌ අපතේ යයි.",
+            "සේවකයන්‌ පීඩාවට ලක්වෙයි.",
+            "සිතේ පීඩාකාරි බව අඩුවෙයි."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1PCjyMhmlwdJjKIwQB6EvpmmnPYHlxXIx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ප්‍රදේශීය ලේකම්‌ කාර්යාලයෙන්‌ ජනතාවට ඉටුවන සේවාවක්‌ වන්නේ,",
+        "choices": [
+            "බලපත්‍ර නිකුත්‌ කිරීම.",
+            "වීදි ලාම්පු නඬත්තු කිරීම",
+            "වීදි පිරිසිදු කිරීම.",
+            "කුණු කසල බැහැර කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1PCjyMhmlwdJjKIwQB6EvpmmnPYHlxXIx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "මහනගර සභාවක ප්‍රධානියා වන්නේ,",
+        "choices": [
+            "මහ ඇමති",
+            "අගමැති",
+            "ලේකම්‌",
+            "පුරපති"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1PCjyMhmlwdJjKIwQB6EvpmmnPYHlxXIx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "පවුලේ සාමාජිකයෙකු ලෙස ඔබගේ යුතුකමක්‌ හා වගකීමක්‌ වන්නේ,",
+        "choices": [
+            "ආහාර හා පෝෂණය ලැබීම.",
+            "අධ්‍යාපනය ලැබීම.",
+            "පවුලේ ගෞරවය ආරක්‍ෂා කිරීම.",
+            "රැකවරණය ලැබීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dRlPWgsSm6Au8E4kGsi-8rzKNIntgR5Q/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "පුද්ගලයෙකු තුළ පැවතිය යුතු යහපත්‌ ගුණාංගයක්‌ නොවන්නේ,",
+        "choices": [
+            "අවංක බව",
+            "ස්වයං විනය",
+            "නායකත්වයට ගරු කිරීම",
+            "යහපත්‌ දේ ප්‍රතික්ෂේප කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dRlPWgsSm6Au8E4kGsi-8rzKNIntgR5Q/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "පහත සඳහන්‌ කරුණු අතරින්‌ සදාචාරාත්මක යුතුකමක්‌ වන්නේ,",
+        "choices": [
+            "බදු ගෙවීම",
+            "රාජකාරිය නිසි ලෙස ඉටු කිරීම",
+            "දෙමාපියන්ට සැලකීම",
+            "රජයට අවනත වීම"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dRlPWgsSm6Au8E4kGsi-8rzKNIntgR5Q/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "රාජ්‍ය සේවකයින්‌ විශ්‍රාම යා හැකි අනිවාර්ය වයස්‌ සීමාව වන්නේ,",
+        "choices": [
+            "අවුරුදු 55",
+            "අවුරුදු 57",
+            "අවුරුදු 60",
+            "අවුරුදු 65"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dRlPWgsSm6Au8E4kGsi-8rzKNIntgR5Q/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ළමා ශ්‍රමය සුරාකෑමට එරෙහි සාප්පු හා කාර්යාල පනතට අනුව සේවයේ යෙදවීමට නොහැක්කේ,",
+        "choices": [
+            "වයස අවුරුදු 12 ට අඩු දරුවන්‌.",
+            "චයස අවුරුදු 14 ට අඩු දරුවන්‌.",
+            "චයස අවුරුදු 16 ට අඩු දරුවන්‌.",
+            "වයස අවුරුදු 18 ට අඩු දරුවන්‌."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dRlPWgsSm6Au8E4kGsi-8rzKNIntgR5Q/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ජන සමාජය තුළ පවත්නා ග්‍රාම සංවර්ධන සමිති දායකත්වය සපයන කාර්ය මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "සමාජය විනය ගරුක කිරීම.",
+            "ක්‍රීඩා කටයුතු දියුණු කිරීම.",
+            "සුබ සාධන කටයුතු සිදු කිරීම.",
+            "ආගම ඉගැන්වීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qoGjpCpSef3WFVxZZyvX-HFy8P2ql4vP/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "අයිතිවාසිකම්‌ යනු සමාජය තුළින්‌ පුද්ගලයාට ලැබෙන වරප්‍රසාදයන්ය. ඒ අනුව අයිතිවාසිකම්වල ලක්‍ෂණය කුමක්‌ ද?",
+        "choices": [
+            "ජීවත්‌ වීමේ අයිතිය",
+            "අධ්‍යාපනය ලැබීමේ අයිතිය",
+            "ආගම ඇදහීමේ අයිතිය",
+            "යුතුකම්‌ සමඟ බැඳී පැවතීම"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qoGjpCpSef3WFVxZZyvX-HFy8P2ql4vP/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "දත්ත හා තොරතුරු ලැඛෙන අවිධිමත්‌ මාධ්‍ය මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "ගුවන්‌ විදුලිය",
+            "රූපවාහිනිය",
+            "සමාජ මාධ්‍ය",
+            "කට කතා"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qoGjpCpSef3WFVxZZyvX-HFy8P2ql4vP/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "බහු ආගමික වන්දනාමානයට පාත්‍රවන පුජනීය ස්ථානයක්‌ ලෙස හඳුනාගත හැකි ස්ථානය කුමක්‌ ද?",
+        "choices": [
+            "සමාධි පිළිමය",
+            "කොළඹ දවටගහ මුස්ලිම්‌ පල්ලිය",
+            "ගල්‌ විහාරය",
+            "සිරිපා මළුව"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qoGjpCpSef3WFVxZZyvX-HFy8P2ql4vP/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ජාතික කොඩිය නිර්මාණය කිරීම සඳහා ප්‍රථම වරට කමිටුවක්‌ පිහිටුවීමට කටයුතු කළේ කවරෙක්‌ ද?",
+        "choices": [
+            "ටී.බී. ජයා මැතිතුමා",
+            "ජේ.ආර්‌. ජයවර්ධන මැතිතුමා",
+            "ඩී.එස්‌. සේනානායක මැතිතුමා",
+            "ජී.ජී. පොන්නම්බලම්‌ මැතිතුමා"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qoGjpCpSef3WFVxZZyvX-HFy8P2ql4vP/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "බ්‍රිතාන්‍ය පාලන යුගය තුළ ආරම්භ කළ පොදු සේවාවකි.",
+        "choices": [
+            "තැපැල්‌ හා විදුලි පණිවුඩ",
+            "ආරක්ෂක සේවය",
+            "සෞඛ්‍ය සේවය",
+            "ජල සම්පාදනය"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lkRpk2D_3zn8fv1mJQvq5PLZiH6OG31p/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ප්‍රජාතන්ත්‍රවාදී ජීවන ක්‍රමයක ලක්ෂණයකි,",
+        "choices": [
+            "බහුතර මතය ප්‍රතික්ෂේප කිරීම.",
+            "අයිතිවාසිකම්‌ භුක්ති විඳිමින්‌ යුතුකම්‌ ඉටු නොකිරීම.",
+            "සම්මුතියෙන්‌ තීරණවලට එළඹීම.",
+            "අන්මත ප්‍රතික්ෂේප කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lkRpk2D_3zn8fv1mJQvq5PLZiH6OG31p/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "නායකයෙකු සතුවිය යුතු ආවේදනීය හැකියාවකි.",
+        "choices": [
+            "ඉලක්ක තීරණය කිරීම.",
+            "ස්ථිරසාර ඛව.",
+            "සංවේදී බව.",
+            "ගැටලු නිවැරදිව නිරාකරණය"
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lkRpk2D_3zn8fv1mJQvq5PLZiH6OG31p/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "අප රොගී වූ විට ඹෟෂධ භාවිතයේ දී ඉතාමත්‌ සැලකිලිමත්‌ විය යුතු එහි දී අප විසින්‌ නොකළ යුතු දෙයකි.",
+        "choices": [
+            "නියමිත වෛද්‍ය උපදෙස්‌ පිළිපැදීම.",
+            "අන්තරායකාරී ඹෟෂධ භාවිතය",
+            "ඹෟෂධවල නියමිත මාත්‍රාව භාවිත කිරීම.",
+            "ඹෟෂධ නියම්ත උෂ්ණත්වයේ ගබඩා කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lkRpk2D_3zn8fv1mJQvq5PLZiH6OG31p/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "බහු සංස්කෘතික ජන සමාජයක ජනතාව එක්සත්ව කටයුතු කිරීමෙන්‌ ඇතිවන වාසියකි.",
+        "choices": [
+            "ගැටුම්‌ සුලභ වීම.",
+            "සාමූහිකත්වය බිඳ වැටීම.",
+            "තිරසර සාමයක්‌ ගොඩනැගීම.",
+            "රට සංවර්ධනය නොවීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lkRpk2D_3zn8fv1mJQvq5PLZiH6OG31p/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ප්‍රජාතන්ත්‍රවාදී ජීවන රටාව තුළ දැකිය නොහැකි ගුණාංගයකි,",
+        "choices": [
+            "ස්වයං චිනයකින්‌ කටයුතු කිරීම.",
+            "විනිවිදභාවයකින්‌ කටයුතු කිරීම.",
+            "සහයෝගයෙන්‌ කටයුතු කිරීම.",
+            "අන්‌ අයගේ අයිතිවාසිකම්‌ කඩවන ලෙස හැසිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dtjMiB6_wAM8mx0PlcU4VfArpPBVV9ai/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "ගංචතුර ඇතිවීම සඳහා බලපාන ස්වභාවික හේතුවක්‌ වන්නේ,",
+        "choices": [
+            "පතල්‌ කැනීම",
+            "වනාන්තර චිනාශ කිරීම.",
+            "මෝයකට අවහිර වීම.",
+            "දිරාපත්‌ නොවන අපද්‍රව්‍ය අනිසි ලෙස බැහැර කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dtjMiB6_wAM8mx0PlcU4VfArpPBVV9ai/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "කෘෂිකාර්මික ක්‍ෂේත්‍රයට අයත්‌ නොවන රැකියාව තෝරන්න.",
+        "choices": [
+            "තේ දළු නෙළීම.",
+            "රබර්‌ කිරි කැපීම.",
+            "කාර්මික ශිල්පය.",
+            "කොප්පරා සැකසීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dtjMiB6_wAM8mx0PlcU4VfArpPBVV9ai/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "බහු සංස්කෘතික රටක්‌ ලෙස කටයුතු කිරීමේදී ඇමරිකාව අනුගමනය කර ඇඳි ක්‍රියාමාර්ගයකි,",
+        "choices": [
+            "ඉංග්‍රීසි භාෂාව රාජ්‍ය භාෂාව ලෙස පිළිගැනීම.",
+            "කතෝලික ආගම රාජ්‍ය ආගම ලෙස පිළිගැනීම.",
+            "ඇතැම්‌ ජන කණ්ඩායම්වලට විශේෂ අයිතිවාසිකම්‌ හිමිකර දීම.",
+            "ප්‍රජාතන්ත්‍රවාදය පිටුදැකීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dtjMiB6_wAM8mx0PlcU4VfArpPBVV9ai/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Civics",
+        "category": "Social_science",
+        "question": "පුද්ගලයාට ලැබෙන ආදායම අඩුවීම මත ආයතනයට ඇතිවිය හැකි අවාසියකි,",
+        "choices": [
+            "සේවක කාර්යක්ෂමතාවය වැඩිවීම.",
+            "ආයතනයට ලෙංගතුබවක්‌ ඇතිවීම.",
+            "ඉක්මනින්‌ සේවය අතහැර යෑම.",
+            "උද්ඝෝෂණ ඇති නොවීම."
+        ],
+        "metadata": {
+            "subject_original": "පුරවැසි අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dtjMiB6_wAM8mx0PlcU4VfArpPBVV9ai/view?usp=drive_link"
+        }
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුද්ධකාලීන භාරතීය බ්‍රාහ්මණ ඉගැන්වීම්වලට අනුව දානය ස්වධර්මයක් ලෙස නියම කොට තිබුණේ ",
+        "choices": [
+            "බ්‍රාහ්මණ වර්ණයට පමණි.",
+            "ක්ෂත්‍රිය වර්ණයට පමණි.",
+            "ක්ෂත්‍රිය හා වෛශ්‍ය වර්ණවලට පමණි.",
+            "බ්‍රාහ්මණ, ක්ෂත්‍රිය හා වෛශ්‍ය වර්ණවලට පමණි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "හිස්තැනට වඩාත් සුදුසු වචනය තෝරන්න. ක්‍රි. පූ. 6 වන සියවසේ භාරතයේ පැවති බ්‍රාහ්මණ සංස්කෘතික පරිසරය තුළ කාන්තාව පීඩාවට පත්ව සිටි ආකාරය මෙන් ම බුදුසමයෙන් ඇය අත්විඳි මානසික සුවය ද .................... පැහැදිලි වේ. \n",
+        "choices": [
+            "ථෙරීගාථාවලින්",
+            "ධම්මපද පාලියෙන්",
+            "සිගාලෝවාද සූත්‍රයෙන්",
+            "භික්ෂුණී ප්‍රාතිමෝක්ෂයෙන්"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ගංගා මුවෙහි ගිල්වා තබන ලද කෙමිණ බොහෝ මත්ස්‍යයින්ගේ විනාශය පිණිස හේතු වන්නා සේ මිනිසුන්ට අහිත පිණිස, අවැඩ පිණිස, ව්‍යසන පිණිස, ලෝකයේ උපන් මිනිස් කෙමිණ ලෙස බුදුරජාණන් වහන්සේ විසින් හඳුන්වන ලද බුද්ධකාලීන ආගමික ශාස්තෘවරයා වූයේ ",
+        "choices": [
+            "අජිත කේසකම්බල ය.",
+            "පකුධ කච්චායන ය.",
+            "මක්කලී ගෝසාල ය.",
+            "පූරණ කස්සප ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ බුද්ධත්වයෙන් පසු දහම් දෙසීම සඳහා මගධය බලා වැඩම කළේ ",
+        "choices": [
+            "තපස්සු භල්ලුක වෙළෙඳුන්ගේ ඉල්ලිමකට ය.",
+            "යස කුලපුත්‍රයාගේ ඉල්ලිමකට ය.",
+            "බිම්බිසාර රජුගේ ඉල්ලිමකට ය.",
+            "අජාසත් රජුගේ ඉල්ලිමකට ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ක්‍රි. පු. 6 වන සියවසේ භාරතයේ ක්‍රියාත්මකව පැවති රාජාණ්ඩු සහ සමූහාණ්ඩු තුළ දක්නට ලැබුණු පොදු ලක්ෂණයක් වූයේ",
+        "choices": [
+            "ව්‍යවස්ථාදායක, විධායක හා අධිකරණ බලතල පාලක පක්ෂය විසින් ම ක්‍රියාත්මක කිරීමයි,",
+            "මත්ස්‍ය න්‍යාය ක්‍රියාත්මක කරමින් රාජ්‍යයේ සීමා පුළුල් කිරීමයි.",
+            "පරපුරෙන් පරපුරට රාජධානියේ හිමිකාරීත්වය පවත්වා ගැනීමයි,",
+            "ප්‍රාදේශීය පාලකයන් සමූහයක් පාලන තන්ත්‍රයට සම්බන්ධව සිටීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "තුන් කල්හි ම පැවති, පද' රුත් සියල් ලොව ඇති, අතැඹුලසෙ දැන ගති, බුදුගුණාලංකාරයේ එන ඉහත සඳහන් කවියෙන් විස්තර වන බුදුගුණය කුමක් ද?",
+        "choices": [
+            "භගවා",
+            "සත්ථා",
+            "සම්මාසම්බුද්ධ",
+            "ලෝකවිදු"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "\"සත්‍යය අවබෝධ කළ භාග්‍යවතුන් වහන්සේ සත්ත්වයාගේ අවබෝධය පිණිස දහම් දෙසති .... ක්ලේශ පරිනිර්වාණයෙන් පිරිනිවි ඒ භාග්‍යවතුන් වහන්සේ සත්ත්වයාගේ ක්ලේශ පරිනිර්වාණය පිණිස දහම් දෙසති.” ඉහත ප්‍රකාශයෙන් ප්‍රකට වන බුදුගුණය හැඳින්වීමට වඩාත් සුදුසු යෙදුම වන්නේ,",
+        "choices": [
+            "මහාප්‍රඥාවයි.",
+            "මෙත්තා ගුණයයි.",
+            "මහාකරුණාවයි.",
+            "පරිත්‍යාගයයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "\"මහණෙනි! මම දැන් ඔබ අමතමි. සංස්කාරයෝ නැසෙන සුලු ය. අප්‍රමාදීව විමුක්ති සාධනයට කටයුතු කරන්න.” බුදුරජාණන් වහන්සේ තුළ පැවති ශ්‍රේෂ්ඨ චරිත ලක්ෂණයක් ප්‍රකට කරන ඉහත ප්‍රකාශය හැඳින්වීමට වඩාත් උචිත යෙදුම ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "පද්මාකාර ජීවිතය",
+            "නිදහස් චින්තනය",
+            "විශිෂ්ට ශාස්තෘත්වය",
+            "පරිනිර්වාණයට නො බියව මුහුණදීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ වනාහි උන්වහන්සේ විසින් දේශනා කරන ලද සියලු ම ගුණධර්මයන්ගේ පුතිමුර්තියයි. හතළිස් පස් වසරක කාලය තුළදී තමන් විසින් ප්‍රකාශ කරන ලද වචන උන්වහන්සේ ක්‍රියාවට නැගූහ. කිසිදු දුබලතාවක් හෝ පහත් හැඟීමක් හෝ උන්වහන්සේගෙන් කිසිවිටෙකත් දෘශ්‍යමාන නො වීය. ලෝකයට ඉතා පරිපූර්ණ ආචාරධර්ම පද්ධතියක් ඉදිරිපත් කරන ලද්දේ ද බුදුරජාණන් වහන්සේ විසිනි.\" ඉහත ප්‍රකාශය කරන ලද්දේ කවුරුන් විසින් ද?",
+        "choices": [
+            "මහාචාර්ය මැක්ස් මුලර්",
+            "මහාචාර්ය ලක්ෂ්මී නරසු",
+            "ඇල්බට් අයින්ස්ටයින්",
+            "බර්ට්‍රන්ඩ් රසල්"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "පහත සඳහන් ප්‍රකාශ අතුරෙන් චිත්ත ගහපතිතුමාගේ චරිතය හා නො ගැළපෙන ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ධර්මඥානය අඩු භික්ෂූන්ට ධර්මඥානය ලබාදීමට කටයුතු කිරීම",
+            "සිය බිරිඳ විවාහ කරගත් දින සිට සිතින්වත් වෙනත් කාන්තාවක් නො පැතූ, මතු ආත්මවලදීද ඇය හා එක්ව විසීමට ප්‍රාර්ථනා කළ උපාසකයා වීම",
+            "ධර්මකථික උපාසකයන් අතර අග්‍ර උපාසකයා වීම",
+            "සුධම්ම භික්ෂුවගේ ගර්භාවට ලක්ව බුදුරජාණන් වහන්සේ විසින් ප්‍රථම වතාවට පටිසාරණීය කර්මය පැණවීමට හේතු වූ උපාසකයා වීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේගේ අග්‍ර උපස්ථායක තනතුරට පත්වීමේදී ආනන්ද හිමියන් විසින් ඉදිරිපත් කරන ලද වරප්‍රසාද හතරට අයත් නො වන කරුණ කුමක් ද?",
+        "choices": [
+            "බුදුරජාණන් වහන්සේ ජේතවනාරාමයෙහි වැඩ නො සිටින අවස්ථාවල උන්වහන්සේට පූජා පිණිස ලැබෙන මල්, පහන් ආදිය ආනන්ද බෝධීන් වහන්සේට පූජා කිරීමට අවසර ලබාදීම",
+            "ආනන්ද හිමියන් විසින් භාරගනු ලබන ආරාධනා බුදුරජාණන් වහන්සේ විසින් පිළිගතයුතු වීම",
+            "පිටතින් පැමිණෙන කවරකු හෝ කැමති වේලාවක බුදුරජාණන් වහන්සේ මුණගැස්සවීමට අවසර දියයුතු වීම",
+            "ආනන්ද හිමියන්ට කවර හෝ සැකයක් ඇති වූ කල්හි එකෙණෙහි ම එය විචාරිමට අවසර ලැබිය යුතු වීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "සමාජ සංස්ථාවන්ගේ ප්‍රභවය හා පරිණාමය පිළිබඳ අග්ගඤ්ඤ සූත්‍රාගත විස්තරයට අනුව විවිධ සමාජ සංසිද්ධීන් පටිච්චසමුප්පන්නව පරිණාමය වීමේ ප්‍රතිඵලයක් ලෙස රාජ්‍යය බිහිවිය. එහිලා පාලකයකු පත්කර ගැනීමේ ආසන්නතම හේතුව ලෙස හඳුනාගත හැක්කේ,",
+        "choices": [
+            "ජනතාවගේ ජීවත්වීමේ අයිතිය සුරක්ෂිත කරගැනීමයි.",
+            "ජනතාවගේ දේපළ රැස්කරගැනීමේ අයිතිය සුරක්ෂිත කරගැනීමයි,",
+            "පරිහානියට පත් සදාචාරය නැවත සමාජය තුළ ස්ථාපනය කිරීමයි.",
+            "ජනතාවගේ අයිතිවාසිකම් උල්ලංඝනය කරන වැරදිකරුවන් සොයා ඔවුන්ට දඬුවම් ලබාදීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "රාජ්‍ය පාලනය පිළිබඳ බෞද්ධ මුලධර්ම අනුව රටක ආර්ථික ප්‍රනිපත්තිය තුළ පැවතිය යුතු මූලික ලක්ෂණයක් ලෙස සැලකිය හැක්කේ,",
+        "choices": [
+            "අය බදු වැඩි කොට රාජ්‍ය භාණ්ඩාගාරය ශක්තිමත් කිරීමයි.",
+            "ජනතාවගේ ආර්ථික අවශ්‍යතා හඳුනාගෙන ඒ ඒ ක්ෂේත්‍රවල දක්ෂතා ඇති අයට අවශ්‍ය පහසුකම් සැලසීමයි.",
+            "දිළිඳු පුද්ගලයන්ට ධනවතුන්ගේ සහය ලබාදීමයි.",
+            "රාජ්‍ය භාණ්ඩාගාරය සතු ධනය අවශ්‍යතා අනුව දිළිඳු පුද්ගලයන් අතර බෙදාදීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "මදයෙන් හා ප්‍රමාදයෙන් තොර බහුශ්‍රැත මහණ බමුණන් වෙත එළඹ අවවාද අනුශාසනා ලබා රට පාලනය කළ යුතු ය\" යන බෞද්ධ රාජ්‍ය පාලන මූලධර්මය ඇතුළත් වන්නේ,",
+        "choices": [
+            "සප්තඅපරිහානිය ධර්ම තුළ ය.",
+            "දස සක්විතිවත් තුළ ය.",
+            "කූටදන්ත සුත්‍රාගත රාජ්‍ය පාලන මූලධර්ම තුළ ය.",
+            "අග්ගඤ්ඤ සූත්‍රාගත රාජ්‍ය පාලන සිද්ධාන්ත තුළ ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුද්ධකාලීන භාරතීය සමාජයෙහි මුල් බැස ගත් ආගමික විශ්වාසයක් වූ ඊශ්වර නිර්මාණවාදයේ ලක්ෂණයක් ලෙස නො සැලකිය හැකි කරුණ ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "පුද්ගලයාට ස්වච්ඡන්දාව අහිමිවීම",
+            "පුද්ගලයාට සිය ස්වාමිත්වය අහිමිවීම",
+            "යෝග අභ්‍යාස ප්‍රගුණ කිරීම",
+            "කර්ම මාර්ගයට ප්‍රමුඛතාව ලැබීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ආරම්භධාතු, නික්කමධාතු, පරක්කමධාතු, ථාමධාතු, ඨිතිධාතු, උපක්කමධාතු යනුවෙන් දැක්වෙන්නේ බෞද්ධ ඉගැන්වීම් මගින් පුද්ගලයාගේ ස්වාධීනත්වය, ශක්තිය හා පෞරුෂය අවධාරණය කොට ඇති ආකාරයයි. පහත සඳහන් ප්‍රකාශ අතුරෙන් මෙම ඉගැන්වීම් හා නො ගැළපෙන ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "කර්මය මගින් පුද්ගලයාගේ දියුණුව හා පරාභවය තීරණය කෙරේ.",
+            "විමුක්තිය උදාකර ගැනීම ඔබගේ කාර්යයකි. තථාගතවරු මාර්ගය පෙන්වති.",
+            "නමා විසින් කරන ලද පාපය තමා කිලුටට පත් කරයි.",
+            "පුද්ගලයාට ස්වච්ඡන්දතාවක් ඇත."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "\"සිත, කය සහ වචනයෙන් සිදු කරනු ලබන යම් ක්‍රියාවක් තමාට අහිත පිණිස හේතු වේ ද අනුන්ට අහිත පිණිස හේතු වේ ද තමා හා අනුන් යන උභය පක්ෂයට අහිත පිණිස හේතු වේ ද එවැනි ක්‍රියා සිදු නො කළ යුතු බව බෞද්ධ ඉගැන්වීමයි.\" හොඳ-නරක විනිශ්චයෙහිලා නිර්ණායකයක් ලෙස උපයෝගි කර ගත හැකි මෙම ඉගැන්වීම ඇතුළත් වන්නේ ",
+        "choices": [
+            "අම්බලට්ඨිකරාහුලෝවාද සූත්‍රයේ ය.",
+            "කාලාම සූත්‍රයේ ය.",
+            "මහාපරිනිබ්බාණ සූත්‍රයේ ය.",
+            "වේළුද්වාර සූත්‍රයේ ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "කායික, වාචසික, මානසික යන තිදොරින් ම සිදුවන අකුසල් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "ප්‍රාණඝාතය, අදත්තාදානය, මුසාවාදය",
+            "අදත්තාදානය, පරදාරසේවනය, පරුෂ වචනය",
+            "ප්‍රාණඝාතය, කේලාම් කීම, අභිධ්‍යාව",
+            "පරැෂ වචනය, අභිධ්‍යාව, ව්‍යාපාදය"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "සතර බ්‍රහ්ම විහරණවල \"මුදිතා\" යන්නෙන් අදහස් කරනුයේ,",
+        "choices": [
+            "මෘදු මොළොක් පැවතුම් ඇති බවයි.",
+            "අන් අයගේ අදහස්වලට ඇහුම්කන්දීමයි.",
+            "අනුන්ගේ දුකෙදී කම්පාවීමයි.",
+            "අනුන්ගේ සැපේදී සතුටුවීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "කාමභෝගී ගිහියාට දරිද්‍රතාච දුකක් බවත් දිළිඳුහාවය නිසා ණය ගැනීමට සිදුවන බවත් ණය ගැනීමට සාපේක්ෂව එකිනෙක බද්ධ වූ තවත් දුක් ගණනාවකට මුහුණදීමට සිදුවන බවත් දැක්වෙන සූත්‍රය කුමක් ද?",
+        "choices": [
+            "අනණ සූත්‍රය",
+            "සිගාලෝවාද සුත්‍රය",
+            "පත්තකම්ම සූත්‍රය",
+            "ඉණ සූත්‍රය"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "වෙළඳාම ධාර්මික ජීවන වෘත්තියක් ලෙස බුදුසමය අනුමත කරයි. ඒ අනුව ව්‍යවසායකයකු හෝ ව්‍යාපාරිකයකු හෝ විසින් සිදු නො කළ යුතු අධාර්මික හා සාහසික වෙළඳාම් හා ක්‍රියාකාරකම් පිළිබඳව අංගුත්තර නිකායේ, පඤ්චක නිපාතයේ විස්තර කොට ඇත. එහි ඇතුළත් නොවන වෙළඳාම කුමක් ද?",
+        "choices": [
+            "සත්ත වණිජ්ජා",
+            "කූට වණිජ්ජා",
+            "මජ්ජ වණිජ්ජා",
+            "විස වණිජ්ජා"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "\"සන්දිට්ඨිකා ධනජානි\" යනු ඇස් පනාපිට ම වේගයෙන් ධනය නැති වී යාමයි. මෙසේ සාංදෘෂ්ටිකව ධනය ක්ෂය වී යන දොරටු දෙකක් සිගාලෝවාද සූත්‍රාගත සය වැදෑරුම් අපාය මුඛ හෙවත් භෝග විනාශ වීමේ දොරටු පිළිබඳ විග්‍රහය තුළ අන්තර්ගත වේ. ඉන් එකක් සුදුවට ඇබ්බැහි විමයි. අනෙක් කරුණ වන්නේ,",
+        "choices": [
+            "පාප මිත්‍ර සේවනයයි.",
+            "සුරාවට ඇබ්බැහි වීමයි.",
+            "අලසකමයි.",
+            "නිතර උත්සච සංදර්ශන ආදියෙහි යෙදීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "මංගල සුත්‍රයේ දැක්වෙන පරිදි පුද්ගලයාගේ දෙලොව දියුණුවට හේතුවන මංගල කරුණුවලට ඇතුළත් නොවන්නේ,",
+        "choices": [
+            "පමණ දැන ආහාර ගැනීමයි.",
+            "පෙර කළ පින් ඇති බවයි.",
+            "ලද දෙයින් සතුටුවීමයි.",
+            "ශෝක නොකිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "\"මනසා චෙ පදුට්ඨේන - භාසති වා කරොති වා\" යනාදී ධම්මපද ගාථාවේ දැක්වෙන පරිදි දූෂිත වූ මනසින් කියන-කරන ක්‍රියාවල විපාක එම පාපක්‍රියා කරන්නා වෙත පැමිණෙන ආකාරය දක්වා ඇත්තේ",
+        "choices": [
+            "\"අළු යට සැඟවුණු ගිනි පුපුරු මෙන් අවස්ථාව එළඹි කල විපාක දෙයි\" යනුවෙනි.",
+            "\"පව් කරනා කලට මධු මෙන් මිහිරි වුවද දුක් විපාක විඳිනා කලට ගිනි මෙන් දැවෙයි\" යනුවෙනි.",
+            "\"වහා නො මිදෙන කිරි මෙන් පව ද ක්‍රමක්‍රමයෙන් මෝරා විපාක දෙයි\" යනුවෙනි.",
+            "\"ගොනු පසුපස එන කරත්ත රෝදය මෙන් පවද දුක් විපාක ලබා දෙමින් පසුපස එයි\" යනුවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "දෙවන ධර්ම සංගායනාවට අදාළ කරුණු පමණක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "දස වස්තුව, සබ්බකාමී, කාලාශෝක, වාලුකාරාමය, නිකාය භේදය",
+            "දස වස්තුව, යස, කාලාශෝක, සප්තපර්ණි ගුහා මණ්ඩපය, නිකාය භේදය",
+            "දස වස්තුව, සබ්බකාමී, ධර්මාශෝක, අශෝකාරාමය, නිකාය භේදය",
+            "දස වස්තුව, යස, අජාසත්ත, වාලුකාරාමය, නිකාය භේදය"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "පැරණි භාරතීය සුප්‍රකට විශ්වවිද්‍යාල සියල්ලෙහි ම පාහේ ඉතා දියුණු පුස්තකාල සේවාවක් පවත්වාගෙන ගිය බව ඓතිහාසික හා පුරාවිද්‍යාත්මක සාධක මගින් තහවුරු වේ. ඒ අතර නාලන්දා ආදී අනෙකුත් විශ්වවිද්‍යාලවලට සාපේක්ෂව වලභි විශ්වවිද්‍යාල පුස්තකාලයේ සුවිශේෂ ලක්ෂණයක් පිළිබඳ එම වාර්තාවල දැක්වේ. එම සුවිශේෂිතාව වූයේ,",
+        "choices": [
+            "මන්දිර තුනකින් යුතු පුස්තකාලයක් පවත්වාගෙන යාමයි.",
+            "මහල් නවයකින් යුතු පුස්තකාල ගොඩනැගිල්ලක් පැවතීමයි.",
+            "\"ද්වාර පණ්ඩිත\" නමින් පුස්තකාලය භාර නිලධාරියකු පත්කොට තිබීමයි.",
+            "පුස්තකාලය පවත්වාගෙන යාම සඳහා අරමුදලක් පිහිටුවා තිබීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ධර්මාශෝක රජතුමා විසින් සිදුකරන ලද ශාසනික සේවාවක් වුයේ,",
+        "choices": [
+            "බුද්ධ ප්‍රතිමා නිර්මාණයෙහිලා පුරෝගාමීව කටයුතු කිරීමයි.",
+            "දේශීය හා ජාත්‍යන්තර වශයෙන් ධර්ම ප්‍රචාරක සේවාවක් ආරම්භ කිරීමයි.",
+            "විශ්ව කීර්තියට පත් නාගාර්ජුන, අශ්වඝෝෂ වැනි පඬිවරුන්ට සිය රාජ්‍ය සභාවේ උපදේශක තනතුරු ප්‍රදානය කිරීමයි.",
+            "ත්‍රිපිටකයට අටුවා ග්‍රන්ථ සම්පාදනයෙහිලා භික්ෂූන් දිරිගන්වමින් අනුග්‍රහය දැක්වීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ප්‍රාග් බෞද්ධ යුගයේ ලක්දිව පැවති ස්වදේශික ඇදහිලි හා විශ්වාස අතර යක්ෂ වන්දනය ප්‍රමුඛ වූ බව මහාවංසාදී වාර්තාවලින් පැහැදිලි වේ. එකී වාර්තාවලට අනුව පණ්ඩුකාභය රාජ්‍ය පාලන සමය වනවිට වන්දනීයත්වයට පත්ව සිටි යක්ෂ යක්ෂණීන්ගේ නම් පමණක් ඇතුළත් වරණය තෝරන්න,",
+        "choices": [
+            "කාලවේල, කුම්භණ්ඩ, චිත්තරාජ",
+            "කාලවේල, චිත්තරාජ, මහේජ",
+            "චිත්තරාජ, කාලවේල, විභීෂණ",
+            "ජෝතිය, චිත්තරාජ, ජුතින්ධර"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ තෙවරක් ලක්දිවට වැඩම කළ බව මහාවංසයේ සඳහන් වේ. මහාවංසය වාර්තා කරන පරිදි උන්වහන්සේගේ ප්‍රථම ලංකා ගමනයේදී කේශ ධාතු ලබාගෙන ලංකා භූමිය තුළ ස්තූපයක් ඉදි කරන ලද්දේ කවුරුන් විසින් ද?",
+        "choices": [
+            "තපස්සුභල්ලුක වෙළඳ දෙබෑයන්",
+            "මණිීඅක්ඛික නා රජු",
+            "උපුල්වන් දෙවියන්",
+            "සුමන සමන් දෙවියන්"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ප්‍රාග් බෞද්ධ ලක්දිව පැවති ඇදහිලි හා විශ්වාස මහින්දාගමනයෙන් පසු බෞද්ධ ආභාසයෙන් හැඩ ගැසුණු බව පිළිගත් ප්‍රකට අදහසකි. පහත සඳහන් ප්‍රකාශ අතුරෙන් එම අදහස හා නො ගැළපෙන ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "වෘක්ෂ වන්දනාව වෙනුවට බුදුරදුන්ගේ පාරිභෝගික චෛත්‍යයක් ලෙස බෝධි වන්දනාවට හුරු විය.",
+            "පර්වත වන්දනාව වෙනුවට පර්වතවල විහාරාරාම ඉදිකිරීමට පෙළඹිණි.",
+            "යාගය වෙනුවට දානය හඳුන්වා දෙන ලදී.",
+            "මළවුන් පිදීම වෙනුවට මියගිය ඥාතීන්ට පින් දීමේ චාරිත්‍රය සිදු කෙරිණි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ගුත්තවංක යනු,",
+        "choices": [
+            "පැරණි භාරතීය බෞද්ධ රජ කෙනෙකි.",
+            "අභයගිරි විහාරයට අයත් පිරිවෙණකි.",
+            "මහාවිභාරයට අයත් පිරිවෙණකි.",
+            "චීනයට ගිය භාරතීය භික්ෂුවකි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "පුරාණ ශ්‍රී ලංකේය ජන ජීවිතයෙහි දරුවා මවුකුස පිළිසිඳ ගැනීමේ සිට මරණය දක්වා සෑම වැදගත් කටයුත්තක් ම පාහේ බෞද්ධ චාරිත්‍රානුකූලව සිදුකිරීම පිළිගත් පිළිවෙතකි. ඒ අනුව 'දොරට වැඩීම' යනුවෙන් හඳුන්වන ලද චාරිත්‍රයෙන් අදහස් වූයේ ",
+        "choices": [
+            "කුස තුළ සිටින දරුවාගේ ආරක්ෂාව වෙනුවෙන් ගැබ්පෙළහර ආරම්භ කිරීම.",
+            "දරුවා විහාරස්ථානයට පළමුවරට කැඳවාගෙන ගොස් පිරිත් සජ්ඣායනා කරවා ගැනීමයි.",
+            "සුභ නැකතකින් දරුවාට ආහාර අනුභවය ආරම්භ කිරීම.",
+            "දරුවාට ආශිර්වාද කිරීම සඳහා භික්ෂූන් වහන්සේ නමක් නිවසට වඩම්මවා ගැනීමයි."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුරුමයට බුදුදහම හඳුන්වාඳීමෙන් පසු එරට සංස්කෘතිය විවිධ අංශවලින් සෘජු පරිවර්තනයකට ලක්විය. පහත දැක්වෙන කරුණු අතුරෙන් එසේ පරිවර්තනයකට ලක් නොවූ කරුණ කුමක් ද?",
+        "choices": [
+            "බෝධිසත්ත්ව සංකල්පය ජනකාන්ත ඇදහිල්ලක් බවට පත්වීම",
+            "කුල භේදය නො සලකන බෞද්ධ රාජ්‍යයක් බවට පත්වීම",
+            "කාන්තාවට අසීමිත නිදහසක් හිමිවීම",
+            "විහාරස්ථානය දරුවන්ගේ මූලික අධ්‍යාපන මධ්‍යස්ථානය බවට පත්වීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "1361 දී සියම් භික්ෂු පිරිසක් ශ්‍රී ලංකාව වෙත පිටත් කර එවා මෙරටදී බුදුදහම මැනවින් උගන්වා නැවත සියරටට ගෙන්වාගෙන එරට බුදුසසුනෙහි අභිවෘද්ධියට හා පෝෂණයට කටයුතු කළ සියම් රජතුමා කවුරුන් ද? ",
+        "choices": [
+            "ධර්මරාජ රජතුමා",
+            "පළමුවන පරමරාජ රජතුමා",
+            "ශ්‍රී සූර්යවංශ රාමමහාධාර්මික රජතුමා",
+            "කිලනා රජතුමා"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "චීන බුදුසමයේ ප්‍රගමනයට සුවිසල් මෙහෙවරක් ඉටුකළ කුමාරජීව හිමියන් විසින් සිදුකරන ලද ශාසනික ධර්ම ශාස්ත්‍රීය සේවාවක් වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "දේවාසාරා භික්ෂුණිය ගෙන්වාගෙන භික්ෂුණී ශාසනය පිහිටුවීම",
+            "හැන්මින්දි රජු ධර්මයේ පහදවාගෙන චීනය තුළ බුදුසමය ව්‍යාප්ත කිරීම",
+            "මහාප්‍රඥාපාරමිතාශාස්ත්‍රය, ශතශාස්ත්‍රය වැනි ග්‍රන්ථ චීන බසට පරිවර්තනය කිරීම",
+            "ඉන්දියාවේ සහ ශ්‍රී ලංකාවේ සංචාරය කොට තමා විසින් ම චීනයට රැගෙන ගිය ග්‍රන්ථ චීන භාෂාවට පරිවර්තනය කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුද්ධ ප්‍රතිමා නිර්මාණය කිරීමේ ඵෙතිහාසික විකාශය පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ගන්ධාර සහ මථුරා සම්ප්‍රදාය දෙකෙහි ම ආභාසයෙන් දකුණු ඉන්දියාවේ අමරාවතී සම්ප්‍රදාය බිහි විය.",
+            "ගන්ධාර සම්ප්‍රදායට අයත් බුද්ධ ප්‍රතිමා සඳහා දේශීය කලාවේ ආභාසය ලැබී ඇත.",
+            "හිසකේ ශෛලීගතව හා කැරලි ගැසී තිබීම ගන්ධාර ප්‍රතිමා සම්ප්‍රදායේ ලක්ෂණයකි.",
+            "මථුරා සම්ප්‍රදායට අයත් බුද්ධ ප්‍රතිමාවලට ග්‍රීක හා රෝම කලාවේ ආභාසය ලැබී ඇත."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "බුදු පිළිම නෙළීමේ ආරම්භය පිලිබඳ පවත්නා මූලාශ්‍රය සාධක අතුරෙන් ප්‍රථමවරට බුදුරදුන් ජීවමාන කාලයේදී ම සඳුන් ලී අරටුවකින් බුද්ධ ප්‍රතිමාවක් නිමවා වැඳුම් පිදුම් කළ බව සඳහන් වන්නේ,",
+        "choices": [
+            "සමන්තපාසාදිකාවෙහි ය.",
+            "කෝසලබිම්බ වර්ණනාවෙහි ය.",
+            "මහාපරිනිබ්බාණ සුත්‍රයෙහි ය.",
+            "කාලිංගබෝධි ජාතකයෙහි ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයට අයත් අවුකන බුද්ධ ප්‍රතිමාවේ භාවිත මුද්‍රාව හා තොලුවිල බුද්ධ ප්‍රතිමාවේ භාවිත ආසනය පිළිවෙළින් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "අභය මුද්‍රාව, වීරාසනය",
+            "අභය මුද්‍රාව, පද්මාසනය",
+            "විතර්ක මුද්‍රාව, වීරාසනය",
+            "සමාධි මුද්‍රාව, වජ්‍රාසනය"
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "මිහිඳු මාහිමියන්ගේ භෂ්මාවශේෂ තැන්පත් කොට අම්බස්ථල ස්තූපය ඉදිකරවන ලද්දේ,",
+        "choices": [
+            "පළමුවන උත්තිය රජතුමා විසින් ය.",
+            "මහාසිව රජතුමා විසින් ය.",
+            "වසභ රජතුමා විසින් ය.",
+            "පළමුවන ගජබාහු රජතුමා විසින් ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Buddhist Civilization",
+        "category": "humanities",
+        "question": "ගුත්තිල ජාතකය වස්තු විෂය කරගනිමින් කෝට්ටේ යුගයේදී නිර්මාණය කරන ලද සම්භාව්‍ය සිංහල කාව්‍ය ග්‍රන්ථයක් වූ ගුත්තිල කාව්‍යය රචනා කරන ලද්දේ,",
+        "choices": [
+            "තොටගමුවේ ශ්‍රී රාහුල හිමියන් විසින් ය.",
+            "ධර්මසේන හිමියන් විසින් ය.",
+            "වීදාගම මෛත්‍රී හිමියන් විසින් ය.",
+            "වෑත්තෑවේ හිමියන් විසින් ය."
+        ],
+        "metadata": {
+            "subject_original": "බෞද්ධ ශිෂ්ටාචාරය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126551&token=&preview=1 "
+        }
+    }
+]

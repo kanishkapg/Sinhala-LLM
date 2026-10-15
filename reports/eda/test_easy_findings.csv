@@ -1,0 +1,61 @@
+,value
+questions,1851
+files,14
+subjects,17
+empty question,0
+choices missing or empty,0
+missing subject,0
+missing category,0
+"duplicate (subject, q_no) keys",0
+metadata.difficulty != 'easy',0
+questions carrying a gold answer,1851
+files with a naming/consistency problem,8
+source domains,"pastpapers.wiki, www.e-thaksalawa.moe.gov.lk, unknown, C:"
+questions with n_choices != 4,0
+options: empty_option,0
+options: duplicate_options,7
+options: untrimmed_whitespace,4
+options: self_numbered_option,5
+options: label_combination_options,13
+options: all_or_none_of_above,11
+options: numeric_options,17
+answer key: resolvable answers,1850
+answer key: answers resolving to no option,1
+answer key: chi2 vs uniform,26.0
+answer key: best constant guess,option 3 (27.4%)
+answer key: position 1 %,25.6
+answer key: position 2 %,27.1
+answer key: position 3 %,27.4
+answer key: position 4 %,20.0
+answer key: largest per-subject position share %,34.1
+answer key: longest-option guess %,23.8
+answer key: shortest-option guess %,16.3
+question_chars p99,435.5
+question_chars max,722
+layout: line break(s) inside the question,452
+layout: run of 3+ spaces inside the question,19
+layout: leading/trailing whitespace,352
+"layout: question ends with ',' (sentence to complete)",1148
+layout: question ends with '?',264
+questions with < 50% Sinhala characters,27
+unicode: not NFC-normalised,0
+unicode: orphan vowel sign / al-lakuna,4
+unicode: stray ZWJ (not after al-lakuna),3
+unicode: ZWJ (U+200D),1191
+unicode: ZWNJ (U+200C),29
+unicode: ZWSP (U+200B),0
+unicode: NBSP (U+00A0),0
+unicode: BOM (U+FEFF),0
+unicode: soft hyphen (U+00AD),0
+type %: negation,11.0
+type %: multi_statement,2.8
+type %: label_combination_options,0.7
+type %: fill_in_blank,6.2
+type %: figure_or_table_ref,0.1
+type %: all_or_none_of_above,0.6
+type %: numeric_options,0.9
+type %: low_sinhala_text,1.5
+duplicate questions (question only),18
+duplicate questions (question + options),0
+Qwen3.5-4B-Base: prompt tokens max,663
+Gemma-3-4B-it: prompt tokens max,469

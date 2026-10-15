@@ -1,0 +1,762 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජුදෙව්වන් විසින් වාර්ෂිකව පවත්වන ලද පාස්කු මංගල්‍ය හඳුන්වන ලද තවත් නමක් වන්නේ,",
+        "choices": [
+            "කුළුදුලන් කැප කිරීමේ මංගල්‍යය.",
+            "කුඩාරම් මංගල්‍යය.",
+            "ප්‍රථම ඵල පිදීමේ මංගල්‍යය.",
+            "නුමුහුන් රොටි මංගල්‍යය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ස්නාවක ජොහන්තුමාගේ යටහත් පහත් භාවය අවධාරණය කරන ප්‍රකාශය වන්නේ.",
+        "choices": [
+            "එතුමාණෝ ශුද්ධාත්මයෙන් ද, ගින්නෙන් ද, ඔබ බෞතිස්ම කරන සේක.'' යන්නය.",
+            "\" අඳනා දෙකක් ඇති අය නැති අයට දෙත්වා,\" යන්නය.",
+            "\"එතුමාණන්ගේ පාවහන් පටි මුදන්නටතවත් මම නොවටිමියි '' යන්නය.",
+            "'' නියමික පමණට වඩා අය බදු අය නොකරන්න.'' යන්නය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "සද්දුසිවරුන් විසින් පිළිගත් ව්‍යවස්ථාවලියේ කතෘවරයාණෝ ලෙස හඳුන්වනුයේ,",
+        "choices": [
+            "මෝසෙස්ය.",
+            "ආබ්‍රහම් ය.",
+            "ඊසාක් ය.",
+            "ජාකොබ්ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "මාගේ ස්වාමීන් වහන්සේගේ මෑණියන් ''. එළිසබෙත් තුමිය මෙලෙස මරියතුමිය පිළිගැනීමට හේතුව වන්සේ,",
+        "choices": [
+            "මරියතුමිය එලිසබෙත්තුමියගේ ඥාති සහෝදරියක් වීමය.",
+            "එකල පැවති ජුදා සම්ප්‍රදාය වීමය.",
+            "ශුද්ධාත්මයාණන් වහන්සේගේ මඟපෙන්වීමය.",
+            "දෙදෙනාම ස්වාමීන් වහන්සේගේ මාර්ගයේ ගමන් කරන්නන් වීමය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "A - මට පෙරටුව ගොස් මාගේ මාර්ගය පිළියෙල කරන්න වූ මාගේ දූතයා මට පෙරටුව එවන්නෙමි.\nB - '' එතුමාණෝ කලකිරිනේවත් අධෛරය වන්නේවත් නැත.\"\nC - වහලුන්ට මිදීම දානය කරන්නට ...... එතුමාණෝ මා ආලේප කළ සේක.\nD - මෙසේ කියන හඬට සවන් දෙන්න, වනාන්තරයේ සමිදුන් හට මාවතක් එළි කරන්න.\nඉහත දිවැසි වැකි අතුරින් ජේසුස් වහන්සේ සම්බන්ධ දිවැසි වැකි පමණක් ඇතුළත් වරණය වන්නේ,",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "C හා D ය.",
+            "A හා C ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජේසුස් වහන්සේගේ උපත එදා සමාජයෙන් කොන් කරන ලද දිළිඳු ජන කොටසකට මුලින් ම ප්‍රකාශ කරනු ලැබීමෙන්,",
+        "choices": [
+            "උන් වහන්සේ දිළින්දන් වෙත විශේෂ අවධානයක් යොමු කරන බව සංකේතවත් වේ.",
+            "ජේසුස් වහන්සේ ද දිළින්දෙක් වන බව සංකේතවත් වේ.",
+            "දුප්පත් අසරණ අය ද සමාජයේ සිටිය යුතු බව සංකේතවත් වේ.",
+            "උන් වහන්සේගේ මෙහෙවර කවුරුන් උදෙසා ද යන්න සංකේතවත් වේ."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "\" අදනා දෙකක් ඇති අය නැති අයට දෙත්වා.\" මෙසේ ප්‍රකාශ කරන ලද්දේ,",
+        "choices": [
+            "ජේසුස් වහන්සේ විසින් පොදු ජනතාවටය.",
+            "ස්නාවක ජොහන් විසින් රාජ්‍ය සේවයේ යෙදී සිටි අයටය.",
+            "ස්නාවක ජොහන් විසින් පොදු ජනතාවටය.",
+            "ජේසුස් වහන්සේ විසින් රාජ්‍ය සේවයේ යෙදී සිටි අයටය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ඉහත සටහනට අනුව සභා එකමුතුව සඳහා උත්සහ දරන සංවිධාන අතර ධර්ම දූතකයන් හා ධර්මදූතිකාවන් පුහුණු කරනු ලබන සංවිධානය වන්නේ.",
+        "choices": [
+            "NCCSL ය.",
+            "TCL ය.",
+            "YMCA ය.",
+            "CBS ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "සිංහල, දෙමළ, මුස්ලිම් යන ජන කොටස් වෙනුවෙන් තම ලැඟුම් ගෙය පවා පරිත්‍යාග කරමින් '' පල්ලියේ ගොඩනැගිල්ල ජනතාව සඳහයි.\" යන ආකල්පයෙන් සාමය ගොඩනැගීමට වෙහෙස වූයේ,",
+        "choices": [
+            "ගරු තිස්ස බාලසූරිය පියතුමාය.",
+            "ගරු මයිකල් රොද්‍රිගු පියතුමාය.",
+            "ගරු චන්ද්‍රා ප්‍රනාන්දු පියතුමාය.",
+            "ගරු පීටර් ජෙරාඩ් සිල්වා දේව ගැතිතුමාය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ටෝරාව හෙවත් මෝසෙස්ගේ ව්‍යවස්ථාව වඩාත් පැහැදිලි ලෙස හැදෑරීම සඳහා පරිසිවරුන් විසින් එයට,",
+        "choices": [
+            "අලුතින් වචන ලියා ඉදිරිපත් කරන ලදී.",
+            "වාචික නීති රීති රැසක් එකතු කරන ලදී.",
+            "ඇතැම් කොටස් වෙනස් කරන ලදී.",
+            "ඇතැම් නීතිරීති ඉවත් කරන ලදී."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "තම විරසකකම් අමතකර ජේසුස් වහන්සේට විරුද්ධව ක්‍රියා කිරීමට එක් වූ කණ්ඩායම් දෙක වන්නේ,",
+        "choices": [
+            "පරිසිවරු හා සද්දුසිවරු ය.",
+            "පරිසවරු හා සෙලට්වරුය.",
+            "සෙලට්වරු හා ඵසීනවරුය.",
+            "සද්දුසිවරු හා එසීනවරුය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "'එසේ වී නම් ගෘහ ශිල්පීන් ඉවතලු ගල කොනේ ප්‍රධාන ගල වී ඇත.'' යනුවෙන් ජේසුස් වහන්සේ වදාළේ,",
+        "choices": [
+            "පුජකයන්ටය.",
+            "අයකැමියන්ට ය.",
+            "පරිසිවරුන්ටය.",
+            "සද්දුසිවරුන්ට ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "මාගේ කැමැත්ත නොව ඔබගේ කැමැත්ත වේවාව්වා.'\" ජේසුස් වහන්සේ මෙසේ යාච්ඤා කළේ,",
+        "choices": [
+            "පාළුකරයේ දීය.",
+            "මුහුදු වෙරළේ දී ය.",
+            "ගෙත් සෙමන උයනේ දීය.",
+            "ධර්ම ශාලාවේ දී ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජුදා සමාජය තුළ කෙනෙකු ගෞරවයෙන් පිළි ගැනීමට මෙන්ම ජේසුස් වහන්සේ පාවා දීමටත් යොදාගත් චාරිත්‍රය වන්නේ,",
+        "choices": [
+            "වැද නමස්කාර කිරීම ය.",
+            "අතට අත දීමය.",
+            "පදා සේදීම ය.",
+            "සිප වැළඳ ගැනීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජුදා ජනතාව පිලාත් ඉදිරියේ ජේසුස් වහන්සේ වෙනුවට බරබ්බස්ව ඉල්ලා සිටීමෙන් ඔවුන් ප්‍රතිකේෂප කරනු ලැබුයේ.",
+        "choices": [
+            "දේව රාජ්‍ය තුළ ලද හැකි විමුක්තියය.",
+            "ජේසුස් වහන්සේ විසින් කළ ඉගැන්වීම් ය.",
+            "දෙවියන් වහන්සේගේ මැවිල්ලය.",
+            "දෙවියන් වහන්සේ ආබ්‍රහම් සමඟ කළ ගිවිසුමය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "' ජීවමාන තැනැත් වහන්සේ මළවුන් අතර සොයන්නේ මන් ද'' මෙසේ අසනු ලැබූයේ,",
+        "choices": [
+            "ප්‍රේරිතයන් ස්ත්‍රීන්ගෙන් ය.",
+            "දේව දුතයන් ස්ත්‍රීන්ගෙන් ය.",
+            "දේවදුතයන් ප්‍රේරිතයන්ගෙන්ය.",
+            "ප්‍රේරිතයන් ජනතාවන්ගෙන්ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "දේව වරප්‍රසාදයක් ලෙස ශුද්ධාත්මය අපට දායාද වන්නේ,",
+        "choices": [
+            "කැප කිරීමේ දීය.",
+            "චර්මජේදනයේ දීය.",
+            "ස්ථිර කිරීමේ දී ය.",
+            "බෞතිස්ම ස්නාපනයේ දී ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජේසුස් වහන්සේ ස්නාවක ජොහාන්තුමාගෙන් බෞතීස්ම ස්නාපනය ලැබීමෙන් උන් වහන්සේගෙන් ප්‍රකාශ වන යහපත් ගුණාංගයක් වන්නේ,",
+        "choices": [
+            "මිත්‍රත්වය හා ඥාතීත්වය යි.",
+            "බැහැපත්කම හා මිත්‍රත්වය යි.",
+            "බැහැපත්කම හා නිහතමානිත්වය යි.",
+            "නිහතමානිත්වය හා ඥාතිත්වය යි."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "අප මුහුණ දෙන පරීක්ෂා ඉදිරියේ දේව දරුවකු ලෙස අප කළ යුත්තේ,",
+        "choices": [
+            "අපට කැමැති ලෙස ක්‍රියා කිරීමයි.",
+            "දේව කැමැත්තට යටත් වීමයි.",
+            "පුජක තුමාගේ උපදෙස් පැතීමයි.",
+            "ලෞකිකත්වයෙන් විසඳුම් සෙවීමයි."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "මරණයෙන් නිමා නොවන බලාපොරොත්තුවක් කිතුණුවාට ඇති බව පෙන්වා දෙන්නේ ජේසුස් වහන්සේගේ,",
+        "choices": [
+            "උපත, ජීවිතය, මරණය, මගින්ය.",
+            "උපත, මරණය හා උත්ථානය මගින් ය.",
+            "ජීවිතය, මරණය හා උත්ථානය මඟින්ය.",
+            "උපත ජීවිතය හා උත්ථානය මඟින්ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජීවමාන ක්‍රිස්තුස් වහන්සේ ඇදහීම තුළින් අපගේ,",
+        "choices": [
+            "මරණය ප්‍රීතාදයක කරයි.",
+            "මරණය වේදනාව නැති කරයි.",
+            "පෙළපත ආරක්ෂා කරයි.",
+            "ආත්මය ගලවනු ලබයි."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ඉහත සිදුවීම් අතරින් පෙන්තකොස්ත දිනය හා සම්බන්ධ සිදුවීම් පමණක් ඇතුළත් වරණය වන්නේ,\nA - සැඩ සුළඟක් හමන්නාක් මෙන් හඬක් ඇසීම.\nB - වළා තුළකින් සියලු දෙනා වසා ගැනීම.\nC - ගිනි දිලු වැනි දිව් බෙදිගොස් එකිනෙකා මත පිහිටීම\nD - ඇවිළෙන ගිනි පදුරක් දර්ශනය වීම.\nපෙන්තකොස්ත දිනය හා සම්බන්ධ සිදුවීම් වන්නේ,",
+        "choices": [
+            "A හා B ය.",
+            "A හා C ය.",
+            "C හා D ය.",
+            "B හා C ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජේසුස් වහන්සේ පර්වතය යන අර්ථය ඇති කේපස් යන නම දෙන ලද්දේ,",
+        "choices": [
+            "ජොහන්ටය.",
+            "ඇන්ඩෲටය.",
+            "සීමෝන්ටය.",
+            "ජාකොබ්ට ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ස්තෙපන්තුමාට ගල් ගසන අවස්ථවේ සාවුල් නම් තරුණයාට පැවරුන වගකීම වූයේ,",
+        "choices": [
+            "ගල් ගැසූ අයගේ ඇඳුම් රැක බලා ගැනීම ය.",
+            "ගල් ගැසූ අයට ගල් සපයා දීම ය.",
+            "ගල් ගැසූ අයට ආහාර ලබා දීමය.",
+            "ගල් ගැසූ අයට ඇඳුම් ලබා දීමය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "පිලිප්පියේ දි වස්ත්‍ර ඉරා කෝටු වලින් තලා සිරගෙයි දමනු ලැබූයේ,",
+        "choices": [
+            "පාවුල් සහ ලූක්ය.",
+            "පාවුල් සහ තිමෝතියස්ය.",
+            "පාවුල් සහ ත්‍රොපිමස් ය.",
+            "පාවුල් සහ සීලස් ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "එපීසයේ දී පාවුල් දේශනා කරන ජේසුස් වහන්සේගේ නාමයෙන් ප්‍රාතිහාර්යයන් කිරීමට උත්සහ කළේ,",
+        "choices": [
+            "ජා කොම්ගේ පුත්‍රයන් ය.",
+            "ස්කේ වාගේ පුත්‍රයන් ය.",
+            "දෙවි ස්ත්‍රියගේ පුත්‍රයන් ය.",
+            "ජුදස්ගේ පුත්‍රයය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "A - අග්‍රිපා රජතුමා\nC - ෆීලීක්ස් ආණ්ඩුකාරවරයා\nB - පිලාත් ආණ්ඩුකාරවරයා\nD - හෙරොද් රජතුමා\nශු. පාවුල් තුමා අත් අඩංගුවට ගැනීමෙන් පසු විනිශ්චයට ලක්කළ අය වන්නේ.",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "A හා Cය.",
+            "C හා D ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ශුද්ධ වූ පාවුල්තුමා දේවත්වයෙන් සැලකූ ස්ථාන දෙක වන්නේ.",
+        "choices": [
+            "ලුස්ට්‍රාව සහ මෝල්ටාවය.",
+            "පාපස් සහ ලුස්ත්‍රාවය.",
+            "පාපස් සහ මෝල්ටාවය.",
+            "පිලිප්පිය සහ මෝල්ටාවය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "' මුළු ඊශ්‍රායෙල් ජනතාව අතරවත් මෙතරම් ශ්‍රද්ධාවක් මා දැක නැත. \" යනුවෙන් ජේසුස් වහන්සේ ප්‍රකාශ කළේ,",
+        "choices": [
+            "කුදු ස්ත්‍රිය පිළිබඳවය.",
+            "කපර්ණ වුවේ ශානාධිපතියා පිළිබඳවය.",
+            "ජෙරිකෝවේ අන්ධයා පිළිබඳවය.",
+            "අංශභාග රෝගියා පිළිබඳවය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "පෞද්ගලික අවශ්‍යතා පිළිබඳ කරදර වීම නිශ්ඵල බව පෙන්වා දීමට ජේසුස් වහන්සේ යොදාගත් සංකේතය වන්නේ,",
+        "choices": [
+            "කෙතේ මානෙල් හා අහසේ පක්‍ෂීන් ය.",
+            "කෙතේ මානෙල් හා ඇඳුම් පැළදුම් ය.",
+            "කෑම බීම හා අහසේ පක්ෂීන්ය.",
+            "අහසේ පක්ෂීන් හා ඇඳුම් පැළඳුම් ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "සාම යුගය පිළිබඳ පැවසූයේ,",
+        "choices": [
+            "දිවැසිවර ආමෝස්ය.",
+            "දිවැසිවර මලාකීය.",
+            "දිවැසිවර මීකාය.",
+            "දිවැසිවර ජෙරමියා ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "දේව රාජ්‍යයේ වර්ධනය පෙන්වීමට ජේසුස් වහන්සේ යොදාගත් උපමාවක් වන්නේ,",
+        "choices": [
+            "මහ මංගල භෝජනය උපමාවයි.",
+            "රන්කාසි දසය පිළිබඳ උපමාවයි.",
+            "ධනවතා හා ලාසරන් පිළිබඳව උපමාව යි.",
+            "වපුරන්නාගේ උපමාවය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "ජේසුස් වහන්සේගේ උපමාවල මූලික හරය වූයේ,",
+        "choices": [
+            "ප්‍රේමය පිළිබඳ ඉගැන්වීමයි.",
+            "ජනතාව මනස්ථාපනයට යොමු කිරීමයි.",
+            "දේව රාජ්‍යය පිළිබඳ ඉදිරිපත් කිරීමයි.",
+            "ප්‍රාතිහාර්යන් සිදු කිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "තමන්ගේ කඩුවලින් නගුල් ද හෙල්ල වලින් දෑකැති ද තලාගනු ලබනු බව ප්‍රකාශ කළ දිවැසිවරයා වන්නේ,",
+        "choices": [
+            "යෙසායා දිවැසිවරයා ය.",
+            "මීකා දිවැසිවරයාය.",
+            "අමොස් දිවැසිවරයා ය.",
+            "මලාකි දිවැසිවරයා ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "වර්තමාන සමාජයේ ජීවත්වන කිතුණුවන් බාහිර අභියෝග හමුවේ,",
+        "choices": [
+            "දෙවියන් වහන්සේ කෙසේ දැයි සොයා යා යුතුය.",
+            "බිය වී දෙවියන් වහන්සේට හඬ ගැසිය යුතුය.",
+            "ජේසුස් වහන්සේගේ දෙවනි පැමිණීම බලාපොරොත්තු විය යුතුය.",
+            "නොසැලි දේව මඟ පෙන්වීම අනුව ක්‍රියා කළ යුතුය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "පාපීය ස්වභාවය තේරුම් ගෙන පිවිතුරු ජිවිතයකට පිවිසීමේ අභියෝගය ඉදිරිපත් කළ දිවැසිවරයා වන්නේ,",
+        "choices": [
+            "මිකාය.",
+            "අමෝස් ය.",
+            "යෙසායාය.",
+            "සෙකරියාය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "වර්තමාන බහු විධ සමාජය තුළ සහජිවනය ඇති කිරීමෙහිලා නියැලෙන කිතුණුවා,",
+        "choices": [
+            "සියලු බාධන අභිබවමින් දේව ප්‍රේමය සමාජගත කළ යුතුය.",
+            "සියලු විශ්වාසවල සමානකමක් ඇති බව පිළිගත යුතුය.",
+            "ආරාධනා නැතිව වුව ද සංස්කෘතික උත්සවවලට සහභාගී විය යුතුය.",
+            "පරිසරය සුරැකීමේ මාර්ගය සොයා බැලිය යුතු ය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Christianity",
+        "category": "Humanities",
+        "question": "කිතණු පවුලක් ලෙස සමාජය කෙරෙහි අපගේ යුතුකම විය යුත්තේ,",
+        "choices": [
+            "කිතුණු පවුල් සොයා බලා ඔවුන්හට අත හිත දීමය.",
+            "සියල්ල ඉවසමින් කමා වෙමින් දේව ගෞරවය උදෙසා ක්‍රියා කිරීමය.",
+            "දේව වචනය සමාජය තුළ පැතිරීමට ක්‍රියා කිරීමය.",
+            "සමාජයේ වැරදි පෙන්වා දෙමින් නිසි මඟ ක්‍රියා කිරීමය."
+        ],
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1CMhcmJzn4lHTcOeAhg4nyaRt5_xRUD7w/view?usp=drive_link"
+        }
+    }
+]

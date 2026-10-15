@@ -1,0 +1,582 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "නිර්මාණකරණයේ මූලිකාංග දෙකකි,",
+        "choices": [
+            "රේඛා සහ වටිනාකම,",
+            "තීව්‍රතාව සහ හැඩය.",
+            "රේඛා සහ තීවුතාව.",
+            "හැඩය සහ වයනය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "බාහිර හා අභ්‍යන්තර අවකාශ නිර්මාණය හා සම්බන්ධ නිර්මාණකරණයේ මූලධර්ම හා බැඳි නිවැරදි වැකිය තෝරන්න.",
+        "choices": [
+            "දිග, පළල, උස, බර හා ප්‍රමාණය එකිනෙකට ගැලපීම සමානුපාතයයි,.",
+            "එකම ලක්ෂණය වක්‍රාකාරයෙන් පෙන්නුම් කිරීම ආඝාත්මක රිද්මයයි.",
+            "වර්ණය, වයනය සහ ප්‍රමාණය එකිනෙක ඉක්මවා යන සේ ප්‍රබලත්වය සීරු මාරු කර ගැනීම සමෝධානයයි.",
+            "උපාංග, මධ්‍ය ලක්ෂයේ සිට අසමාන දුරින් පිහිටුවීම සමමිතික තුලනයයි."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "චිත්‍ර ශිල්පීන්, 'ෆයිබොනාසි වකුය' යන සංකල්පය භාවිත කරනුයේ නිර්මාණකරණයේ කිනම් මූලධර්මය සඳහා ද?",
+        "choices": [
+            "අසමමිතික තුලනය",
+            "සමෝධානය",
+            "ආඝාත්මික රිද්මය",
+            "සමානුපාතය"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "උක්, කිරි සහ පැලවෙන ධාන්‍යවල බහුලව අඩංගු වන ඩයිසැකරයිඩ පිළිවෙළින් අඩංගු වරණය තෝරන්න.",
+        "choices": [
+            "සුක්‍රෝස්, ලැක්ටෝස්, මෝල්ටෝස්",
+            "මෝල්ටෝස්, සුකෝස්, ලැක්ටෝස්",
+            "සුක්‍රෝස්, ගැලැක්ටෝස්, මෝල්ටෝස්",
+            "ග්ලුකෝස්, සුක්‍රෝස්, ලැක්ටෝස්"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "මහා පෝෂක පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න. ",
+        "choices": [
+            "තැම්බූ බිත්තර සුදු මදයේ ඇති ඇල්බියුමින් කැටි ගැසීම මගින් ප්‍රෝටීන ගුණ හානි වේ.",
+            "සියලුම ලිපිඩවල සංයුතිය වනුයේ කාබන්, හයිඩ්‍රජන් සහ ඔක්සිජන් ය.",
+            "පෘථිවිය මත සුලබම කාබොහයිඩ්‍රේටය පිෂ්ඨයයි.",
+            "ලිපිඩ යනු ශරීරයේ සමහර සෛලවල අඩංගු වන සංඝටකයකි."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "සංතෘප්ත සහ අසංතෘප්ත මෙද අම්ලවලින් සරු ආහාර පිළිවෙළින් අඩංගු වරණය තෝරන්න.",
+        "choices": [
+            "ඔලිව් තෙල්, ඌරු මස්",
+            "ඌරු මස්, බටර්",
+            "ඌරු මස්, මාළු",
+            "සෝයාබෝංච් තෙල්, ඔලිව් තෙල්"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "පහත ප්‍රකාශ අතුරින් නිවැරදි වන්නේ කුමක් ද?",
+        "choices": [
+            "ෆෝලික් අම්ලය ලබාගත හැකි වන්නේ සත්ත්ව ආහාරවලින් පමණි.",
+            "අල වර්ගවල ප්‍රතිඔක්සිකාරක අඩංගු වේ.",
+            "මේදය රහිත කිරි, විටමින් A ප්‍රභවයකි.",
+            "ඔමේගා 6 අම්ලය ශරීරය තුළ නිපදවීමට හැකියාවක් ඇත."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "B කාණ්ඩයේ විටමින් අඩංගු ආහාරයක් නොවන්නේ මින් කුමක්ද?",
+        "choices": [
+            "මුදවාපු කිරි",
+            "මාළු",
+            "බිම්මල්",
+            "එළවළු තෙල්"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "කාන්තාවකගේ බෝ නොවන රෝග අවදානම වැඩි කරන සාධකයක් වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "නිවුඩ්ඩ සහිත සහල් පමණක් පරිභෝජනය කිරීම",
+            "ඇපල් හැඩැති සිරුරක් පැවතීම",
+            "ශාක ආහාර පමණක් පරිභෝජනය කිරීම",
+            "ඉණ උකුළ අනුපාතය 0.7 ක් වීම"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "ආමාශයේ කෘත්‍යයක් නොවන්නේ මින් කුමක් ද?",
+        "choices": [
+            "ආහාරය ආම්ලික කිරීම",
+            "ප්‍රෝටීන ජීරණය අවසන් කිරීම",
+            "ආහාර යාන්ත්‍රිකව මිශ්‍ර කිරීම",
+            "ඇමයිලේස් එන්සයිමය අක්‍රිය කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "අධිපෝෂණය වැලැක්වීමට සුදුසු ආහාර වේලක බහුලව අඩංගු විය යුතු ආහාර වර්ග යුගලයක් ඇතුළත් වරණය තෝරන්න. ",
+        "choices": [
+            "එළවළු සලාද, මාෂ බෝග",
+            "තෙල් සහිත ඇට වර්ග, පලතුරු",
+            "මෝල්ට් පාන, පලතුරු",
+            "තෙල් සහිත ඇට වර්ග, මෝල්ට් පාන"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "දිලීර විශේෂයක් වන ඇස්පජිලස් ඔරයිසේ (Aspergillus oryzae) යොදා ගනිමින් නිෂ්පාදනය කරන ආහාරය මින් කුමක් ද? ",
+        "choices": [
+            "විනාකිරි",
+            "සෝයා සෝස්",
+            "යෝගට්",
+            "මස් වර්ග"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "රස ප්‍රවර්ධක ලෙස ක්‍රියාකරන ආකලන දෙක අඩංගු වරණ තෝරන්න. \n",
+        "choices": [
+            "මොනොසෝඩියම් ග්ලූටමේට් (MSG) හා ඉනොසිනික් අම්ලය",
+            "ලෙසිතින් හා කාමොසීන්",
+            "ප්‍රොපයිල් ගැලේට් හා මොනොසෝඩියම් ග්ලූටමේට්",
+            "ඉනොසිනික් අම්ලය හා ලෙසිතින්"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "කෘතිම පරිරක්ෂණකාරක පිළිබඳ පහත කරුණු අතුරින් සාවද්‍ය කරුණ තෝරන්න.",
+        "choices": [
+            "ආහාරය මත වැඩෙන යීස්ට් හා ඇතැම් දිලීර වර්ග ද නිශේධනය කරයි.",
+            "මාධ්‍යයේ pH අගය හා උෂ්ණත්වය මත ක්‍රියාකාරීත්වය රඳා පවතියි.",
+            "බෙන්සොඒට, කිරි නිෂ්පාදන සඳහා භාවිත වේ.",
+            "සල්ෆයිට් අධිකව එකතු කිරීම ශ්වසන ආබාධ ඇති කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "ඇසුරුම් ද්‍රව්‍යයක් වන පොලිඑතිලීන් ටෙරෆ්තැලේට් (PET) පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "නැවත භාවිත කළ නොහැකි ය,",
+            "වතුර බෝතල් උදාහරණ වේ.",
+            "මිල සාධාරණ ය,",
+            "ශක්තිමත් බවින් අඩු ය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "වාණිජ මැහුම් ක්‍රමවලදී ස්ථිර මැස්මක් ලෙස භාවිත නොවන මැහුම් ක්‍රමයකි,",
+        "choices": [
+            "අත් මැස්ම,",
+            "අගුලු මැස්ම.",
+            "තනි නූලේ දම්වැල් මැස්ම.",
+            "අක්වක් අගුලු මැස්ම."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "සාවද්‍ය වැකිය තෝරන්න.",
+        "choices": [
+            "නිමි ඇඳුම් කර්මාන්තයේ දී ඇඳුම් දළ කැපීමකට භාජනය නොකර, අවසාන කැපීම සිදු කරන අවස්ථා ඇත.",
+            "රෙදිවල තත්ත්ව පරීක්ෂාවේදී වියමන, බර, විරංජකවලට ඔරොත්තු දීමේ හැකියාව පරීක්ෂා කළ යුතු ය.",
+            "රෙදි කැපීමේ දී භාවිත වන පටි කැපුම් තලය, කැපීමේ දී රෙද්ද හරහා තිරස්ව ගමන් කරයි.",
+            "මේස රෙද්දෙහි හැඩය කුමක් වුව ද අත් පිස්නාව සමචතුරස්‍රාකාර හැඩයක් ගනී."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "සෙන්ටිමීටර 175 ක් දිග හා සෙන්ටිමීටර 80 ක් පළල කෑම මේසයක් සඳහා ඇතිරිල්ලක් නිර්මාණය කළ යුතුව ඇත. මේසයේ පැතිවලින් පහළට වැටෙන ප්‍රමාණය සෙන්ටිමීටර 30 කි. ඒ අනුව මේස ඇතිරිල්ලෙහි ප්‍රමාණය විය යුත්තේ,",
+        "choices": [
+            "සෙ.මි. 175 x සෙ.මි. 80 ය.",
+            "සෙ.මි. 182 X සෙ.මි. 87 ය.",
+            "සෙ.මි. 205 X සෙ.මි. 110 ය.",
+            "සෙ.මි. 235 x සෙ.මි. 140 ය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "වෘත්තියක් තුළ නියමිත ඇඳුම් පැළඳුම් (Dress code) වඩාත් වැදගත් වන්නේ,",
+        "choices": [
+            "ආකර්ෂණීය බව ඉස්මතු වීමටයි.",
+            "පෞරුෂය වර්ධනය කර ගැනීමටයි.",
+            "පුද්ගල අනන්‍යතාව පිළිබිඹු වීමටයි.",
+            "නූතන විලාසිතාවන්ට අනුකූල වීමටයි."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "සංචරණය පිළිබඳ සාවද්‍ය ප්‍රකාශය කුමක් ද?",
+        "choices": [
+            "අන්තර්පුද්ගල සබඳතා දියුණු වීම සමාජයට ලැබෙන ප්‍රතිලාභයකි.",
+            "පරිගණක සාක්ෂරතාව හා පරිවර්තන සේවා මගින් භාෂා ගැටළු විසඳෙයි",
+            "සත්කාරකයා තුළ භීනමානය හා ආගන්තුකයා තුළ අධිමානය පිළිබඳ හැඟීම් වර්ධනය චේ.",
+            "සෘජු හා වක්‍ර රැකියා අවස්ථා සමාජයට උදෟ වේ."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "මානව පාලිත ආකර්ශණය සඳහා උදාහරණයකි,",
+        "choices": [
+            "නෙළුම් කුළුණ.",
+            "දෙහිවල සත්ත්ව උද්‍යානය.",
+            "හන්තාන කඳුවැටිය.",
+            "විල්පත්තු ජාතික වනෝද්‍යානය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "ගෘහ විදුලි සැපයුම් පද්ධතිය පිළිබඳ සාවද්‍ය වැකිය තෝරන්න.",
+        "choices": [
+            "ජාතික විදුලිබල පද්ධතියේ එකලා විදුලිය 230 V හා 50 Hz වේ.",
+            "ගෘහ පරිපථයෙහි සජීවී රැහැන තුළින් සැපයෙන විදුලිය මුලින්ම ශේෂධාරා පරිපථ බිඳිනය තුළින් ගමන් කරයි.",
+            "පැරණි ගෘහ පරිපථවල විලායක සියල්ල විබෙදුම් පෙට්ටිය තුළ සවිකර ඇත.",
+            "පහන් පරිපථවල සෑම බල්බයකම ස්විචයක් සම්බන්ධ කරනුයේ සජීවී රැහැනටය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "විදුලිය හා සම්බන්ධ ඒකකයක් වචන 'වොට්' මගින් මනිනු ලබන්නේ මින් කුමක් ද?",
+        "choices": [
+            "විභව අන්තරය",
+            "ධාරාව",
+            "ජවය",
+            "වෝල්ටීයතාව"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "වර්ෂාපතනය වැඩි වීම නිසා ඇතිවිය හැකි බලපෑම් දෙකකි,",
+        "choices": [
+            "ප්‍රභාසංශ්ලේෂණය අඩු වීම සහ වසංගත රෝග වර්ධනය.",
+            "ජිවීන් වඳ වී යාම සහ පාංශු ඛාදනය වැඩිවීම.",
+            "වසංගත රෝග වර්ධනය සහ ආලෝක තීව්‍රතාව වැඩි වීම.",
+            "ප්‍රභාසංශ්ලේෂණය අඩු වීම සහ ජීවීන් වඳ වී යාම."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "ජාන විකරණය කළ ආහාරයක් වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "බඩ ඉරිගු",
+            "දඹල",
+            "වට්ටක්කා",
+            "අල"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "නව යොවුන් චිය අවුරුදු 10-20 කාලසීමාව බව අර්ථකථනය කල මනෝවිද්‍යාඥයා කවුද?",
+        "choices": [
+            "ජින් පියාජේ",
+            "ගෙසල්",
+            "හර්ලොක්",
+            "ස්ටොට්"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "සමබර පෞරුෂයක් ඇති පුද්ගලයකුගේ ලක්ෂණ කිහිපයක් පහත දැක්වේ. මින් චිත්තවේගී සමබරතාව පිළිබිඹු කරන ලක්ෂණය කුමක් ද? ",
+        "choices": [
+            "ඉදිරිපත් වීමේ හැකියාව",
+            "පරිසරයට අනුව හැසිරීම",
+            "ගැටළුකාරී තත්ත්වවලට ඔරොත්තු දීම",
+            "ක්‍රියාශීලීව ජීවත්වීම"
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "මානසිකව රෝගී වූ දරුවකු තුළ දක්නට ලැබෙන මනෝකායික තත්ත්ව දෙකක් වන්නේ, \n",
+        "choices": [
+            "හිසරදය සහ උදරාබාධයි.",
+            "උණ සහ හිසරදයයි.",
+            "වමනය සහ කැස්සයි.",
+            "උදරාබාධ සහ සෙම්ප්‍රතිශ්‍යාවයි."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Home Economics",
+        "category": "other",
+        "question": "පහත දැක්වෙන ප්‍රකාශ අතුරින් සාවද්‍ය ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "නිවැරදි ව්‍යාපාර සැලැස්මක ඇතුළත් වනුයේ ව්‍යාපාර විස්තරය හා අලෙවිකරණ සැලැස්මයි.",
+            "ඵලදායිතාව වශයෙන් හඳුන්වනුයේ යෙදවුම් නිමවුම් බවට පත්වීමේ අනුපාතයයි.",
+            "තරගකාරීත්ව විශ්ලේෂණය, ශදුඅත විශ්ලේෂණයට වඩා ඉදිරිගාමී ක්‍රියාවලියකි.",
+            "ව්‍යාපාරයක ඵලදායිතාව වැඩිකිරීම සඳහා කයිසෙන් සංකල්පය උපයෝගී කර ගත හැකි ය."
+        ],
+        "metadata": {
+            "subject_original": "ගෘහ ආර්ථික  විද්‍යාව   ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127300&token=&preview=1 "
+        }
+    }
+]

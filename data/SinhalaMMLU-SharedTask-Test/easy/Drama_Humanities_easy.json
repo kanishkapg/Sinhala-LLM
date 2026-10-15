@@ -1,0 +1,1202 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "කතන්දරයකට වඩා නාට්‍යයක් තුළ දැකිය හැකි විශේෂ ලක්ෂණයකි.",
+        "choices": [
+            "සංවාද තිබීම.",
+            "කතාවක් තිබීම.",
+            "චරිත තිබීම.",
+            "රංග විධාන තිබීම."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "යමක් අසා රස විදින්නා,",
+        "choices": [
+            "ශ්‍රාවකයා",
+            "පාඨකයා",
+            "කියවන්නා",
+            "ප්‍රේක්‍ෂකයා"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "' ගමරාළ සිල් ගත්තා වගෙයි. ''",
+        "choices": [
+            "කතන්දරයකි.",
+            "ජනකතාවකි.",
+            "කෙටි කතාවකි.",
+            "නාට්‍යයකි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "\"දොංත බබක්කට දෙන්න දෙයක් නැත.\nපෙට්ටගමක් උඩ තුට්ටු දෙකක් ඇත.'' මෙය,",
+        "choices": [
+            "ගීතයකි.",
+            "රබන් පදයකි.",
+            "කවියකි.",
+            "සංවාදයකි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "වේදිකා නාට්‍යයක ලක්ෂණයක් නොවන්නේ,",
+        "choices": [
+            "නාට්‍ය පිටපතක් තිබීම.",
+            "නළු නිළියන් සිටීම.",
+            "ප්‍රේක්‍ෂක පිරිසක් සිටීම.",
+            "ඕනෑම වේලාවක බැලීමට හැකි වීම."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "කට හඬ පාලනය පුහුණු කිරීම සඳහා උදව් කරගත හැකි අභ්‍යාස වන්නේ,",
+        "choices": [
+            "සංවේදන අභ්‍යාස",
+            "සැහැල්ලු අභ්‍යාස",
+            "ශ්වසන අභ්‍යාස",
+            "ශිථිලකරන අභ්‍යාස"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පුංචි අපට දැන් තේරෙයි නාට්‍යයේ නිර්මාණකරු වන්නේ,",
+        "choices": [
+            "සෝමලතා සුබසිංහ",
+            "පාලිත ලොකු පෝතාගම",
+            "D කුමාරගේ",
+            "අම්තා රබ්බිඩ්ගල"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත සඳහන් විවිධ චරිත ඇසුරින් අධිමානුෂ චරිත යුගලය වන්නේ,",
+        "choices": [
+            "රජතුමා, යෝධයා",
+            "රියදුරා, ගොවියා",
+            "භූතයා, කොටියා",
+            "දෙවියන්, සුරංගනාවිය"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "'ඉර උදා වෙන්නට\nපළමුව නැගිට සිහිකොට '' මෙය,",
+        "choices": [
+            "ජන කවියකි.",
+            "සිරිත් මල්දමේ කවියකි.",
+            "උපමාවකි.",
+            "ගාථාවකි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "සැමන් ටින් එකක අඩිය හිල්කොට තෙත ගෝණි ලණුවක් දමා ඇදීමේදී නිර්මාණය කළ හැකි හඬකි.",
+        "choices": [
+            "ගෙරවිලි හඬ",
+            "කුරුල්ලන්ගේ හඬ",
+            "ගෙම්බන් කෑගසන හඬ",
+            "වැහි පොඳ වැටෙන හඬ"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1ZQNHtOdJXlL9_l-Hll25hcv7hlJEvO8T/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\nමහළුවීසිටියත්‌\nරුවින්‌ අඩු වී සිටියත්‌\nදුප්පත්ව සිටියත්‌\nදෙමව්පිය වැඳ පුදනු යහපත්‌\n\nB \nබඩගිනි වෙලා මා ගියකල පුතුගෙ ගෙට\nමැනලා වී ටිකක්‌ දුන්නයි මල්ලක ට\nගන්දෝ නොගන්දෝ කියලා සිතුනි මට\nමැනලද පුතේ කිරි දුන්නේ මා නුඹට\n\nC\nපුංචි අපේ කතන්දරේ\nකුකුල්‌ හාමි කෙනෙක්‌ වෙතෙයි\nමී හාමිල හතර දෙන යි\nවත්තේ මල්‌ ගස්‌ මෙඅපයි\n\nD\nඇහැළ මලින්‌ ගස්‌ පිරිලා\nබලන්න හරි ලස්සන යි\nඅඹ රඹුටන්‌ ජම්බු ඉදිල\nඅද හැමතැන හරි හැඩයි.\n\nE\nකැත්තක්‌ අරගෙන වත්තට යනකොට\nපෙත්තෙක්‌ ඉඳගෙන කජු කනවා\n\nනාට්‍ය නිර්මාණයක් සඳහා යොදාගත හැකි සිරිත් මල්දමේ එන කවියකි.",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1a4RdMTIuwISZZnwKHYZmtUh815BERAVs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\nමහළුවීසිටියත්‌\nරුවින්‌ අඩු වී සිටියත්‌\nදුප්පත්ව සිටියත්‌\nදෙමව්පිය වැඳ පුදනු යහපත්‌\n\nB \nබඩගිනි වෙලා මා ගියකල පුතුගෙ ගෙට\nමැනලා වී ටිකක්‌ දුන්නයි මල්ලක ට\nගන්දෝ නොගන්දෝ කියලා සිතුනි මට\nමැනලද පුතේ කිරි දුන්නේ මා නුඹට\n\nC\nපුංචි අපේ කතන්දරේ\nකුකුල්‌ හාමි කෙනෙක්‌ වෙතෙයි\nමී හාමිල හතර දෙන යි\nවත්තේ මල්‌ ගස්‌ මෙඅපයි\n\nD\nඇහැළ මලින්‌ ගස්‌ පිරිලා\nබලන්න හරි ලස්සන යි\nඅඹ රඹුටන්‌ ජම්බු ඉදිල\nඅද හැමතැන හරි හැඩයි.\n\nE\nකැත්තක්‌ අරගෙන වත්තට යනකොට\nපෙත්තෙක්‌ ඉඳගෙන කජු කනවා\n\nදයානන්ද ගුණවර්ධන මහතාගේ නාට්‍ය නිර්මාණයකට අයත් කවියකි.",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1a4RdMTIuwISZZnwKHYZmtUh815BERAVs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\nමහළුවීසිටියත්‌\nරුවින්‌ අඩු වී සිටියත්‌\nදුප්පත්ව සිටියත්‌\nදෙමව්පිය වැඳ පුදනු යහපත්‌\n\nB \nබඩගිනි වෙලා මා ගියකල පුතුගෙ ගෙට\nමැනලා වී ටිකක්‌ දුන්නයි මල්ලක ට\nගන්දෝ නොගන්දෝ කියලා සිතුනි මට\nමැනලද පුතේ කිරි දුන්නේ මා නුඹට\n\nC\nපුංචි අපේ කතන්දරේ\nකුකුල්‌ හාමි කෙනෙක්‌ වෙතෙයි\nමී හාමිල හතර දෙන යි\nවත්තේ මල්‌ ගස්‌ මෙඅපයි\n\nD\nඇහැළ මලින්‌ ගස්‌ පිරිලා\nබලන්න හරි ලස්සන යි\nඅඹ රඹුටන්‌ ජම්බු ඉදිල\nඅද හැමතැන හරි හැඩයි.\n\nE\nකැත්තක්‌ අරගෙන වත්තට යනකොට\nපෙත්තෙක්‌ ඉඳගෙන කජු කනවා\n\nසෝමලතා සුභසිංහ මහත්මියගේ නාට්‍යයකට අයත් කවියකි.",
+        "choices": [
+            "E",
+            "C",
+            "D",
+            "B"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1a4RdMTIuwISZZnwKHYZmtUh815BERAVs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\nමහළුවීසිටියත්‌\nරුවින්‌ අඩු වී සිටියත්‌\nදුප්පත්ව සිටියත්‌\nදෙමව්පිය වැඳ පුදනු යහපත්‌\n\nB \nබඩගිනි වෙලා මා ගියකල පුතුගෙ ගෙට\nමැනලා වී ටිකක්‌ දුන්නයි මල්ලක ට\nගන්දෝ නොගන්දෝ කියලා සිතුනි මට\nමැනලද පුතේ කිරි දුන්නේ මා නුඹට\n\nC\nපුංචි අපේ කතන්දරේ\nකුකුල්‌ හාමි කෙනෙක්‌ වෙතෙයි\nමී හාමිල හතර දෙන යි\nවත්තේ මල්‌ ගස්‌ මෙඅපයි\n\nD\nඇහැළ මලින්‌ ගස්‌ පිරිලා\nබලන්න හරි ලස්සන යි\nඅඹ රඹුටන්‌ ජම්බු ඉදිල\nඅද හැමතැන හරි හැඩයි.\n\nE\nකැත්තක්‌ අරගෙන වත්තට යනකොට\nපෙත්තෙක්‌ ඉඳගෙන කජු කනවා\n\nB කොටසෙහි දැක්වෙන උපදේශාත්මක කාව්‍ය අයත් ජන කතාව වන්නේ,",
+        "choices": [
+            "නාඩි බැලීම ය.",
+            "අනුන්ට කැපූ වලේ තමන් ම වැටීමය.",
+            "බුදුන් වඳින ලෙස වැඳපන් අම්මාටය.",
+            "පුහුල් හොර කරෙන් දැනේය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1a4RdMTIuwISZZnwKHYZmtUh815BERAVs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\nමහළුවීසිටියත්‌\nරුවින්‌ අඩු වී සිටියත්‌\nදුප්පත්ව සිටියත්‌\nදෙමව්පිය වැඳ පුදනු යහපත්‌\n\nB \nබඩගිනි වෙලා මා ගියකල පුතුගෙ ගෙට\nමැනලා වී ටිකක්‌ දුන්නයි මල්ලක ට\nගන්දෝ නොගන්දෝ කියලා සිතුනි මට\nමැනලද පුතේ කිරි දුන්නේ මා නුඹට\n\nC\nපුංචි අපේ කතන්දරේ\nකුකුල්‌ හාමි කෙනෙක්‌ වෙතෙයි\nමී හාමිල හතර දෙන යි\nවත්තේ මල්‌ ගස්‌ මෙඅපයි\n\nD\nඇහැළ මලින්‌ ගස්‌ පිරිලා\nබලන්න හරි ලස්සන යි\nඅඹ රඹුටන්‌ ජම්බු ඉදිල\nඅද හැමතැන හරි හැඩයි.\n\nE\nකැත්තක්‌ අරගෙන වත්තට යනකොට\nපෙත්තෙක්‌ ඉඳගෙන කජු කනවා\n\nපන්ති කාමරයේ දී ඔබ වාදනය කරන ලද රබන් පදයක් වන්නේ,",
+        "choices": [
+            "A ය.",
+            "B ය.",
+            "C ය.",
+            "E ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1a4RdMTIuwISZZnwKHYZmtUh815BERAVs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත පද්‍ය ඇසුරෙන් සපයන්න.\nA\nකිරි බොන කොට පුංචි යාළු\nබංද්ධි ගෙඩිය පිරෙනවා\nඋගුර උගුර අපට දේලු\nඅපි සෙල්ලම් කරනවා.\n\nB\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී...\n\nC\nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැණ නොමගන්නේ\n\nD\nඅහසින් අවුත් මිණි අක් නයිදු යැදුමට\nරහතන් මැදෙහි මුණි හිද මිණි පළඟ පිට\n\nE\nනමස් සවන්ත භද්‍රාය\nසර්ව ගෝචර චක්ෂුෂෙ...\n\nසිරිත් මල්දමෙහි ඇතුළත් ගීතය අඩංගු අක්ෂරය වන්නේ,",
+        "choices": [
+            "B ය.",
+            "C ය.",
+            "D ය.",
+            "E ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත පද්‍ය ඇසුරෙන් සපයන්න.\nA\nකිරි බොන කොට පුංචි යාළු\nබංද්ධි ගෙඩිය පිරෙනවා\nඋගුර උගුර අපට දේලු\nඅපි සෙල්ලම් කරනවා.\n\nB\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී...\n\nC\nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැණ නොමගන්නේ\n\nD\nඅහසින් අවුත් මිණි අක් නයිදු යැදුමට\nරහතන් මැදෙහි මුණි හිද මිණි පළඟ පිට\n\nE\nනමස් සවන්ත භද්‍රාය\nසර්ව ගෝචර චක්ෂුෂෙ...\n\nපාලිත ලොකුපෝතාගම මහතා රචිත නාට්‍යයකට අයත් ගීතයක් වන්නේ,",
+        "choices": [
+            "A ය.",
+            "B ය.",
+            "C ය.",
+            "D ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත පද්‍ය ඇසුරෙන් සපයන්න.\nA\nකිරි බොන කොට පුංචි යාළු\nබංද්ධි ගෙඩිය පිරෙනවා\nඋගුර උගුර අපට දේලු\nඅපි සෙල්ලම් කරනවා.\n\nB\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී...\n\nC\nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැණ නොමගන්නේ\n\nD\nඅහසින් අවුත් මිණි අක් නයිදු යැදුමට\nරහතන් මැදෙහි මුණි හිද මිණි පළඟ පිට\n\nE\nනමස් සවන්ත භද්‍රාය\nසර්ව ගෝචර චක්ෂුෂෙ...\n\nඓතිහාසික සිදුවීමක් පදනම් කරගත් පද්‍ය ඇතුළත් අක්ෂරය වන්නේ,",
+        "choices": [
+            "A ය.",
+            "C ය.",
+            "D ය.",
+            "E ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත පද්‍ය ඇසුරෙන් සපයන්න.\nA\nකිරි බොන කොට පුංචි යාළු\nබංද්ධි ගෙඩිය පිරෙනවා\nඋගුර උගුර අපට දේලු\nඅපි සෙල්ලම් කරනවා.\n\nB\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී...\n\nC\nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැණ නොමගන්නේ\n\nD\nඅහසින් අවුත් මිණි අක් නයිදු යැදුමට\nරහතන් මැදෙහි මුණි හිද මිණි පළඟ පිට\n\nE\nනමස් සවන්ත භද්‍රාය\nසර්ව ගෝචර චක්ෂුෂෙ...\n\nB අක්ෂරයෙන් කියවෙන්නේ,",
+        "choices": [
+            "නූතන නාට්‍යයකි.",
+            "සොකරි නාට්‍යයෙනි.",
+            "කෝලම් නාට්‍යයෙනි.",
+            "නූර්ති නාට්‍යයෙනි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත පද්‍ය ඇසුරෙන් සපයන්න.\nA\nකිරි බොන කොට පුංචි යාළු\nබංද්ධි ගෙඩිය පිරෙනවා\nඋගුර උගුර අපට දේලු\nඅපි සෙල්ලම් කරනවා.\n\nB\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී...\n\nC\nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැණ නොමගන්නේ\n\nD\nඅහසින් අවුත් මිණි අක් නයිදු යැදුමට\nරහතන් මැදෙහි මුණි හිද මිණි පළඟ පිට\n\nE\nනමස් සවන්ත භද්‍රාය\nසර්ව ගෝචර චක්ෂුෂෙ...\n\nනම් පොතට අයත් පද්‍යයකි.",
+        "choices": [
+            "A ය.",
+            "B ය.",
+            "D ය.",
+            "E ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පන්ති කාමර නාට්‍ය තුළ දැකිය නොහැකි ලක්ෂණයකි.",
+        "choices": [
+            "අනුකරණය",
+            "සමාරෝපය",
+            "ආත්මාර්ථකාමී බව",
+            "සංවාද භාවිතය"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "රංග භූමියක් යනු,",
+        "choices": [
+            "චිත්‍රපටි ප්‍රදර්ශනය කරන ස්ථානයකි.",
+            "නාට්‍යයක් රඟ දක්වන ඕනෑම ස්ථානයකි.",
+            "සුවිශේෂ පහසුකම් සහිත ස්ථානයකි.",
+            "දෙමහල් ගොඩනැගිල්ලක් සහිත ස්ථානයකි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "ස්වභාවික පරිසරයේ සිදුවන සංසිද්ධියකි.",
+        "choices": [
+            "පොල් රුප්පාවට සඳ එළිය වැටීම.",
+            "රිය අනතුරක් සිදු වීම.",
+            "කඳුවැටි අතුරින් හිරු පායා ඒම.",
+            "නැගෙන රළ සහිත මුහුදු වෙරළක්."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "වෙද පුටුව නම් රංග අභ්‍යාසය අයත් වන්නේ,",
+        "choices": [
+            "පරිකල්පන අභ්‍යාස සඳහාය.",
+            "ශිථිලිකරණ අභ්‍යාස සඳහාය.",
+            "කටහඬ අභ්‍යාස සඳහාය.",
+            "ශරීරය උණුසුම් කිරීමේ අභ්‍යාස සඳහා ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "නාට්‍යයක වේෂ භූෂණ අයත් වන අභිනය වන්නේ,",
+        "choices": [
+            "ආංගික අභිනය",
+            "වාචික අභිනය",
+            "සාත්වික අභිනය",
+            "ආහාර්ය අභිනය"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1g2hu95BYVFAEOifshj7BhjZdnsdPLQC4/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත තොරතුරු ඇසුරින් නිවැරදි පිළිතුර තෝරන්න.\n\n\nA \nසිරි සඟබෝධි මාලිගාවේ දී .... මං\nදැක ප්‍රාණ හානි වෙන්ට බැට දෙම්\n\n\nB \nකටේ කිරි සුවඳ යන්නට පවා බැරිවුණා ....\nයුදට උපන් කුමරෙකැයි නමක් ඇති වුණා\n\n\nC \nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැන නොම ගන්නේ\n\n\nD \nසුවඳ පද්ම ඕලු ආදි - නොයෙක් පුෂ්පයෙන් සැදී\n\n\nE \n\"මං අම්මා කියන දේ අහලා හොඳට ඉගෙන ගන්නවා. ආයේ මං මැරෙන්නේ නෑ ....\"\n\n\n\nඓතිහාසික කතා පුවතට අදාළ වන්නේ,",
+        "choices": [
+            "E ය.",
+            "D ය.",
+            "C ය.",
+            "B ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත තොරතුරු ඇසුරින් නිවැරදි පිළිතුර තෝරන්න.\n\n\nA \nසිරි සඟබෝධි මාලිගාවේ දී .... මං\nදැක ප්‍රාණ හානි වෙන්ට බැට දෙම්\n\n\nB \nකටේ කිරි සුවඳ යන්නට පවා බැරිවුණා ....\nයුදට උපන් කුමරෙකැයි නමක් ඇති වුණා\n\n\nC \nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැන නොම ගන්නේ\n\n\nD \nසුවඳ පද්ම ඕලු ආදි - නොයෙක් පුෂ්පයෙන් සැදී\n\n\nE \n\"මං අම්මා කියන දේ අහලා හොඳට ඉගෙන ගන්නවා. ආයේ මං මැරෙන්නේ නෑ ....\"\n\n\nඋපදේශාත්මක ගායනයක් වන්නේ,",
+        "choices": [
+            "A ය.",
+            "B ය.",
+            "C ය.",
+            "D ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත තොරතුරු ඇසුරින් නිවැරදි පිළිතුර තෝරන්න.\n\n\nA \nසිරි සඟබෝධි මාලිගාවේ දී .... මං\nදැක ප්‍රාණ හානි වෙන්ට බැට දෙම්\n\n\nB \nකටේ කිරි සුවඳ යන්නට පවා බැරිවුණා ....\nයුදට උපන් කුමරෙකැයි නමක් ඇති වුණා\n\n\nC \nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැන නොම ගන්නේ\n\n\nD \nසුවඳ පද්ම ඕලු ආදි - නොයෙක් පුෂ්පයෙන් සැදී\n\n\nE \n\"මං අම්මා කියන දේ අහලා හොඳට ඉගෙන ගන්නවා. ආයේ මං මැරෙන්නේ නෑ ....\"\n\n\nළමා නාට්‍යයකට අයත් වන්නේ,",
+        "choices": [
+            "B ය.",
+            "C ය.",
+            "D ය.",
+            "E ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත තොරතුරු ඇසුරින් නිවැරදි පිළිතුර තෝරන්න.\n\n\nA \nසිරි සඟබෝධි මාලිගාවේ දී .... මං\nදැක ප්‍රාණ හානි වෙන්ට බැට දෙම්\n\n\nB \nකටේ කිරි සුවඳ යන්නට පවා බැරිවුණා ....\nයුදට උපන් කුමරෙකැයි නමක් ඇති වුණා\n\n\nC \nසෙල්ලම් කරමින් දබර නොවන්නේ\nනොතරම් වදනින් බැන නොම ගන්නේ\n\n\nD \nසුවඳ පද්ම ඕලු ආදි - නොයෙක් පුෂ්පයෙන් සැදී\n\n\nE \n\"මං අම්මා කියන දේ අහලා හොඳට ඉගෙන ගන්නවා. ආයේ මං මැරෙන්නේ නෑ ....\"\n\nනූර්ති ගීතවලට අයත් වන්නේ,",
+        "choices": [
+            "A, B, C ය.",
+            "A, C ය.",
+            "A, D ය.",
+            "B, D ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "ආනුෂාංගික කලා අයත්වන අභිනය වන්නේ,",
+        "choices": [
+            "සාත්ත්වික අභිනය හි.",
+            "වාචික අභිනය හි.",
+            "ආංගික අභිනය හි.",
+            "ආහාර්ය අභිනය හි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "ක්ෂණික නිරූපණයක් යනු,",
+        "choices": [
+            "පිටපතක් සහිත නිරූපණයකි.",
+            "පෙර සූදානමකින් තොරව කරන නිරූපණයකි.",
+            "වාචික අභිනයෙන් තොරව කරන නිරූපණයකි.",
+            "කෙටි කාලයකින් කරන නිරූපණයකි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "\"වෙද පුටුව '' නම් රංග අභ්‍යාසය අයත් වන්නේ මින් කුමකටද?",
+        "choices": [
+            "කටහඬ අභ්‍යාස",
+            "සංවේදන අභ්‍යාස",
+            "පරිකල්පන අභ්‍යාස",
+            "තාපන අභ්‍යාස"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "නාට්‍යයක ' මකුට' ලෙස හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "වේෂ භූෂණය.",
+            "පසුතල නිර්මාණය.",
+            "අංග රචනය ය.",
+            "හිස් පළඳනාය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "නාට්‍ය උපකරණ නිර්මාණයේ දී සැලකිලිමත් විය යුතු කරුණක් නොවන්නේ,",
+        "choices": [
+            "නළුවාගේ රංග කාර්යයට පහසු වීම ය.",
+            "යොදාගන්නා වර්ණ නාට්‍ය තේමාවට ගැලපීමය.",
+            "සැහැල්ලු අමුද්‍රව්‍ය වලින් නිර්මාණය කිරීමය.",
+            "මිල අධික අමුද්‍රව්‍ය වලින් නිර්මාණය කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "වචන භාවිතයෙන් තොර ව, මිනිස් සිරුර උපයෝගී කරගෙන ඉදිරිපත් කරනු ලබන නිරූපණ කලාවක් වන්නේ.",
+        "choices": [
+            "අභිරූපණයයි.",
+            "චරිත නිරූපණයයි.",
+            "ක්‍ෂණික නිරූපණයයි.",
+            "ඒකල නිරූපණයයි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1liCOvpOZag19sCAJ2VE1qMy4z5MC6oBx/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන ඝංවාද හා පද කාණ්ඩ ඇසුරින්‌ පිළිතුරු සපයන්න.\n\nA\nඇහැළ මලින්‌ ගස්‌ පිරිලා \nබලන්න හරි ලස්සනයි\n\nB\nහා හා දරුවනේ\n යන්ට එපා දරුවනේ\nඅදට කැවුම්‌ කාපල්ලා\n\nC\nමෙහෙ කවුරුත්‌ මැරෙන්නෙ නෑ\nමෙහෙ ඉන්න අය අමරණීයයි \n\nD\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී .......\n\nE\nසොබාවදේ මෙපුර\nසිරි විසිතුරු බලනු මිතුරු\n\nමහාචාර්ය එදිරිවීර සරච්චන්ද්‍ර නිර්මාණය කළ නාට්‍යයකට අයත්‌ ගීතයකි.",
+        "choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන ඝංවාද හා පද කාණ්ඩ ඇසුරින්‌ පිළිතුරු සපයන්න.\n\nA\nඇහැළ මලින්‌ ගස්‌ පිරිලා \nබලන්න හරි ලස්සනයි\n\nB\nහා හා දරුවනේ\n යන්ට එපා දරුවනේ\nඅදට කැවුම්‌ කාපල්ලා\n\nC\nමෙහෙ කවුරුත්‌ මැරෙන්නෙ නෑ\nමෙහෙ ඉන්න අය අමරණීයයි \n\nD\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී .......\n\nE\nසොබාවදේ මෙපුර\nසිරි විසිතුරු බලනු මිතුරු\n\nනරිබෑණා නාට්‍යයට අයත්‌ ගීතය දැක්චෙන අක්ෂරය වන්නේ,\n",
+        "choices": [
+            "D",
+            "C",
+            "A",
+            "B"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන ඝංවාද හා පද කාණ්ඩ ඇසුරින්‌ පිළිතුරු සපයන්න.\n\nA\nඇහැළ මලින්‌ ගස්‌ පිරිලා \nබලන්න හරි ලස්සනයි\n\nB\nහා හා දරුවනේ\n යන්ට එපා දරුවනේ\nඅදට කැවුම්‌ කාපල්ලා\n\nC\nමෙහෙ කවුරුත්‌ මැරෙන්නෙ නෑ\nමෙහෙ ඉන්න අය අමරණීයයි \n\nD\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී .......\n\nE\nසොබාවදේ මෙපුර\nසිරි විසිතුරු බලනු මිතුරු\n\nC අක්ෂරය අයත්‌ නාට්‍ය වන්නේ,",
+        "choices": [
+            "නෙලුම්‌ කුමාරි ය.",
+            "අමර ගියා දිව්‍ය ලෝකේ ය.",
+            "පුංචි අපට දැන්‌ තේරෙයි ය.",
+            "හිම කුමාරි ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන ඝංවාද හා පද කාණ්ඩ ඇසුරින්‌ පිළිතුරු සපයන්න.\n\nA\nඇහැළ මලින්‌ ගස්‌ පිරිලා \nබලන්න හරි ලස්සනයි\n\nB\nහා හා දරුවනේ\n යන්ට එපා දරුවනේ\nඅදට කැවුම්‌ කාපල්ලා\n\nC\nමෙහෙ කවුරුත්‌ මැරෙන්නෙ නෑ\nමෙහෙ ඉන්න අය අමරණීයයි \n\nD\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී .......\n\nE\nසොබාවදේ මෙපුර\nසිරි විසිතුරු බලනු මිතුරු\n\n\"තාරාචෝ ඉගිලෙති\" නාට්‍යයට අයත්‌ ගීතය දැක්චෙන අක්ෂරය වන්නේ,",
+        "choices": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන ඝංවාද හා පද කාණ්ඩ ඇසුරින්‌ පිළිතුරු සපයන්න.\n\nA\nඇහැළ මලින්‌ ගස්‌ පිරිලා \nබලන්න හරි ලස්සනයි\n\nB\nහා හා දරුවනේ\n යන්ට එපා දරුවනේ\nඅදට කැවුම්‌ කාපල්ලා\n\nC\nමෙහෙ කවුරුත්‌ මැරෙන්නෙ නෑ\nමෙහෙ ඉන්න අය අමරණීයයි \n\nD\nඅද වෙස්සන්තර රාජ පුතා\nමන්ද්‍රි කුමාරි බඳී .......\n\nE\nසොබාවදේ මෙපුර\nසිරි විසිතුරු බලනු මිතුරු\n\nසෝමලතා සුබසිංහ විසින්‌ නිෂ්පාදනය කළ නාට්‍යයකට අයත්‌ අක්ෂරය වන්නේ,",
+        "choices": [
+            "C",
+            "B",
+            "A",
+            "D"
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\n* පෙළ රචකයා\n* අධ්‍යක්ෂකවරයා\n* නළු නිළියෝ\n* ප්‍රේක්ෂකයෝ\nB\n* අමර ගියා දිව්‍යලෝකේ\n* පුංචි අපට දැන් තේරෙයි\n* නෙලුම් කුමාරි\n* හිම කුමාරි\nC\n* සංගීතය\n* රංගාලෝකය\n* පසුතල නිර්මාණය\n* වේශභූෂණ\nD\n* කදා වළලු\n* ලෝම හංස\n* මහාසාර\n* සඳ කිඳුරු\n\nනාට්‍යයක ප්‍රධාන පුද්ගලයේ දැක්වෙන තීරුව වන්නේ,\n",
+        "choices": [
+            "Dය.",
+            "Cය.",
+            "Bය.",
+            "Aය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\n* පෙළ රචකයා\n* අධ්‍යක්ෂකවරයා\n* නළු නිළියෝ\n* ප්‍රේක්ෂකයෝ\nB\n* අමර ගියා දිව්‍යලෝකේ\n* පුංචි අපට දැන් තේරෙයි\n* නෙලුම් කුමාරි\n* හිම කුමාරි\nC\n* සංගීතය\n* රංගාලෝකය\n* පසුතල නිර්මාණය\n* වේශභූෂණ\nD\n* කදා වළලු\n* ලෝම හංස\n* මහාසාර\n* සඳ කිඳුරු\n\nළමා නාට්‍ය ඇතුළත්‌ තීරුව වන්නේ,\n",
+        "choices": [
+            "A ය.",
+            "B ය.",
+            "C ය.",
+            "D ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\n* පෙළ රචකයා\n* අධ්‍යක්ෂකවරයා\n* නළු නිළියෝ\n* ප්‍රේක්ෂකයෝ\nB\n* අමර ගියා දිව්‍යලෝකේ\n* පුංචි අපට දැන් තේරෙයි\n* නෙලුම් කුමාරි\n* හිම කුමාරි\nC\n* සංගීතය\n* රංගාලෝකය\n* පසුතල නිර්මාණය\n* වේශභූෂණ\nD\n* කදා වළලු\n* ලෝම හංස\n* මහාසාර\n* සඳ කිඳුරු\n\nජාතක කතා ඇසුරින්‌ නිර්මාණය වූ නාට්‍ය ඇතුළත්‌ අක්ෂරය වන්නේ,\n",
+        "choices": [
+            "B ය.",
+            "C ය.",
+            "D ය.",
+            "A ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\n* පෙළ රචකයා\n* අධ්‍යක්ෂකවරයා\n* නළු නිළියෝ\n* ප්‍රේක්ෂකයෝ\nB\n* අමර ගියා දිව්‍යලෝකේ\n* පුංචි අපට දැන් තේරෙයි\n* නෙලුම් කුමාරි\n* හිම කුමාරි\nC\n* සංගීතය\n* රංගාලෝකය\n* පසුතල නිර්මාණය\n* වේශභූෂණ\nD\n* කදා වළලු\n* ලෝම හංස\n* මහාසාර\n* සඳ කිඳුරු\n\nඅනුෂාංගික කලාවන්‌ ඇතුළත්‌ තීරුච වන්නේ,\n",
+        "choices": [
+            "D ය.",
+            "C ය.",
+            "B ය.",
+            "A ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "A\n* පෙළ රචකයා\n* අධ්‍යක්ෂකවරයා\n* නළු නිළියෝ\n* ප්‍රේක්ෂකයෝ\nB\n* අමර ගියා දිව්‍යලෝකේ\n* පුංචි අපට දැන් තේරෙයි\n* නෙලුම් කුමාරි\n* හිම කුමාරි\nC\n* සංගීතය\n* රංගාලෝකය\n* පසුතල නිර්මාණය\n* වේශභූෂණ\nD\n* කදා වළලු\n* ලෝම හංස\n* මහාසාර\n* සඳ කිඳුරු\n\nමහාචාර්ය එදිරිවීර සරත්චන්ද්‍රයන්‌ නිෂ්පාදනය කළ නාට්‍ය ඇතුළත්‌ තීරුව වන්නේ,\n",
+        "choices": [
+            "A ය.",
+            "D ය.",
+            "C ය.",
+            "B ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "රූපණ කාර්යයේදී වඩාත්‌ වැදගත්ම පුද්ගලයා වන්නේ,",
+        "choices": [
+            "නළු නිළියන්‌ ය.",
+            "පෙළ මතක්‌ කර දෙන්නන්‌ ය.",
+            "අධ්‍යක්‍ෂකචරයා ය.",
+            "චේදිකා පාලකයා ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "රංග ක්‍රීඩාවක්‌ වන්නේ,",
+        "choices": [
+            "රාක්ෂයෙක්‌ ගමට ඇවිත්‌",
+            "හිම කන්ද දියවීම.",
+            "සකස්කඩය කියවීම.",
+            "බැලුනය පිපිරීම."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "නාට්‍ය අධ්‍යක්ෂකචරයෙකු නොවන්නේ,\n",
+        "choices": [
+            "දයානන්ද ගුණවර්ධන ය.",
+            "සුගතපාල ද සිල්වා ය.",
+            "පාලිත ලොකුපෝතාගම ය.",
+            "මාර්ටින්‌ වික්‍රමසිංහ ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "චරිත සඳහා නළු නිළියන්‌ තේරීම හඳුන්වන්නේ,",
+        "choices": [
+            "රූපණය යනුවෙනි.",
+            "අභිනය යනුවෙනි.",
+            "නළුවරණය යනුවෙනි.",
+            "අනුකරණය යනුවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "මුහුනෙහි පිළිඹිබු චන හැගීම්‌ ප්‍රකාශන මගින්‌ අදහස්‌ දැක්වීම හඳුන්වන්නේ,",
+        "choices": [
+            "ආංගික අභිනය යනුවෙනි.",
+            "වාචික අභිනය යනුවෙනි.",
+            "සාත්වික අභිනය යනුවෙනි.",
+            "ආහාර්ය අභිනය යනුවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KAP6g8t4UN2iCxAX_mQ8-BkyvUjXuVlm/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන පද්‍ය කොටස්‌ ඇසුරු කරගෙන පිළිතුරු සපයන්න.\n\n(අ) \nනැගෙනහිරින්‌ පාරක්‌ ඇතිදෝ\nවැලි කුණාටු පිරි මරු කතරයි\nබස්නාහිර මොනවා ඇතිදෝ\nවලසුන්‌ දිවියන්‌ පිරි වචනයයි\n\n(ආ) \nරුචිර විමුක්ති භූෂ\nමගධ විශිෂ්ට භාෂ\nදණ්ඩිත බහු මාර\nඛණ්ඩිත භව හාර\n\n(ඇ) \nවෙදා නටන්නේ පළමුව සබේට එන්නේ\nයොදා කියන්නේ තාලෙට ගත වෙව්ලන්නේ\n\n(ඈ) \nතෙනතෙදිනානා තෙදිනානේ\nතෙන තෙදිනානා තෙදිනානේ\nකටු අල බොක්කිට අඬන්නේ\nගෝනල බොක්කිට අඬන්නේ\n\n(ඉ)\nපේත්තුකාරලියන්‌ - ගත විලවුන්‌\nමුහුණ සිඹින්නා\nසාටක දුල ඉරන්‌ - නාරිලතා මල්‌ පුදින්නා\n\nසොකරි නාටකයට අයත්‌ කවියක්‌ දැක්වෙන අක්ෂරය වන්නේ,",
+        "choices": [
+            "(ඉ) ය.",
+            "(ඈ) ය.",
+            "(ආ) ය.",
+            "(ඇ) ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන පද්‍ය කොටස්‌ ඇසුරු කරගෙන පිළිතුරු සපයන්න.\n\n(අ) \nනැගෙනහිරින්‌ පාරක්‌ ඇතිදෝ\nවැලි කුණාටු පිරි මරු කතරයි\nබස්නාහිර මොනවා ඇතිදෝ\nවලසුන්‌ දිවියන්‌ පිරි වචනයයි\n\n(ආ) \nරුචිර විමුක්ති භූෂ\nමගධ විශිෂ්ට භාෂ\nදණ්ඩිත බහු මාර\nඛණ්ඩිත භව හාර\n\n(ඇ) \nවෙදා නටන්නේ පළමුව සබේට එන්නේ\nයොදා කියන්නේ තාලෙට ගත වෙව්ලන්නේ\n\n(ඈ) \nතෙනතෙදිනානා තෙදිනානේ\nතෙන තෙදිනානා තෙදිනානේ\nකටු අල බොක්කිට අඬන්නේ\nගෝනල බොක්කිට අඬන්නේ\n\n(ඉ)\nපේත්තුකාරලියන්‌ - ගත විලවුන්‌\nමුහුණ සිඹින්නා\nසාටක දුල ඉරන්‌ - නාරිලතා මල්‌ පුදින්නා\n\nමාෂා හා වළහා නාට්‍යයට අයත්‌ ගීතය දැක්වෙන්නේ,\n",
+        "choices": [
+            "'අ' අක්ෂරයේ ය.",
+            "'ආ' අක්ෂරයේ ය.",
+            "'ඇ' අක්ෂරයේ ය.",
+            "'ඈ' අක්ෂරයේ ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන පද්‍ය කොටස්‌ ඇසුරු කරගෙන පිළිතුරු සපයන්න.\n\n(අ) \nනැගෙනහිරින්‌ පාරක්‌ ඇතිදෝ\nවැලි කුණාටු පිරි මරු කතරයි\nබස්නාහිර මොනවා ඇතිදෝ\nවලසුන්‌ දිවියන්‌ පිරි වචනයයි\n\n(ආ) \nරුචිර විමුක්ති භූෂ\nමගධ විශිෂ්ට භාෂ\nදණ්ඩිත බහු මාර\nඛණ්ඩිත භව හාර\n\n(ඇ) \nවෙදා නටන්නේ පළමුව සබේට එන්නේ\nයොදා කියන්නේ තාලෙට ගත වෙව්ලන්නේ\n\n(ඈ) \nතෙනතෙදිනානා තෙදිනානේ\nතෙන තෙදිනානා තෙදිනානේ\nකටු අල බොක්කිට අඬන්නේ\nගෝනල බොක්කිට අඬන්නේ\n\n(ඉ)\nපේත්තුකාරලියන්‌ - ගත විලවුන්‌\nමුහුණ සිඹින්නා\nසාටක දුල ඉරන්‌ - නාරිලතා මල්‌ පුදින්නා\n\n''ඉ” අක්ෂරයට අයත්‌ ගීතය ඇතුළත්‌ නාට්‍යය වන්නේ,\n",
+        "choices": [
+            "විකෘති නාට්‍යයයි.",
+            "අමර ගියා දිව්‍ය ලෝකේ නාට්‍යයයි.",
+            "රතු හැට්ටකාරී නාට්‍යයයි.",
+            "තාරාවෝ ඉගිලෙති නංට්‍යයයි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන පද්‍ය කොටස්‌ ඇසුරු කරගෙන පිළිතුරු සපයන්න.\n\n(අ) \nනැගෙනහිරින්‌ පාරක්‌ ඇතිදෝ\nවැලි කුණාටු පිරි මරු කතරයි\nබස්නාහිර මොනවා ඇතිදෝ\nවලසුන්‌ දිවියන්‌ පිරි වචනයයි\n\n(ආ) \nරුචිර විමුක්ති භූෂ\nමගධ විශිෂ්ට භාෂ\nදණ්ඩිත බහු මාර\nඛණ්ඩිත භව හාර\n\n(ඇ) \nවෙදා නටන්නේ පළමුව සබේට එන්නේ\nයොදා කියන්නේ තාලෙට ගත වෙව්ලන්නේ\n\n(ඈ) \nතෙනතෙදිනානා තෙදිනානේ\nතෙන තෙදිනානා තෙදිනානේ\nකටු අල බොක්කිට අඬන්නේ\nගෝනල බොක්කිට අඬන්නේ\n\n(ඉ)\nපේත්තුකාරලියන්‌ - ගත විලවුන්‌\nමුහුණ සිඹින්නා\nසාටක දුල ඉරන්‌ - නාරිලතා මල්‌ පුදින්නා\n\nඉහත පද්‍ය අතරෙන්‌ වැදි ගීයක්‌ වන්නේ,\n",
+        "choices": [
+            "'ආ' අක්ෂරයයි.",
+            "'ඈ' අක්ෂරයයි.",
+            "'අ' අක්ෂරයයි.",
+            "'ඇ' අක්ෂරයයි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "පහත දැක්වෙන පද්‍ය කොටස්‌ ඇසුරු කරගෙන පිළිතුරු සපයන්න.\n\n(අ) \nනැගෙනහිරින්‌ පාරක්‌ ඇතිදෝ\nවැලි කුණාටු පිරි මරු කතරයි\nබස්නාහිර මොනවා ඇතිදෝ\nවලසුන්‌ දිවියන්‌ පිරි වචනයයි\n\n(ආ) \nරුචිර විමුක්ති භූෂ\nමගධ විශිෂ්ට භාෂ\nදණ්ඩිත බහු මාර\nඛණ්ඩිත භව හාර\n\n(ඇ) \nවෙදා නටන්නේ පළමුව සබේට එන්නේ\nයොදා කියන්නේ තාලෙට ගත වෙව්ලන්නේ\n\n(ඈ) \nතෙනතෙදිනානා තෙදිනානේ\nතෙන තෙදිනානා තෙදිනානේ\nකටු අල බොක්කිට අඬන්නේ\nගෝනල බොක්කිට අඬන්නේ\n\n(ඉ)\nපේත්තුකාරලියන්‌ - ගත විලවුන්‌\nමුහුණ සිඹින්නා\nසාටක දුල ඉරන්‌ - නාරිලතා මල්‌ පුදින්නා\n\nරංගන ශිල්පියෙකුට භාෂාව හැසිරවීමටත්‌, නිවැරදි වචන උච්චාරණයටත්‌ වැදගත්වන කවිය\nදැක්වෙන්නේ,",
+        "choices": [
+            "'අ' අක්ෂරයේ ය.",
+            "'ඇ' අක්ෂරයේ ය.",
+            "'ආ' අක්ෂරයේ ය.",
+            "'ඈ' අක්ෂරයේ ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "”සාන්තුවර සෙබළාණෝ” නාට්‍යය රචනා කරන ලද්දේ,",
+        "choices": [
+            "චන්ද්‍රසේන දසනායක මහතා ය.",
+            "බන්ධුල ජයවර්ධන මහතා ය.",
+            "එදිරිවීර සරච්චන්ද්‍ර මහතා ය.",
+            "සුගතපාල ද සිල්වා මහතා ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "නාට්‍යයක තේමාව යනු ?",
+        "choices": [
+            "නාට්‍ය පෙළින්‌ ප්‍රකාශවන අදහසයි.",
+            "චරිතවල ස්වරූපය ඉස්මතුවීමයි.",
+            "නාට්‍යයේ කථා වස්තුවයි.",
+            "සංවාදවල ස්වභාවයයි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "”'වෙද පුටුව” නම්‌ රංග අභ්‍යාසයෙන්‌ සිදුවන්නේ,",
+        "choices": [
+            "පරිකල්පනය දියුණු වීමයි.",
+            "සංවේදනය දියුණු වීමයි.",
+            "ප්‍රබල කටහඬක්‌ ඇතිවීමයි.",
+            "නමායශීලී බව ඇතිවීමයි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "\"ඔටුන්න” රංගාභරණය සුදුසු වන්නේ,",
+        "choices": [
+            "වෛද්‍යවරයෙකුට ය.",
+            "රජකෙනෙකුට ය.",
+            "තරුණියකට ය.",
+            "දොරටුපාලයාට ය."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Drama and Theatre",
+        "category": "other",
+        "question": "සෑම නාට්‍යයකටම අත්‍යවශ්‍ය නොවන අංගයකි,",
+        "choices": [
+            "රංග භූමි අලංකරණය යි.",
+            "වේෂ භූෂණය යි.",
+            "ආංගික අභිනය යි.",
+            "ප්‍රේක්‍ෂකයා සි."
+        ],
+        "metadata": {
+            "subject_original": "නාට්‍ය හා රංග කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1VKRmNeJJpvZVAD1iFEA9VrZlbbjF99wC/view?usp=drive_link"
+        }
+    }
+]

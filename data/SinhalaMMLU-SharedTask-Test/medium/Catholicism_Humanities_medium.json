@@ -1,0 +1,802 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "තෝබිත් ග්‍රන්ථය අයත් පොත් කාණ්ඩය වන්නේ.",
+        "choices": [
+            "ඉතිහාස පොත් ය.",
+            "නීති පොත් ය.",
+            "ප්‍රඥා පොත්ය.",
+            "දිවැසිවර පොත් ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ජිවන සභා සම්ප්‍රදාය යනු,",
+        "choices": [
+            "පැරණි ගිවිසුමට අයත් ග්‍රන්ථයකි.",
+            "නව ගිවිසුමට අයත් ග්‍රන්ථයකි.",
+            "දේව අනාවරණයේ මූලාශ්‍රයකි.",
+            "ශුභාරංචි හතරටම පොදු මූලාශ්‍රයකි."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "I තෙසලෝනික ලිපි අයත් කාණ්ඩය නම්,",
+        "choices": [
+            "ආරුඪ කතෘත්වය වේ.",
+            "ද්විතීය පාවුලු සංදේශ වේ.",
+            "වෙනත් හසුන් වේ.",
+            "ශු. පාවුලු තුමා විසින් ම රචිත සංදේශ වේ."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "දෙවි සමිදාණෝ රාත්‍රී ස්වප්නයකින් සලමොන් රජතුමාට දර්ශනය වූ ස්ථානය වන්නේ,",
+        "choices": [
+            "බෙතෙල් හී දී",
+            "බෙයෂෙබාහි දී",
+            "ෂෙකෙම් හී දී",
+            "ගිබියොන් හී දී"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "තුන් වතාවක් ජේසුතුමාව නාදුනන බව ප්‍රකාශ කළ පේදුරු තුමා පිටතට ගොස් හැඬීමට හේතුව වූයේ,",
+        "choices": [
+            "ජේසුතුමා අවිශ්වාස කළ නිසා.",
+            "තම වැරදි ගැන බෙහෙවින් මනස්ථාප වූ නිසා.",
+            "ගුරුවරයා පාවා දීමට ඉඩ හළ නිසා.",
+            "තම ගුරුවරයාට විරුද්ධව කතා කළ නිසා."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "පෙන්තකොස්ත මංගල්‍ය දෙවියන් වහන්සේට මංගල්‍යයකි.",
+        "choices": [
+            "තුති පිදීමේ",
+            "යාච්ඤා කිරීමේ",
+            "සමාව දීමේ",
+            "නමස්කාර කිරීමේ"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ශු. පාවුළු තුමා පිළිබඳ අදහස් කිහිපයක් පහතින් දක්වා ඇත.\nA- ශු. පාවුළුතුමා කැඳවීමට පෙර ජුදා ආගමිකයෙකි.\nB - ශු. පාවුළුතුමා පියාගෙන් රෝම පුරවැසිභාවය ලබා ගැනීම.\nC - ශු. පාවුළුතුමා ජුදා ගෝත්‍රයට අයත්ය.\nD - ශු. පාවුළුතුමා විජාතින්ගේ අපෝස්තුළුවරයා ය.\nE- ශු. පාවුළුතුමා ලූක්තුමාගේ ගුරුවරයෙකි.\nඑතුමා පිළිබඳ නිවැරදි අදහස් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "A, B හා C",
+            "B, C හා D",
+            "A, B හා D",
+            "C, D හා E"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ශුද්ධ වූ සභාවේ කතෝලිකත්වය වැඩි කිරීමට හේතු වන කරුණක් වන්නේ,",
+        "choices": [
+            "සභාවේ එකමුතුකම වෙනුවෙන් යාච්ඤා කිරීමය.",
+            "අපගේ පව් වලට දුක් මනස්ථාප වී පව්කමාව ලබා ගැනීම ය.",
+            "අපෝස්තලික ඉගැන්වීම් අනුව ජීවිතය වෙනස් කර ගැනීමය.",
+            "කිතුනුවන් තමන්ට හැකි අයුරින් දේව වචනය කියා දීමය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "දිව්‍ය සත්ප්‍රසාදීය ලක්ෂණ වන්නේ.",
+        "choices": [
+            "යාච්ඤාව හා තුති පිදීම.",
+            "ගිවිසුම හා ඉල්ලීම.",
+            "අයදීම හා පරිස්මරණය.",
+            "භෝජනය හා යාගය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ශ්‍රාවකයන්ගේ පාද දෝවනය කිරීම තුළින් ජේසුස් වහන්සේ විසින් අවධානය කරනු ලබන්නේ",
+        "choices": [
+            "එම පිළිවෙත වසරකට වරක් පැවැත්විය යුතු බවයි.",
+            "දිව්‍ය පූජාව තුළ එය නිරන්තරයෙන් සිහිපත් කළ යුතු බවයි.",
+            "ප්‍රේමයේ පණත තුළ ජීවත් විය යුතු බවයි.",
+            "එමඟින් දිව්‍ය පූජාව අර්ථවත් කළ යුතු බවයි."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ජුදා යාග පිළිවෙත් සම්පුර්ණත්වයට පත් වූයේ,",
+        "choices": [
+            "ක්‍රිස්තුන් වහන්සේගේ මාංශගත වීමෙන් ය.",
+            "ක්‍රිස්තුන් වහන්සේගේ ජිවිත පූජා යාගයෙන් ය.",
+            "ක්‍රිස්තුන් වහන්සේගේ ස්වර්ගාරෝහණයෙන්ය.",
+            "ක්‍රිස්තුන් වහන්සේගේ ප්‍රාතිහාර්ය තුළින් ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "II වන ජුවාම් පාවුළු මුනිතුමාගේ මුල් නම වන්නේ,",
+        "choices": [
+            "කැරොල් වොසිටිල්ලා",
+            "ජෝජ්මාරියෝ",
+            "මාරියෝ හෝස්",
+            "රොබඩ් බෙලාමින්"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "නැකැත් බැලීම, ගුරුකම් කිරීම, ශාස්ත්‍ර ඇසීම මඟින් කිතුණුවකු කඩ කරනු ලබන්නේ,",
+        "choices": [
+            "පළමු පනත",
+            "දෙවන පනත",
+            "තෙවන පනත",
+            "සිව්වන පනත"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "\" දරුවෙනි, ඔබේ දෙමාපියන්ට, සමිදාණන් වහන්සේ තුළ කීකරුවන්න, එය ඔබේ යුතුකමය.'' මෙසේ සඳහන් වන්නේ,",
+        "choices": [
+            "කොරෙන්ති ලිපියේය.",
+            "රෝම ලිපියේ ය.",
+            "ගලාති ලිපියේ ය.",
+            "එපිස ලිපියේ ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "පාපොච්චාරණයේ දී නමැති පාපයට සමාව දීම සඳහා පියතුමෙක් රදගුරුතුමාගෙන් අවසර ලබාගත යුතුය. මෙහි හිස් තැනට අදාළ පිළිතුර වන්නේ,",
+        "choices": [
+            "ස්ත්‍රී දූෂණය",
+            "ගබ්සාව",
+            "පළිගැනීම",
+            "සොරකම"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "9 පනත් වලට විරුද්ධ ක්‍රියාවක් වන්නේ,",
+        "choices": [
+            "අංජනම් බැලීම.",
+            "බොරු දෙවිවරුන්ට වන්දනා කිරීම.",
+            "දික්කසාදය.",
+            "දෙමාපියන් නොසලකා හැරීම."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "පහත ප්‍රකාශ අතුරින් චතාරික සමයට අයත් ප්‍රකාශන ඇතුළත් වරණය තෝරන්න.\nA - අළු බදාදා සිට මහ බ්‍රහස්පතින්දා දක්වා විහිදෙයි.\nB - ආලේලුයියා ග්ලෝරියා ගායනා කරනු ලැබේ.\nC - ශුද්ධ වූ සතියකින් සමන්විත වේ.\nD - ශුද්ධ වූ දින තුනකින් යුක්ත වේ.",
+        "choices": [
+            "ACD",
+            "ABC",
+            "BCD",
+            "ADB"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ස්තෝත්‍ර යාගික පිළිවෙතට අයත් ප්‍රධාන කොටස් වනුයේ,",
+        "choices": [
+            "සුරදූත ගීය.",
+            "පොදු යැදුම සාමය පැතීම හා පූප කැඩීම.",
+            "පඬුරු මත යැදුම.",
+            "ස්වාමිවාක් ආරාධනාව."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ක්‍රිස්තුන් වහන්සේගේ දූත මෙහෙවර කැටි කොට දක්වා ඇති යාච්ඤාව වන්නේ,",
+        "choices": [
+            "මල් උයනේ",
+            "විශ්වාස ලක්ෂණය",
+            "උත්තම පූජ ක",
+            "ස්වාමිවාක් ආරාධනාව"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ජේසුස් වහන්සේ තම ජිවිතයේ අභියෝග ජය ගැනීමට නිරන්තරයෙන් පෝෂණය ලබා ගත්තේ,",
+        "choices": [
+            "නිරහාරශීලයෙන්",
+            "උපවාසයෙන්",
+            "යාග පැවැත්වීමෙන්",
+            "යාච්ඤාවෙන්"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "දේව ධාර්මික තේමා රැසකින් පෝෂණය වූ සාහිත්‍යමය කෘතියකි,",
+        "choices": [
+            "පංච පුස්තකය",
+            "දිවැසාවලිය",
+            "ප්‍රඥා සාහිත්‍ය",
+            "එළිදරව් සාහිත්‍ය"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ප්‍රොතෙස්තන්තවරුන් භාවිත කරන හෙබ්‍රෙව් පිටපත හඳුන්වන නාමය වන්නේ,",
+        "choices": [
+            "සෙප්පුවාජින්තය.",
+            "මැසොරොටික් ය.",
+            "වල්ගේට්ය.",
+            "ටෝරා ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "යෙසායා දිවැසිවරයා සිය කැඳවීම ලබන්නේ,",
+        "choices": [
+            "සිහිනයක් මඟිනි",
+            "දර්ශනයක් මඟිනි",
+            "පණිවිඩයක් ශ්‍රවණයෙනි",
+            "සංකේතාකාරයෙනි"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "මාක් ශුභාරංචියට අනුව උත්ථානයට පංගුකාර විය හැක්කේ,",
+        "choices": [
+            "ශුභාරංචි අධ්‍යයනයෙනි.",
+            "යහපත් ක්‍රියා තුළිනි.",
+            "කුරුසියේ මාර්ගය තුළිනි.",
+            "කිතුනුවකු වීම තුළිනි."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "සම මානව ගරුත්වයකින් මිනිසා මැව් බැවින්,",
+        "choices": [
+            "අනෝන්‍ය ගෞරවය සුරැකිය යුතු වේ.",
+            "පුරුෂයා පවුලේ ප්‍රධානියා වේ.",
+            "ස්ත්‍රිය පුරුෂයාට යටත් විය යුතු වේ.",
+            "දෙවියන් වහන්සේ හා ප්‍රේමයෙන් බැඳිය යුතු වේ."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ජල ගැලීමකින් ලෝකය විනාශ වී යාම තුළ ඇති දේව අභිමතය වන්නේ,",
+        "choices": [
+            "ලෝකයේ පාපය දුරු කිරීමය.",
+            "පරිසරය දූෂණය වී තිබීමය.",
+            "නෝවා ඇතුළු ධර්මිෂ්ඨයන් බේරා ගැනීමය.",
+            "පාපය ඉවත් කර නව ලොවක් බිහි කිරීමය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ඇවිලෙන මුත් නොදැවෙන කටු පඳුරු තුළින් දෙවියන් වහන්සේව දර්ශනය කරන ලද්දේ,",
+        "choices": [
+            "ආබ්‍රහම් ය.",
+            "ඊසාක් ය.",
+            "මොසේය.",
+            "ජාකොබ් ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ස්නාවක ජොහාන් තුමා පොදු ජනතාවට සිය දේශනා මගින් කළ ඇරයුමකි.",
+        "choices": [
+            "යුක්තිගරුකව සාධාරණව රැකියාවේ යෙදීමය.",
+            "දෙවියන් වහන්සේ එකම දෙවිදුන් බව ඇදහීම.",
+            "බලහත්කාර ක්‍රියා තුළින් වැළකී ජීවත් වීම.",
+            "තමන් සතු දෑ බෙදා ගැනීමය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "කන්ද උඩ දේශනයේ ඇතුළත් භාග්‍ය අට තුළින් ප්‍රකාශිත දේව රාජ්‍යයේ වටිනාකමක් වන්නේ,",
+        "choices": [
+            "පිපාසිතයන්ගේ අවශ්‍යතා ඉටු කිරීමය.",
+            "යුක්තියට සාපිපාස වීම ය.",
+            "නිතර දිව්‍ය පූජාවට සහභාගී වීම ය.",
+            "අධ්‍යාත්මික පුණ්‍ය ක්‍රියා ඉටු කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "පහත සඳහන් කරණු කෙරෙහි අවධානය යොමු කරන්න.\nA - ශු. සභාවේ සාමාජිකත්වය ලැබීම ය.\nB - ආත්මය තුළ නොමැකෙන ලාංජනයක් සළකුණු වීම.\nC - ඉෂ්ට වරප්‍රසාද තුළ ජීවත් වීම.\nD - දේව රාජ්‍යයේ පංගුකාරත්වය ලැබීම.\nE - ක්‍රිස්තුන් වහන්සේගේ සේවා භටයකු වීම.\nඉහත සඳහන් කරුණු අතරින් ප්‍රසාද ස්නාපනයෙන් ලැබෙන දේව වරප්‍රසාද ඇතුළත් පිළිතුර",
+        "choices": [
+            "A, C, E",
+            "B, C, D",
+            "C, D, E",
+            "A, B, D"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ක්‍රිස්තුන් වහන්සේ සිය අපෝස්තුළුවරුන්ට පවරන ලද ධර්මදූත සේවය ඉදිරියට ගෙන යන්නේ,",
+        "choices": [
+            "ආශිර්වාදකාර බන්ධනයෙනි.",
+            "ප්‍රාතිහාර්ය තුළින්",
+            "පූජකවරයෙනි",
+            "දිව්‍ය පුජා යාගය මගින්"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ලේ නෑකම බාධාවක් ලෙස පිළිගැනෙන ප්‍රසාද නිධානය,",
+        "choices": [
+            "ආශිර්වාදකාර බන්ධනය",
+            "පූජකවරය",
+            "අභිවෘද්ධි ආලේපනය",
+            "පැවිදිවරය"
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "මිනිසාගේ රැකවරණයට පත් වූ දේව මැවිල්ල මනුෂ්‍ය වාසයට යෝග්‍ය වනුයේ,",
+        "choices": [
+            "සංරක්ෂණය කරමින් පරිභෝජනය කිරීමෙනි.",
+            "ආදරය කරමින් වගා කිරීමෙනි.",
+            "සංරක්ෂණය කරමින් අයිති කර ගැනීමෙනි.",
+            "විනාශ කරමින් පරිභෝජනය කිරීමෙනි."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "අසීසීයේ ශු. ප්‍රැන්සිස් තුමාගේ යාච්ඤාවට අනුව '' අසමගියේ තුවාලයන්ට '' අවශ්‍ය වනුයේ,",
+        "choices": [
+            "ශාන්තිය.",
+            "ඉවසීමය.",
+            "ප්‍රේමය.",
+            "බෙදා ගැනීමය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ආත්මික යහපත වෙනුවෙන් කරනු ලබන පුණ්‍ය ක්‍රියාව වනුයේ,",
+        "choices": [
+            "පිපාස වූවන්ට පානය දීම.",
+            "වහලුන් නිදහස් කිරීම.",
+            "ජීවතුන් හා මළවුන් වෙනුවෙන් යාච්ඤා කිරීම.",
+            "මළවුන් වැළලීම."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ශුද්ධවූ සභා විනය නීති රීති පිළිබඳව සඳහන් වන්නේ,",
+        "choices": [
+            "කතෝලික සභා ධර්මෝපදේශයේ ය.",
+            "සභා නීති සංග්‍රහයේය.",
+            "මහෝපදේශ ග්‍රන්ථයේ ය.",
+            "අපොස්තුළුවරුන්ගේ ක්‍රියා පොතේ ය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "ස්වාමිවාක් ආරාධනාවේ ඇතුළන් ''එදිනෙදා භෝජනය '' යන්නෙන් අදහස් වන්නේ,",
+        "choices": [
+            "ශාරීරික පෝෂණයට අවශ්‍ය ආහාරය.",
+            "දෛනික ශාරීරික හා අධ්‍යාත්මික අවශ්‍යතාය.",
+            "දිව්‍ය පුජාව හා දිව්‍ය සත්ප්‍රසාදය වේ.",
+            "එදිනෙදා පරිභෝජනයට අවශ්‍ය දේවල් වේ."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "පෘතුගාලයේ පාතිමා නුවර දේවමාතා දර්ශනයේ දී කළ ඉල්ලීම ලෙස සැලකෙන්නේ,",
+        "choices": [
+            "පෘතුගාලයේ වෙසෙන සියලු රෝගීන් සුවය පතා යාච්ඥා කරන ලෙස.",
+            "ජපමාලය ලොව පුරා පැතිර වීමට ක්‍රියා කරන ලෙස.",
+            "ලොව පුරා මරි මව් වෙනුවෙන් දෙව් මැදුර ගොඩ නැගීම සිදුකරන ලෙස.",
+            "ලෝකවාසී පව්කරුවන්ගේ සිත් හැරීම උදෙසා යාච්ඥා කරන ලෙස."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "යාම යැදුම් සම්ප්‍රදාය ජෙරුසලමේ පැවති බවට සාක්ෂි ඉදිරිපත් කර ඇති පැවිදි සොයුරිය වන්නේ,",
+        "choices": [
+            "තෙරේසාය.",
+            "ලොරෙටා ය.",
+            "යුප්‍රේසියා ය.",
+            "එජේරියාය."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Catholicism",
+        "category": "Humanities",
+        "question": "කතෝලික සභා ධර්මෝපදේශයට අනුව භාවනාව,",
+        "choices": [
+            "හඹා යාමකි.",
+            "මෙනෙහි කිරීමකි.",
+            "සොයා යාමකි.",
+            "යාච්ඤාවකි."
+        ],
+        "metadata": {
+            "subject_original": "කතෝලික ධර්මය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1E_wSSqUxSu-PXWUYFHhLu96UX1ksPTLj/view?usp=drive_link"
+        }
+    }
+]

@@ -1,0 +1,382 @@
+{
+  "buddhism_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "catholic_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "christianism_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "civic_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "geo_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "health_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "history_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "islam_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "science_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "sinhala_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "buddhism_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "catholic_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "christianism_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "civic_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "geo_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "health_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "history_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "islam_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "science_g7_p1_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "science_g7_p2_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "sinhala_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "buddhism_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "catholic_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "christianism_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "civic_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "geo_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "health_g8_si": {
+    "skip_pages": [],
+    "ocr": true,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "history_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "islam_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "science_g8_p1_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "science_g8_p2_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "sinhala_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "art_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "dancing_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g6_p1_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g6_p2_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "music_g6_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "art_g7_si": {
+    "skip_pages": [],
+    "ocr": true,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "dancing_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [
+      50,
+      51,
+      52
+    ],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g7_p1_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g7_p2_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "music_g7_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "art_g8_si": {
+    "skip_pages": [],
+    "ocr": true,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "dancing_g8_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g8_p1_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "drama_g8_p2_si": {
+    "skip_pages": [],
+    "ocr": false,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  },
+  "music_g8_si": {
+    "skip_pages": [],
+    "ocr": true,
+    "ocr_pages": [],
+    "chapter_pages": {},
+    "chapter_min_size": null,
+    "notes": ""
+  }
+}

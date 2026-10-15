@@ -1,0 +1,822 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "1 : 50 000 පරිමාණයේ සිතියමක දැක්වෙන සංස්කෘතික ලක්ෂණයක් දැක්වෙන පිළිතුර තෝරන්න. \n",
+        "choices": [
+            "වාරිමාර්ග ඇල",
+            "ගංගාව",
+            "කඳුවැටි",
+            "වනාන්තර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ආසියානු කලාපයේ සුවිශේෂත්වයක් ලෙස සැලකිය නොහැකි වරණය තෝරන්න. \n",
+        "choices": [
+            "විශාලත ම මහද්වීපය වීම.",
+            "ආගම් රැසක නිජබිම වීම.",
+            "සියලු ම දේශගුණ වර්ග පැවතීම.",
+            "ලොව දිගම ගංගාව පැවතීම."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "හිමාලයා වැටියේ උසින් දෙවන ස්ථානය උසුලන කඳුවැටිය කුමක් ද? \n",
+        "choices": [
+            "එවරස්ට්",
+            "මනස්ලු",
+            "කන්චන්ජුන්ගා",
+            "ධවලගිරි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ආසියාවේ විශාලත ම වාරිමාර්ග පද්ධතියක් සහිත රටක් ලෙස සැලකිය හැක්කේ, ",
+        "choices": [
+            "ඉරානය",
+            "ඉන්දියාව",
+            "පාකිස්ථානය",
+            "බංග්ලාදේශය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ලෝකයේ පියස්ස ලෙසින් හැඳින්වෙන සානුව දැක්වෙන පිළිතුර තෝරන්න. ",
+        "choices": [
+            "ටිබෙට් සානුව",
+            "ඉරාන සානුව",
+            "ෆාමීර් සානුව",
+            "ඩෙකෑන් සානුව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "අභ්‍යන්තර භූ විෂමතා කලාපයේ පිහිටි කන්දක් ලෙස සැළකිය හැකි වරණය තෝරන්න. ",
+        "choices": [
+            "සීගිරිය",
+            "පිදුරුතලාගල",
+            "නමුණුකුල",
+            "නකල්ස්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "කිසියම් රටක ළදරු මරණ අනුපාතිකය තුළින් හෙළිවන මිනුමක් ලෙස සැළකිය නොහැක්කේ පහත කවර වරණය ද? \n",
+        "choices": [
+            "සෞඛ්‍ය සේවාවන්ගේ තත්ත්වය.",
+            "වෛද්‍ය සේවාවන්ගේ තත්ත්වය.",
+            "ආහාර හා පෝෂණ තත්ත්වය.",
+            "දේශපාලන යහපැවැත්මේ තත්ත්වය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ කුඩුම්බ ආදායම අඩුම දිස්ත්‍රික්කයක් ලෙස සැළකිය හැක්කේ පහත දිස්ත්‍රික්ක අතරින් කවරක් ද? ",
+        "choices": [
+            "මොණරාගල",
+            "කොළඹ",
+            "මහනුවර",
+            "කුරුණෑගල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "තිරසර සංවර්ධන සංකල්පය නිවැරදිව අර්ථ දැක්වෙන වගන්තිය තෝරන්න. ",
+        "choices": [
+            "වත්මන් පරපුරේ මෙන් ම අනාගත පරපුරේ ද අවශ්‍යතා තහවුරු කෙරෙන සංවර්ධනය.",
+            "සියලු දෙනාගේ පාරිභෝජනය තහවුරු කෙරෙන සංවර්ධනය.",
+            "සියපු රටවැසියන්ගේ මූලික අවශ්‍යතා සපුරාගත හැකි ආර්ථිකයක් බිහි කිරීම.",
+            "ආර්ථිකය මෙන් ම පරිසරය ද ආරක්ෂා කෙරෙන සංවර්ධනයක් ඇති කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "භෞතික ලක්ෂණ පමණක් සහිත වරණය තෝරන්න. ",
+        "choices": [
+            "නිම්නය, කපොල්ල, ගංදගරය",
+            "රෝහල, උසාවිය, පාසල",
+            "කොත් කන්ද, වගාබිම, වැව",
+            "විල, වැව, වනාන්තරය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1iwZXGclp04VhcNsWdXxQjfl95vm6lR-- "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "• පෘථීවි ස්කන්ධයෙන් 1% පමණ වේ. \n • ඝණකම ඒකාකාරී නොවේ. \n • පාෂාණ වලින් සමන්විතයි. \n • ඛණිජ වර්ග රාශියක් අන්තර්ගතයි. \n ඉහත තොරතුරු වලින් කියැවෙන්නේ පෘථීවි ව්‍යුහයේ කුමන ස්ථරය පිළිබදව ද?",
+        "choices": [
+            "ප්‍රාවරණය",
+            "අභ්‍යන්තර හරය",
+            "ඉහළ ප්‍රාවරණය",
+            "කබොල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සම්පූර්ණයෙන්ම ගොඩබිමෙන් වටවූ මුහුදකට නිදසුනකි,",
+        "choices": [
+            "මධ්‍යධරණී මුහුද",
+            "කහ මුහුද",
+            "එරල් මුහුද",
+            "රතු මුහුද"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "වර්ෂාව මගින් පෘථීවිය මතට ලැබෙන ජලයෙන් කොටසක් භූමිය මතුපිට ගලායාම හඳුන්වනුයේ,",
+        "choices": [
+            "අධිධාවිතය",
+            "කාන්දු වීම",
+            "අපධාවය",
+            "පත්‍ර කඩනය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "•3000mm හා 5000mmඅතර වර්ෂාපතනය. •පැල වැඩෙන කාලයේ සිසිල් දේශගුණය. •හොදින් ජලය බැසයන තැනිතලා බිම්. •චර්නෝසම් පස \n ඉහත සදහන් භෞතික සාධක වැදගත් වන්නේ කිනම් වගාවක් සදහා ද?",
+        "choices": [
+            "වී",
+            "බාර්ලි",
+            "තිරිගු",
+            "මිලට්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ මැදරට තේ වගාව සිදු කෙරෙන දිස්ත්‍රික්ක දෙකක් දැක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "මහනුවර හා බදුල්ල",
+            "නුවරඑළිය හා බදුල්ල",
+            "මහනුවර හා කෑගල්ල",
+            "රත්නපුර හා මාතලේ"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පහත දැක්වෙන තොරතුරු අතරින් නිවර්තන දේශගුණය සම්බන්ධ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ඍතු භේදය නිසා උෂ්ණත්වය අඩු වැඩිවේ.",
+            "පැහැදිලි උණුසුම් ඍතුවක් හා වර්ෂණය සහිත ශීත ඍතුවක් පැවතීම.",
+            "වාර්ෂික වර්ෂාපතනය ඉතා පහල මට්ටමක පැවතීම.",
+            "අවුරුද්ද පුරා පැතිරුණු වර්ෂාපතනයක් පැවතීම."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථීවියේ යම් ස්ථානයක නිවැරදි පිහිටීම දැනගැනීම සදහා සුදුසු වඩාත් කාර්යක්ෂම ක්‍රමය වන්නේ,",
+        "choices": [
+            "භූගෝලීය තොරතුරු පද්ධතිය",
+            "භූගෝලීය ස්ථානගත කිරීමේ පද්ධතිය",
+            "භූ ලක්ෂණ සිතියම",
+            "දුරස්ථ සංවේදනය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ඕස්ට්‍රේලියා මහාද්වීප තටකය තුළ පිහිටි දූපතකට නිදසුනක් වන්නේ කුමන දූපත ද?",
+        "choices": [
+            "සුමාත්‍රා",
+            "බෝර්නියෝ",
+            "පැපුවානිව්ගිනියාව",
+            "ශ්‍රී ලංකාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පහත දැක්වෙන ලක්ෂණ වලින් කියැවෙන දේශගුණ වර්ගය කුමක් ද? වාර්ෂික වර්ෂාපතනය250mm - 300 mmපමණ වේ, තුහින හා හිම පතනය සිදු වේ, ඉහළ අක්ෂාංශිය ප්‍රදේශවල ව්‍යාප්ත වේ.",
+        "choices": [
+            "ශිත දේශගුණය.",
+            "මධ්‍යධරණී දේශගුණය.",
+            "නිවර්තන දේශගුණය.",
+            "සෞම්‍ය දේශගුණය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවි ස්කන්ධයෙන් 2/3 ක් පමණ අයත් වන්නේ, ",
+        "choices": [
+            "කබොලටය.",
+            "අභ්‍යන්තර හරයටය.",
+            "බාහිර හරයටය.",
+            "ප්‍රාවරණයටය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ සුළු අපනයන බෝග හා සම්බන්ධ නොගැලපෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "ගම්මිරිස් - මොණරාගල",
+            "මල් වර්ග - නුවරඑළිය",
+            "කරාබුනැටි - මාතලේ",
+            "කජු - මන්නාරම"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පිඟන් භාණ්ඩ, සනීපාරක්ෂක කට්ටල, විසිතුරු භාණ්ඩ වැනි භාණ්ඩ නිෂ්පාදනය සඳහා යොදා ගන්නා ඛණිජය කුමක් ද?",
+        "choices": [
+            "මිනිරන්",
+            "කෙඔලින්",
+            "ඉල්මනයිට්",
+            "හුණුගල්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ලෝම ලැටරයිට් පස, 15 Cº - 27 Cºදක්වා සාමාන්‍ය උෂ්ණත්වය, 1900 mm - 540 mm දක්වා වූ වර්ෂාපතනය. ඉහත සඳහන් භෞතික සාධක වඩාත් යෝග්‍ය වගාව කුමක් ද?",
+        "choices": [
+            "පොල් ය.",
+            "ඉරිගුය.",
+            "තේ ය.",
+            "තිරඟු ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ මිරිදිය මසුන් බෝ කරන මධ්‍යස්ථානයක් වන්නේ,",
+        "choices": [
+            "මාන්කුලම",
+            "පිටිපන",
+            "ඉහිනියාගල",
+            "අනුරාධපුර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සංචාරක කලාප අතුරෙන් පුරාණ නගර කලාපයට අයත් වන නගර දැක්වෙන පිළිතුර කුමක් ද?",
+        "choices": [
+            "සීගිරිය, දඹුල්ල, මහනුවර",
+            "නුවරඑළිය, මහනුවර, කුරුණෑගල",
+            "ත්‍රිකුණාමලය, පොළොන්නරුව, මඩකලපුව",
+            "අනුරාධපුරය, පොළොන්නරුව, වව්නියාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ නිෂ්පාදිත බෝට්ටු අපනයන කරන රටවල් දෙකක් දැක්වෙන පිළිතුර වන්නේ,",
+        "choices": [
+            "ඉන්දියාව, සුමාත්‍රා",
+            "මාලදිවයින, ඉන්දියාව",
+            "නෝර්වේ, ස්වීඩනය",
+            "සිංගප්පූරුව, පිලිපීනය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "1 : 50 000 භූ ලක්ෂණ සිතියම්වල සමෝච්ච්ඡ රේඛා මඟින් නිරූපණය කළ හැකි ලක්ෂණ පමණක් ඇතුළත් පිළිතුරු කුමක් ද? ",
+        "choices": [
+            "නෙරුව, වනාන්තර, කඳුවැටි",
+            "කඳුවැටි, වැව, ගංගාව",
+            "නිම්නය, නෙරුව, කපොල්ල",
+            "ගංගාව, නිම්නය, කපොල්ල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "තේමා සිතියමට නිදසුනක් නොවන්නේ, ",
+        "choices": [
+            "ශ්‍රී ලංකාවේ මාර්ග සිතියම.",
+            "ශ්‍රී ලංකාවේ සංචාරක ප්‍රදේශ.",
+            "අප්‍රිකාවේ භූ විෂමතා හා ගංගා සිතියම.",
+            "ආසියාවේ ජන ඝනත්ව සිතියම."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ 1 : 50000 භූ ලක්ෂණ සිතියමක ඉහළ වට තීරුවේ සඳහන් නොවන තොරතුරක් වන්නේ, ",
+        "choices": [
+            "සිතියම් වර්ගය",
+            "සිතියමේ නම",
+            "සිතියමේ අංකය",
+            "සිතියමේ පරිමාණය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "10",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1icf7mAyHkRQaI34UU9Z3AaK_wjXg5nwC "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "බුන්දල ජාතික උද්‍යානය පිහිටා ඇති දිස්ත්‍රික්කය මින් කුමක් ද?",
+        "choices": [
+            "මාතර",
+            "හම්බන්තොට",
+            "ගාල්ල",
+            "කළුතර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "1 : 50,000 පරිමාණයේ භූ ලක්ෂණ සිතියමක 9 cm කින් පෙන්වා ඇති මාර්ගයක සැබෑ දිග වන්නේ, ",
+        "choices": [
+            "5.5 km කි.",
+            "5 km කි.",
+            "4.5 km කි.",
+            "4.18 km කි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ වී වගාකරනු ලබන අතරමැදි කලාපයට අයත් දිස්ත්‍රික්කයකි,",
+        "choices": [
+            "අනුරාධපුරය",
+            "ගම්පහ",
+            "කෑගල්ල",
+            "කුරුණෑගල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "නිෂ්පාදනය සඳහා වැය වන පිරිවැය මෙන් දෙගුණයක් පර්යේෂණ කටයුතු සඳහා වැය කරන කර්මාන්තය කුමක් ද?",
+        "choices": [
+            "යකඩ හා වානේ",
+            "මෝටර් රථ",
+            "නැව් තැනීම",
+            "විද්‍යුත් කර්මාන්තය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "බෝඹුවල ප්‍රදේශයේ පිහිටා ඇත්තේ,",
+        "choices": [
+            "පොල් පර්යේෂණ ආයතනයකි.",
+            "බුලත් අපනයන ගම්මානයකි.",
+            "වී පර්යේෂණ ආයතනයකි.",
+            "ආර්ථීක මධ්‍යස්ථානයකි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ඇමර්සන්, කොංගෝ ද්‍රෝණි ප්‍රදේශ ජන හීන ප්‍රදේශ බවට පත් වීමට බලපා ඇති හේතුව මින් කුමක් ද?",
+        "choices": [
+            "අඩු උෂ්ණත්වයයි.",
+            "අධික වර්ෂාපතනය යි.",
+            "රළු භූ විෂමතාවයයි.",
+            "අධික ශීතල යි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "තිරිඟු වගාව සම්බන්ධ වැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "අධික ජන සංඛ්‍යාවක් වෙසෙන ප්‍රදේශවල ව්‍යාප්තව පවතී.",
+            "දියුණු තාක්ෂණික ක්‍රම ශිල්ප භාවිත කරයි.",
+            "විශාල වගා බිම් වල වගා කරයි.",
+            "ලොව පුරා පැතිරුණු වෙළඳපොළක් පවතී."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ ධීවර කර්මාන්තය වර්තමානයේ මුහුණ දෙන ප්‍රධාන ගැටළුවක් වන්නේ,",
+        "choices": [
+            "වරාය පහසුකම් නොමැති වීමයි.",
+            "ඉන්දීය ධීවරයින් මෙරට මුහුදු සීමාවේ මසුන් ඇල්ලීමයි.",
+            "ධීවර ආම්පන්න වල හිඟතාවය යි.",
+            "රාජ්‍ය අනුග්‍රහය ලබා නොදීමයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පිඟන් මැටි ව්‍යාප්තව පවතින ප්‍රදේශ දෙකක් නිවැරදිව දැක්වෙන පිළිතුර කුමක් ද?",
+        "choices": [
+            "රත්තොට, බෝගල",
+            "ඔක්කම්පිටිය, බොරලැස්ගමුව",
+            "මීටියාගොඩ, බොරලැස්ගමුව",
+            "මාරවිල, දෙදියවල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "නවතම සංගණනවලට අනුව ශ්‍රී ලංකාවේ වැඩිම ජන සංඛ්‍යාවක් වෙසෙන දිස්ත්‍රික්ක තුන පිළිවෙලින් දැක්වෙන වරණය කුමක් ද?",
+        "choices": [
+            "කොළඹ, ගම්පහ, මහනුවර",
+            "ගම්පහ, කොළඹ, ගාල්ල",
+            "කොළඹ, ගම්පහ, කළුතර",
+            "ගම්පහ, කොළඹ, කුරුණෑගල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සංවර්ධනය මැනීමේ දී \"ක්‍රය ශක්තිය හා ගැලපූ ඒක පුද්ගල දළ ජාතික නිෂ්පාදිතය\" නිර්ණායකයක් ලෙස යොදා ගෙන ඇති මිනුම කුමක් ද?",
+        "choices": [
+            "භෞතික ජීවන තත්ව දර්ශකය",
+            "මානුෂ දරිද්‍රතා දර්ශකය",
+            "මානුෂ සංවර්ධන දර්ශකය",
+            "මානුෂ පීඩන දර්ශකය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "අවම උෂ්ණත්වයක් පවතින වායුගෝලීය ස්තරය හා පතන ශීඝ්‍රතා ක්‍රියාවලිය සිදු වන වායුගෝලීය ස්තරය නිවැරදිව දැක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "තාපගෝලය හා පරිවර්තීගෝලය",
+            "මෙසෝගෝලය හා පරිවර්තීගෝලය",
+            "මෙසෝගෝලය හා අපරිවර්තීගෝලය",
+            "පරිවර්තීගෝලය හා අපරිවර්තීගෝලය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    }
+]

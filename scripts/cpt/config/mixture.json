@@ -1,0 +1,27 @@
+{
+  "_doc": "Mixture for s09_mix.py, per level. textbook_levels: which levels' textbooks go into the run (keep it cumulative: medium = [easy, medium], hard = [easy, medium, hard]). textbook_epochs: copies of the textbooks in the training stream. replay_tokens: exact Qwen3.5 tokens to take from each replay source (must be <= what s07 collected). val_*: held-out shares.",
+  "easy": {
+    "textbook_levels": ["easy"],
+    "textbook_epochs": 3,
+    "replay_tokens": {"wikipedia_si": 4000000, "fineweb2_si": 5000000, "fineweb_edu_en": 3000000},
+    "val_textbook_chapter_share": 0.03,
+    "val_replay_share": 0.005,
+    "header": true
+  },
+  "medium": {
+    "textbook_levels": ["easy", "medium"],
+    "textbook_epochs": 3,
+    "replay_tokens": {"wikipedia_si": 10000000, "fineweb2_si": 15000000, "fineweb_edu_en": 7000000},
+    "val_textbook_chapter_share": 0.03,
+    "val_replay_share": 0.005,
+    "header": true
+  },
+  "hard": {
+    "textbook_levels": ["easy", "medium", "hard"],
+    "textbook_epochs": 3,
+    "replay_tokens": {"wikipedia_si": 20000000, "fineweb2_si": 25000000, "fineweb_edu_en": 12000000},
+    "val_textbook_chapter_share": 0.03,
+    "val_replay_share": 0.005,
+    "header": true
+  }
+}

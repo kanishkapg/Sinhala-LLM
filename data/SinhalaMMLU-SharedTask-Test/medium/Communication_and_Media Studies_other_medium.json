@@ -1,0 +1,802 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ඇස් සම්බන්ධතාව පවත්වා ගෙන යාම අතිශයින් වැදගත් වන්නේ,",
+        "choices": [
+            "අන්තර් පුද්ගල සන්නිවේදනයේදී ය.",
+            "කථන සන්නිවේදනයේදී ය.",
+            "සමූහ සන්නිවේදනයේදී ය.",
+            "වාචික සන්නිවේදනයේදී ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පෝස්ටර් හා අත්පත්‍රිකා මඟින් සිදු කරන්නේ,",
+        "choices": [
+            "වාචික හා දෘශ්‍ය සන්නිවේදනයකි.",
+            "වාචික හා නිර්වාචික සන්නිවේදනයකි.",
+            "වාචික හා අවිධිමත් සන්නිවේදනයකි.",
+            "විධිමත් හා නිර්වාචික සන්නිවේදනයකි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "වර්තමානයේ ලේඛනයක පිටපතක් ලබා ගැනීම සඳහා භාවිත කරන්නේ කුමක්ද?",
+        "choices": [
+            "රෝනියෝ යන්ත්‍රයයි.",
+            "පරිගණක මුද්‍රණ යන්ත්‍රයයි.",
+            "ඩොට් මුද්‍රණ යන්ත්‍රයයි.",
+            "ඡායාපිටපත් යන්ත්‍රයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සන්නිවේදනයේ කාර්යයන් අතරට ඇතුළත් නොවන පිළිතුර තෝරන්න.",
+        "choices": [
+            "තොරතුරු සැපයීම, සමාජානුයෝජනය, පෙළඹවීම.",
+            "විනෝදාස්වාදය, පෙළඹවීම, සංස්කෘතික ප්‍රගමනය.",
+            "අධ්‍යාපනය ලබා දීම, සංවාද හා සාකච්ඡා, සංජානනය.",
+            "තොරතුරු සම්පාදනය, සමාජ ඒකාබද්ධතාව, සමාජානුයෝජනය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ආයතනයක ප්‍රධානියෙකුගේ බලය යටතේ ක්‍රියාත්මක වන සන්නිවේදන ස්වරූපය වන්නේ,",
+        "choices": [
+            "අධිපතිවාදී සන්නිවේදනයයි.",
+            "විධිමත් සන්නිවේදනයයි.",
+            "වාචික සන්නිවේදනයයි.",
+            "අවිධිමත් සන්නිවේදනයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පුවත්පතක ඇති සාහිත්‍ය ලිපි, ආගමික ලිපි ආදිය අයත් වන්නේ,",
+        "choices": [
+            "ප්‍රවෘත්ති වලට ය.",
+            "විශේෂාංග ලිපි වලට ය.",
+            "සංස්කාරක ලිපි වලට ය.",
+            "තීරු ලිපි වලට ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "දෛනිකව බහුල වශයෙන් අප දෙස් විදෙස් තොරතුරු ලබා ගන්නා මූලාශ්‍රය වන්නේ,",
+        "choices": [
+            "පුද්ගල මූලාශ්‍රයයි.",
+            "ලිඛිත මූලාශ්‍රයයි.",
+            "ආයතනික මූලාශ්‍රයයි.",
+            "මාධ්‍ය මූලාශ්‍රයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ස්වර්ණමය රීතිය යොදා ගන්නේ,",
+        "choices": [
+            "ප්‍රවෘත්ති රචනයේ දී ය.",
+            "නිර්මාණ කරණයේ දී ය.",
+            "ඡායාරූපකරණයේ දී ය.",
+            "තිර පිටපත් රචනයේ දී ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පුවත්පතක අන්තර්ගතයට බලපැම් කල හැකි ලිපි ප්‍රභේදය වන්නේ කුමක්ද?",
+        "choices": [
+            "ප්‍රවෘත්ති වලට ය.",
+            "විශේෂාංග ලිපි වලට ය.",
+            "තීරු ලිපිවලට ය.",
+            "දැන්වීම් වලට ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ප්‍රසිද්ධ අමාත්‍යවරයෙකුගේ සොහොයුරෙකු විසින් මූල්‍යමය වංචාවක් සිදු කර ඇති බව රූපවාහිනි රාත්‍රී ප්‍රවෘත්ති මඟින් විකාශනය විය. මෙම ප්‍රවෘත්තියේ වටිනාකම තීරණය විම කෙරෙහි වඩාත් බලපා ඇත්තේ,",
+        "choices": [
+            "කාලීන බවයි.",
+            "අදාළ බවයි.",
+            "කැපී පෙනීමයි.",
+            "බලපෑම හා වැදගත්කමයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "බුදු දහමට අනුව සිය ආර්ථිකය කළමනා කරණය කර නොගත් තරුණ අඹු සැමි යුවළක් වස පානය කර ජිවිතක්ෂයට පත් වූ පුවතක් පුවත්පතක වාර්තා කර තිබුණි. මෙම ප්‍රවෘත්තිය මගින් නියෝජනය වන්නේ,",
+        "choices": [
+            "සමාජීය නියෝජන අංශයයි.",
+            "ආගමික නියෝජන අංශයයි.",
+            "ආර්ථික නියෝජන අංශයයි.",
+            "සදාචාරාත්මක නියෝජන අංශයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "රජයේ පාලනයෙන් තොරව ජෝර්ජ් ලී විසින් තොරතුරු පළ කිරීම නිසා බ්‍රිතාන්‍ය පාලකයන් විසින් වසා දැමූ පුවත්පතක් වන්නේ කුමක්ද?",
+        "choices": [
+            "ලංකාලෝකය",
+            "ලංකාදීප",
+            "කවට කතිකයා",
+            "කලම්බු ජර්නල්"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "වර්ෂය, මාසය, දිනය, කාර්යාලයේ නම, අංශය ආදිය ඇතුළත් කරමින් සකස් කළ මාධ්‍ය උපකරණයක් වන්නේ,",
+        "choices": [
+            "දින මුද්‍රා යන්ත්‍රයයි.",
+            "නිල මුද්‍රා යන්ත්‍රයයි.",
+            "තැපැල් මුද්‍රා යන්ත්‍රයයි.",
+            "ජේජරයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සන්නිවේදකයා ලබා දෙන සංදේශය නැවත සන්නිවේදකයා වෙතට නොලැබෙන විධිමත් සන්නිවේදන ආකෘතිය වන්නේ,",
+        "choices": [
+            "වක්‍රීය ආකෘතියයි.",
+            "දාම ආකෘතියයි.",
+            "වයි ආකෘතියයි.",
+            "රෝද ආකෘතියයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ග්‍රාමීය සමාජයේ රෝගවලින් වැළකීම සඳහා යොදා ගත් සන්නිවේදන ක්‍රමයක් නොවන්නේ,",
+        "choices": [
+            "නූල් දැමීමයි.",
+            "සුර දැමීමයි.",
+            "තහංචි කවි කීමයි.",
+            "කෙම්ක්‍රම භාවිතා කිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පුවත්පතක නෛතික කටයුතු වලදී වගකිම් දරන්නේ,",
+        "choices": [
+            "ආයතන හිමියා ය.",
+            "ප්‍රධාන කර්තෘ ය.",
+            "සභාපතිය.",
+            "ප්‍රවෘත්ති රචකයා ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පහත දැක්වෙන්නේ සන්නිවේදන වර්ගවල ලක්ෂණ කිහිපයකි.\n A අඛණ්ඩව සන්නිවේදනය සිදු වීම.\n B සන්නිවේදක, ග්‍රාහක භුමිකා තරමක් දුරස්ත වීම.\n C ග්‍රාහක පද්ධතිය පැතුරුණු ස්වභාවයක් ගැනීම.\n D ආත්ම භාෂණයට ප්‍රමුඛත්වය ලැබීම.\n ඉහත ලක්ෂණ වලට අදාළ සන්නිවේදන වර්ග පිළිවෙලින් ගැලපූ විට ලැබෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "අන්තර්වර්තී, ජන, සමූහ හා අන්තර් පුද්ගල සන්නිවේදනය.",
+            "ජන, සමූහ, අන්තර් පුද්ගල හා අන්තර්වර්තී පුද්ගල සන්නිවේදනය.",
+            "අන්තර් පුද්ගල, සමූහ, ජන හා අන්තර්වර්තී පුද්ගල සන්නිවේදනය.",
+            "ජන, සමූහ, අන්තර්වර්තී හා අන්තර් පුද්ගල සන්නිවේදනය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සංඛ්‍යාංක තාක්ෂණයේ දී ධාරිතාව මනිනු ලබන ඒකකය වන්නේ,",
+        "choices": [
+            "බයිට් ය.",
+            "පික්සලය.",
+            "ඇම්පියර් ය.",
+            "ලීටර්ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සිනමා පටයක් රූපගත කිරීමේ දී පාත්‍ර වර්ගයාගේ දර්ශන තලවල අංග රචනා, වස්ත්‍රාභරණ හා පසුතලය ආදියෙහි අඛණ්ඩතාවය පවත්වා ගැනීම සිදු කරන්නේ,",
+        "choices": [
+            "එක් දිනයකදී රූපගත කිරීමෙනි.",
+            "හොඳින් මතකයේ තබා ගැනීමෙනි.",
+            "පසුතල නිර්මාණකරුවන්, වේෂ නිරූපණ ශිල්පීන් දිනපතා කැඳවීමෙනි.",
+            "නිශ්චල ඡායාරූප භාවිත කිරීමෙනි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "නිර්මාණාත්මක වාර්තාකරණය සඳහා යොදා ගත හැකි අවස්ථාව තෝරන්න.",
+        "choices": [
+            "ප්‍රබල පාතාල නායකයෙකු ඝාතනය කිරීම.",
+            "අත්‍යවශ්‍ය පාරිභෝගික ද්‍රව්‍යවල මිල ඉහළ යාම.",
+            "ජපානයේ ප්‍රබල භූකම්පනයක් ඇති වීම.",
+            "දිරිය දියණියක් ස්වයං රැකියාවක නිරත වෙමින් ජීවිතය ජය ගැනීම."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පුවත්පතක අන්තර්ගතය සම්බන්ධ සාවද්‍ය ප්‍රකාශය කුමක්ද?",
+        "choices": [
+            "තොරතුරු සවිස්තරාත්මක බවින් යුතු වෙයි.",
+            "ප්‍රවෘත්තිමය ගුණයකින් පමණක් සමන්විත වෙයි.",
+            "ජනමත ඇති කිරීමට හේතු වෙයි.",
+            "තත්කාලීන තොරතුරු වලින් සමන්විත වෙයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "යටිකුරු පිරමීඩ සංකල්පයට අනුව තොරතුරු වාර්තාකරණයේදී",
+        "choices": [
+            "හැදින්වීමේ සිට පිළිවෙලින් තොරතුරු ඉදිරිපත් කරයි.",
+            "වැදගත්කම ඉහළම තොරතුරේ සිට වැදගත්කම අවම වන ආකාරයට ඉදිරිපත් කරයි.",
+            "ඡායාරූපයක් සමඟ සිදුවීමේ පිළිවෙලට තොරතුරු ඉදිරිපත් කරයි.",
+            "ගවේෂණාත්මකව පිළිවෙලින් තොරතුරු ඉදිරිපත් කරයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පුවත්පත් අන්තර්ගතයෙහි ඇති නිර්මාණාත්මක ආකෘතියක් නොවන්නේ,",
+        "choices": [
+            "තීරු ලිපි",
+            "කාටූන්",
+            "ප්‍රවෘත්ති",
+            "දැන්වීම්"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "අඩු ආලෝක තත්වයක් යටතේ වුවද පැහැදිලි සාර්ථක ඡායාරූපයක් ගත හැකි වන්නේ,",
+        "choices": [
+            "නිශ්චල ඡායාරූප කැමරාවෙනි.",
+            "අංකිත කැමරාවෙනි.",
+            "ශ්‍රමික කැමරාවෙනි.",
+            "වීඩියෝ කැමරාවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සැලසුම් කරණ ඡායාරූපයක් නොවන්නේ මින් කුමක්ද?",
+        "choices": [
+            "පුවත්පත් අතිරේකයක මුල් පිටුවේ පළ කරනු ලබන ඡායාරූප",
+            "මනාල යුවලකගේ ඡායාරූප",
+            "වෙළද දැන්වීම ඡායාරූප",
+            "යුධමය අවස්ථාවල ඡායාරූප"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "පහත සඳහන් කරුණු කෙරෙහි අවධානය යොමු කරන්න.\n 1. සමාජ නියෝජනය - P සමාජ ප්‍රතිරූපය\n 2. ආර්ථික නියෝජනය - Q විනෝදාත්මක කාර්යය\n 3. ආගමික නියෝජනය - R මානව හිමිකම්\n 4. සෞන්දර්යාත්මක නියෝජනය - S සංවර්ධනාත්මක චින්තනය\n නිවැරදිව ගළපා ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "1-R, 2-S, 3-P, 4-Q",
+            "1-P, 2-S, 3-R, 4-Q",
+            "1-R, 2-Q, 3-P, 4-S",
+            "1-Q, 2-P, 3-R, 4-S"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "රාජ්‍ය හිමිකාරිත්වය යටතේ ක්‍රියාත්මක ජනමාධ්‍ය ආයතන වන්නේ,",
+        "choices": [
+            "ලේක්හවුස් හා දෙරණ ආයතනයයි.",
+            "ලක්හඬ හා විජය පුවත්පත් ආයතනයයි.",
+            "ස්වාධීන රූපවාහිනි ආයතනය හා උපාලි පුවත්පත් ආයතනයයි.",
+            "ලක්හඬ හා ලේක්හවුස් ආයතනයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ඓතිහාසික ස්ථාන රාශියක ඡායාරූප ධන සේයා පටලයක් මඟින් ලබා ගත් රජීව ඒවා පන්ති කාමරයේ තම දරුවන්ට විශාලනය කර පෙන්වීමට තීරණය කළේය. ඒ සඳහා ඔහු භාවිතා කළ යුතු ප්‍රක්ෂේපණ යන්ත්‍රය වන්නේ,",
+        "choices": [
+            "ප්‍රතිශීර්ෂ ප්‍රක්ෂේපණ යන්ත්‍රයයි.",
+            "අන්තර් ක්‍රියාකාරී පුවරුවයි.",
+            "බහු මාධ්‍ය ප්‍රක්ෂේපණ යන්ත්‍රයයි.",
+            "කදා ප්‍රක්ෂේපණ යන්ත්‍රයයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "වෙබ් ගුවන් විදුලිය සම්බන්ධ සාවද්‍ය ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ගුවන් විදුලි තරංග සම්ප්‍රේෂණයක් සිදු නොවේ.",
+            "සරල හා අවම වියදම් සහිත වේ.",
+            "වෙබ් අඩවියක් තිබීම අත්‍යවශ්‍ය වේ.",
+            "විකාශන කුළුණක් තිබීම අවශ්‍ය වේ."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "සෑම පසළොස්වක පොහෝ දිනකම විවිධ තේමා යොදා ගනිමින් ටෙලි නාට්‍යයක් විකාශනය කෙරේ. එය අයත්වන ටෙලි නාට්‍ය ප්‍රභේදය කුමක්ද?",
+        "choices": [
+            "ඒකාංගික",
+            "ප්‍රාසාංගික",
+            "විවිධාංගික",
+            "මෙගා"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "කිසියම් ප්‍රස්තූතයක් ඔස්සේ පුද්ගලයන් කිහිප දෙනෙකු විසින් අදහස් හුවමාරු කර ගන්නා ගුවන් විදුලි වැඩසටහන් ප්‍රභේදය වන්නේ,",
+        "choices": [
+            "සාකච්ඡායි.",
+            "සංවාදයි.",
+            "සම්මුඛ සාකච්ඡා යි.",
+            "කථායි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ගුවන් විදුලි වැඩසටහන් ස්වරූපයේ කැපි පෙනෙන වෙනස්කම් ඇති කරමින් 90 දශකයේ ආරම්භ කළ පෞද්ගලික ගුවන් විදුලි සේවාවවක් වන්නේ,",
+        "choices": [
+            "සිරස ගුවන් විදුලි සේවාවයි.",
+            "දෙරණ ගුවන් විදුලි සේවාවයි.",
+            "ලක් F.M ගුවන් විදුලි සේවාවයි.",
+            "සිටී F.M ගුවන් විදුලි සේවාවයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "රූපවාහිනි මාධ්‍ය සම්බන්ධ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "කලා මාධ්‍යයකි.",
+            "සරල තාක්ෂණයක් භාවිත වේ.",
+            "ඒකාකාරී අන්තර්ගතයක් සහිතය.",
+            "වෙළඳ ලෝකය නිවස තුළට කැඳවා ගෙන එයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "17 වන සියවසේ සෙවනැලි නාටක ප්‍රවර්ධනය වීම කෙරෙහි බලපෑවේ,",
+        "choices": [
+            "දෘෂ්ටි අඛණ්ඩතා සිද්ධාන්තය භාවිතයට පැමිණීමයි.",
+            "මැජික් ලන්තෑරුම සොයා ගැනීමයි.",
+            "පැන්තස් මැගෝරියා නම් දර්ශන පෙන්වීමයි.",
+            "නිශ්චල ඡායාරූප හඳුන්වා දීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ගුවන් විදුලියේ ආමන්ත්‍රණ ස්වරූපය විය යුත්තේ,",
+        "choices": [
+            "පෞද්ගලික ඇමතුමක් ලෙසිනි.",
+            "පොදු ඇමතුමක් ලෙසිනි.",
+            "ග්‍රාහක ප්‍රභේදයට යෝග්‍ය ඇමතුමක් ලෙසිනි.",
+            "ග්‍රාහක ක්‍ෂේත්‍රයට අමතන ලෙසිනි."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "රැහැනකින් තොර ව පණිවිඩයක් යැවු පළමු පුද්ගලයා වන්නේ,",
+        "choices": [
+            "සැමුවෙල් එෆ්. බී. මෝස් ය.",
+            "ඇලෙක්සැන්ඩර් ග්‍රැහැම්බෙල් ය.",
+            "ගුග්ලි එල්මෝ මාකෝනි ය.",
+            "එඩ්වඩ් හාපර්ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "හදිසි අනතුරක් පිළිබඳ ප්‍රවෘත්තියක් රචනයේදී ප්‍රවෘත්තියක මූල පාඨය සඳහා ඇතුලත් කිරීමට අවම ඉඩක් ඇත්තේ කුමන කරුණද?",
+        "choices": [
+            "සිද්ධිය වූ වේලාව",
+            "සිද්ධිය වූ ආකාරය",
+            "සිද්ධිය වූ ස්ථානය",
+            "සිද්ධියට භාජනය වූයේ කවුද"
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "නොවැම්බර් 21 වැනි දිනය වැදගත් වන්නේ,",
+        "choices": [
+            "ලෝක ගුවන් විදුලි දිනය සමරන නිසාය.",
+            "ලෝක රූපවාහිනි දිනය සමරන නිසාය.",
+            "ලංකාවේ ගුවන් විදුලිය ආරම්භ කිරීම නිසාය.",
+            "ලංකාවේ රූපවාහිනිය ආරම්භ කිරීම නිසාය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "රූපවාහිනි වැඩසටහන් නිෂ්පාදකයෙකු වූ කුෂාන්, කුමාරතුංග මුනිදාස මහතාගේ ගුණ අනුස්මරණ දිනය වෙනුවෙන් රූපවාහිනි වැඩසටහනක් ඉදිරිපත් කිරීමට තීරණය කළේය. ඒ සඳහා ඔහුට යොදා ගත හැකි යෝග්‍යතම වැඩසටහන් ප්‍රභේදය වන්නේ,",
+        "choices": [
+            "ප්‍රවෘත්ති හා කාලීන වැඩසටහන්ය.",
+            "විචිත්‍රාංගමය වැඩසටහන් ය.",
+            "වාර්තා වැඩසටහන් ය.",
+            "සඟරාමය වැඩසටහන් ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Communication and Media Studies",
+        "category": "other",
+        "question": "ජනමාධ්‍ය ආයතනවල ප්‍රධාන ආදායම් මාර්ගය වන්නේ,",
+        "choices": [
+            "රජයෙන් ලැබෙන ආදායම් ය.",
+            "වෙළඳ දැන්වීම් හා අනුග්‍රාහකත්වය මත ලැබෙන ආදායම් ය.",
+            "ජනමාධ්‍ය සතු වත්කම් මගින් ලැබෙන ආදායම් ය.",
+            "සුබ පතන්නන්ගෙන් ලැබෙන අදායම් ය."
+        ],
+        "metadata": {
+            "subject_original": "සන්නිවේදනය හා මාධ්‍ය අධ්‍යයනය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1uqng8Kd3Nxeohh3u44Y5oki5v9ZGBhY7/view?usp=sharing"
+        }
+    }
+]

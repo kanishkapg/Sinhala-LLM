@@ -1,0 +1,48 @@
+﻿book_id,file,subject,grade,pages,low_text_pages,scanned,top_fonts
+art_g6_si,data/raw/g6/art g-6 S.pdf,Art,6,47,1,False,FMMalithi TT15FCO00 TimesNewRoman TT23F0O00
+buddhism_g6_si,data/raw/g6/buddhism g-6 S.pdf,Buddhism,6,128,7,False,FMAbhayax FMAbabldBold TimesNewRomanPSMT FMSamanthax
+catholic_g6_si,data/raw/g6/catholic g-6 S.pdf,Catholicism,6,136,5,False,FMAbhaya FMAbabldBold FMDeranax FMAbhayax
+christianism_g6_si,data/raw/g6/christianism g-6 S.pdf,Christianity,6,110,6,False,FMAbhayax SARAWIPULA FMAbabldBold FMDeranax
+civic_g6_si,data/raw/g6/civic g-6 S.pdf,Civics,6,116,7,False,FMAbhaya FMAbabldBold FMAbhayax TimesNewRomanPS-BoldMT
+dancing_g6_si,data/raw/g6/dancing g-6 S.pdf,Dancing,6,87,0,False,FMAbhayax FMAbabldBold FMSamanthax TimesNewRoman
+drama_g6_p1_si,data/raw/g6/drama g-6 p-I S.pdf,Drama and Theatre,6,24,0,False,FMAbhaya FMAbabld FMAbhayax SARA-SIRI
+drama_g6_p2_si,data/raw/g6/drama g-6 p-II S.pdf,Drama and Theatre,6,21,0,False,FMAbhaya FMAbabld SARA-PUNCHI SARA-RAMANEE
+geo_g6_si,data/raw/g6/geo g-6 S.pdf,Geography,6,72,5,False,FMAbhayax FMAbabldBold TimesNewRomanPSMT FMAbhaya
+health_g6_si,data/raw/g6/health g-6 S.pdf,Health,6,158,3,False,FMAbhayax FMAbhaya FMSamanthax TimesNewRomanPSMT
+history_g6_si,data/raw/g6/history g-6 S.pdf,History,6,68,3,False,FMAbhaya FMAbabldBold F2 TimesNewRomanPSMT
+islam_g6_si,data/raw/g6/islam g-6 S.pdf,Islam,6,120,3,False,FMAbhaya FMAbabldBold ArabicTypesetting Calibri
+music_g6_si,data/raw/g6/music g-6 S.pdf,Eastern Music,6,70,1,False,FMAbhayax TimesNewRoman FMAbabldBold Arial
+science_g6_si,data/raw/g6/science g-6 S.pdf,Science,6,184,2,False,FMAbhayax FMMalithix FMAbabldBold FMAbhaya
+sinhala_g6_si,data/raw/g6/sinhala g-6 S.pdf,Sinhala,6,152,6,False,FMAbhayax FMAbabldBold FMEmaneex FMAbhaya
+art_g7_si,data/raw/g7/art g-7 S.pdf,Art,7,54,54,True,
+buddhism_g7_si,data/raw/g7/buddhism g-7 S.pdf,Buddhism,7,168,6,False,FMAbhayax FMAbabldBold TimesNewRomanPSMT HoboStd
+catholic_g7_si,data/raw/g7/catholic g-7 S.pdf,Catholicism,7,110,0,False,FMAbhaya FMAbabldBold FMDeranax FMGanganeex
+christianism_g7_si,data/raw/g7/christianism g-7 S.pdf,Christianity,7,94,4,False,FMSLRAbhayax SARAWIPULA FMEconbldBold FMAbhayax
+civic_g7_si,data/raw/g7/civic g-7 S.pdf,Civics,7,120,7,False,FMAbhayax FMAbabldBold TimesNewRomanPSMT Wingdings2
+dancing_g7_si,data/raw/g7/dancing g-7 S.pdf,Dancing,7,67,0,False,FMAbhayax FMSamanthax FMAbabldBold FMAbhaya#20x
+drama_g7_p1_si,data/raw/g7/drama g-7 p-I S.pdf,Drama and Theatre,7,20,0,False,FMAbhaya FMAbabld FMAbhayax SARA-SIRI
+drama_g7_p2_si,data/raw/g7/drama g-7 p-II S.pdf,Drama and Theatre,7,23,0,False,FMAbhaya FMAbhayax IskoolaPota FMBindumathi
+geo_g7_si,data/raw/g7/geo g-7 S.pdf,Geography,7,84,5,False,FMAbhayax FMAbabldBold TimesNewRomanPSMT FMEmaneex
+health_g7_si,data/raw/g7/health g-7 S.pdf,Health,7,183,7,False,FMAbhaya FMAbabldBold FMSamanthax TimesNewRomanPSMT
+history_g7_si,data/raw/g7/history g-7 S.pdf,History,7,88,7,False,FMAbhaya FMAbabldBold FMAbhayax IskoolaPota
+islam_g7_si,data/raw/g7/islam g-7 S.pdf,Islam,7,135,7,False,FMAbhayax FMSamanthax FMAbabldBold TraditionalArabic-Bold
+music_g7_si,data/raw/g7/music g-7 S.pdf,Eastern Music,7,77,22,False,FMAbhayax FMAbabldBold TimesNewRoman FMEmaneex
+science_g7_p1_si,data/raw/g7/science g-7 p-I S.pdf,Science,7,162,1,False,FMAbhayax FMMalithix FMAbhaya FMAbabldBold
+science_g7_p2_si,data/raw/g7/science g-7 p-II S.pdf,Science,7,142,0,False,FMAbhayax FMMalithix FMAbhaya FMAbabldBold
+sinhala_g7_si,data/raw/g7/sinhala g-7 S.pdf,Sinhala,7,208,5,False,FMAbhayax FMAbabldBold FMSamanthaBoldx TimesNewRomanPSMT
+art_g8_si,data/raw/g8/art g-8 S.pdf,Art,8,26,26,True,
+buddhism_g8_si,data/raw/g8/buddhism g-8 S.pdf,Buddhism,8,164,3,False,FMAbhayax FMAbabldBold FMEmaneex TimesNewRomanPSMT
+catholic_g8_si,data/raw/g8/catholic g-8 S.pdf,Catholicism,8,108,3,False,FMAbhaya FMAbabldBold FMDeranax FMGanganeex
+christianism_g8_si,data/raw/g8/christianism g-8 S.pdf,Christianity,8,122,4,False,FMAbhaya FMDeranax FMAbabldBold FMGanganeex
+civic_g8_si,data/raw/g8/civic g-8 S.pdf,Civics,8,160,6,False,FMAbhayax FMAbabldBold FMAbhaya TimesNewRomanPSMT
+dancing_g8_si,data/raw/g8/dancing g-8 S.pdf,Dancing,8,78,0,False,FMAbhayax FMAbabldBold FMAbhaya FMAbabld
+drama_g8_p1_si,data/raw/g8/drama g-8 p-I S.pdf,Drama and Theatre,8,33,0,False,FMAbhayax FMAbhaya FMAbabld SARA-KALANEE
+drama_g8_p2_si,data/raw/g8/drama g-8 p-II S.pdf,Drama and Theatre,8,25,0,False,FMAbhayax FMAbhaya FMAbabld SARA-SIRI
+geo_g8_si,data/raw/g8/geo g-8 S.pdf,Geography,8,76,12,False,FMAbhaya FMAbabldBold TimesNewRomanPSMT TimesNewRomanPS-BoldItalicMT
+health_g8_si,data/raw/g8/health g-8 S.pdf,Health,8,216,213,True,FMAbhaya TimesNewRomanPSMT FMAbhayax SHREE-TAM7-0800
+history_g8_si,data/raw/g8/history g-8 S.pdf,History,8,88,4,False,FMAbhayax FMAbabldBold FMAbhaya FMSamanthax
+islam_g8_si,data/raw/g8/islam g-8 S.pdf,Islam,8,138,3,False,FMAbhayax FMAbabldBold ArabicTypesetting FMSamanthax
+music_g8_si,data/raw/g8/music g-8 S.pdf,Eastern Music,8,82,3,False,FMAbhaya#20x FMAbabld#20Bold Times#20New#20Roman Upmusic
+science_g8_p1_si,data/raw/g8/science g-8 p-I S.pdf,Science,8,134,2,False,FMAbhayax FMMalithix FMAbabldBold FMAbhaya
+science_g8_p2_si,data/raw/g8/science g-8 p-II S.pdf,Science,8,152,2,False,FMAbhayax FMMalithix FMAbabldBold FMEmaneex
+sinhala_g8_si,data/raw/g8/sinhala g-8 S.pdf,Sinhala,8,206,6,False,FMAbhayax FMAbabldBold FMEmaneex FMSamanthax

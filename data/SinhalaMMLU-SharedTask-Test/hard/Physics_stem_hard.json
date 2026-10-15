@@ -1,0 +1,442 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "ශිෂ්‍යයෙක් සරල අවලම්බයක දෝලන 10 ක් සඳහා කාලය මැනීමට විරාම ඝටිකාවක් භාවිත කොට 20.0 s ක කියවීමක් නිරීක්ෂණය කරයි. විරාම ඝටිකාවේ කුඩාම මිනුම් 0.1 s ක් නම් ආවර්ත කාලයේ ප්‍රතිශත දෝෂය කොපමණ ද? \n",
+        "choices": [
+            "0.05%",
+            "0.5%",
+            "1%",
+            "1.25%"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "දුනු සහ ස්කන්ධ පද්ධතියක් T ආවර්ත කාලයක් සහිතව දෝලනය වේ. දුන්නේ දිග හරි අඩකින් අඩු කර ස්කන්ධය එහි ආරම්භක ස්කන්ධයෙන් හරි අඩකට අඩු කළහොත් නව ආවර්ත කාලය කුමක් වේ ද? ",
+        "choices": [
+            "T/2",
+            "T",
+            "√2T",
+            "2T"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "තන්තුවක ප්‍රතිවිරුද්ධ දිශාවලට ගමන් කරන සර්වසම තීරයක් තරංග දෙකක් අධිස්ථාපනය වී ස්ථාවර තරංගයක් සාදයි. යාබද නිෂ්පන්ද දෙකක් අතර දුර 12 cm ක් නම්, මුල් තරංගවල තරංග ආයාමය කොපමණ ද? \n",
+        "choices": [
+            "3cm",
+            "6cm",
+            "12cm",
+            "24cm"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "එක් එක්හි ප්‍රතිරෝධය R වන සර්වසම ප්‍රතිරෝධක තුනක් සපයා ඇත. ඒවායින් ලබා ගත හැකි අවම සහ උපරිම සමක ප්‍රතිරෝධ පිළිබඳව මොනවා ද?\n",
+        "choices": [
+            "R/2 සහ 2R",
+            "R/2 සහ 3R",
+            "R/3 සහ R",
+            "R/3 සහ 3R"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "වර්ගඵලය $25\\ \\mathrm{cm}^2$ වූ සහ වට 200 ක් ඇති වෘත්තාකාර දගරයක තලයට ලම්බකව චුම්බක ක්ෂේත්‍රයක් යොදනු ලැබේ. චුම්බක ස්‍රාව ඝනත්වය, 0.2 s ක කාල පරතරයක් තුළ 0.01 T සිට 0.05 T දක්වා ඒකාකාරව වැඩි කළහොත් දගරයේ ප්‍රේරිත වි.ගා. බලයේ සාමාන්‍ය අගය කොපමණ වේ ද? ",
+        "choices": [
+            "0.01 V",
+            "0.1 V",
+            "2.5 V",
+            "4.0 V"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "පුද්ගලයකුට තම ඇස්වල සිට 50 cm ක් දක්වා දුරින් ඇති වස්තුත් පමණක් පැහැදිලිව දැකිය හැකිය. ඈත පිහිටි වස්තුත් පැහැදිලිව දැකීමට අවශ්‍ය කාචයේ වර්ගය සහ බලය (ඩයොප්ටර වලින්) කුමක් ද? ",
+        "choices": [
+            "අවතල කාචයක්, −2.0 D",
+            "උත්තල කාචයක්, +1.33 D",
+            "උත්තල කාචයක්, +2.0 D",
+            "අවතල කාචයක්, −0.02 D"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "නොඇදි දිග 10 cm ක් වන ඒකාකාර කම්බියකට 1 kg ක ස්කන්ධයක් සම්බන්ධ කර ඇත. කම්බියේ හරස්කඩ වර්ගඵලය $1\\ \\mathrm{cm}^2$ වන අතර කම්බියේ ද්‍රව්‍යයේ යං මාපාංකය $1.0 \\times 10^{11}\\ \\mathrm{N\\cdot m}$  වේ. \nඅරය ආසන්න අගය 10 cm වන වෘත්තයක $2\\ \\mathrm{ms^{-1}}$ ක නියත වේගයකින් ස්කන්ධය ගමන් කිරීමට සලස්වන ලදී. කම්බියේ විතතිය කොපමණ ද?",
+        "choices": [
+            "0.04 μm",
+            "0.40 μm",
+            "4.0 μm",
+            "400 μm"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "සිව්-රෝද එලැවුම් (රෝද හතරටම එන්ජිමෙන් ජවය සපයන) මෝටර් රථයක් නිසලතාවයෙන් ආරම්භ වී තිරස් සෘජු මාර්ගයක ඒකාකාර ත්වරණයකින් ගමන් කොට 5.0 s කදී $72\\ \\mathrm{km h^{-1}}$ ප්‍රවේගයක් ලබා ගනී. වායු ප්‍රතිරෝධය නොසලකා හරින්න. ත්වරණය වන කාලයේදී ටයර සහ මාර්ගය අතර ඇති අවම ස්ථිතික ඝර්ෂණ සංගුණකය කොපමණ ද? ",
+        "choices": [
+            "0.3",
+            "0.4",
+            "0.6",
+            "0.8"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "වස්තුවක් ඉහළ උසක සිට නිදහසේ පොළොවට අතහරිනු ලැබේ. එම මොහොතේම තවත් වස්තුවක් එම උසෙහි සිටම තිරස් අතට විස්කරනු ලැබේ. වායු ප්‍රතිරෝධය නොසැලකා හැකි යැයි උපකල්පනය කරන්න. වස්තුන් දෙකෙහි පියාසර කාලය සම්බන්ධයෙන් පහත සඳහන් ප්‍රකාශවලින් සත්‍ය වන්නේ කුමක් ද? \n",
+        "choices": [
+            "උසෙහි අගය නොමැතිව පිළිතුරු දිය නොහැක.",
+            "විසිකරන ලද වස්තුව පොළොවට වැටීමට වැඩි කාලයක් ගනී.",
+            "විසිකරන ලද වස්තුව මුලින්ම පොළොවට වැටේ.",
+            "වස්තු දෙකම එකවර පොළොවට වැටේ."
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "හීලියම් (සාපේක්ෂ පරමාණුක ස්කන්ධය=4) වායුවෙන් පුරවා එක් කෙළවරක් වසා ඇති නළයක මූලික සංඛ්‍යාතය f වේ. ඉන්පසු එම උෂ්ණත්වයේදීම නළය නියෝන් (සාපේක්ෂ පරමාණුක ස්කන්ධය=20) වායුවෙන් පුරවනු ලැබේ. වායු දෙකම පරිපූර්ණ නම්, නියෝන් පිරවූ නළයේ මූලික සංඛ්‍යාතය කුමක් ද? \n",
+        "choices": [
+            "f/5",
+            "f/√5",
+            "f",
+            "5f"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "විදුලි ජල තාපකයකට 20°C ජලය ඇතුළු වන අතර එමගින් ජලය 80°C දක්වා රත් කොට 0·3 kg min⁻¹ ඒකාකාර ශිග්‍රතාවකින් ජලය සපයනු ලැබේ. පද්ධතියෙන් තාප හානියක් සිදු නොවන බව උපකල්පනය කරන්න. ජලයේ විශිෂ්ට තාප ධාරිතාව 4x10³J kg⁻¹ °C⁻¹ වේ. තාපකයේ ක්ෂමතාව කොපමණ ද? \n",
+        "choices": [
+            "800 W",
+            "1200 W",
+            "1600 W",
+            "1920 W"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "ගුවන් විදුලි යන්ත්‍රයක් මගින් එහි සිට 1.0m දුරකදී 40dB ධ්වනි තීව්‍රතා මට්ටමක් නිපදවන ශබ්දයක් නිකුත් කරයි. පුද්ගලයකුට පැහැදිලිව ඇසෙන ධ්වනි තීව්‍රතා මට්ටම 20dB නම්, ගුවන් විදුලි යන්ත්‍රයේ සිට ශබ්දය පැහැදිලිව ඇසෙන උපරිම දුර කොපමණ ද? (ධ්වනි තරංග ගෝලීයව පැතිරෙන බව උපකල්පනය කරන්න) \n",
+        "choices": [
+            "2m",
+            "10m",
+            "20m",
+            "100m"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "යාන්ත්‍රික තරංග ප්‍රචාරණය පිළිබඳ පහත සඳහන් ප්‍රකාශවලින් සත්‍ය වන්නේ කුමක් ද? ",
+        "choices": [
+            "අන්වායාම තරංග ඝන ද්‍රව්‍ය තුළින් පමණක් ප්‍රචාරණය කළ හැකිය.",
+            "අන්වායාම තරංග රික්තයක් තුළින් ප්‍රචාරණය කළ හැකිය.",
+            "තීරයක් තරංග වායුන් තුළින් ප්‍රචාරණය කළ නොහැක.",
+            "අන්වායාම තරංග ශක්තිය සහ පදාර්ථ යන දෙකම සම්ප්‍රේෂණය කරයි."
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "නාභීය දුර 10cm වන උත්තල කාචයක ප්‍රධාන අක්ෂය මත වස්තුවක් තැබූ විට, කාචය මගින් වස්තුවේ ප්‍රමාණයට සමාන ප්‍රතිබිම්බයක් සාදයි. කාචය වෙනත් උත්තල කාචයකින් ප්‍රතිස්ථාපනය කළහොත් සෑදෙන ප්‍රතිබිම්බය උඩුකුරු වේ. දෙවන කාචයේ නාභීය දුර f₂ (cm) නම්, පහත සඳහන් කුමක් සත්‍ය වේ ද? \n",
+        "choices": [
+            "f₂=10",
+            "10<f₂<20",
+            "f₂=20",
+            "f₂>20"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "සිලින්ඩරාකාර ටැංකියක අනන්තර හරස්කඩ 1 m² වේ. එය ජලයෙන් පිරී ඇති අතර, රූපයේ දැක්වෙන පරිදි සර්පණය රහිත පිස්ටනයක් එහි මුළු ජල පෘෂ්ඨයම ආවරණය කරයි. ඉහළ සිට පිස්ටනය මත ඒකාකාරව ව්‍යාප්ත වූ 2500 N බලයක් යොදනු ලැබේ. ටැංකියේ  පතුලට ආසන්නව කුඩා සිදුරක් පිටිා ඇත. ජල මට්ටමේ උස 0.2 m වන විට සිදුරෙන් ජලය පිටවන වේගය කොපමණ ද? ජලයේ ඝනත්වය 10³ kg m⁻³ වේ. ",
+        "choices": [
+            "1.0 m s⁻¹",
+            "2.0 m s⁻¹",
+            "2.5 m s⁻¹",
+            "3.0 m s⁻¹"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "අරය r වන සන්නායක වෘත්තාකාර පුඩුවක නියත I ධාරාවක් ගලයි. ස්‍රාව සන්ත්වය B වන ඒකාකාර චුම්බක ක්ෂේත්‍රයක පුඩුව තබා ඇත්තේ එහි තලය චුම්බක ක්ෂේත්‍රයට ලම්බක වන පරිදි ය. පුඩුව මත ක්‍රියාකරන සඵල චුම්බක බලය කුමක් ද? \n",
+        "choices": [
+            "ශුන්‍ය වේ",
+            "2IrB",
+            "IπrB",
+            "2IπrB"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "කෙටි චුම්බකයක් නිසලතාවයෙන් ආරම්භ කොට ඝනකම් බිත්ති සහිත සිරස් දිග ඇලුමිනියම් නළයක අක්ෂය ඔස්සේ  වැටීමට සලස්වනු ලැබේ. වායු ප්‍රතිරෝධය නොසලකා හරින්න. පළමු තත්පරයේදී චුම්බකය පහත වැටෙන දුර විය හැක්කේ, ",
+        "choices": [
+            "1m",
+            "5m",
+            "7m",
+            "8m"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "වීදුරු කේශික නළයක් අර්ධ වශයෙන්, සිරස් අතට ජලය l ගැඹුරකට ගිල්වූ විට ජලයට ඉහළින් කේශික උද්ගමනය h වේ. මෙහි l<h වේ. ඉන්පසු නළයේ පහල කෙලවර ජලය තුලදී ඇඟිල්ලකින් වසා නළය ජලයෙන් පිටතට ගනු ලැබේ, නළය සිරස්ව තබා ඇඟිල්ල දැන් මුදා හරිනු ලැබුවහොත් නළයේ ඉතිරිව ඇති ජල කඳෙහි උස කුමක්ද? (ජලය සහ වීදුරු අතර ස්පර්ශ කෝණය ශුන්‍ය යැයි උපකල්පනය කරන්න )",
+        "choices": [
+            "h+l",
+            "2h",
+            "l",
+            "h-l"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "කුඩා ගෝලයක ද්‍රව්‍යයේ ඝනත්වය 1200 kg m⁻³ වේ. උස මිනුම් සරාවක ඇති ජලයේ මතුපිට ගෝලය තබා අතහැරිය විට එය 24 cm s⁻¹ ක ආන්ත ප්‍රවේගයකට ළඟා වේ. ජලයේ ඝනත්වය 1000 kg m⁻³ වන අතර දුස්ස්‍රාවිතා සංගුණකය 1×10⁻³ Pa s වේ. සරාව 800 kg m⁻³ ක ඝනත්වයක් සහ 2×10⁻³ Pa s දුස්ස්‍රාවිතා සංගුණකයක් ඇති අයිසොප්‍රොපනෝල් වලින් පුරවා එම ගෝලයම අයිසොප්‍රොපනෝල් මතුපිට තබා අතහැරිය විට එහි ආන්ත ප්‍රවේගය කොපමණ වේද?\n",
+        "choices": [
+            "6cms⁻¹",
+            "12cms⁻¹",
+            "24cms⁻¹",
+            "96cms⁻¹"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "යකඩ බෝලයක් සහ සිදුරක් සහිත පිත්තල තහඩුවක් යන දෙකම 30°C උෂ්ණත්වයක පවතී. යකඩ බෝලයේ විෂ්කම්භය 5.00 cm වන අතර එය පිත්තල තහඩුවේ ඇති සිදුරේ විෂ්කම්භයට වඩා 0.001 cm කින් වැඩිය. බෝලය සිදුර හරහා යන්නමින් ගමන් කර විය හැකි පද්ධතියේ උෂ්ණත්වය කොපමණ ද? යකඩ සහ පිත්තලවල රේඛීය ප්‍රසාරණතා පිළිවෙළින් 1.2 × 10⁻⁵ °C⁻¹ සහ 2.0 x 0⁻⁵ °C⁻¹වේ. \n",
+        "choices": [
+            "40°C",
+            "47°C",
+            "55°C",
+            "85°C"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "ධාරණාව C වන සමාන්තර තහඩු ධාරිත්‍රකයක් V වෝල්ටියතාවකට ආරෝපණය කෙරේ. වෙනත් සර්වසම ධාරිත්‍රකයක් V/2 වෝල්ටියතාවකට ආරෝපණය කෙරේ. ධාරිත්‍රක වෝල්ටියතා සැපයුම්වලින් විසන්ධි කිරීමෙන් අනතුරුව, ප්‍රතිවිරුද්ධ ආරෝපණ සහිත ධාරිත්‍රකවල තහඩු එකිනෙකට සම්බන්ධ කරන ලදී. ධාරිත්‍රක පද්ධතියේ අවසාන ශක්තිය කුමක් ද? \n",
+        "choices": [
+            "0",
+            "1/16 CV²",
+            "1/8 CV²",
+            "1/2 CV²"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Physics",
+        "category": "stem",
+        "question": "ඝර්ෂණය රහිත තිරස් පෘෂ්ඨයක් මත v ප්‍රවේගයකින් චලනය වන m ස්කන්ධයක් සහිත කුට්ටියක්, පෘෂ්ඨයේ නිශ්චලව ඇති බරින් වැඩි 3m ස්කන්ධයක් සහිත කුට්ටියක් හා ගැටේ. ගැටීමෙන් පසු කුට්ටි දෙක එකට ඇලුනේ නම් ඒවා V1 ප්‍රවේගයෙන් චලනය වේ. එසේ නොවී ගැටුම පූර්ණ ප්‍රත්‍යාස්ථ වූයේ නම්, සැහැල්ලු කුට්ටිය ප්‍රතිවිරුද්ධ දිශාවට ආපසු පොළා පනින අතර බරින් වැඩි කුට්ටිය V2 ප්‍රවේගයකින් චලනය වේ. \nV2/V1 හි අනුපාතය කොපමණ ද? \n",
+        "choices": [
+            "1/4",
+            "1/2",
+            "3/2",
+            "2"
+        ],
+        "metadata": {
+            "subject_original": "භෞතික විද්‍යාව ",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127012&token=&preview=1"
+        }
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "අප දේශපාලන විද්‍යාව ඉගෙන ගන්නේ ඇයි?",
+        "choices": [
+            "දේශපාලන ක්‍රම ක්‍රියාත්මක වන්නේ කෙසේ දැයි තේරුම් ගැනීමටය.",
+            "සමාජ ගැටලු වල ස්වභාවය තේරුම් ගැනීමටය.",
+            "මානව චර්යාව තේරුම් ගැනීමටය.",
+            "රාජ්‍යය සහ ආණ්ඩුවේ ආධ්‍යාත්මික පදනම හඳුනා ගැනීමට ය."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් විෂයයන්ගෙන් දේශපාලන විද්‍යාවට සමීපව සම්බන්ධ වන්නේ කවර විෂය කාණ්ඩයද?",
+        "choices": [
+            "ආර්ථික විද්‍යාව, සමාජ විද්‍යාව, ඉතිහාසය, භූගෝල විද්‍යාව සහ භෞතික විද්‍යාව",
+            "මානව විද්‍යාව, නීතිය, ආර්ථික විද්‍යාව, ඉතිහාසය සහ රසායන විද්‍යාව",
+            "ආර්ථික විද්‍යාව, සමාජ විද්‍යාව, භූගෝල විද්‍යාව, නීතිය සහ ඉතිහාසය",
+            "නීතිය, ආර්ථික විද්‍යාව, මනෝ විද්‍යාව, ඉතිහාසය සහ භූ විද්‍යාව"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දේශපාලන විද්‍යාවේ තුලනාත්මක අධ්‍යයන ප්‍රවේශය මූලික වශයෙන් අවධානය යොමු කරනුයේ",
+        "choices": [
+            "විවිධ දේශපාලන ක්‍රම සහ ඒවායේ ක්‍රියාකාරිත්වය ඇගයීමට ය.",
+            "දේශපාලනයෙහි සැබැවින් ම පවතින දෙයට වඩා පැවතිය යුතු දේවල් කෙරෙහි ය.",
+            "සමාජයේ මිනිසුන්ගේ දේශපාලන හැසිරීම අධ්‍යයනය කිරීමට ය.",
+            "විවිධ සංස්කෘතීන් තේරුම් ගැනීම කෙරෙහි ය."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "රාජ්‍යයේ ස්වභාවය වඩාත් හොඳින් පැහැදිලි කරනුයේ පහත සඳහන් ඒවායින් කුමකින්ද?",
+        "choices": [
+            "නිශ්චිත භෞමික දේශ සීමාවන් නොමැති ස්වේච්ඡා සංවිධානයක් ලෙසිනි",
+            "ස්වේච්ඡා සාමාජිකත්වයෙන් සැදුම්ලත් සංවිධානයක් ලෙසිනි",
+            "ආරක්ෂක සහ ආර්ථික ප්‍රතිලාභ සඳහා නිර්මාණය කරන ලද තාවකාලික ආයතනයක් ලෙසිනි",
+            "ස්වාධිපති බලයෙහි එකම හිමිකරුවා ලෙසිනි"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් දේශපාලන මතවාද අතුරෙන් සමාජ සමානාත්මතාවය සහ නිෂ්පාදන මාධ්‍යයන්ගේ පොදු අයිතිය යනාදී මූලධර්ම වෙනුවෙන් පෙනී සිටින මතවාදය කුමක්ක්ද?",
+        "choices": [
+            "ලිබරල්වාදය",
+            "සමාජවාදය",
+            "ෆැසිස්ට්වාදය",
+            "සමාජ ප්‍රජාතන්ත්‍ර වාදය"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "ලිබරල් ප්‍රජාතන්ත්‍රවාදී ආණ්ඩු ක්‍රමයේ කේන්ද්‍රීය ලක්ෂණය නිවැරදිව පිළිබිඹු කරනුයේ පහත සඳහන් ඒවායින් කුමකින්ද?",
+        "choices": [
+            "ආණ්ඩුව ව්‍යවස්ථාමය සීමාවන්ගෙන් බැඳී සිටී.",
+            "ආණ්ඩුවක් වෙනස් කිරීම සාමාන්‍යයෙන් දුෂ්කර ක්‍රියාවලියකි.",
+            "ආණ්ඩුවේ කැමැත්ත පරිදි පුද්ගල නිදහස ප්‍රදානය කරයි.",
+            "පාලකයෝ නීතියට ඉහළින් සිටිති."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "නියෝජිත ප්‍රජාතන්ත්‍රවාදී ආණ්ඩු ක්‍රමයක් තුළ",
+        "choices": [
+            "වෘත්තිමය දේශපාලනඥයින් ලෙස වෙනම පංතියක් නොමැත.",
+            "සියලු දේශපාලන තීරණ ගනු ලබන්නේ ජනතාව විසින්ය.",
+            "පුරවැසියෝ ආණ්ඩුවේ සියලු කටයුතු කිරීමට බැඳී සිටිති.",
+            "ජනතාව තමන් වෙනුවෙන් තීරණ ගනු ලබන්නන් පාලකයන් ලෙසින් තෝරා පත් කර ගනිති."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් ඒවායින් සංධීය ආණ්ඩු ක්‍රමයක ලක්ෂණයක් වන්නේ කවරක්ද?",
+        "choices": [
+            "ස්වාධිපත්‍යය ආණ්ඩු මට්ටම් දෙකක් අතර පංගු කර ගනී.",
+            "මුළු රටෙහි ම ඒකාකාර නෛතික හා පරිපාලන ක්‍රමයක් පවත්වා ගෙන යනු ලැබෙයි.",
+            "පළාත් පාලන ආයතන සඳහා බල තල ලැබෙනුයේ මධ්‍යම ආණ්ඩුව වෙතිනි.",
+            "මධ්‍යම ආණ්ඩුවේ ව්‍යවස්ථාදායකයට එහි අභිමතය පරිදි ඕනෑම නීතියක් සම්පාදනය කළ හැකිය."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "බලතල බෙදීමේ න්‍යායට අනුකූල වත ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "නූතන රාජ්‍යයන් තුළ පරිපූර්ණ ලෙසින් බලතල බෙදීම කළ හැකි ය.",
+            "අධිකරණය, විධායකයේ සහ ව්‍යවස්ථාදායකයේ පාලනයෙන් නිදහස්ව ක්‍රියාත්මක විය යුතුය.",
+            "බලතල බෙදීමේ මූලධර්මය තෝමස් හොබ්ස්ගේ ලේඛන තුළින් සොයා ගත හැකි ය.",
+            "පාර්ලිමේන්තු ආණ්ඩුක්‍රමය තුළ බලතල බෙදීම දැඩි ලෙස ක්‍රියාත්මක වේ."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පාර්ලිමේන්තු ආණ්ඩු ක්‍රමයේ දී",
+        "choices": [
+            "අගමැති, ආණ්ඩුවේ ප්‍රධානියා මෙන්ම රාජ්‍යයේ ප්‍රධානියා ලෙස ද ක්‍රියා කරයි.",
+            "කැබිනට් මණ්ඩලය හා ව්‍යවස්ථාදායකය අතර සබඳතාවය පැහැදිලි ලෙසින් දක්වා නැත.",
+            "ආණ්ඩුව ව්‍යවස්ථාදායකයෙන් බිහි වේ.",
+            "දේශපාලන විධායකය, ව්‍යවස්ථාදායකයට ව්‍යවස්ථානුකූල ලෙසින් වග නොකියයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් සංකල්ප වලට දෙන ලද විස්තර අතුරෙන් එකක් පමණක් නිවැරදි ය. නිවැරදි විස්තරය අයත් සංකල්පය තෝරන්න.",
+        "choices": [
+            "පුරවැසියා - රාජ්‍යයේ පුර්ණ සාමාජිකත්වයට අයත් අයිතිවාසිකම් සහ බැඳීම්වලට හිමිකම් ඇති රාජ්‍යයක පූර්ණ සාමාජිකයෙකි.",
+            "චර්යාවාදය - සමාජ හා දේශපාලන ආයතන වල ක්‍රියාකාරිත්වය අධ්‍යයනය කිරීමේ ප්‍රවේශයකි.",
+            "ස්වාධිපත්‍යය - ස්වේච්ඡා සංගම්වල අධිකාරි බලයෙහි අවසාන මූලාශ්‍රය වේ.",
+            "ස්වභාවික අයිතිවාසිකම් - පාලකයන් විසින් මානවයන්ට ලබා දී ඇති අයිතිවාසිකම් ය."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "සමාජ සම්මුති න්‍යායට අනුව, රාජ්‍යය",
+        "choices": [
+            "සිවිල් සමාජයට ද්විතීයික ය.",
+            "ඓතිහාසික විකාශනයක ප්‍රතිඵලයකි.",
+            "ජනතාව අතර ඇතිවන එකඟත්වයක ප්‍රතිඵලයකි.",
+            "දෙවියන්ගේ නිර්මාණයකි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් යුගල අතුරින් චින්තකයා සහ ඔහුගේ දේශපාලන අදහස නිවැරදි ව ගළපා ඇති යුගලය කුමක්ද?",
+        "choices": [
+            "ඇරිස්ටෝටල් - \" මිනිසා ස්වභාවයෙන්ම දේශපාලන සත්ත්වයෙකි.\"",
+            "ඒ.වී. ඩයිසි - \" බලය දූෂණයට නැඹුරු වන අතර පරම බලය නියත ලෙසින්ම දූෂණය සිදු කරයි.\"",
+            "ජින් බෝඩෑන් - \" පුරවැසියන්ට ජීවිතය, නිදහස, දේපළ පිළිබඳ ස්වභාවික අයිතිවාසිකම් හිමි ය.\"",
+            "මොන්ටෙස්කියු - \" නීතියේ පාලනයක් මිස මිනිසුන්ගේ පාලනයක් නොවේ.\""
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් රටවල් පහෙහි ආණ්ඩුක්‍රම ව්‍යවස්ථා සම්බන්ධයෙන් දී ඇති ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද?",
+        "choices": [
+            "ඉන්දියානු ආණ්ඩුක්‍රම ව්‍යවස්ථාව මුළුමනින් ම පදනම් වන්නේ සම්භාව්‍ය සංධිය මූලධර්ම මත ය.",
+            "අමෙරිකා එක්සත් ජනපද ආණ්ඩුක්‍රම ව්‍යවස්ථාව නම්‍ය වන අතර පහසුවෙන් වෙනස් කළ හැකිය.",
+            "සම්ප්‍රදායයන් එක්සත් රාජධානියෙහි ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙහි ප්‍රධාන ලිඛිත අංගයකි.",
+            "වර්තමාන ප්‍රංශ ආණ්ඩුක්‍රම ව්‍යවස්ථාව ප්‍රංශය ඒකීය රාජ්‍යයක් බව පැහැදිලිව සඳහන් නොකරයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් ඒවායින් රාජ්‍ය ප්‍රතිපත්තියේ ලක්ෂණයක් වන්නේ කුමක්ද?",
+        "choices": [
+            "එයට බලපෑම් කරනුයේ දේශපාලන පක්ෂ වලින් පමණි.",
+            "එය ආණ්ඩුවේ අහඹු තීරණ සමූහයකි.",
+            "එය සකස් කර ඇත්තේ සමාජ ගැටලු විසඳීමට ය.",
+            "එය සැමවිටම පෞද්ගලික අභිලාෂ නියෝජනය කරයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "ගැටුම් කළමනා කරණය යන සංකල්පය වඩාත් හොදින් විස්තර කරනුයේ පහත සඳහන් කුමකින්ද?",
+        "choices": [
+            "ගැටුම විසඳීමට උත්සාහ කරයි.",
+            "ගැටුම සම්බන්ධ පාර්ශ්වයන් අතර සහයෝගීතාවය සහ සම්මුතිය අධෛර්යමත් කරයි.",
+            "ගැටුමේ මූලික හේතු නොසලකා හරියි.",
+            "ගැටුමේ සෘණාත්මක බලපෑම් අවම කිරීමට අවධානය යොමු කරයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් ඒවායින් ජාතික බලයෙහි මූලිකාංගයක් වන්නේ කවරක්ද?",
+        "choices": [
+            "ජාත්‍යන්තර සදාචාරය",
+            "සිවිල් සමාජය",
+            "හමුදාව",
+            "මහජන මතය"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "බ්‍රිතාන්‍ය පාර්ලිමේන්තුව පිළිබඳ කුමන ප්‍රකාශය නිවැරදිද?",
+        "choices": [
+            "පාර්ලිමේන්තුව එහි ව්‍යවස්ථාදායක කාර්යයන් සම්බන්ධයෙන් රජුට වගකිව යුතු ය.",
+            "පාර්ලිමේන්තුව නිත්‍යානුකූලව උත්තරිතර වේ.",
+            "කිරිටය තවදුරටත් පාර්ලිමේන්තුවේ කොටසක් නොවේ.",
+            "මන්ත්‍රී මණ්ඩල දෙකට ම නීති සම්පාදනය සම්බන්ධයෙන් සමාන බලතල ඇත."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත සඳහන් ආණ්ඩු අතුරෙන් නොබැඳි ව්‍යාපාරය සමග සුහදශීලී සබඳතාවයක් පවත්වා ගත්තේ කවර ආණ්ඩුවද?",
+        "choices": [
+            "සර් ජෝන් කොතලාවල ආණ්ඩුව (1953-1956)",
+            "සිරිමාවෝ බණ්ඩාරනායක ආණ්ඩුව (1970-1977)",
+            "ජේ. ආර්. ජයවර්ධන ආණ්ඩුව (1977 - 1989)",
+            "රණසිංහ ප්‍රේමදාස ආණ්ඩුව (1989-1993)"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "බහුජාතික සමාගම් (Multi - National Corporations) යනු",
+        "choices": [
+            "මූලික වශයෙන් ගෝලීය මට්ටමින් වෙළෙඳාම් සහ ව්‍යාපාර වල නියැලී සිටින බලවත් සමාගම්ය.",
+            "ගෝලීය මට්ටමින් මානව හිමිකම් වෙනුවෙන් පෙනී සිටින බවට ප්‍රකට සමාගම් ය.",
+            "දේශගුණික විපර්යාස අවම කිරීමට ක්‍රියා කරන සමාගම් ය.",
+            "සංවර්ධනය වෙමින් පවතින රටවල ජාතිය ගොඩනැගීමේ කටයුතු වලට ක්‍රියාකාරීව යෙදී සිටින සමාගම් ය."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දී ඇති ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශ කාණ්ඩය ඇතුළත් වරණය තෝරන්න.\nබ්‍රිතාන්‍ය පාලන අවධියෙහි ලංකාව තුළ\nA - ආණ්ඩුවේ මහජන පදනම් ක්‍රමයෙන් පුළුල් විය.\nB - ඉංග්‍රීසි උගත් බටහිරකරණය වූ මධ්‍යම පංතියක් බිහි විය.\nC - ස්වාධීන අධිකරණ ක්‍රමයක් වර්ධනය විය.\nD - පොදු පරිපාලන ක්‍රමයක් වර්ධනය විය.\nE - ආර්ථික කටයුතු වලට ආණ්ඩුවේ මැදිහත්වීමේ ප්‍රතිපත්තිය නතර කරලීය.",
+        "choices": [
+            "ABCD",
+            "ABCE",
+            "ABDE",
+            "BCDE"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දී ඇති ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශ කාණ්ඩය ඇතුළත් වරණය තෝරන්න.\nඩොනමෝර් පාලන අවධිය (1931 - 1947) තුළ\nA - සමාජ සුබසාධනය සඳහා වන වියදම් සැලකිය යුතු ලෙස වැඩි විය.\nB - සමාජීය හා කාර්මික නීති සැලකිය යුතු ප්‍රමාණයක් අලුතෙන් හඳුන්වා දෙනු ලැබිණි.\nC - ලාංකික ඇමැතිවරු ක්‍රමයෙන් වඩා බලවත් වූහ.\nD - දේශපාලන පක්ෂ වර්ධනය වී හොඳින් ස්ථාපිත විය.\nE - ආණ්ඩුවේ දෙපාර්තමේන්තුවල කාර්යයන් පුළුල් විය.",
+        "choices": [
+            "ABCD",
+            "ABCE",
+            "ACDE",
+            "BCDE"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දී ඇති ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශ කාණ්ඩය ඇතුළත් වරණය තෝරන්න.\nසෝල්බරි කොමිෂම විසින් පිහිටු වීමට නිර්දේශ කළේ\nA - මහජන මන්ත්‍රී මණ්ඩලය විසින් සම්මත කරන ලද පනතක් නිශේධනය කිරීමේ බලය සහිත දෙවන මණ්ඩලයකි.\nB - අගමැතිවරයා විසින් දරනු ලබන ආරක්ෂක හා බාහිර කටයුතු අමාත්‍යාංශයකි.\nC - සාමාජිකයින් තිදෙනෙකුගෙන් සමන්විත රාජ්‍ය සේවා කොමිෂමකි.\nD - බහු මන්ත්‍රී ඡන්ද කොට්ඨාසයන් ය.\nE - අධිකරණ සේවා කොමිෂන් සභාවකි.",
+        "choices": [
+            "ABCD",
+            "ABCE",
+            "ABDE",
+            "BCDE"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දී ඇති ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශ කාණ්ඩය ඇතුළත් වරණය තෝරන්න.\nශ්‍රී ලංකාවේ 1947/1948 සෝල්බරි ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් බැහැර වූ 1972 පළමු ජනරජ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ලක්ෂණ කිහිපයක් වූයේ\nA - රාජ්‍ය ප්‍රතිපත්තිය පිළිබඳ මූලධර්ම ඇතුළත් කිරීම.\nB - ජාතික රාජ්‍ය සභාවේ උත්තරිතර භාවය තහවුරු කිරීම.\nC - ආණ්ඩුක්‍රම ව්‍යවස්ථා අධිකරණය පිහිටුවීම.\nD - මූලික අයිතිවාසිකම් සහ නන්වැදෑරුම් නිදහස ඇතුළත් කිරීම.\nE - නව මැතිවරණ ක්‍රමයක් හඳුන්වා දීම.",
+        "choices": [
+            "ABCD",
+            "ABDE",
+            "ACDE",
+            "BCDE"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "දී ඇති ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශ කාණ්ඩය ඇතුළත් වරණය තෝරන්න.\n1947-1972 අතර කාලය තුළ ශ්‍රී ලංකාවෙහි\nA - රාජ්‍ය නායකයා වූයේ බ්‍රිතාන්‍ය කිරීටය ය.\nB - දේශපාලන ක්‍රමය ක්‍රියාත්මක වුයේ වෙස්ට්මිස්ටර් කැබිනට් ආකෘතිය තුළය.\nC - ප්‍රධාන දේශපාලන පක්ෂ දෙක වූයේ එක්සත් ජාතික පක්ෂය සහ ශ්‍රී ලංකා නිදහස් පක්ෂයය.\nD - ආණ්ඩුක්‍රම ව්‍යවස්ථාව තුළ මූලික අයිතිවාසිකම් පරිච්ඡේදයක් නොවී ය.\nE - ආණ්ඩුක්‍රම ව්‍යවස්ථාව සංශෝධනය නොවීය.",
+        "choices": [
+            "ABCD",
+            "ABDE",
+            "ACDE",
+            "BCDE"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත ප්‍රශ්නවල ප්‍රකාශ දෙක බැගින් දක්වා ඇත. එක් එක් ප්‍රශ්නය හා සම්බන්ධව දක්වා ඇති ප්‍රකාශ යුගලයට වඩාත් ගැලපෙන්නේ කවර වරණය දැ'යි තෝරාන්න.\nපළමුවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සිදු කරන ලද 14 වන සංශෝධනය මගින් වර්තමාන මැතිවරණ ක්‍රමයට ජාතික ලැයිස්තු ක්‍රමය හඳුන්වා දෙන ලදී.\nදෙවැනි ප්‍රකාශය: එක් එක් දේශපාලන පක්ෂය සහ ස්වාධීන කණ්ඩායම විසින් ලබාගත් ජාතික ඡන්ද අනුපාතය පදනම් කරගෙන පාර්ලිමේන්තු මන්ත්‍රීවරුන් විසිනව දෙනෙකු පත් කරනු ලබයි.",
+        "choices": [
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය වන අතර පළමු වැනි ප්‍රකාශය තවදුරටත් විස්තර කරයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත ප්‍රශ්නවල ප්‍රකාශ දෙක බැගින් දක්වා ඇත. එක් එක් ප්‍රශ්නය හා සම්බන්ධව දක්වා ඇති ප්‍රකාශ යුගලයට වඩාත් ගැලපෙන්නේ කවර වරණය දැ'යි තෝරාන්න.\nපළමුවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සිදු කරන ලද 17 වන සංශෝධනය මගින් ජනාධිපතිවරයාගේ බලතල සම්බන්ධයෙන් සීමිත සංවරණ සහ තුලන ක්‍රමයක් ඇති කෙරිණි.\nදෙවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සිදු කරන ලද 18 වන සංශෝධනය මගින් ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව අඛණ්ඩව පවත්වා ගෙන ගියේ ය.",
+        "choices": [
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය වන අතර පළමු වැනි ප්‍රකාශය තවදුරටත් විස්තර කරයි."
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත ප්‍රශ්නවල ප්‍රකාශ දෙක බැගින් දක්වා ඇත. එක් එක් ප්‍රශ්නය හා සම්බන්ධව දක්වා ඇති ප්‍රකාශ යුගලයට වඩාත් ගැලපෙන්නේ කවර වරණය දැ'යි තෝරාන්න.\nපළමුවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාව යටතේ පනතක් සම්මත වීමට පෙර එහි ව්‍යවස්ථානුකූල භාවය අභියෝගයට ලක් කළ හැකි ය.\nදෙවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාව නීති විවරණය පිළිබඳ පූර්ණ අධිකරණ බලය හඳුන්වා දුන්නේ නැත.",
+        "choices": [
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත ප්‍රශ්නවල ප්‍රකාශ දෙක බැගින් දක්වා ඇත. එක් එක් ප්‍රශ්නය හා සම්බන්ධව දක්වා ඇති ප්‍රකාශ යුගලයට වඩාත් ගැලපෙන්නේ කවර වරණය දැ'යි තෝරාන්න.\nපළමුවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සිදු කරන ලද 13 වන සංශෝධනය යටතේ පළාතක ආණ්ඩුකාරවරයා පත්කරනු ලබන්නේ පළාතේ ප්‍රධාන අමාත්‍යවරයා විසිනි.\nදෙවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට කරන ලද 13 වන සංශෝධනයට අනුව පළාත් ආණ්ඩුකාරවරයා ජනාධිපතිවරයාව නියෝජනය කරයි.",
+        "choices": [
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Political Science",
+        "category": "social science",
+        "question": "පහත ප්‍රශ්නවල ප්‍රකාශ දෙක බැගින් දක්වා ඇත. එක් එක් ප්‍රශ්නය හා සම්බන්ධව දක්වා ඇති ප්‍රකාශ යුගලයට වඩාත් ගැලපෙන්නේ කවර වරණය දැ'යි තෝරාන්න.\nපළමුවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ 1978 ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සිදු කරන ලද 19 වන සංශෝධනය යටතේ පාර්ලිමේන්තුවේ නිල කාලයෙන් වසර දෙකක් ඉක්ම වූ පසුව එය විසුරුවා හැරීමට ජනාධිපතිවරයාට හැකි විය.\nදෙවැනි ප්‍රකාශය: ශ්‍රී ලංකාවේ වර්තමාන ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව, පාර්ලිමේන්තුව විසින් සම්මත කරන ලද පනත් කෙටුම්පත් නීති බවට පත්වන්නේ ජනාධිපතිවරයාගේ අනුමැතිය ලැබීමෙන් පසුව ය.",
+        "choices": [
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය සත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය සත්‍ය",
+            "පළමු වැනි ප්‍රකාශය අසත්‍ය / දෙවැනි ප්‍රකාශය අසත්‍ය"
+        ],
+        "metadata": {
+            "subject_original": "දේශපාලන විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=110365&token=&preview=1"
+        }
+    }
+]

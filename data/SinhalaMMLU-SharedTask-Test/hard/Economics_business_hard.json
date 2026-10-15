@@ -1,0 +1,922 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "සෑම සමාජයක ම කේන්ද්‍රීය ආර්ථික ගැටලුව ලෙස හිගකම සැලකෙනුයේ",
+        "choices": [
+            "එය විරැකියාව හා උද්ධමනය වැඩි කිරීමට හේතු වන බැවිනි.",
+            "අසීමිත මිනිස් වුවමනා සපුරාලීම සඳහා සමාජය සතු සම්පත් සීමිත බැවිනි.",
+            "සමාජයේ අසීමිත මිනිස් වුවමනා සපුරාලීමට ප්‍රමාණවත් මට්ටමකට සාධක ඵලදායිතාව ඉහළ නැංවීමට තාක්ෂණයට නො හැකි බැවිනි.",
+            "සියලු ම සම්පත් සමජාතීය වන නිසා සමාජ අවශ්‍යතා සපුරාලීමට නොහැකි වන බැවිනි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "අවශ්‍යතා සහ වුවමනා අතර මූලික වෙනස වඩාත් හොඳින් පැහැදිලි කෙරෙනුයේ පහත සඳහන් කවර ප්‍රකාශයෙන්ද?",
+        "choices": [
+            "අවශ්‍යතා කාලයත් සමග වෙනස් වේ. නමුත් වුවමනා නොවෙනස් ව පවතී.",
+            "අවශ්‍යතා අසීමිත ය. නමුත් වුවමනා සීමිතය.",
+            "අවශ්‍යතා සංස්කෘතික බලපෑම් වෙතින් පැන නගින අතර වුවමනා ජීව විද්‍යාත්මක වේ.",
+            "අවශ්‍යතා ජීවිතයේ පැවැත්ම සඳහා අත්‍යවශ්‍ය වේ. නමුත් වුවමනා ජීවිතය පවත්වා ගැනීමෙන් ඔබ්බට ඇති ආශාවන් පිළිබිඹු කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "පහත සඳහන් ඒවායින් ශ්‍රම ඵලදායිතාව තීරණය කරන සාධකයක් නො වන්නේ කුමක්ද?",
+        "choices": [
+            "අධ්‍යාපනය සහ පුහුණුව",
+            "සේවකයන්ගේ අභිප්‍රේරණය",
+            "සේවා නියුක්ති අනුපාතිකය ඉහළ යාම",
+            "උසස් තාක්ෂණය ලබා ගැනීමේ හැකියාව"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ආර්ථිකය දිගටම එකම නිෂ්පාදන ලක්ෂ්‍යයක රැඳී සිටිමින් නිෂ්පාදනයෙහි යෙදී සිටින අතරතුර, නිෂ්පාදන හැකියා වක්‍රයෙහි පිටතට විතැන්වීමක් හඟවනුයේ",
+        "choices": [
+            "සම්පත් බෙදා වෙන් කිරීමේ කාර්යක්ෂමතාව වැඩි දියුණු වී ඇති බවය.",
+            "නිෂ්පාදන කාර්යක්ෂමතාව වැඩි දියුණු වී ඇති බව ය.",
+            "කාර්යක්ෂමතාවෙහි වැඩි දියුණු වීමකින් තොර ව ආර්ථික වෘද්ධිය හට ගෙන ඇති බව ය.",
+            "ආවස්ථික පිරිවැය අඩු වී ඇති බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "සාමාන්‍ය භාණ්ඩයක් සඳහා වන ඉල්ලුම් වක්‍රය පහළට බෑවුම් වනුයේ",
+        "choices": [
+            "ඉල්ලුම් කරනු ලබන ප්‍රමාණය ආදායම් හා ආදේශන ප්‍රතිවිපාක විසින් එක ම දිශාවට වෙනස් කරන බැවිනි.",
+            "ආදායම වැඩි වීමත් සමග පාරිභෝගිකයා භාණ්ඩයේ පරිභෝජනය අඩු කරන බැවිනි.",
+            "ආදේශන ප්‍රතිවිපාකය විසින් ආදායම් ප්‍රතිවිපාකය යටපත් කරනු ලබන බැවිනි.",
+            "ආදායම් ප්‍රතිවිපාකය විසින් ආදේශන ප්‍රතිවිපාකයේ ප්‍රතිවිරුද්ධ දිශාවට ඉල්ලුම් ප්‍රමාණය වෙනස් කරනු ලබන බැවිනි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "X භාණ්ඩයෙහි මිල අඩු වන විට X භාණ්ඩය සඳහා ඇති වෙළෙඳපොළෙහි බොහෝ දුරට සිදුවීමට ඉඩ ඇති ප්‍රතිඵලය වනුයේ",
+        "choices": [
+            "X භාණ්ඩයෙහි සැපයුම අඩු වීමය.",
+            "X භාණ්ඩයෙහි ඉල්ලුම වැඩි වීම ය.",
+            "ඉල්ලුම අඩු වී සැපයුම වැඩි වීමය.",
+            "X භාණ්ඩය ඉල්ලුම් කරනු ලබන ප්‍රමාණය වැඩි වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "සැපයුම් නීතියෙන් ප්‍රකාශ වන්නේ",
+        "choices": [
+            "අනෙකුත් කරුණු නො වෙනස්ව තිබිය දී මිල ඉහළ යන විට සපයනු ලබන ප්‍රමාණය ඉහළ යන බවය.",
+            "අනෙකුත් කරුණු නො වෙනස්ව තිබිය දී මිල පහළ යන විට සපයනු ලබන ප්‍රමාණය ඉහළ යන බවය.",
+            "අනෙකුත් කරුණු නො වෙනස්ව තිබිය දී මිල ඉහළ යන විට සපයනු ලබන ප්‍රමාණය පහළ යන බව ය.",
+            "මිල පහළ යන විට සැපයුම් වක්‍රය දකුණට විතැන් වන බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "දෙහි සඳහා වෙළෙඳපොළ ඉල්ලුම් ශ්‍රිතය QD = 150 - 2P සහ වෙළෙඳපොළ සැපයුම් ශ්‍රිතය QS = -60 + 5P යැයි සිතමු. වෙළෙඳපොළ සමතුලිතයේ දී සමතුලිත ප්‍රමාණය සහ ආර්ථික අතිරික්තය කොපමණ ද?",
+        "choices": [
+            "සමතුලිත ප්‍රමාණය: 30 | ආර්ථික අතිරික්තය: 2835",
+            "සමතුලිත ප්‍රමාණය: 90 | ආර්ථික අතිරික්තය: 2700",
+            "සමතුලිත ප්‍රමාණය: 90 | ආර්ථික අතිරික්තය: 945",
+            "සමතුලිත ප්‍රමාණය: 90 | ආර්ථික අතිරික්තය: 2835"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ආයතනයක් තම නිෂ්පාදනයේ මිල අඩු කළ පසුව, අලෙවි කළ ප්‍රමාණය ඒකක 100 සිට 130 දක්වා වැඩි වන නමුත් මුළු අයභාරය පහළ වැටෙන බව නිරීක්ෂණය කරයි. මින් හැඟවෙනුයේ මෙම තත්ත්වය යටතේ ඉල්ලුමේ මිල නම්‍යතාව ආසන්න වශයෙන්",
+        "choices": [
+            "- 0.8ක් බව ය.",
+            "- 1.0ක් බවය.",
+            "- 1.3ක් බව ය.",
+            "- 1.55ක් බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "භාණ්ඩයක් සඳහා වෙළෙඳපොළ ඉල්ලුම් ශ්‍රිතය Q_D = 230 - 4P සහ වෙළෙඳපොළ සැපයුම් ශ්‍රිතය Q_S = -70 + 6P යැ'යි උපකල්පනය කරන්න. ඒකකයක වෙළෙඳපොළ මිල රු. 50 ක් වේ නම්, වෙළෙඳපොළ තුළ අසමතුලිතතාවක් ඇති වන අතර එහි ප්‍රතිඵලයක් ලෙස\n",
+        "choices": [
+            "ඒකක 30 ක අතිරික්ත ඉල්ලුමක් හටගනී.",
+            "ඒකක 200ක අතිරික්ත සැපයුමක් හටගනී.",
+            "ඒකක 230 ක අතිරික්ත ඉල්ලුමක් හටගනී.",
+            "ඒකක 230 ක අතිරික්ත සැපයුමක් හටගනී."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "රජය සිසිල් බීම සඳහා 10%ක විශේෂිත බද්දක් පැනවූ බව උපකල්පනය කරන්න. එහි ප්‍රතිඵලයක් ලෙස ඉහළ ගිය සිසිල් බීම මිල විශාල වශයෙන් දරනු ලැබුවේ පාරිභෝගිකයන් විසින් මිස නිෂ්පාදකයන් විසින් නොවේ. මෙවැන්නක් සිදුවීමට බොහෝ දුරට බලපෑ හැකි හේතුව කුමක් විය යුතුද?",
+        "choices": [
+            "ඉල්ලුමේ මිල නම්‍යතාව සැපයුමේ මිල නම්‍යතාවට වඩා අඩු වීම ය.",
+            "සැපයුමේ මිල නම්‍යතාව අනම්‍ය වී ඉල්ලුමේ මිල නම්‍යතාව නම්‍ය වීම ය.",
+            "සැපයුමේ මිල නම්‍යතාව එකට වඩා අඩු වීම ය.",
+            "ඉල්ලුමේ මිල නම්‍යතාව ඒකීය වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "රජය නිදහස් වෙළෙඳ පොළ සමතුලිත මිලට වඩා ඉහළින් අවම මිලක් පනවනු ලැබුවහොත් පාරිභෝගික අතිරික්තයට සහ නිෂ්පාදක අතිරික්තයට ඇති වන බලපෑම කුමක් වන්නේද?",
+        "choices": [
+            "පාරිභෝගික අතිරික්තය: පහළ වැටේ | නිෂ්පාදක අතිරික්තය: ඉහළ නගී",
+            "පාරිභෝගික අතිරික්තය: ඉහළ නගී | නිෂ්පාදක අතිරික්තය: පහළ වැටේ",
+            "පාරිභෝගික අතිරික්තය: පහළ වැටේ | නිෂ්පාදක අතිරික්තය: අපැහැදිලිය",
+            "පාරිභෝගික අතිරික්තය: ඉහළ නගී | නිෂ්පාදක අතිරික්තය: නොවෙනස් ව පවතී"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "කර්මාන්තයක විශාලත ම ආයතන හතර මුළු වෙළෙඳ පොළ නිමැවුමෙන් 90% ක් නිෂ්පාදනය කරන්නේ නම්, එම වෙළෙඳපොළ",
+        "choices": [
+            "ඒකාධිකාරි තරගයක් වේ.",
+            "පූර්ණ තරගය වේ.",
+            "කතිපයාධිකාරයක් වේ.",
+            "ස්වාභාවික ඒකාධිකාරයක් වේ."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "පූර්ණ තරගකාරි කර්මාන්තයක සියලු ම ආයතන කෙටි කාලයේ දී ලාභය උපරිම කරමින් සිටින නමුත් තවදුරටත් පාඩු ලබන්නේ නම් ඉන් ගම්‍ය වන්නේ",
+        "choices": [
+            "මිල ආන්තික පිරිවැයට සමාන නමුත් සාමාන්‍ය මුළු පිරිවැයට වඩා වැඩි බව ය.",
+            "මිල ආන්තික පිරිවැයට සමාන නමුත් සාමාන්‍ය මුළු පිරිවැයට වඩා අඩු බව ය.",
+            "මුළු පිරිවැය මුළු අයභාරයට සමාන බව ය.",
+            "මුළු විචල්‍ය පිරිවැය මුළු අයභාරයට වඩා වැඩි බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "පහත සඳහන් සාධක අතුරෙන් තම මුළු ඉපැයීම සංක්‍රාම ඉපැයීමකින් පමණක් සමන්විත වීමට වඩාත් ඉඩ ඇත්තේ කුමන සාධකයකටද?",
+        "choices": [
+            "ලෝක මට්ටමේ ක්‍රිකට් ක්‍රීඩකයෙක්",
+            "සුවිශේෂී ඛනිජ නිධියක්",
+            "පේටන්ට් බලපත්‍රලාභී නව නිපැයුමක්",
+            "සාමාන්‍ය ලිපිකරු සේවකයෙක්"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "කිසියම් ආර්ථිකයක් සෘණ නිමැවුම් පරතරයක් ඇති කලාපයකට ඇතුළු වුවහොත්, ඉහළ යාමට බොහෝ දුරට ඉඩ ඇත්තේ පහත සඳහන් කවරක් ද?",
+        "choices": [
+            "සමාහාර ඉල්ලුම",
+            "විරැකියා අනුපාතිකය",
+            "ව්‍යාපාර විශ්වාසය",
+            "උද්ධමන අනුපාතිකය"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ජාතික ආදායම් ගිණුම් කරණයේ දී නිෂ්පාදන ඉමෙන් බැහැර කරනු ලබන්නේ",
+        "choices": [
+            "යැපුම් ගොවිතැනය.",
+            "හිමිකරු පදිංචි නිවාසවල ආරෝපිත කුලිය ය.",
+            "පුණ්‍යායතනයක් සඳහා ලබා දෙන ස්වේච්ඡා සේවා ය.",
+            "රජය විසින් නොමිලයේ සපයනු ලබන සේවාය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ජාතික ආදායම් ගිණුම් කරණය තුළ මහ බැංකුව අයත් වන්නේ කවර ආයතනික අංශයට ද?",
+        "choices": [
+            "මූල්‍ය සමාගම්",
+            "මූල්‍ය නො වන සමාගම්",
+            "ගෘහ ඒකක",
+            "ලාභ අපේක්ෂාවෙන් තොර ව ගෘහ ඒකක වෙත සේවය සපයන ආයතන"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "නිෂ්පාදිත මත පැනවෙන බදු, නිෂ්පාදනය මත පැනවෙන වෙනත් බදු වලින් වඩාත් හොඳින් වෙන් කොට හඳුනාගත හැක්කේ පහත දැක්වෙන කවර ප්‍රකාශයකින්ද?",
+        "choices": [
+            "නිෂ්පාදිත මත පැනවෙන බදු යෙදවුම් පිරිවැය මත පදනම් වන අතර, නිෂ්පාදනය මත පැනවෙන වෙනත් බදු ලාභ මත පදනම් වේ.",
+            "නිෂ්පාදිත මත පැනවෙන බදු භාණ්ඩ හා සේවාවල වටිනාකමට හෝ ප්‍රමාණයට සම්බන්ධ වන අතර, නිෂ්පාදනය මත පැනවෙන වෙනත් බදු ඉඩම් හා ගොඩනැගිලි වැනි නිෂ්පාදන සාධක සඳහා අදාළ වේ.",
+            "නිෂ්පාදිත මත පැනවෙන බදු ආනයන හා අපනයන සඳහා පමණක් සම්බන්ධ වන අතර, නිෂ්පාදනය මත පැනවෙන වෙනත් බදු දේශීය නිෂ්පාදනයට පමණක් සම්බන්ධ වේ.",
+            "නිෂ්පාදිත මත පැනවෙන බදු මධ්‍යම රජය විසින් එකතු කරනු ලබන අතර, නිෂ්පාදනය මත පැනවෙන වෙනත් බදු පළාත් පාලන ආයතන විසින් එකතු කරනු ලැබේ."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "සරල කේනිසියානු ආකෘතියෙහි සමාහාර වියදම් ශ්‍රිතයේ බෑවුම තීරණය කෙරෙනුයේ",
+        "choices": [
+            "ආන්තික ඉතුරුම් නැමියාව මගින්ය.",
+            "සාමාන්‍ය ඉතුරුම් නැමියාව මගින් ය.",
+            "ආන්තික පරිභෝජන නැමියාව මගින් ය.",
+            "ස්වායත්ත පරිභෝජන මට්ටම මගින් ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "රුපියල් මිලියන 100කින් සංක්‍රාම ගෙවීම් වැඩිවීමේ ප්‍රතිඵලයක් ලෙස, ජාතික ආදායම රුපියල් මිලියන 300කින් ඉහළ ගියහොත්, ආන්තික ඉතුරුම් නැමියාවේ වටිනාකම කොපමණ ද?",
+        "choices": [
+            "0.25",
+            "0.4",
+            "0.8",
+            "0.85"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "මූලික උද්ධමනය වඩාත් හොඳින් විස්තර කෙරෙනුයේ",
+        "choices": [
+            "දළ දේශීය නිෂ්පාදිතයේ අවධමනකය මගින් මනිනු ලබන උද්ධමනය ලෙසයි.",
+            "සියලු ම පාරිභෝගික මිල සංරචක ඇතුළත් උද්ධමනය ලෙසයි.",
+            "ආහාර හා බල ශක්තිය වැනි නිතර වෙනස්වන සුළු අයිතම ඉවත් කළ උද්ධමනය ලෙසයි.",
+            "විනිමය අනුපාතිකයේ වෙනස්වීම් සඳහා ගළපන ලද උද්ධමනය ලෙසයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "මහ බැංකුව විසින් කරනු ලබන විවට වෙළෙඳපොළ මිල දී ගැනීම සාමාන්‍යයෙන්",
+        "choices": [
+            "ආර්ථිකයේ පදනම් මුදල් අඩු කරයි.",
+            "තැන්පතු සංකෝචනය කිරීමෙන් උද්ධමනය අඩු කරයි.",
+            "මුදල් වෙළෙඳ පොළ ද්‍රවශීලතාව අඩු කරයි.",
+            "වාණිජ බැංකුවල සංචිත සහ මුදල් මැවීමේ ධාරිතාව වැඩි කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ආර්ථිකයක මුදල් සඳහා ඇති ගනුදෙනු ඉල්ලුම වැඩි වීමට වඩාත්ම ඉඩ ඇත්තේ",
+        "choices": [
+            "වෙළෙඳපොළ පොලී අනුපාතිකයේ ඉහළ යාමක් නිසාය.",
+            "ඉහළ පොලී අනුපාතික හේතුවෙන් බැඳුම්කර මිලෙහි පහත වැටීමක් නිසාය.",
+            "නාමික ජාතික ආදායමේ ඉහළ යාමක් නිසාය.",
+            "කොටස් වෙළෙඳ පොළෙහි ඇති ඉහළ අවිනිශ්චිතතාව සහ අස්ථාවරත්වය නිසාය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "අන්තර් බැංකු ඒක්ෂණ මුදල් අනුපාතිකය නියෝජනය කරනුයේ",
+        "choices": [
+            "වාණිජ බැංකු අතර ණය දීමේ දී අය කරනු ලබන දිගු කාලීන පොලී අනුපාතිකය යි.",
+            "ඇපකරයක් නොමැතිව වාණිජ බැංකු අතර එක් රැයකට අරමුදල් ණයට ගැනීම සඳහා අය කරනු ලබන කෙටි කාලීන පොළී අනුපාතිකය යි.",
+            "මුදල් වෙළෙඳ පොළෙහි නිකුත් කරනු ලබන කෙටි කාලීන භාණ්ඩාගාර බිල්පත් සඳහා රජය විසින් ගෙවනු ලබන පොළී අනුපාතිකය යි.",
+            "වාණිජ බැංකු ඔවුන්ගේ ඉතුරුම් සහ ස්ථාවර තැන්පතු සඳහා තැන්පතුකරුවන්ට ලබා දෙන පොලී අනුපාතිකය යි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "වාණිජ බැංකුවක අධි සංචිත රු. 10000ක් වන බවත්, අවශ්‍ය සංචිත අනුපාතය 10%ක් බවත් සලකන්න. මෙම තත්ත්වය තුළ වාණිජ බැංකු පද්ධතියට අත්කර ගත හැකි මුළු විභව තැන්පතු ප්‍රසාරණය කොපමණද?",
+        "choices": [
+            "රු. 9 000",
+            "රු. 10 000",
+            "රු. 100 000",
+            "රු. 120 000"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "පොදු භාණ්ඩයක් සුබ සාධන භාණ්ඩයකින් වඩාත් හොඳින් වෙන් කොට හඳුනා ගත හැකි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "පොදු භාණ්ඩ සඳහා ගෙවීම් නො කරන්නන් බැහැර කළ හැකි වන අතර සුබ සාධන භාණ්ඩ සම්බන්ධයෙන් එසේ කළ නො හැක.",
+            "සුබසාධන භාණ්ඩ සෘණ බාහිරතා ජනනය කරන අතර පොදු භාණ්ඩ ධන බාහිරතා ජනනය කරයි.",
+            "පොදු භාණ්ඩ පරිභෝජනයේ දී තරගකාරිත්වයක් සහ බැහැර කිරීමේ හැකියාවක් නොමැති අතර, සුබ සාධන භාණ්ඩ පරිභෝජනයේ දී තරගකාරිත්වයක් සහ බැහැර කිරීමේ හැකියාවක් තිබිය හැකිය.",
+            "සුබ සාධන භාණ්ඩ ධන බාහිරතා ජනනය කරන අතර පොදු භාණ්ඩ සෘණ බාහිරතා ජනනය කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ආණ්ඩුව අසමත් වීමකට උදාහරණයක් වන්නේ මින් කුමන අවස්ථාවක්ද ?",
+        "choices": [
+            "පුනර්ජනනීය බල ශක්තිය සඳහා ලබා දෙන සහනාධාරයක් කාබන් විමෝචනය අඩු කරන අතර, සුබ සාධනය වැඩි දියුණු කරයි.",
+            "අත්‍යවශ්‍ය භාණ්ඩ සඳහා මිල පාලනයන් භාණ්ඩ හිඟයන් සහ කළුකඩ බිහිකරයි.",
+            "අනුක්‍රම බදුකරණය ආදායම් අසමානතාවය අඩු කරයි.",
+            "මූල්‍ය ප්‍රතිපත්තිය උද්ධමනය ඉලක්කගත මට්ටමක ස්ථාවර කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "පහත සඳහන් දෑ අතුරෙන් රජයේ ප්‍රාථමික වියදමේ සංරචකයක් නො වන්නේ කුමක්ද?",
+        "choices": [
+            "රාජ්‍ය අංශයේ සේවකයන්ගේ වැටුප්",
+            "රාජ්‍ය ණය සඳහා පොලී ගෙවීම",
+            "අධ්‍යාපනය සඳහා රජයේ වියදම්",
+            "යටිතල පහසුකම් සංවර්ධනය සඳහා ප්‍රාග්ධන වියදම්"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "හිඟ අය වැය මූල්‍ය කරණයේ තෙරපුම් ප්‍රතිවිපාකය විස්තර කෙරෙනුයේ",
+        "choices": [
+            "බදු කපා හැරීම පෞද්ගලික අංශයේ ණය ගැනීම් වැඩි කිරීමට හේතු වන බවයි.",
+            "රජය අධික ලෙස ණය ගැනීම හේතුවෙන් පෞද්ගලික ආයෝජනය පහළ යාමක් ලෙසයි.",
+            "පෞද්ගලික අංශයට බැඳුම් කර විකිණීම හරහා රජය වියදම් සඳහා මුදල් සපයා ගැනීමක් ලෙසයි.",
+            "රජයේ ණය ගැනීම් හේතුවෙන් ඉහළ යන පොලි අනුපාතික උද්ධමනය වේගවත් කිරීමට හේතු වන බවයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ විශාලත ම විදේශ ණය හිමියන් වන්නේ",
+        "choices": [
+            "ජාත්‍යන්තර මූල්‍ය අරමුදල ය.",
+            "ජාත්‍යන්තර ස්වෛරීත්ව බැඳුම්කරහිමියන් ය.",
+            "පැරිස් සමාජයේ සාමාජික රටවල් ය.",
+            "ද්විපාර්ශ්වීය ණය හිමියන් ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "සහල් සහ රෙදි යන භාණ්ඩ දෙකම B රටට වඩා කාර්යක්ෂමව A රටට නිෂ්පාදනය කළ හැකි නමුදු B රටට රෙදි නිෂ්පාදනය කිරීමේ දී A රටට වඩා අඩු ආවස්ථික පිරිවැයක් තිබේ නම්, එවිට",
+        "choices": [
+            "A රටට සහල් නිෂ්පාදනය කිරීමේ දී නිරපේක්ෂ වාසියත් සාපේක්ෂ වාසියත් යන දෙක ම ඇත.",
+            "A රට රෙදි නිෂ්පාදනය පිළිබඳ විශේෂ ප්‍රාගුණ්‍යනය කළ යුතුය.",
+            "B රටට වෙළෙඳාමෙන් වාසියක් ලබා ගත නොහැකි ය.",
+            "වෙළෙඳාම සඳහා කිසිඳු පදනමක් දක්නට නොමැත."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "යම් දෙන ලද වර්ෂයක දී කිසියම් රටක අපනයන මිල දර්ශකය 120 ක් ද ආනයන මිල දර්ශකය 150 ක් ද අපනයන පරිමා දර්ශකය 110ක් ද විය. එම රටේ ආදායම් වෙළෙඳ අනුපාතිකය වූයේ",
+        "choices": [
+            "80.0 කි.",
+            "88.0 කි.",
+            "132.5 කි.",
+            "165.0 කි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "කලාපීය විස්තීර්ණ ආර්ථික හවුල්කාරිත්වයේ (RCEP) සාමාජිකයෙකු නො වන්නේ පහත සඳහන් රටවල් අතුරෙන් කුමන රටද?",
+        "choices": [
+            "දකුණු කොරියාව",
+            "ඕස්ට්‍රේලියාව",
+            "ඉන්දුනීසියාව",
+            "ඉන්දියාව"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ ගෙවුම් ශේෂයේ ප්‍රාථමික ආදායම් ගිණුමට ඇතුළත් නො වන්නේ පහත සඳහන් කවරක්ද?",
+        "choices": [
+            "විදේශිකයන් විසින් හිමි කරගෙන ඇති රජයේ සුරැකුම්පත් සඳහා පොලී ගෙවීම්",
+            "විදේශ සෘජු ආයෝජනයන් විසින් ආපසු ගෙන්වා ගන්නා ලාභ",
+            "විදේශවල ඇති ශ්‍රී ලාංකික ආයෝජනවලට ලද ලාභාංශ",
+            "ද්විපාර්ශ්වීය හවුල්කරුවන්ගෙන් ලද දිගු කාලීන සහනදායි ණය"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ නිල විදේශ සංචිත ප්‍රධාන වශයෙන් සමන්විත වන්නේ",
+        "choices": [
+            "රත්‍රං, විදේශ මුදල් වත්කම් සහ විශේෂ ගැනුම් හිමිකම් වලිනි.",
+            "ස්වෛරීත්ව බැඳුම්කර, විශේෂ ගැනුම් හිමිකම් සහ ප්‍රේෂණ වලිනි.",
+            "දේශීය බැංකු තැන්පතු, විශේෂ ගැනුම් හිමිකම් සහ රත්‍රං සංචිත වලිනි.",
+            "අපනයන ඉපැයීම්, රත්‍රං සහ ආණ්ඩුවේ සුරැකුම්පත් වලිනි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "රටක් තම වෙළෙඳ හවුල්කරුවන්ට වඩා ඉහළ උද්ධමනයක් අත්විඳින විට බොහෝදුරට විය හැකි ප්‍රතිඵලයක් වන්නේ",
+        "choices": [
+            "දේශීය ව්‍යවහාර මුදල් ඒකකයේ අගය ඉහළ යාමය.",
+            "දේශීය ව්‍යවහාර මුදල් ඒකකය දිගු කාලීනව ශක්තිමත් වීම ය.",
+            "දේශීය ව්‍යවහාර මුදල් ඒකකය ක්ෂය වීම ය.",
+            "විදේශ ආයෝජන වැඩි වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "විදේශීය ආයෝජකයන් ශ්‍රී ලංකාවෙන් තම කළඹ ආයෝජන ඉවත් කර ගන්නා විට එහි ප්‍රතිඵලයක් වන්නේ",
+        "choices": [
+            "ජංගම ගිණුමෙහි වාර්තා වන ශුද්ධ අපනයන වැඩි වීමකි.",
+            "මූල්‍ය ගිණුමෙහි වාර්තා වන අරමුදල් පිටතට ගලායාමකි.",
+            "විදේශ සංචිත වත්කම්වල සැලකිය යුතු ඉහළ යාමකි.",
+            "ප්‍රාථමික ආදායම් ගිණුමෙහි වාර්තා වන ප්‍රති - ආයෝජන ඉපැයීම්වල අඩු වීමකි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "තිරසාර සංවර්ධනය යන්න වඩාත් හොදින් විස්තර කළ හැක්කේ",
+        "choices": [
+            "සමාජයේ සෑම සාමාජිකයෙකුගේ ද ජීවන තත්ත්වයේ දිගු කාලීන වැඩි වීමක් ලෙස ය.",
+            "ආර්ථිකයේ නිෂ්පාදන විභවතාවයෙහි දිගු කාලීන වැඩි වීමක් ලෙසය.",
+            "පරිසරයට හානියක් නො වන පරිදි ජීවන තත්ත්වයෙහි දිගු කාලීන ඉහළ යාමක් ලෙස ය.",
+            "ආර්ථිකයේ සැබෑ නිමැවුමෙහි දිගු කාලීන වැඩි වීමක් ලෙසය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ආර්ථික සංවර්ධනය සහ ආර්ථික වර්ධනය අතර වෙනස වඩාත් හොඳින් පැහැදිලි කරන්නේ පහත සඳහන් කවර ප්‍රකාශයකින්ද?",
+        "choices": [
+            "ආර්ථික සංවර්ධනය දළ දේශීය නිෂ්පාදිතයේ වර්ධනය මගින් මනිනු ලබන අතර, ආර්ථික වර්ධනය මනිනු ලබන්නේ සමාජයීය දර්ශකවල උසස්වීම් මගිනි.",
+            "ආර්ථික සංවර්ධනය බහුමාන ක්‍රියාවලියක් වන අතර ආර්ථික වර්ධනය යනු නිමැවුමේ පටු මිනුමකි.",
+            "ආර්ථික වර්ධනය ස්වභාවයෙන්ම ගුණාත්මක වන අතර, ආර්ථික සංවර්ධනය ප්‍රමාණාත්මක වේ.",
+            "ආර්ථික සංවර්ධනය නිමැවුමේ කෙටි කාලීන වැඩි වීම් කෙරෙහි අවධානය යොමු කරන අතර ආර්ථික වර්ධනය අවධාරණය කරන්නේ දිගු කාලීන ව්‍යුහාත්මක වෙනස්කම්ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "මානව සංවර්ධන දර්ශකය තුළ ජීවන තත්ත්වය නිරූපණය කිරීමට භාවිත කරන මිනුම කුමක්ද?",
+        "choices": [
+            "ප්‍රතිශීර්ෂ දළ දේශීය නිෂ්පාදිතය",
+            "ප්‍රතිශීර්ෂ දළ ජාතික ආදායම",
+            "ක්‍රය ශක්ති සාම්‍යය මත ගළපන ලද ප්‍රතිශීර්ෂ දළ ජාතික ආදායම",
+            "ස්ථාවර මිල යටතේ ගණනය කරන ලද ප්‍රතිශීර්ෂ දළ දේශීය නිෂ්පාදිතය"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "2023 වර්ෂයේ දී පවත්නා වෙළෙඳපොළ මිල යටතේ ශ්‍රී ලංකාවේ දළ දේශීය නිෂ්පාදිතය සහ ප්‍රතිශීර්ෂ දළ ජාතික ආදායම වූයේ",
+        "choices": [
+            "දළ දේශීය නිෂ්පාදිතය (අමෙරිකානු ඩොලර් බිලියන): 96.5 | ප්‍රතිශීර්ෂ දළ ජාතික ආදායම (අමෙරිකානු ඩොලර්): 4 516",
+            "දළ දේශීය නිෂ්පාදිතය (අමෙරිකානු ඩොලර් බිලියන): 83.8 | ප්‍රතිශීර්ෂ දළ ජාතික ආදායම (අමෙරිකානු ඩොලර්): 3 801",
+            "දළ දේශීය නිෂ්පාදිතය (අමෙරිකානු ඩොලර් බිලියන): 83.8 | ප්‍රතිශීර්ෂ දළ ජාතික ආදායම (අමෙරිකානු ඩොලර්): 3 685",
+            "දළ දේශීය නිෂ්පාදිතය (අමෙරිකානු ඩොලර් බිලියන): 76.8 | ප්‍රතිශීර්ෂ දළ ජාතික ආදායම (අමෙරිකානු ඩොලර්): 3 379"
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "අස්වැසුම ප්‍රතිලාභීන් හඳුනාගැනීමේ දී භාවිත කරන ප්‍රධාන රාමුව වන්නේ",
+        "choices": [
+            "කුටුම්බ ආදායම් සීමාව පමණි.",
+            "බහුමාන දරිද්‍රතා ප්‍රවේශය යි.",
+            "ගෘහ ඒකකයේ මාසික විදුලි බිලයි.",
+            "දිස්ත්‍රික්කය අනුව භූගෝලීය ඉලක්ක කරණයයි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "A රටෙහි ලෝරන්ස් වක්‍රය මුළුමනින් ම B රටෙහි ලෝරන්ස් වක්‍රයට පහළින් පිහිටා තිබේ නම් එයින් ගම්‍ය වන්නේ",
+        "choices": [
+            "A රටෙහි B රටට වඩා වැඩි ආදායම් අසමානතාවක් ඇති බව ය.",
+            "B රටෙහි A රටට වඩා වැඩි ආදායම් අසමානතාවක් ඇති බව ය.",
+            "රටවල් දෙකටම එක හා සමාන වූ ආදායම් ව්‍යාප්තියක් ඇති බව ය.",
+            "A රටට B රටට වඩා වැඩි ඒක පුද්ගල දළ දේශීය නිෂ්පාදිතයක් ඇති බව ය."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "බ්‍රික්ස් (BRICS) සංවිධානය තුළ වර්තමානයේ දක්නට ලැබෙන ප්‍රධාන ප්‍රවණතාවක් වන්නේ",
+        "choices": [
+            "මිලිටරි සන්ධානයක් ලෙස ක්‍රියා කිරීමට එය දරන උත්සාහය යි.",
+            "බටහිර ආධිපත්‍යය දරන මූල්‍ය පද්ධති වෙනුවට විකල්ප ස්ථාපිත කිරීමට එය දරන උත්සාහය යි.",
+            "සියලු ම බ්‍රික්ස් මුදල් වර්ග චීන යුවාන් සමග ඈදීමට (pegging) දරන උත්සාහය යි.",
+            "බ්‍රික්ස් සාමාජික රටවල් අතර පමණක් වෙළෙඳාම සීමා කිරීමට දරන උත්සාහය යි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Economics",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාව 1977 දී හඳුන්වා දුන් ප්‍රධාන ආර්ථික ප්‍රතිසංස්කරණය සනිටුහන් කරනු ලැබූයේ",
+        "choices": [
+            "ආනයන ආදේශන උපාය මාර්ගයක සිට අපනයන නැඹුරු වෘද්ධි උපාය මාර්ගයකට මාරු වීමකි.",
+            "වෙළෙඳපොළ ලිබරල්වාදයේ සිට වෙළෙඳ පොළ ආරක්ෂණ වාදයට මාරුවීමකි.",
+            "නිෂ්පාදන ආර්ථිකයක සිට සේවා නැඹුරු ආර්ථිකයක් කරා මාරුවීමකි.",
+            "විවෘත වෙළෙඳපොළ ආර්ථිකයක සිට සංවෘත සමාජවාදී ආර්ථිකයක් කරා මාරුවීමකි."
+        ],
+        "metadata": {
+            "subject_original": "ආර්ථික විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=105088&token=&preview=1"
+        }
+    }
+]

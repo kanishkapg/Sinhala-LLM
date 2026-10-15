@@ -1,0 +1,582 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යාපාරයක් ආර්ථික ක්‍රියාකාරකමක් බවට පත් වන්නේ එය",
+        "choices": [
+            "ලාභය සඳහා භාණ්ඩ හෝ සේවා හුවමාරුව සිදු කරන නිසාය.",
+            "සේවක ඇගයීම සඳහා සැමරුම් උත්සව සංවිධාන කරන නිසාය.",
+            "පරිසරය සුරැකීම සඳහා ප්‍රතිචක්‍රීකරණ වැඩසටහන් ක්‍රියාත්මක කරන නිසාය.",
+            "සංස්කෘතික ඒකාබද්ධතාව සඳහා දේශීය සම්ප්‍රදායන් ප්‍රවර්ධනය කරන නිසාය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත දැක්වෙන්නේ භාණ්ඩ හා සේවා සඳහා උදාහරණ කිහිපයකි.\n A - ආහාර\n B - කොණ්ඩ කැපීම\n C - ඉගැන්වීම\n D - ප්‍රචාරණය\n E - රූපවාහිනිය\n F - නිවාස\n G - පුහුණුව\n H - තොගය\n I - රථවාහන කුලියට දීම\n J - පරිගණකය\n ඉහත දෑ අතුරෙන්, සේවා සඳහා අදාළ උදාහරණ පමණක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "A, C, E, H, J",
+            "A, D, E, G, I",
+            "B, C, D, F, G",
+            "B, C, D, G, I"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත වගුවෙහි ව්‍යාපාරයක් කෙරෙහි උනන්දුවන විවිධ පාර්ශ්ව සහ ව්‍යාපාර ක්‍රියාකාරකම් කිහිපයක් දැක් වේ.\n පාර්ශ්ව \n (i) රජය \n (ii) සේවකයින්  \n (iii) ප්‍රජාව \n (iv) සැපයුම්කරුවන්\n (v) ගනුදෙනුකරුවන් \n\nව්‍යාපාර ක්‍රියාකාරකම්\nA - සේවා නියුක්තියට දායක වීම\nB - ඉහළ ගුණත්වයෙන් යුතු භාණ්ඩ මිලදී ගැනීම\nC - ප්‍රසම්පාදන පටිපාටිය සරල කිරීම\nD - නම්‍යශීලී වැඩ ක්‍රම ප්‍රවර්ධනය කිරීම\nE - නියමිත වේලාවට බදු ගෙවීම\n\n ඉහත දී ඇති පාර්ශ්ව අනුපිළිවෙළ අනුව එක් එක් පාර්ශ්වය උනන්දු වන ව්‍යාපාර ක්‍රියාකාරකම නිවැරදිව ගළපා ඇති වරණය කුමක්ද?",
+        "choices": [
+            "A, B, D, E, C",
+            "C, E, D, B, A",
+            "E, B, D, C, A",
+            "E, D, A, C, B"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යාපාරයක් එහි සේවකයින් වෙනුවෙන් ආචාර ධර්ම හා බැඳුණු වගකීම දරන්නේ,",
+        "choices": [
+            "සේවක අර්ථසාධක අරමුදලට දායක වීම තුළින්ය.",
+            "විශ්වාසවන්ත රැකියා ස්ථානයක් ඇති කිරීම තුළින්ය.",
+            "නව වෙළෙඳපොළවල් සොයා ගැනීම තුළින් ය.",
+            "ගුණාත්මක නිෂ්පාදන සැපයීම තුළින්ය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත දැක්වෙන්නේ ව්‍යාපාරයක් සඳහා බලපෑම් සිදු කරනු ලබන බලවේග කිහිපයකි.\n A - වෘත්තීය සමිති\n B - සැපයුම්කරුවන්\n C - සේවකයින්\n D - වැඩ සම්මත\n E - තරගකරුවන්\n F - සංවිධානමය සම්පත්\n G - සංවිධානමය ප්‍රතිපත්ති\n H - සමාජයීය ක්‍රියාකාරකම්\n I - ගනුදෙනුකරුවන්\n J - සංවිධාන ව්‍යුහය\n ඉහත දෑ අතුරෙන්, ව්‍යාපාරයකට සෘජුව ම පාලනය කළ හැකි බලවේග පමණක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "A, C, D, F, J",
+            "B, C, F, G, J",
+            "C, D, F, G, I",
+            "C, D, F, G, J"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ රාජ්‍ය සේවා සඳහා ගෙවීම් කිරීමේ දී යොදාගනු ලබන නිල ඩිජිටල් ගෙවීම් වේදිකාව කුමක්ද?",
+        "choices": [
+            "ගව්පේ (GovPay)",
+            "ගූගල්පේ (GooglePay)",
+            "පේපැල් (PayPal)",
+            "පේහියර් (PayHere)"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහසු භාණ්ඩ සඳහා එකතු කළ අගය මත බද්ද (VAT) අවසානයේ ගෙවනු ලබන්නේ,",
+        "choices": [
+            "නිෂ්පාදකයාය.",
+            "සිල්ලර වෙළෙන්දා ය.",
+            "පාරිභෝගිකයා ය.",
+            "බෙදා හරින්නාය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ මහ බැංකුව මගින් ව්‍යවස්ථාපිත සංචිත අනුපාතය වැඩි කිරීම, වාණිජ බැංකුවල ණය දීමේ ධාරිතාවයට සහ ව්‍යාපාර වල ණය ලබා ගැනීමේ පිරිවැයට බලපාන්නේ කෙසේද?\n ණය දීමේ ධාරිතාව | ණය ලබා ගැනීමේ පිරිවැය",
+        "choices": [
+            "අඩු වේ. | වැඩි වේ.",
+            "වැඩි වේ. | අඩු වේ.",
+            "වෙනස් නොවේ. | වෙනස් නොවේ.",
+            "වැඩි වේ. | වැඩි වේ."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත දැක්වෙන්නේ මූල්‍ය උපකරණ කිහිපයකි.\n A - ස්වෛරීත්ව බැඳුම්කර\n B - තැන්පතු සහතික\n C - භාණ්ඩාගාර බිල්පත්\n D - කොටස් බලපත්‍ර\n E - ණය කර\n F - භාණ්ඩාගාර බැඳුම්කර\n G - සංවර්ධන බැඳුම්කර\n H - වාණිජ පත්‍රිකා\n I - හිමිකාරිත්ව කොටස්\n J - සාංගමික බැඳුම්කර\n ඉහත දෑ අතුරෙන්, සමාගම් විසින් නිකුත් කරනු ලබන මූල්‍ය උපකරණ පමණක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "B, D, F, H, I",
+            "B, E, F, G, I",
+            "D, E, H, I, J",
+            "D, F, H, I, J"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යාපාර ඒකාබද්ධ වීමක්' යනු",
+        "choices": [
+            "ව්‍යාපාරයක මෙහෙයුම් කිහිපයක් වසා දැමීමයි.",
+            "ව්‍යාපාරයක නිෂ්පාදන කළඹ විවිධාංගීකරණය කිරීමයි.",
+            "ව්‍යාපාරයක වෙළෙඳ පොළ කළඹ විවිධාංගීකරණය කිරීමයි.",
+            "නව ව්‍යාපාරයක් ඇති කිරීමට සමාගම් දෙකක් එක් වීමයි."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යවසායකත්ව අදහස් ප්‍රායෝගිකත්වයට පත් කිරීමේ ක්‍රියාවලිය නම් කරනු ලබන්නේ,",
+        "choices": [
+            "නව්‍යතා සොයා ගැනීම ලෙස ය.",
+            "නිර්මාණකරණය ලෙස ය.",
+            "යථාර්ථයක් බවට පත් කිරීම ලෙස ය.",
+            "අත්හදා බැලීම ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "අභ්‍යන්තර ව්‍යවසායකයෙකුගේ ප්‍රධාන ම ලක්ෂණය වන්නේ,",
+        "choices": [
+            "නව ව්‍යාපාරවල ආයෝජනය කිරීම සඳහා හිමිකරුවන් උනන්දු කරලීම ය.",
+            "ව්‍යාපාරයක ඵලදායීකත්වය වර්ධනය කිරීමට නව ක්‍රම සොයා බැලීම ය.",
+            "ව්‍යාපාර තීරණ පිළිබඳ පූර්ණ පාලනය ඇතිකර ගැනීම ය.",
+            "ව්‍යාපාර දැක්ම හා නිෂ්ටාව කෙරෙහි අවධානය යොමු කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත A සහ B යන ප්‍රකාශ සලකන්න.\n ප්‍රකාශ A : හරිත ව්‍යාවසායකයින් ලාභ ඉපයීමකින් තොරව භාණ්ඩ හා සේවා නිෂ්පාදනය කරනු ලැබේ.\n ප්‍රකාශ B : හරිත ව්‍යාවසායකයින් පාරිසරික, ආර්ථික සහ සමාජයීය ගැටලු සඳහා නව විසඳුම් සංවර්ධනය කරනු ලැබේ.\n ඉහත ප්‍රකාශ දෙක අතුරෙන්,",
+        "choices": [
+            "A සත්‍ය වන අතර B අසත්‍ය වේ.",
+            "A අසත්‍ය වන අතර B සත්‍ය වේ.",
+            "A සහ B යන දෙක ම අසත්‍ය වේ.",
+            "A සහ B යන දෙක ම සත්‍ය වන අතර A මගින් B පැහැදිලි කෙරේ."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ සීමිත ජාතික ණය සුරැකුම් ආයතනයේ (NCGIL) හිමිකාරිත්වය සතු වන්නේ,",
+        "choices": [
+            "අර්ධ රාජ්‍ය අංශයට ය.",
+            "රාජ්‍ය අංශයට ය.",
+            "පෞද්ගලික අංශයටය.",
+            "පොදු හා පෞද්ගලික අංශයටය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ වාණිජ බැංකු මගින් ගිණුම් හිමියන් සඳහා සපයනු ලබන පහසුකම් කිහිපයක් පහත වේ.\n A - චෙක් තැන්පතු\n B - ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර (ATM)\n C - ජංගම බැංකු\n D - බැංකු අයිරා\n E - කෙටි පණිවුඩ සේවා (SMS)\n F - තැන්පතු සඳහා පොලී\n G - මූල්‍ය අත්තිකාරම්\n H - චෙක් පොත්\n ඉහත දෑ අතුරෙන් ජංගම සහ ඉතුරුම් තැන්පතු යන ගිණුම් හිමියන් දෙදෙනාට ම ලබාගත හැකි පහසුකම් පමණක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "A, B, C, E",
+            "A, C, E, F",
+            "B, C, E, G",
+            "B, C, G, H"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ගෙවීම් ආකාර සහ ඒවායේ ලක්ෂණ කිහිපයක් දැක්වේ.\n ගෙවීම් ආකාර \n (i) බැංකු හුවමාරුව \n (ii) හරපත \n (iii) ණයපත \n (iv) විද්‍යුත් මුදල් පසුම්බිය \n (v) මුදල් \nලක්ෂණ\nA - දැන් මිලට ගෙන පසුව ගෙවීම\nB - යෙදවුමක භාවිතය (App based)\nC - බැංකුවක් මගින් බැංකුවකට\nD - ක්ෂණික අඩු වීම\nE - ක්ෂණික ගෙවීම\n\n ඉහත දී ඇති ගෙවීම් ආකාර අනුපිළිවෙළ අනුව ඊට අදාළ ලක්ෂණ වඩාත් නිවැරදිව ගළපා ඇති වරණය කුමක්ද ?",
+        "choices": [
+            "B, A, C, D, E",
+            "C, D, A, B, E",
+            "E, D, A, B, C",
+            "E, D, A, C, B"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "නිෂ්පාදන ආපසු කැඳවීම් සම්බන්ධයෙන් ව්‍යාපාර වලට මූල්‍ය ආරක්ෂාව සැපයීමට ඇති රක්ෂණ ආවරණය කුමක්ද?",
+        "choices": [
+            "පොදු වගකීම් රක්ෂණය",
+            "මාර්ගස්ථ භාණ්ඩ රක්ෂණය",
+            "සේවක වගකීම් රක්ෂණය",
+            "නිෂ්පාදන වගකීම් රක්ෂණය"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "විද්‍යුත් වේදිකා සහ ව්‍යාපාර සඳහා ඒවායේ ඇති සුවිශේෂී කාර්ය කිහිපයකි.\n විද්‍යුත් වේදිකා | \n (i) සූම් (Zoom) | \n (ii) එක්ස් (ට්විටර්) (X/Twitter) |\n (iii) යූටියුබ් (YouTube) | \n (iv) ලින්ක්ඩ්ඉන් (LinkedIn) | \n (v) චැට්ජීපීටී (ChatGPT) | \nකාර්ය\nA - වෘත්තිකයන්ගේ ජාලය\nB - වීඩියෝ මත පදනම් වූ ප්‍රචාරණය\nC - කෘත්‍රිම බුද්ධියෙන් බලගැන්වූ ව්‍යාපාරික අවබෝධය\nD - සජීවී තාත්වික රැස්වීම්\nE - කෙටි පණිවුඩ හුවමාරුව\n\n ඉහත දී ඇති විද්‍යුත් වේදිකා අනුපිළිවෙළ අනුව ඊට අදාළ කාර්ය නිවැරදිව ගළපා ඇති වරණය කුමක්ද?",
+        "choices": [
+            "B, A, D, E, C",
+            "B, D, C, A, E",
+            "C, D, E, A, B",
+            "D, E, B, A, C"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "භාණ්ඩ එහා මෙහා ගෙනයාම, ගබඩා කිරීම සහ බෙදාහැරීම යනාදී සමස්ත ක්‍රියාවලිය හඳුන් වන්නේ",
+        "choices": [
+            "ප්‍රවාහනය ලෙස ය.",
+            "කාර්ය සම්පාදනය ලෙසය.",
+            "ප්‍රසම්පාදනය ලෙස ය.",
+            "බෙදා හැරීම ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යාපාරයක් විසින් යොදාගනු ලබන උපායමාර්ග කිහිපයක් පහත දැක්වේ.\n A - වරලත් ව්‍යාපාර\n B - වැඩ බාහිර කරණය\n C - උපායමාර්ගික සන්ධාන\n D - ආනයන\n E - බද්ධ ව්‍යාපාර\n F - අක්වෙරළ\n G - අපනයන\n H - බලපත්‍ර\n ඉහත දෑ අතුරෙන්, ජාත්‍යන්තර වෙළෙඳ පොළවලට අවතීර්ණ වීම සඳහා ව්‍යාපාර විසින් යොදාගනු ලබන සාමූහික උපාය මාර්ග පමණක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "A, B, C, H",
+            "A, C, E, H",
+            "C, D, E, G",
+            "C, F, G, H"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත දෑ අතුරෙන්, B2C ගනු දෙනුවක් නිවැරදිව විස්තර කරන උදාහරණය තෝරන්න.",
+        "choices": [
+            "පුද්ගලයකුට ලන්ඩන් යාම සඳහා ගුවන් යානා ටිකට් පතක් නියෝජිතයකු විසින් අලෙවි කිරීම",
+            "පුද්ගලයකු දේශීය ආදායම් දෙපාර්තමේන්තුවට ආදායම් බදු ගෙවීම",
+            "සමාගමක් ශ්‍රී ලංකා රේගුවට ආනයන තීරුබදු ගෙවීම",
+            "පුද්ගලයකු මාර්ගගත වේදිකාව හරහා තම වාහනය අලෙවි කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "කළමනාකරණ ශ්‍රිත සහ ඒවායේ විස්තර කිහිපයකි.\n ශ්‍රිත | \n (i) සැලසුම්කරණය | \n (ii) සංවිධානකරණය | \n (iii) මෙහෙයවීම | \n (iv) පාලනය | \nවිස්තර\nA - නිවැරදි නියාමනය සහ අගය කිරීම් පද්ධති ස්ථාපිත කිරීම\nB - සංවිධානමය පරමාර්ථ සහ ක්‍රියාමාර්ග තෝරා ගැනීම\nC - අභිප්‍රේරණය, සම්බන්ධීකරණය සහ සේවකයන් බලගැන්වීම\nD - කාර්යය සහ බල අධිකාරිය අතර සම්බන්ධතාව ස්ථාපිත කිරීම\n\n ඉහත දී ඇති ශ්‍රිත අනුපිළිවෙළ අනුව ඊට අදාළ විස්තර නිවැරදිව ගළපා ඇති වරණය කුමක්ද?",
+        "choices": [
+            "B, C, D, A",
+            "B, D, C, A",
+            "C, B, D, A",
+            "C, D, A, B"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "මුළු ස්ථාවර පිරිවැය රු. 120,000 ක් සහ දායකත්ව ආන්තික අනුපාතය 60% ක් වේ නම්, සමච්ඡේදන ලක්ෂ්‍යය රුපියල්වලින් කොපමණද?",
+        "choices": [
+            "රු. 2000",
+            "රු. 12000",
+            "රු. 200000",
+            "රු. 720,000"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "කිසියම් භාණ්ඩයක් හෝ සේවාවක් නිශ්චිත වෙළෙන්දෙකුට අයත් බව පෙන්නුම් කරන්නේ කුමන බුද්ධිමය දේපළ මගින්ද?",
+        "choices": [
+            "පේටන්ට් බලපත්‍රය",
+            "වෙළෙඳ රහස්",
+            "වෙළෙඳ ලකුණු",
+            "කාර්මික මෝස්තර"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "සමාගමක නිෂ්පාදන මිශ්‍ර පිළිබඳව නිර්ණායක සහ ඒවාට අදාළ විස්තර කිහිපයක් දැක්වේ.\n නිර්ණායක \n (i) පළල \n (ii) දිග \n (iii) ගැඹුර  \n (iv) සංගත බව  \nවිස්තර\nA - එක් එක් නිෂ්පාදන පෙළ තුළ ඇති විවිධත්වය\nB - වෙනස් නිෂ්පාදන පෙළවල් ගණන\nC - නිෂ්පාදන පෙළවල් එක ම බෙදා හැරීම් මාර්ගය භාවිත කිරීම\nD - සියලු ම නිෂ්පාදන පෙළවල්වල මුළු නිෂ්පාදිත සංඛ්‍යාව\n\n ඉහත දී ඇති නිර්ණායක අනුපිළිවෙළ අනුව ඊට අදාළ විස්තරය නිවැරදිව ගළපා ඇති වරණය කුමක්ද?",
+        "choices": [
+            "A, C, D, B",
+            "B, D, A, C",
+            "D, A, C, B",
+            "D, B, A, C"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "සේවක පුහුණු ක්‍රම කිහිපයක් සහ ඒවායේ විස්තර පහත දැක්වේ.\n පුහුණු ක්‍රම \n (i) උපදේශනය \n (ii) සමාකරණය \n (iii) රැකියාව මගින්  \n (iv) රැකියා භ්‍රමණය  \n (v) රැකියාවෙන් පිටත  \nවිස්තර\nA - සැබෑ ජීවිතයේ සිද්ධීන් අනුකරණය තුළින් ඉගෙනුම\nB - වෙනස් රැකියා භූමිකා ඉගෙනුම\nC - රැකියා පරිසරයෙන් බාහිරව ඉගෙනුම\nD - රැකියා කාර්යයන් ඉටු කරමින් ඉගෙනුම\nE - එකිනෙකා අතර මඟපෙන්වීම මත ඉගෙනුම\n\n ඉහත දී ඇති පුහුණු ක්‍රම අනුපිළිවෙළ අනුව ඊට අදාළ විස්තර නිවැරදිව ගළපා ඇති වරණය කුමක්ද?",
+        "choices": [
+            "A, C, D, B, E",
+            "C, A, D, B, E",
+            "E, A, D, B, C",
+            "E, D, A, C, B"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "පහත දෑ අතුරෙන් ව්‍යාපාරයක සේවක කාර්ය සාධනය පෙන්නුම් කරන්නේ කුමන සාධකය මගින්ද?",
+        "choices": [
+            "සේවක ඵලදායීතාව",
+            "සේවක ආරවුල්",
+            "සේවක පැමිණීම",
+            "වැඩ කළ පැය ගණන"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "ව්‍යාපාරයක් හා සම්බන්ධ දත්ත හා තොරතුරු පහත දැක්වේ.\n A - සාමාන්‍ය දෛනික විකුණුම්: ඒකක 5\n B - දෛනික විකුණුම්: ඒකක 100\n C - සාමාන්‍ය පිරිවැටුම් අනුපාතය: 3%\n D - ණය ගැති පිරිවැටුම් අනුපාතය: 10%\n E - තොගය: ඒකක 1000\n F - මිල දී ගැනුම් ඒකක 300\n G - ලාභය: රු. 100000\n H - සමස්ත කාර්ය සාධන ලකුණ: 93%\n ඉහත දෑ අතුරෙන්, තොරතුරු පමණක් ඇතුළත් වරණය කුමක්ද ?",
+        "choices": [
+            "A, C, D, E, H",
+            "B, C, D, F, G",
+            "D, E, F, G, H",
+            "D, E, F, H, G"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Business Studies",
+        "category": "social science",
+        "question": "තීරණ ගැනීම සඳහා කළමනාකරුවන්ට සහය වීමට දත්ත එකතු කිරීම, සැකසීම, ගබඩා කිරීම හා බෙදා හැරීම සිදු කරනු ලබන්නේ කුමන තොරතුරු පද්ධතියද ?",
+        "choices": [
+            "විධායක උපකාරක පද්ධති (ESS)",
+            "කළමනාකරණ තොරතුරු පද්ධති (MIS)",
+            "තීරණ උපකාරක පද්ධති (DSS)",
+            "දැනුම් කාර්ය පද්ධති (KWS)"
+        ],
+        "metadata": {
+            "subject_original": "ව්‍යාපාර අධ්‍යයනය",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126843&token=&preview=1"
+        }
+    }
+]

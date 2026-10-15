@@ -1,0 +1,722 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "සෞඛ්‍යය ගුරුතුමිය සයුරිගේ ශරීර ස්කන්ධ දර්ශකයට අනුව ඇගේ කායික සෞඛ්‍යය යහපත්‌ බව පැවසුවා ය. එසේ නම්‌ වර්ධක සටහනේ ඇයට හිමි වර්ණය වන්නේ,",
+        "choices": [
+            "දම්‌ පාට",
+            "කොළ පාට",
+            "තැඹිලි පාට",
+            "රතු පාට"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10xam60Qe44JRE_wyQqu1n1nvY0ncaX7D/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "නිවාසාන්තර ක්‍රීඩා උත්සවයේ දී මීටර්‌ 100 තරගයට සහභාගී වූ දමිරු පහසුවෙන්‌ ප්‍රථම ස්ථානය දිනා ගන්නා ලදී. දමිරු තුළ දියුණු වී ඇති ශාරිරික යෝග්‍යතා ගුණාංගය කුමක්‌ ද?",
+        "choices": [
+            "නම්‍යතාවය",
+            "ශක්තිය",
+            "වේගය",
+            "ඉවසීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10xam60Qe44JRE_wyQqu1n1nvY0ncaX7D/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "ලෝකයේ ජනප්‍රියම ක්‍රීඩාව සඳහන්‌ පිළිතුර තෝරන්න.",
+        "choices": [
+            "වොලිබෝල්‌",
+            "පාපන්දු",
+            "ක්‍රිකට්‌",
+            "පැසිපන්දු"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10xam60Qe44JRE_wyQqu1n1nvY0ncaX7D/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "සනිරු නිතර යහළුවන්‌ සමඟ සතුටින්‌ සෙල්ලම්‌ කරයි. පන්තියේ කණ්ඩායම්‌ ක්‍රියාකාරකම්වල දී උනන්ද්‍රවෙන්‌ කටයුතු කරයි. සනිරු මනා ............................. යහපැවැත්මකින්‌ යුත්‌ ශිෂ්‍යයෙකු බව ගුරුතුමිය\nපැවසුවා ය. ඉහත ප්‍රකාශයේ හිස්තැනට වඩාත්‌ සුදුසු පිළිතුර වන්නේ කුමක්‌ ද?",
+        "choices": [
+            "මානසික",
+            "සමාජිය",
+            "කායික",
+            "අධ්‍යාත්මික"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1mMZdvJMPoqGdj9sW2MyPkQhg7eEnO1Gq/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "විජලනය යනු රෝගී තත්වයකි. විජලනය ඇතිවීමට හේතුවක්‌ විය හැක්කේ,",
+        "choices": [
+            "ක්‍රීඩාවේ දී ජලය පානය නොකිරීමයි.",
+            "උදෑසන ආහාරය නොගැනීමයි.",
+            "මත්ද්‍රව්‍ය භාවිතයට හුරු වීම යි.",
+            "නින්ද නොයාම යි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1mMZdvJMPoqGdj9sW2MyPkQhg7eEnO1Gq/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "බාහිර කොටස්‌ අජීවී සෛලවලින්‌ නිර්මාණය වී ඇති ශරීරාංගක්‌ වන්නේ,",
+        "choices": [
+            "දිව",
+            "සම",
+            "නිය",
+            "කන"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1mMZdvJMPoqGdj9sW2MyPkQhg7eEnO1Gq/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "ජලය හා සනීපාරක්ෂාව පිළිබඳ (WASH) සංකල්පයේ WA ලෙස පෙන්වා ඇත්තේ කුමක්‌ ද?",
+        "choices": [
+            "සනීපාරක්ෂාව",
+            "ජලය",
+            "ස්වස්ථතාවය",
+            "වාතය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1mMZdvJMPoqGdj9sW2MyPkQhg7eEnO1Gq/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "සෞඛ්‍යයට බලපාන සාධක තම පාලනයට ගැනීම මගින් තමාගේ සෞඛ්‍යය තත්ත්වය දියුණු කර ගැනීමට පුද්ගලයාට හැකියාව ලබාදීමේ ක්‍රියාවලිය හඳුන් වන්නේ.",
+        "choices": [
+            "සෞඛ්‍යය ප්‍රවර්ධනය යනුවෙනි",
+            "ජීව ගුණය යනුවෙනි",
+            "පූර්ණ සෞඛ්‍යය යනුවෙනි",
+            "සෞඛ්‍යය වර්ධනය යනුවෙනි"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "පාසලට වැඩි වශයෙන් සෞඛ්‍යය සේවා සපයන පුද්ගලයෙකු වන්නේ.",
+        "choices": [
+            "ග්‍රාම නිලධාරිතුමා",
+            "පොලිස් නිලධාරිතුමා",
+            "මහජන සෞඛ්‍යය පරීක්ෂක තුමා",
+            "හෙදිය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "සුරක්ෂිතභාවය යනු.",
+        "choices": [
+            "කායික අවශ්‍යතාවයකි",
+            "මානසික අවශ්‍යතාවයකි",
+            "සමාජීය අවශ්‍යතාවයකි",
+            "අධ්‍යාත්මික අවශ්‍යතාවයකි"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "ජන ක්‍රීඩා සම්බන්ධව කියැවෙන නිවැරදි ප්‍රකාශය වන්නේ.",
+        "choices": [
+            "නිශ්චිත නීතිරීති සහිත ක්‍රීඩාය",
+            "අවුරුදු කාලයට පමණක් දැකිය හැකි ක්‍රීඩා ය",
+            "උපකරණ සහිතව පමණක් නිර්මාණය වූ ක්‍රීඩා ය",
+            "මිනිසාගේ විවේකය හා වින්දනය සඳහා නිර්මාණය වූ ක්‍රීඩා ය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "චිත්ත වේග සමබරතාවය ඇතිකර ගැනීමෙන් ලැබෙන ප්‍රයෝජනයක් නොවන්නේ,",
+        "choices": [
+            "ආත්ම අභිමානය දියුණු වීම",
+            "අයහපත් චිත්ත වේග පමණක් ඇති වීම",
+            "අභියෝග ජය ගැනීමට හැකි වීම",
+            "ප්‍රියමනාප පුද්ගලයකු වීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "ගෘහස්ත ජන ක්‍රීඩාවක් වන්නේ මින් කුමක්ද?",
+        "choices": [
+            "පොර පොල් ගැසීම",
+            "ගුඩු පැනීම",
+            "එළුවන් කෑම",
+            "ඔළිඳ කෙළිය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "නිවැරදි ඇවිදීමක වාසියක් වනුයේ,",
+        "choices": [
+            "ශරීරයට අපහසුතාවයක් සුළු වශයෙන් දැනීම",
+            "කාර්යක්ෂමතාවය අඩු වී යාම",
+            "ශරීරයට අඩු වෙහෙසක් දැනීම",
+            "අසමබරතාවයක් ඇති වීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "නිවැරදි වැතිරීමේ ඉරියව්වක් නොවන්නේ,",
+        "choices": [
+            "උඩුකුරුව",
+            "ආසනගත",
+            "මුණින් අතට",
+            "අකුස්"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "මස්, මාළු, බිත්තර වැනි ආහාරවල බහුලව ඇති පෝෂ්‍ය පදාර්ථය වනුයේ,",
+        "choices": [
+            "ප්‍රෝටීන්",
+            "විටමින්",
+            "ඛණිජ ලවන",
+            "මේදය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Health & Physical Education",
+        "category": "other",
+        "question": "බහිස්‍රාවීය පද්ධතියට අයත් අවයවයක් වන්නේ,",
+        "choices": [
+            "ආමාශය",
+            "හෘදය",
+            "මුත්‍රාශය",
+            "ශ්වාස නාලය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/18u6aVLcRBu_sp31ldCjpEF48Dh6gWvB9/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "සෞඛ්‍යවත් පවුල් පරිසරයක් තුළ තිබිය යුතු මානසික අංගයක් වනුයේ,",
+        "choices": [
+            "රැකවරණය",
+            "නිවාස",
+            "ජලය",
+            "ප්‍රමාණවත් ඉඩ කඩ"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "ඔබේ පවුලේ අධ්‍යාත්මික පරිසරය යහපත් කරගැනීම සඳහා බලපාන්නේ,",
+        "choices": [
+            "අසරණයන්ට පිහිට වීම.",
+            "භාවනා කිරීම.",
+            "යෝගා ව්‍යායාම කිරීම.",
+            "ඉහත සියල්ල ම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "න්‍යෂ්ටික පවුලක දැකිය හැකි පුද්ගලයින් ඇතුළත් පිළිතුර වන්නේ,",
+        "choices": [
+            "අම්මා, සීයා, අයියා",
+            "අම්මා, තාත්තා, මල්ලී",
+            "තාත්තා, මල්ලී, සීයා",
+            "තාත්තා, මල්ලී, ආච්චි"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "සමාජ, ආගමික, සංස්කෘතික, ආර්ථික පසුබිමට ගැළපෙන ලෙස මිනිසාගේ වින්දනය සඳහා නිර්මාණය වූ ක්‍රීඩා හඳුන් වන්නේ,",
+        "choices": [
+            "සුළු ක්‍රීඩා ලෙසය.",
+            "ජන ක්‍රීඩා ලෙසය.",
+            "සංවිධානාත්මක ක්‍රීඩා ලෙසය.",
+            "අනු ක්‍රීඩා ලෙසය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "ජීවත්වීමට උපකාරීවන මූලික අවශ්‍යතාවක් වන්නේ,",
+        "choices": [
+            "පිරිසිදු වාතය.",
+            "යාන වාහන",
+            "ඇඳුම් පැලඳුම්",
+            "මිල මුදල්"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "වේගය දියුණු කිරීම සඳහා කළ හැකි ක්‍රියාකාරකමකි,",
+        "choices": [
+            "හිටි දුර පැනීම",
+            "කුකුල් පොරය",
+            "වලිග කැඩීම",
+            "ශට්ල් රිලේ"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "යම්කිසි කාර්යයක් වැඩි වේලාවක් පහසුවෙන් කරගෙන යාමට ඇති හැකියාව හඳුන්වන්නේ.........",
+        "choices": [
+            "නම්‍යතාවය ලෙසය.",
+            "දැරීමේ හැකියාව ලෙසය.",
+            "සමායෝජනය ලෙසය.",
+            "වේගය ලෙසය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පුරුෂ ප්‍රජනක පද්ධතියට අයත් අවයවයක් වන්නේ,",
+        "choices": [
+            "වෘෂණ කෝෂ",
+            "ඩිම්භ කෝෂ",
+            "ගැබ් ගෙල",
+            "පැලෝපීය නාලය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "නව යොවුන් වියේ දී පිරිමි හා ගැහැණු දෙපාර්ශවයටම පොදු ද්විතීයික ලිංගික ලක්ෂණයක් වනුයේ.......",
+        "choices": [
+            "මුහුණේ කුරුලෑ ඇති වීම.",
+            "උරහිස් පළල් වීම.",
+            "උකුළ පළල් වීම.",
+            "සම පැහැපත් වීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍යය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1d7VT8vhesM5B-lt0Hoceafrv1_dmF1gZ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "තමා පිළිබඳ තමා තුළ ඇතිවන ගෞරවාන්විත තක්සේරුව ආත්ම අභිමානයයි. ආත්ම අභිමානයට හානිදායක නොවන කරුණකි,",
+        "choices": [
+            "නොසලකා හැරීම.",
+            "හිංසනයට ලක්වීම.",
+            "නීතිරීති කඩකිරීම.",
+            "කැපවීම හා උනන්දුව"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1oMpYEeZWeyIILb0iVfMMQoB6pvFyFNrI/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පාසලක භෞතික පරිසරය යහපත්ව පවත්වාගෙන යාම මගින්‌,",
+        "choices": [
+            "අනතුරු අවම කර ගත හැකි ය.",
+            "ලෙඩ රෝග වළකාගත හැකි ය.",
+            "ප්‍රියමනාප බව ඇති වේ.",
+            "ඉහත සියල්ලම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1oMpYEeZWeyIILb0iVfMMQoB6pvFyFNrI/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පහත දැක්වෙන්නේ වොලිබෝල්‌ ක්‍රීඩාව හා සම්බන්ධ ප්‍රකාශ කිහිපයකි,\nA. කණ්ඩායමකට ඇතුළත්‌ ක්‍රීඩකයින්‌ සංඛ්‍යාව 12 කි.\nB. ක්‍රීඩාව ආරම්භ වන්නේ පන්දුව පිරිනැමීමෙනි.\nC. ක්‍රීඩා පිටියේ පසු කලාපය මී. 3 ක්‌ පළල ය.\nඉහත ප්‍රකාශ අතරින්‌ වැරදි කියමන වන්නේ,",
+        "choices": [
+            "A.",
+            "B හා C.",
+            "B.",
+            "C."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1oMpYEeZWeyIILb0iVfMMQoB6pvFyFNrI/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "දුරපැනීමේ ශිල්ප ක්‍රමයට ඇතුළත්‌ නොවන අවයධියකි,",
+        "choices": [
+            "පියාසරිය",
+            "නික්මීම",
+            "හරස්‌ දණ්ඩ තරණය",
+            "පතිතවීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1oMpYEeZWeyIILb0iVfMMQoB6pvFyFNrI/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පාපන්දු ක්‍රීඩාවේ යෙදෙන විට පන්දුව ස්පර්ශ කළ නොහැකි ශරීර අංගයකි,\n",
+        "choices": [
+            "හිස",
+            "දෙඅත්‌",
+            "උදරය",
+            "පාද"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1oMpYEeZWeyIILb0iVfMMQoB6pvFyFNrI/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පහත සඳහන්‌ සිදුවීම්‌ අතුරින්‌ පුද්ගලයෙකුගේ ආත්ම අභිමානය සඳහා බලපාන්නේ,",
+        "choices": [
+            "ත්‍යාග හා සහතික ලබාදීම.",
+            "අගයකිරීම",
+            "දිරිගැන්වීම",
+            "ඉහත සියල්ලම ය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1f9VEB0xacMJiCYtfj4D7O8qDvOXOt1zu/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "සෞඛ්‍යවත්‌ පාසල්‌ ආපනශාලාවක දැකියහැකි පෝෂ්‍යදායී ආහාර වර්ගයකි,",
+        "choices": [
+            "නිසරු ආහාර",
+            "ක්‍ෂණික ආහාර",
+            "ලුණු, සීනි අඩු ආහාර",
+            "තෙල්‌ අධික ආහාර"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1f9VEB0xacMJiCYtfj4D7O8qDvOXOt1zu/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "වොලිබෝල්‌ ක්‍රීඩාවේ පන්දුව පිරිනැමීමට අදාළව පහත සඳහන්‌ නීතිරීති අතුරින්‌ වැරදි ප්‍රකාශය වන්නේ,",
+        "choices": [
+            "පන්දුව නුහුරු අත්ල මත තබා පිරිනැමිය යුතුය.",
+            "පන්දුව පිරිනැමීම සංඥාවට අනුව සිදුකළ යුතුය.",
+            "පන්දුව පිරිනැමීමේදී පිරිනැමීමේ රේඛාව ස්පර්ශ නොකළ යුතුය.",
+            "පන්දුව උඩදමා තත්පර අටක්‌ තුළ පන්ද්‍රව පිරිනැමීම කළ යුතුය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1f9VEB0xacMJiCYtfj4D7O8qDvOXOt1zu/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "ධාවන තරඟයකදී කුදු ඇරඹුම යොදා ගෙන ආරම්භ කරන තරඟ ඉසව්‌ කාණ්ඩය වන්නේ,",
+        "choices": [
+            "මීටර්‌ 100 - මීටර්‌ 200",
+            "මීටර්‌ 800 - මීටර්‌ 1500",
+            "මීටර්‌ 400 - මීටර්‌ 800",
+            "මීටර්‌ 1500 - මීටර්‌ 3000"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1f9VEB0xacMJiCYtfj4D7O8qDvOXOt1zu/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Health and Physical Education",
+        "category": "other",
+        "question": "පහත ක්‍රීඩා අතුරින්‌ අනුක්‍රීඩාවක්‌ නොවන්නේ,",
+        "choices": [
+            "හැරී දිවීම",
+            "ඉලක්කයට පිරිනැමීම",
+            "කික්‌ බෝල්‌",
+            "ඔලිඳ කෙළිය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික අධ්‍යාපනය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1f9VEB0xacMJiCYtfj4D7O8qDvOXOt1zu/view?usp=drive_link"
+        }
+    }
+]

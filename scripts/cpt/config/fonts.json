@@ -1,0 +1,36 @@
+{
+  "_doc": "Font whitelist for Step 3 (docs/prepare_cpt_dataset.md). Matching is on the font name without the subset prefix (ABCDEF+). convert = legacy FM-encoded Sinhala; keep = already Unicode or Latin; drop = other scripts and dingbats. s01_inventory.py lists every font that is in none of these lists, with sample text: classify it here before running s02 (legacy Sinhala can hide behind any name, e.g. F2, R1, KELANI-Plain). punct_keep lists, per font, ASCII characters that are real punctuation in that font and must NOT go through the FM table (check against the printed page). Classified from the Easy (g6-g8) inventory on 2026-10-15.",
+  "convert": [
+    "FMAbhaya", "FMAbhayax", "FMAbhaya-Bold", "FMAbhaya-Light", "FMAbabldBold", "FMAbabld,Bold",
+    "FMSLRAbhayax", "FMSLRAbabldBold", "FMSLRBasurux", "FMMalithix", "FMEmaneex", "FMSamanthax",
+    "FMSamanthaBoldx", "FMDeranax", "FMGanganeex", "FMEconbldBold", "FMBasurux", "FMMaduriThin",
+    "FMSandhyaneex", "FMBindumathix", "FMGeethikaBold", "FMGemunux", "FM-ABILIC", "SARAWIPULA",
+    "F2", "0KDBOLIDDAbold", "R1", "KELANI-Plain", "FS-Chami.", "AaAnita", "Chamodi", "Helabasa",
+    "FMMalithi", "FMAbabld", "FMBindumathi", "FMSamantha", "FMGanganee", "FMDerana", "FMRajantha",
+    "TT15FCO00", "TT23F0O00", "TT1CFDO00", "TT2B4BO00", "SA-Nimali", "NPW-Kasun", "SARA-SIRI",
+    "SARA-RAMANEE", "SARA-KALANEE", "SARA-PUNCHI", "SARA-SETH", "SARA-MAHEE", "SARA-PRAMESHA",
+    "apex-a.pura-008", "apex-a.pura-010", "Su_MADURA2", "NelumPC", "kaputadotcom", "DL-Paras.", "ZWAdobeF",
+    "F1", "F3", "AmSamanthaNormal"
+  ],
+  "keep": [
+    "IskoolaPota", "SymbolMT", "Symbol", "AdobeHebrew-Regular", "Algerian", "BaskOldFace", "TrebuchetMS",
+    "Impact", "HoboStd", "FreedomExtendedNormal", "ACaslonPro-Bold", "FuturaBT-Bold", "TektonPro-BoldCond",
+    "FranklinGothic-Demi", "Time-Roman", "MyriadArabic-Regular", "MyriadArabic-Bold",
+    "Century725BlkBT", "Centaur", "apex-a.pura-017", "FootlightMTLight", "FranklinGothicBook",
+    "FixedMiriamTransparent", "AharoniBold"
+  ],
+  "keep_prefixes": [
+    "Times", "Arial", "Minion", "Myriad", "Calibri", "Helvetica", "AGaramond", "Garamond", "Cambria",
+    "Tahoma", "Courier"
+  ],
+  "drop": [
+    "ArabicTypesetting", "TraditionalArabic-Bold", "AdobeArabic-Regular", "AdobeArabic-Bold",
+    "AdobeNaskh-Medium", "NCNitusha", "TAM-Tamil003", "Tharmini-Plain", "Baamini-Plain", "MonotypeSorts",
+    "Webdings", "ZapDingbats", "SymbolProportionalBT-Reg", "KozGoPro-Bold",
+    "FMAbhaya#20x", "FMAbabld#20Bold", "FMSamantha#20x", "FMEmanee#20x", "FMMalithi#20x", "FMBindumathi#20x",
+    "Angsana#20New", "Microsoft#20Sans#20Serif", "MicrosoftSansSerif", "Upmusic", "Latha", "TAMKavi",
+    "Tam-Tamil017"
+  ],
+  "drop_prefixes": ["SHREE-TAM", "Wingdings", "ZapfDingbats"],
+  "punct_keep": {}
+}

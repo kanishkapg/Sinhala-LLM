@@ -1,0 +1,802 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ද්විතීයික දත්ත මූලාශ්‍ර තුන වන්නේ",
+        "choices": [
+            "මිනුම්, පුවත්පත් සහ වාර්තාය.",
+            "ග්‍රන්ථ, නිරීක්ෂණ සහ සිතියම්ය.",
+            "පුස්තකාලය, අන්තර්ජාලය සහ සිතියම් ය.",
+            "අන්තර්ජාලය, සම්මුඛ සාකච්ඡා සහ වාර්තාය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "1:50 000 භූ ලක්ෂණ සිතියමක තැන් උස මගින් දැක්වෙන්නේ",
+        "choices": [
+            "බිම් මැනුම් සඳහා භාවිතා කරන පාදක ලක්ෂ්‍යයෙකි.",
+            "උන්නතාංශය සලකුණු කර ඇති නිශ්චිත ලක්ෂ්‍යයකි.",
+            "ඉහළ උන්නතාංශ ලක්ෂ්‍යයකි.",
+            "පහළ උන්නතාංශ ලක්ෂ්‍යයකි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "භූගෝලීය තොරතුරු පද්ධතියේ (GIS) දත්ත ස්ථරයක් යනු",
+        "choices": [
+            "උපස්ථ දත්ත ගොනුවකි.",
+            "හැඩතල ඇඳීමට භාවිතා කරන මෙවලමකි.",
+            "භූගෝලීය ලක්ෂණයට අදාළ දත්ත කට්ටලයකි.",
+            "අවසාන සිතියමේ ප්‍රතිදානයකි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "භූගෝලීය තොරතුරු පද්ධතියේ (GIS) ප්‍රතිදාන උපාංග දෙක කුමක්ද?",
+        "choices": [
+            "සුපරික්ෂකය සහ මුද්‍රණ යන්ත්‍රය",
+            "මොනිටරය සහ මුද්‍රණ යන්ත්‍රය",
+            "ඩිජිටල්කරණ ටැබ්ලටය සහ සුපරීක්ෂකය",
+            "මූසිකය සහ යතුරු පුවරුව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "දත්ත විශ්ලේෂණයේ දී භාවිත කරන විසරණය පිළිබඳ මිනුම් දෙකක් සඳහන් වරණය කුමක්ද?",
+        "choices": [
+            "පරාසය සහ අන්තර් - චතුර්ථක පරාසය",
+            "මධ්‍යස්ථය සහ මාතය",
+            "පරාසය සහ මධ්‍යන්‍යය",
+            "මධ්‍යන්‍යය සහ විචලතාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "දුරස්ථ සංවේද දත්ත ග්‍රහණය කර ගැනීම සඳහා වාසර වේදිකාවල භාවිත කරන වාහක වර්ග පමණක් අඩංගු වරණය කුමක්ද?",
+        "choices": [
+            "හෙලිකොප්ටරය, බැලුනය සහ චන්ද්‍රිකාව",
+            "රොකට්, අභ්‍යවකාශ යානය සහ හෙලිකොප්ටරය",
+            "ගුවන් යානය, හෙලිකොප්ටරය සහ බැලුනය",
+            "බැලූනය, හෙලිකොප්ටරය සහ දොඹකරය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "දත්ත වැලක් යන්නෙන් අදහස් කරන්නේ, දත්ත කට්ටලය",
+        "choices": [
+            "ආරෝහණ හෝ අවරෝහණ පිළිවෙළට සකස් කිරීම ය.",
+            "රූපික ඉදිරිපත් කිරීමක් සඳහා සකස් කිරීම ය.",
+            "කාණ්ඩ හෝ වර්ග වලට බෙදීම ය.",
+            "අනුපිළිවෙළකින් තොරව සකස් කිරීම ය‍."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ගැලීම් (ධාරා) සිතියමක් මගින් නිරූපණය කිරීමට වඩාත් සුදුසු දත්ත වන්නේ",
+        "choices": [
+            "වර්ෂාපතන ව්‍යාප්තියයි.",
+            "ජන සංක්‍රමණයයි.",
+            "නගරවල ජනගහනයයි.",
+            "වී නිෂ්පාදනයයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ගුණාත්මක දත්ත සඳහා උදාහරණයක් වන්නේ පහත සඳහන් ඒවායින් කවරක්ද?",
+        "choices": [
+            "දිස්ත්‍රික්කයක සිදු වන මාර්ග අනතුරු සංඛ්‍යාව",
+            "කිසියම් නගරයක දෛනික උෂ්ණත්වය",
+            "දේශගුණික විපර්යාසවල බලපෑම පිළිබඳ අදහස්",
+            "භූගෝල විද්‍යාව සඳහා සිසුන් ලබාගත් ලකුණු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "1:50 000 භූ ලක්ෂණ සිතියමක රතු, දුඹුරු සහ කළු වර්ණ යෙදූ කඩ ඉරි සංකේත මගින් අනුපිළිවෙළින් දැක්වෙන ලක්ෂණ තුන වන්නේ",
+        "choices": [
+            "නගර සභා මායිම, අතිරේක සමෝච්ඡ රේඛාව සහ අඩි පාරයි.",
+            "කරත්ත පාර, ග්‍රාම නිලධාරි කොට්ඨාස මායිම සහ අඩි පාරයි.",
+            "ග්‍රාම නිලධාරි කොට්ඨාස මායිම, මහ නගර සභා සීමාව සහ ජිප් පාරයි.",
+            "අතිරේක සමෝච්ඡ රේඛාව, කරත්ත පාර සහ පළාත් පාලන ආයතන මායිමයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "පෘථිවි පෘෂ්ඨයෙන් ආරම්භ වන වායුගෝලයේ ප්‍රධාන ස්ථර හතර අනුපිළිවෙළින් දැක්වෙන වරණය කුමක්ද?",
+        "choices": [
+            "තාප ගෝලය, මෙසෝ ගෝලය, අපරිවර්තී ගෝලය සහ පරිවර්තී ගෝලය",
+            "අපරිවර්තීගෝලය, පරිවර්තී ගෝලය, මෙසෝ ගෝලය සහ තාප ගෝලය",
+            "මෙසෝගෝලය, තාපගෝලය, අපරිවර්තී ගෝලය සහ පරිවර්තී ගෝලය",
+            "පරිවර්තී ගෝලය, අපරිවර්තී ගෝලය, මෙසෝගෝලය සහ තාප ගෝලය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "පෘථිවි කබොලෙහි සිට හරය දක්වා ඇති අසන්තති තුන අනුපිළිවෙළින් දැක්වෙන වරණය කුමක්ද ?",
+        "choices": [
+            "මොහොරෝ විසික්, කොන්රඩ් සහ ගුටෙන්බර්ග්",
+            "කොන්රඩ්, මොහොරෝ විසින් සහ ගුටෙන්බර්ග්",
+            "කොන්රඩ්, ගුටෙන්බර්ග් සහ මොහොරෝ විසික්",
+            "මොහොරෝ විසින්, ගුටෙන්බර්ග් සහ කොන්රඩ්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ලෝකයේ සිදු වූ භූමිකම්පාවල අපිකේන්ද්‍ර බහුතරයක් පිහිටා ඇත්තේ",
+        "choices": [
+            "ඇන්ටාක්ටිකා කලාපයේය.",
+            "හිමාලයානු කලාපයේය.",
+            "පැසිෆික් සාගරයේ ය.",
+            "අප්‍රිකානු සුවිභේද නිම්නයේය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "යාබද රූප සටහනේ පෙන්වන පරිදි සුළං ක්‍රියාකාරිත්වය මගින් නිර්මාණය වන භූ රූපය කුමක්ද?",
+        "choices": [
+            "ඩැම",
+            "ඉන්සෙල්බර්ග්",
+            "සොයිගමය",
+            "බියුටය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "වාඩි' යනු කුමක්ද?",
+        "choices": [
+            "වැසි සමයේ දී හැර අනෙකුත් කාලවල දී වියළී යන ගංගා පතුලකි.",
+            "ග්ලැසියර් ක්‍රියාකාරිත්වය හේතුවෙන් සෑදෙන භූ රූපයකි.",
+            "ශුෂ්ක ප්‍රදේශවල දක්නට ලැබෙන ස්ථිර ගංගාවකි.",
+            "කාන්තාර ප්‍රදේශවල ඇති භූගත ජලධරයකි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "වායුගෝලයේ වායු ඒකකයක අඩංගු ජල වාෂ්ප ප්‍රමාණය යනු",
+        "choices": [
+            "නිරපේක්ෂ ආර්ද්‍රතාවයි.",
+            "විශේෂිත ආර්ද්‍රතාවයි.",
+            "සාමාන්‍ය ආර්ද්‍රතාවයි.",
+            "අඩු ආර්ද්‍රතාවයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "කෙපන්ගේ දේශගුණික වර්ගී කරණයට අනුව, නිවර්තන තෙත් දේශගුණය, නිවර්තන මෝසම් දේශගුණය සහ නිවර්තන තෙත් හා වියළි දේශගුණය සඳහා පිළිවෙලින් භාවිත කරන සංකේත අක්ෂර මොනවාද?",
+        "choices": [
+            "Aw, Am, Af",
+            "Af, Am, Aw",
+            "Am, Af, Aw",
+            "Aw, Af, Am"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "එක්සත් ජාතීන්ගේ පරිසර වැඩසටහන (UNEP) විසින් සෑම වසරකම ලෝක පරිසර දිනය ලෙස නම් කර ඇත්තේ",
+        "choices": [
+            "අප්‍රේල් 22 යි.",
+            "ජුනි 5 යි.",
+            "ඔක්තෝබර් 16 යි.",
+            "දෙසැම්බර් 1යි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "පෘථිවියේ මිරිදිය ජලයෙන් විශාලතම ප්‍රතිශතය අඩංගු වන්නේ පහත සඳහන් ඒවායින් කවරක ද?",
+        "choices": [
+            "ගංගා",
+            "විල්",
+            "ග්ලැසියර සහ අයිස් තට්ටු",
+            "වායුගෝලය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "වසර පුරා 20°C සහ 25°C අතර ඒකාකාර උෂ්ණත්වයක් ඇති නමුත් සමහර විට එය 43°C සහ 49°C දක්වා ඉහළ යන බියෝම වර්ගය කුමක්ද?",
+        "choices": [
+            "නිවර්තන වැසි වනාන්තර",
+            "ටයිගා වනාන්තර",
+            "සැවානා",
+            "කාන්තාර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ස්වාභාවික උපද්‍රවයක් සහ ව්‍යසනයක් අනුපිළිවෙළින් දැක්වෙන වරණය කුමක්ද?",
+        "choices": [
+            "ගිනිකඳු පිපිරීම සහ භුමිකම්පා",
+            "දේශගුණික විපර්යාස සහ ගිනිකඳු පිපිරීම",
+            "නියඟ සහ බෝග හානි",
+            "නායයෑම සහ ගංවතුර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "බැගියෝ' යනු කුමක්ද?",
+        "choices": [
+            "දකුණු පිලිපීනයේ සුළි කුණාටුවකි",
+            "ඉන්දියන් සාගරයේ සුළි කුණාටුවකි",
+            "පැසිෆික් කලාපයේ සුළං රටාවකි",
+            "ඉන්දුනීසියාවේ ගිනි කන්දකි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "මෑතක දී ශ්‍රී ලංකාවේ ලුණු නිෂ්පාදනය අඩු වීමට සෘජු වශයෙන් බලපෑවේ පහත සඳහන් සාධක අතුරෙන් කවරක් ද?",
+        "choices": [
+            "සුළං රටාවේ වෙනස්වීම",
+            "අධික වර්ෂාපතනය",
+            "වායු දූෂණය ඉහළයාම",
+            "දිගුකාලීන නියඟය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "දකුණු ආසියානු සහයෝගිතා පරිසර වැඩසටහන (SACEP) විසින් පාරිසරික පද්ධති සහ ප්‍රජා වන වගාව යන විෂය ක්ෂේත්‍රය පවරා දී ඇති රට කුමක් ද?",
+        "choices": [
+            "ඉන්දියාව",
+            "බංගලාදේශය",
+            "භූතානය",
+            "පාකිස්ථානය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ මධ්‍යම පරිසර අධිකාරිය (CEA) යනු",
+        "choices": [
+            "සංරක්ෂිත ස්වාභාවික වාසස්ථාන පිළිබඳ රෙගුලාසි ක්‍රියාත්මක කරන සංවිධානයකි.",
+            "තිරසර සංවර්ධනය ප්‍රවර්ධනය කරන රාජ්‍ය නොවන සංවිධානයකි.",
+            "පාරිසරික නීති සහ ප්‍රතිපත්ති බලාත්මක කරන රජයේ නියාමන ආයතනයකි.",
+            "වෙරළ සංරක්ෂණය සඳහා වගකිව යුතු පරිසර අමාත්‍යංශයේ අධිකාරියකි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "මානව භූ දර්ශන තුනක් නිවැරදිව දැක්වෙන වරණය කුමක්ද ?",
+        "choices": [
+            "යටිතල පහසුකම්, නාගරීකරණය සහ කාර්මීකරණය",
+            "කෘෂිකර්මාන්තය, ගංගා ද්‍රෝණිය සහ ප්‍රවාහනය",
+            "නාගරීකරණය, ජනාවාස සහ කඳු පද්ධතිය",
+            "ප්‍රවාහනය, කාර්මීකරණය සහ ජලවහන පද්ධතිය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "2012 ජන සංගණනයට අනුව කොළඹ හැරුණු විට ශ්‍රී ලංකාවේ වැඩිම ජන සංඛ්‍යාවක් සිටින දිස්ත්‍රික්ක තුන අනුපිළිවෙළින් දැක්වෙන වරණය කුමක්ද?",
+        "choices": [
+            "කුරුණෑගල, ගාල්ල සහ මාතර",
+            "මහනුවර, ගම්පහ සහ කළුතර",
+            "ගම්පහ, කළුතර සහ රත්නපුර",
+            "ගම්පහ, කුරුණෑගල සහ මහනුවර"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "පසුගිය දශක තුන තුළ ශ්‍රී ලංකාවේ දළ උපත් අනුපාතිකය පහත වැටීමට හේතු වූ සාධක දෙකක් ඇතුළත් වරණය කුමක්ද?",
+        "choices": [
+            "විවාහය ප්‍රමාද වීම සහ අභ්‍යන්තර සංක්‍රමණය වැඩිවීම",
+            "පිටතට සංක්‍රමණය වැඩිවීම සහ සෞඛ්‍ය සේවයේ වර්ධනය",
+            "උපත් පාලන ක්‍රම භාවිතය වැඩිවීම සහ බොහෝ කාන්තාවන් උසස් අධ්‍යාපනයට යොමු වීම",
+            "විවාහ වැඩිවීම සහ උපත් පාලන ක්‍රම භාවිතය වැඩිවීම"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ලෝකයේ ග්‍රාමීය ජනාවාසවල ජනතාව නිරත වන ප්‍රාථමික ආර්ථික ක්‍රියාකාරකම් තුනක් වන්නේ",
+        "choices": [
+            "සත්ත්ව පාලනය, සල ගොවිතැන සහ වෙළඳාමයි.",
+            "ධීවර කර්මාන්තය, සත්ත්ව පාලනය සහ ගොවිතැනයි.",
+            "සත්ත්ව පාලනය, රෙදි පිළි නිෂ්පාදනය සහ වන වගාවයි.",
+            "වන වගාව, සල ගොවිතැන සහ රෙදි පිළි නිෂ්පාදනයයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ ගැමි නාගරික ජනාවාස බොහෝ විට නිර්මාණය වන්නේ",
+        "choices": [
+            "තෙත් කලාපීය නාගරික ජනාවාස අවට ය.",
+            "වියළි කලාපීය වැව් ජනාවාස අවට ය.",
+            "මහවැලි ජනාවාස අවට ය.",
+            "ප්‍රධාන නාගරික ජනාවාස අවට ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ලෝක නාගරිකරණයේ සුවිශේෂී ගති ලක්ෂණයක් වන්නේ",
+        "choices": [
+            "නාගරික ප්‍රදේශවල සිට ග්‍රාමීය ප්‍රදේශ වලට ජන සංක්‍රමණයයි.",
+            "ග්‍රාමීය ප්‍රදේශවල සිට නාගරික ප්‍රදේශ වලට ජන සංක්‍රමණයයි.",
+            "පෙර කවරදාටත් වඩා අඩු ජනතාවක් නගරවල ජීවත් වීමයි.",
+            "ස්වාභාවික වර්ධනයෙන් පමණක් ජනගහනය වැඩිවීමයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ලෝක නාගරිකරණයේ සෘජු පාරිසරික ගැටලුවක් දැක්වෙන වරණය කුමක්ද?",
+        "choices": [
+            "නාගරික තදබදය",
+            "ඝන අපද්‍රව්‍ය බැහැර කිරීම",
+            "නාගරික දරිද්‍රතාව",
+            "සමාජයීය වෙන් කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ නාගරික මධ්‍ය ස්ථානයක් හඳුනා ගැනීම සඳහා භාවිත කරන නිර්ණායකය වන්නේ",
+        "choices": [
+            "පරිපාලන මායිම් ය.",
+            "ජනගහනයේ විශාලත්වය ය.",
+            "නාගරික කාර්යන් සංඛ්‍යාවය.",
+            "කෘෂිකාර්මික නොවන අංශයේ ශ්‍රම අනුපාතය ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ නාගරික ක්‍රියාවලියේ කැපී පෙනෙන ලක්ෂණයක් පෙන්නුම් කරන වරණය කුමක් ද?",
+        "choices": [
+            "බස්නාහිර පළාතේ පමණක් නගර ප්‍රසාරණය වීම",
+            "සමහර ග්‍රාමීය ප්‍රදේශ නාගරික ප්‍රදේශ ලෙස නැවත වර්ගීකරණය කිරීම",
+            "ගෝලීය මට්ටමට සාපේක්ෂව නාගරීකරණය ඉහළ මට්ටමක පැවතීම",
+            "නාගරික ජනගහනයේ ඉහළම සංකේන්ද්‍රණය උඩරට ප්‍රදේශයේ පැවතීම"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "සංවර්ධනය වෙමින් පවතින රටවල කෘෂිකර්මාන්තයේ පොදු ලක්ෂණයක් දැක්වෙන වරණය කුමක්ද ?",
+        "choices": [
+            "දැඩි තරගකාරිත්වය සහ විශේෂීකරණය",
+            "හොඳින් සංවිධානය වූ ජාත්‍යන්තර වෙළඳාම",
+            "යාන්ත්‍රීකරණය මත බෙහෙවින් රඳා පැවතීම",
+            "කුඩා පරිමාණයේ යැපුම් ගොවිතැන"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ලෝක ඛනිජ තෙල් වෙළදාමේ කැපී පෙනෙන ලක්ෂණයක් දැක්වෙන වරණය කුමක්ද?",
+        "choices": [
+            "මුහුදෙන් පමණක් ප්‍රවාහනය කෙරේ",
+            "ගෝලීය වශයෙන් අලෙවි කරන භාණ්ඩයකි",
+            "මැද පෙරදිග රටවල් පමණක් නිෂ්පාදනය කරයි",
+            "වර්තමානයේ දී අඩු අවධානයක් අලෙවිකරණයට ලැබී ඇත."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ශ්‍රී ලංකාවේ වැලි කැණීම හා සම්බන්ධ ප්‍රධාන පාරිසරික ගැටලුවක් වන්නේ",
+        "choices": [
+            "භූගත ජල මට්ටම ඉහළ යාමයි.",
+            "පුළුල්ව පැතිරි තිබෙන ඉඩම් හායනයයි.",
+            "දේශගුණික විපර්යාස කෙරෙහි සෘජු බලපෑමයි.",
+            "අධික වායු දුෂණයයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ඇඟලුම් කර්මාන්ත ශ්‍රී ලංකාවේ බස්නාහිර පළාතේ ස්ථානගත වීමට දායක වූ ප්‍රධානතම සාධකය වන්නේ",
+        "choices": [
+            "සමාජ ගැටලු අඩු වීමය.",
+            "අඩු ජීවන වියදම ය.",
+            "ලාභදායී අමුද්‍රව්‍ය ය.",
+            "වඩා හොඳ යටිතල පහසුකම් ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) විසින් හඳුනාගෙන ඇති පරිදි ගෝලීය කරණ ක්‍රියාවලිය සිදු වන ප්‍රධාන ක්ෂේත්‍ර දෙකක් වන්නේ",
+        "choices": [
+            "වෙළඳ ගනුදෙනු සහ දැනුම බෙදා හැරීම ය.",
+            "යටිතල පහසුකම් සහ ප්‍රාග්ධන ආයෝජන ය.",
+            "සංක්‍රමණය සහ ප්‍රවාහන සේවා ය.",
+            "වෙළඳ ගනුදෙනු සහ ප්‍රවාහන සේවා ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Geography",
+        "category": "social science",
+        "question": "සංවර්ධනය වෙමින් පවතින රටවල ගෝලීය කරණයේ අහිතකර ආර්ථික බලපෑමක් පෙන්නුම් කරන්නේ පහත සඳහන් කවර වරණයෙන්ද?",
+        "choices": [
+            "වෙළදාම සහ ආයෝජනවල වැඩි වීම",
+            "දේශීය කර්මාන්ත සහ ආයෝජන පහත වැටීම",
+            "ඉහළ කාර්යක්ෂමතාවයකට මඟපාදන තරගකාරිත්වය",
+            "ජාත්‍යන්තර මූල්‍ය වෙළඳ පොළට ප්‍රවේශවීමේ හැකියාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=39533&wpfd_file_id=116106&token=&preview=1"
+        }
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පාපන්දු ක්‍රීඩා තරගයක දී ක්‍රීඩා කළ හැකි අවම ක්‍රීඩක සංඛ්‍යාව වන්නේ, \n",
+        "choices": [
+            "7 කි.",
+            "9 කි.",
+            "10 කි.",
+            "11 කි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "විෂම දන්තීය වීම යනු, \n",
+        "choices": [
+            "වාර දෙකකදී දත් ඇතිවීමයි.",
+            "විවිධ අයුරින් සැකසුනු දත් ඇතිවීමයි.",
+            "ශක්තිමත් එනමලයක් පිහිටීමයි.",
+            "ස්ථිර දත් ඇතිවීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ජීවත් වීමේ අරුත හඳුනාගෙන, ගුණධර්ම පිළිබඳව අවබෝධයෙන් කටයුතු කිරීම පුද්ගලයෙකුගේ, \n",
+        "choices": [
+            "කායික යහපැවැත්මයි.",
+            "අධ්‍යාත්මික යහපැවැත්මයි.",
+            "මානසික යහපැවැත්මයි.",
+            "සාමාජීය යහපැවැත්මයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සමාජය තුළ වෙසෙන පුද්ගලයෝ එක සමාන නොවන අතර විවිධ වෙනස්කම් වලින් යුක්ත වෙයි. මෙසේ පුද්ගල විවිධත්වයට බලපාන හේතු වන්නේ, \n",
+        "choices": [
+            "විවිධ දක්ෂතා",
+            "විවිධ ආර්ථික තත්ත්ව",
+            "විවිධ ජාතීන්",
+            "මේ සියල්ලම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "අන්තර් පුද්ගල සබඳතා ප්‍රමාණාත්මකව හා ගුණාත්මකව ලෙසත්, අවට පරිසරය සමතුලිත ලෙසත්, පවත්වා ගැනීම සමාජයීය සෞඛ්‍ය නම් වේ. අන්තර් පුද්ගල සබඳතා ගුණාත්මකව පවත්වා ගැනීම නිසා, \n",
+        "choices": [
+            "තනිකම මග හැරේ",
+            "යහපත් සිහිවිලි වර්ධනය වේ",
+            "දැනුම බෙදා හදා ගැනේ",
+            "සහායක කාණ්ඩ මග නොහැරේ"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "කශේරුකාවේ පහළ කොටස (කටී කශේරුකාව) අනවශ්‍ය ලෙස ඉදිරියට තල්ලු වී පිහිටීම, \n",
+        "choices": [
+            "පැති කුදය",
+            "පැතළි පිටුපස",
+            "පසු කුදය",
+            "ඔටු කුදය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "යොවුන් වියේ නිසි පෝෂණයක් නොලැබීම නිසා ගැහැනු දරුවකුට අනාගතයේ දී මුහුණ දීමට සිදුවන අහිතකර බලපෑමක් වන්නේ, \n",
+        "choices": [
+            "යහපත් ජීව ගුණයෙන් යුක්ත වීම.",
+            "අඩු බර දරු උපත් ඇතිවීම.",
+            "රෝගවලට ඔරොත්තු දීමේ හැකියාව ඇතිවීම.",
+            "ක්‍රියාශීලී පුද්ගලයෙකු වීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "නිශ්චිත ක්‍රීඩා උපකරණ හා නිශ්චිත ක්‍රීඩා පිටි යොදා ගනිමින් නීතිරීති වලට අනුකූලව පවත්වනු ලබන ක්‍රීඩා, \n",
+        "choices": [
+            "සුළු ක්‍රීඩා වේ.",
+            "විනෝද ක්‍රීඩා වේ.",
+            "සංවිධානාත්මක ක්‍රීඩා වේ.",
+            "සංවිධානාත්මක නොවන ක්‍රීඩා වේ."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පේශීමය ශක්තිය මැනීම සඳහා ඇති විවිධ පරීක්ෂණ අතරින් ශ්‍රී ලංකාවේ පාසල්වල සිදුකරනු ලබන පරීක්ෂණයකි, \n\n\n",
+        "choices": [
+            "මීටර් 100 දිවීම.",
+            "බීෆ් පරීක්ෂණය",
+            "හිටි දුර පැනීමේ පරීක්ෂණය",
+            "වාඩි වී ඉදිරියට පැනීමේ පරීක්ෂණය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "උස පැනීමේ ශිල්පීය ක්‍රම අතරින් වර්තමානයේ වැඩි දක්ෂතා දැක්විය හැකි ශිල්පීය ක්‍රමය කුමක් ද? \n",
+        "choices": [
+            "ස්ට්‍රැඩල් ක්‍රමය (Straddel)",
+            "ෆොස්බරි ෆ්ලොප් ක්‍රමය (Fosbury flop)",
+            "කතුරු පිම්ම (Scissor jump)",
+            "පෙරදිග පිම්ම (Eastern cut off)"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ළමා අපයෝජනයක් නොවන්නේ පහත සඳහන් ඒවායින් කවරක් ද? \n",
+        "choices": [
+            "ළමයින් මෙහෙකාර සේවයට යොදා ගැනීම.",
+            "ළමයින් සොල්දාදුවන් ලෙස බඳවා ගැනීම.",
+            "ගෙදර දොර වැඩකටයුතුවලට ළමයින්ගේ උදව් ලබාගැනීම.",
+            "ළමයින් යාචකයන් ලෙස යොදවා ගැනීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "වගකීම් රහිත ලිංගික චර්යා නිසා ඇතිවිය හැකි හානිදායක තත්ත්වයන් වන්නේ, \n",
+        "choices": [
+            "අනපේක්ෂිත ගැබ් ගැනීම.",
+            "මානසිකව බිඳ වැටීම.",
+            "ලිංගිකව සම්ප්‍රේෂණය වන රෝගවලට ගොදුරු වීම.",
+            "ඉහත සියල්ලම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "අභියෝගාත්මක අවස්ථාවලදී මානසිකව හා ශාරීරිකව අප තුළ හට ගන්නා ප්‍රතිචාරය, \n",
+        "choices": [
+            "උදාසීනත්වයයි.",
+            "සහකම්පනයයි.",
+            "ආවේගයයි.",
+            "ආතතියයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "9",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1BHVc-H5XCYasX1HaROOcSNc1jrA3cg_c "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පෙර ළමා වියේ පසුවන දරුවකුගේ මනෝ සාමාජයීය අවශ්‍යතා ඉටුවීම සඳහා වැඩිහිටියන් විසින් වඩාත් අවධානයට යොමු කළ යුතු කරුණක් වන්නේ,",
+        "choices": [
+            "බෝවන රෝගවලින් ආරක්ෂා කිරීම.",
+            "යහපත් සෞඛ්‍ය පුරුදු ඇති කිරීම.",
+            "ආදරය සහ සෙනෙහස දැක්වීම.",
+            "නිසි පෝෂණයක් ලබාදීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "වේගයෙන් ශරීර වර්ධනය සිදුවන මෙම අවධියේදී රවීට හොඳ පෝෂණයක් ලැබිය යුතුය. එසේම සමවයස් කාණ්ඩවල ඇසුරට බොහෝ ප්‍රිය කරයි. තමාගේ හැකියාවන් පෙන්නුම් කිරීමට මෙන්ම තමා අගය කරනු දැකීමට ඔහු දැඩි කැමැත්තක් දක්වයි.ඉහත තොරතුරු අනුව රවී පසු කරන ජීවිත අවධිය වන්නේ,",
+        "choices": [
+            "පසු ළමා විය",
+            "නව යොවුන් විය",
+            "තරුණ විය",
+            "මැදි විය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පහත දැක්වෙන්නේ එක්තරා ජීවන අවධියක ගැටළු හා අභියෝග කිහිපයකි. නිසි අධ්‍යාපන සුදුුසුකම් නොතිබීම, සුදුසු රැකියාවක් නොලැබීම, අවිවේකී බව හා තරගකාරීත්වය යන ගැටළු සහ අභියෝගවලට දැඩි ලෙස මුහුණ දීමට සිදුවන ජීවන අවධිය වන්නේ,",
+        "choices": [
+            "නව යොවුන් විය",
+            "තරුණ විය",
+            "මැදි විය",
+            "වැඩිහිටි විය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ක්‍රීඩාවේදී භාවිතා වන ස්ථීතික ඉරියව් අවස්ථාවකි.",
+        "choices": [
+            "උස පැනීමේ නික්මීමේ අවස්ථාව",
+            "දුර පැනීමේ පියාසරිය අවස්ථාව",
+            "ධාවන ආරම්භයේ වෙන් අවස්ථාව",
+            "කව පෙත්ත විසි කිරීමේ භ්‍රමණ අවස්ථාව"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ක්‍රීඩකයෙකු යගුලිය දමන අවස්ථාවකදී යගුලිය චලනය කරලීම සඳහා (විසි කිරීම සඳහා) යගුලිය මත යොදවනු ලබන බලපෑම හඳුන්වනු ලබන ජීව යාන්ත්‍ර විද්‍යාත්මක මූලධර්මය වන්නේ, \n",
+        "choices": [
+            "බලය",
+            "නම්‍යතාවය",
+            "අවස්ථිතිය",
+            "ගුරුත්ව කේන්ද්‍රය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ගෘහණියන් තම ආහාර පිසීමේදී ආහාරයේ ඇති යකඩ අවශෝෂණය වැඩි කර ගැනීමට ගෙන ඇති පියවරකි,",
+        "choices": [
+            "හාල්මැස්සන් ව්‍යාංජනයට තක්කාලි එකතු කිරීම.",
+            "පලා මැල්ලුමට පොල් එකතු කිරීම.",
+            "මඤ්ඤොක්කා තම්බන විට පියන වසා තැම්බීම.",
+            "ආහාර පිසගත් පසු දෙහි ඇඹුල් එකතු කර ගැනීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සෞඛ්‍යවත් ජීවිතයක් ගත කිරීම සඳහා ආහාර තෝරා ගැනීමේදී සැලකිලිමත් විය යුතු කරුණකි,",
+        "choices": [
+            "සෑම විටම මිලෙන් ඉහළ ආහාර තෝරා ගැනීම.",
+            "රසකාරක යෙදූ ආහාර තෝරා ගැනීම.",
+            "දිනපතා ආහාර වේලට කෙඳි සහිත ආහාර එකතු කර ගැනීම.",
+            "තෙල්, මිරිස්, ලුණු වැඩිපුර ආහාරයට එකතු කර ගැනීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "රසකාරක, වර්ණකාරක හා සුවඳකාරක යොදා කල්තබා ගත හැකි හා භාවිතය පහසුවන ආකාරයට සකස් කරන ලද ආහාර හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "පිරියම් කරන ලද ආහාර",
+            "ස්වාභාවික ආහාර",
+            "නිසරු ආහාර",
+            "ක්ෂණික ආහාර"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "10 ශ්‍රේණිියේ ඉගෙනුම ලබන නිර්මලා තුලින් පහත රෝග තත්ත්වයන් පෙන්නුම් කරන්නට විය. ඇස්පෙනීමේ දුර්වලතා ඇතිවිය, පාචනයට පහසුවෙන් ගොදුරු වීම, ලෙඩ රෝගවලට දක්වන ප්‍රතිරෝධය අඩුවීම. ඉහත රෝග ලක්ෂණ වලක්වා ගැනීමට නිර්මලාට ලබාදිය හැකි උපදේශයකි,",
+        "choices": [
+            "රජයෙන් ලබාදෙන යකඩ පෙති නිසි පරිදි ලබා ගන්නා ලෙස",
+            "රජයෙන් ලබාදෙන විටමින් A මාත්‍රාව නිසි පරිදි ලබා ගැනීම.",
+            "අයඩින් මිශ්‍ර ලුණු ආහාරයට ගන්නා ලෙස",
+            "ප්‍රධාන ආහාර වේලෙන් පසු තේ කෝප්පයක් පානය කරන ලෙස"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "දේහ ප්‍රතිශක්තිකරණ පද්ධතිය ඇතුළු ආහාරවලට එරෙහිව දක්වනු ලබන සංවේදී ප්‍රතිචාරය හඳුන්වන්නේ,",
+        "choices": [
+            "අසාත්මිකතාව",
+            "පෝෂණ ඌණතාවය",
+            "ග්‍රැස්ට්‍රයිටීස්",
+            "විජලනය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ආහාරයේ ගුණාත්මක බව අඩුවන ආකාරයට සිදුකරනු ලබන ක්‍රියාමාර්ග හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "ආහාර දුෂණය",
+            "ආහාර පරිරක්ෂණය",
+            "ආහාර බලගැන්වීම",
+            "ආහාර බාල කිරීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මල බද්ධය, අතීසාරය, ඇපෙන්ඩිසයිට්‍රිස් වැනි රෝග තත්ත්වයන් මගින් වැඩි බලපෑමක් ඇති කරනු ලබන පද්ධතිය වන්නේ,",
+        "choices": [
+            "බහිස්ස්‍රාවීය පද්ධතිය",
+            "රුධිර සංසරණ පද්ධතිය",
+            "ස්වසන පද්ධතිය",
+            "ආහාර ජීර්ණ පද්ධතිය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ආමාශික යුෂයෙහි ඇති ආම්ලිකතාවය මගින් ආමාශික බිත්තියට ඇතිවන අහිතකර තත්ත්වයන් වළක්වනු ලබන්නේ,",
+        "choices": [
+            "ශ්ලේෂ්මල මගිිනි.",
+            "එන්සයිම මගිිනි.",
+            "පිත් යුෂ මගිිනි.",
+            "කේටය මගිිනි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "විවිධ දක්ෂතා වලින් සමන්විත කණ්ඩායම් 06ක් සහභාගීවන වොලිබෝල් තරගාවලියක සත්‍යමය ජයග්‍රහකයා තේරීම සඳහා,වඩාත් සුදුසුම තරගාවලි ක්‍රමය වන්නේ,",
+        "choices": [
+            "පැරදි පිළිමලුන් පිටුදැකීමේ ක්‍රමය - ( Knockout Tournament )",
+            "සාකල්‍ය ක්‍රමය - ( League Tournament )",
+            "මිශ්‍ර ක්‍රමය - ( Combination Tournament )",
+            "අභියෝග ක්‍රමය - ( Challenge Tournament )"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "කණ්ඩායම් 10 ක් සහභාගීවන ක්‍රිකට් තරගාවලියක පැරදි පිළිමලුන් පිටුදැකීමේ ක්‍රමයට තරග සටහන සකස් කිරීමේදී කණ්ඩායම් කීයකට වාසි ලබාදිය යුතුද?",
+        "choices": [
+            "02 යි.",
+            "04 යි.",
+            "06 යි.",
+            "08 යි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සෞඛ්‍ය ආශ්‍රිත යෝග්‍යතා සාධකයකි,",
+        "choices": [
+            "වේගය",
+            "ශරීරික ශක්තිය",
+            "සමායෝජනය",
+            "උලැගිිතාවය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "අද සමාජය තුල මානසික ආතතියට ලක් වූ පුද්ගලයින් විශාල ලෙස දක්නට ඇත. ඔවුන්ට සමාජීය වශයෙන් මුහුණ දීමට සිදුවිය හැකි බලපෑමකි,",
+        "choices": [
+            "මතකය අඩුවීම.",
+            "පිළිගැනීම අඩුවීම.",
+            "අධ්‍යාපන කටයුතු අඩාල වීම",
+            "රෝගවලට ඔරොත්තු දීමේ හැකියාව අඩුවීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මනා පෙනුමක් ලැබීම, මාංශපේශී හා රුධිරනාල මනා ලෙස වර්ධනය වීම, ආබාධවලට ගොදුරු වීම අවම වීම, මාංශපේශී සංකෝචනය වර්ධනය වීම. ඉහත සඳහන් යහපත් ලක්ෂණ අත්පත් කරගත හැකි සෞඛ්‍යාරක්ෂිත යෝග්‍යතා ගුණාංගය වන්නේ,",
+        "choices": [
+            "සංකෝචන හැකියාව වර්ධනය කර ගැනීමයි.",
+            "උලැගිතාවය දියුණු කර ගැනීමයි.",
+            "පේෂිමය ශක්තිය වර්ධනය කර ගැනීමයි.",
+            "නම්‍යතාවය දියුණු කර ගැනීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ශක්තිමත් වහල සහිත නිවෙස් ඉදිකිරීම, ගොඩනැගිලි ආශ්‍රිත අනතුරු දායක ගහකොල ඉවත් කිරීම, උස්ගස්වල අතු කපා දැමීම. ආපදා පාලනය කරගත හැකි ක්‍රියාවන් කිහිපයක් ඉහත දැක්වේ. මෙවැනි ක්‍රියාවන් මගින් අපිට පාලනය කරගත හැකි ආපදා තත්ත්වය වන්නේ,",
+        "choices": [
+            "සුනාමි",
+            "නායයාම",
+            "ගංවතුර",
+            "සුළිසුලං"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ප්‍රථමාධාර ක්‍රමයක් වන PRICES ප්‍රතිකාරයට අයිති E අක්ෂරයෙන් හැඳින්වෙන්නේ, \n",
+        "choices": [
+            "පීඩනයක් යෙදීම",
+            "ආධාරකයක් ලබාදීම",
+            "විවේකීව තැබීම",
+            "එම කොටස ඔසවා තැබීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පාසලේ සිසු සිසුවියන්ගේ ක්‍රීඩා කුසලතා මැනීම සඳහා වාර්ෂිකව පවත්වනු ලබන වඩාත් සුදුසුම වැඩසටහන වන්නේ,",
+        "choices": [
+            "ශරීර සුවතා වැඩසටහන",
+            "ක්‍රීඩා වර්ණ ප්‍රධාන උත්සවය",
+            "ක්‍රීඩා හා ශාරීරික අධ්‍යාපන දිනය",
+            "නිවාසාන්තර ක්‍රීඩා තරගය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ජාත්‍යන්තර තරගාවලියකට සහභාගි වී රන් පදක්කමක් හිමිකරගත් ක්‍රීඩකයෙකුට තරගයෙන් පසු පරීක්ෂණයකට භාජනය කිරීමෙන් අනතුරුව පහත සඳහන් අවස්ථාවන්ට මුහුණ දීමට සිදුවිය. රන් පදක්කම අහිමි වීම, ක්‍රීඩා තහනමකට ලක්වීම, තමාගේ රටට දැඩි අපකීර්තියක් ඇතිවීම. මෙම ක්‍රීඩකයාට එසේ වීමට හේතුව විය හැක්කේ,",
+        "choices": [
+            "විනිශ්චය මණ්ඩලයේ තීරණයට එකග නොවූ නිසා විය හැක.",
+            "අනිකුත් ක්‍රීඩකයකුට බාධා කල නිසා විය හැක.",
+            "තහනම් උත්තේජක භාවිතා කිරීම නිසා විය හැක.",
+            "ක්‍රීඩා නීතිරීති කඩකල නිසා විය හැක."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ජගත් විසින් ශාරීරික අධ්‍යාපන ප්‍රශ්නයකට සපයන ලද පිළිතුරක් පහත දැක්වේ.\nවිශ්කම්භය මීටර් 2.135 කි. වෘත්තය හා ඊට සම්බන්ධ කෝණය 34.92° ක් බවත්, නැවතුම් පුවරුවක් සවිකර ඇති බවත්ය, ජගත් මෙහි ලියා ඇත්තේ,\n.",
+        "choices": [
+            "හෙල්ල විසි කිරීමේ ක්‍රීඩා පිටිය සම්බන්ධවය.",
+            "කවපෙත්ත විසි කිරීමේ ක්‍රීඩා පිටිය සම්බන්ධවය.",
+            "යගුලිය දැමීමේ ක්‍රීඩා පිටිය සම්බන්ධවය.",
+            "දුර පැනීමේ ක්‍රීඩා පිටිය සම්බන්ධවය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "උස පැනීමේ ඉසව්වට සහභාගී වූ ක්‍රීඩකයෙකු ඔහුගේ පළමු ප්‍රයත්නයේදීම පැනීම සඳහා දුවවිත් පසුව තීරණය වෙනස් කොට හරස් දණ්ඩ යටින් පතිත වීමේ මෙට්ටයට අත තබා දිව යයි. ඔහු පැනීමේ වාරය නැවත ඉල්ලා සිටී. මෙහි විනිශ්චයකරු වශයෙන් ඔබ කළ යුත්තේ,",
+        "choices": [
+            "එම තරගකරුගේ ඉල්ලීමට ඉඩ දීම.",
+            "සියලු තරගකරුවන් පැනීමෙන් පසු ඔහුට අවස්ථාව ලබාදීම.",
+            "එම පැනීම වැරදි පැනීමක් ලෙස පවසා ප්‍රතිඵල ලේඛනයේ සටහන් කිරීම.",
+            "තරගකරු එම ඉසව්වෙන් සම්පූර්ණයෙන්ම ඉවත් කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මීටර් 400 සම්මත ධාවන පථයක පැවැත්වෙන මීටර් 100 × 4 සහාය දිවීමේ තරගයක් සම්බන්ධයෙන් සාවද්‍ය ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "පළමු ධාවකයා කුදු ඇරඹුමකින් තරගය ආරම්භ කල යුතුය.",
+            "දෙවන ධාවකයාට ධාවන පථයේ වක්‍ර කොටසේ දිවීමේ හැකියාව තිබිය යුතුය.",
+            "යශ්ටිය තරගය පුරාම අතින් අත ගෙන යා යුතුය.",
+            "පළමු ධාවකයාට වඩා වැඩි දුරක් තෙවන ධාවකයාට දිවීමට සිදුවීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ෆ්‍රොස්බරි ප්ලොප් ශිල්පීය ක්‍රමය භාවිතා කරමින් ක්‍රීඩා කරන ක්‍රීඩකයාට හිමි අංකය වනුයේ,",
+        "choices": [
+            "25",
+            "19",
+            "45",
+            "27"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මෙවර නිවාසාන්තර ක්‍රීඩා තරගාවලියේ මීටර් 400 × 4 සහාය දිවීමේ ඉසව්වේ ආරම්භ ධාවක ලෙස නීල් ද, මීටර් 110 කඩුලු මතින් දිවීමේ තරගයට කමල් ද, මීටර් 1500 ඉසව්වට ඉන්දු ද සූදානම් විය. මෙම තිදෙනා විසින් පුහුණු විය යුතු ඇරඹුම් ක්‍රම වන්නේ,",
+        "choices": [
+            "නීල් කුදු ඇරඹුම, කමල් සහ ඉන්දු හිටි ඇරඹුම",
+            "කමල් හිටි ඇරඹුම, නීල් සහ ඉන්දු කුදු ඇරඹුම",
+            "නීල් හිටි ඇරඹුම, කමල් සහ ඉන්දු කුදු ඇරඹුම",
+            "ඉන්දු හිටි ඇරඹුම, නීල් සහ කමල් කුදු ඇරඹුම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "2028 වර්ෂයේ ඔලිම්පික් තරගාවලිය පැවැත්වීමට යෝජිත රට වනුයේ,",
+        "choices": [
+            "ඉන්දියාව",
+            "කැනඩාව",
+            "ඇමරිකාව",
+            "චීනය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/13O-8b05RYhHL_ikMcxd_hN4x9O_t34en "
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සෞඛ්‍ය ප්‍රවර්ධන පාසලක් තුළ සිසුන් ට හිතකර මානසික පරිසරයක් ඇති බව පෙන්නුම් කරන ලක්ෂණයකි.",
+        "choices": [
+            "පිරිසිදු පානීය ජලය තිබීම.",
+            "හිංසනයෙන් තොරවීම.",
+            "මනා ගුරු සිසු සබඳතා තිබීම.",
+            "ප්‍රමාණවත් වැසිකිලි පහසුකම් තිබීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "තමාගේත්, තම පවුලේත්, ප්‍රජාවේත්, සෞඛ්‍ය තත්වයට බලපාන සමාජීය, ආර්ථීක හා පාරිසරික සාධක පාලනය කර ගන්නා අතරම එය වැඩි දියුණු කර ගත හැකි කෙනෙකු බවට බලවන්තකරණය වීම,",
+        "choices": [
+            "සෞඛ්‍යය ප්‍රවර්ධනය යි.",
+            "පූර්ණ සෞඛ්‍යය යි.",
+            "ජීවිතයේ ගුණාත්මක බවයි.",
+            "පරාර්ථකාමී බව යි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ළමයෙකු ද නොවන වැඩිහිටියෙකු ද නොවන සංක්‍රාන්ති සමයක පසුවන ජීවිත අවධිය ලෙස සැලකෙන්නේ,",
+        "choices": [
+            "තරුණ විය.",
+            "ළමා විය.",
+            "නව යොවුන් විය.",
+            "පෙර ළමා විය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පහත දැක්වෙන්නේ විමල් පසුවන ජීවන අවධියේ ලක්ෂණ කිහිපයකි. ආර්ථීකය ශක්තිමත් කරගැනීමට වෙහෙසීම, දැඩි අවිවේකී බව, ජව සම්පන්නව කටයුතු කිරීමට ඇති අපහසුතාව. විමල් පසුවන ජීවන අවස්ථාව අයත් කාල සීමාව වන්නේ,",
+        "choices": [
+            "අවු. 20 - 29 ය.",
+            "අවු. 10 - 19 ය.",
+            "අවු. 59 ට වැඩිය.",
+            "අවු. 40 - 59 ය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "අප ගන්නා ආහාරවල ‘සොලැනින්’ නැමැති විෂ රසායනික නිපදවීම සිදුවන අවස්ථාවකි,",
+        "choices": [
+            "ආහාර මත පුස් බැඳීම හේතුවෙන්.",
+            "අර්තාපල් හිරු එළියට නිරාවරණය වීමෙන්.",
+            "බේකරි නිෂ්පාදනයේ දී හා අල පෙති අධික උෂ්ණත්වයට ලක්කිරීමෙන්.",
+            "එකම තෙලෙන් නැවත නැවත ආහාර බැදීම හේතුවෙන්."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "බොහෝ විට මයික්‍රොවේව් උඳුන් භාවිත කර ආහාර පිසීමේදී ආහාරයේ වර්ණය වෙනස් නොවේ. මේ නිසා,",
+        "choices": [
+            "ආහාරයේ ඇති පෝෂක ගුණය රැක ගත හැකිය.",
+            "ආහාර ගැනීමෙන් පසු උදරාබාධ ඇතිවීමට හේතුවේ.",
+            "ආහාරයේ ඇති ගුණාත්මක බව අඩුවේ.",
+            "ආහාර ජීර්ණය අපහසු වේ."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ආහාර සකස් කිරීමේ දී හෝ පරිභෝජනයේ දී එම ආහාර මඟින් හානියක් නැතහොත් අන්තරායක් සිදු නොවන බව තහවුරු කර ගැනීම,",
+        "choices": [
+            "ආහාරය සෞඛ්‍යාරක්ෂිත බවයි.",
+            "ආහාර බල ගැන්වීමයි.",
+            "ආහාර පරිරක්ෂණයයි.",
+            "ආහාර බාලකිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පහතින් දක්වා ඇත්තේ පෝෂණ ඌනතා නිසා ඇතිවන රෝගී තත්ත්වයන් කිහිපයකි, නීරක්තය, ගලගණ්ඩය, ඔස්ටියෝපොරෝසිස්. මෙම තත්ව ඇතිවීම කෙරෙහි බලපාන පෝෂක පිලිවෙලින් සඳහන් කරන්න.",
+        "choices": [
+            "කැල්සියම්, අයඩින්, යකඩ",
+            "යකඩ, අයඩින්, කැල්සියම්",
+            "කැල්සියම්, යකඩ, අයඩින්",
+            "අයඩින්, කැල්සියම්, යකඩ"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ශාරීරික චලන ක්‍රියාකාරකම් වලදී ලීවර ලෙස ක්‍රියාකිරීමට ඍජුවම උපකාරී වන ප්‍රධාන පද්ධති වන්නේ,",
+        "choices": [
+            "ස්නායු හා පේශි පද්ධතිය",
+            "පේශි හා රුධිර සංසරණ පද්ධතිය",
+            "අස්ථී හා ස්නායු පද්ධතිය",
+            "අස්ථී හා පේශි පද්ධතිය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මිනිස් ශරීරය තුළ ලැක්ටික් අම්ලය නිපදවීම සිදුවන්නේ කුමන ජීව රසායනික ක්‍රියාවලියක ප්‍රතිඵලයක් ලෙසද?",
+        "choices": [
+            "මේදය ජීර්ණය වීමේ අවසාන ඵලය ලෙසය.",
+            "නිර්වායු ස්වසනයේ අතුරු ඵලයක් ලෙසය.",
+            "ස්වායු ස්වසනයේ අතුරු ඵලයක් ලෙසය.",
+            "නියමිත වේලාවට ආහාර නොගැනීමේ ප්‍රතිඵලයක් ලෙසය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ආහාර ජීර්ණ පද්ධතියේ හට නොගන්නා රෝගයකි,",
+        "choices": [
+            "ගැස්ට්‍රයිටීස්",
+            "සිරෝසිස්",
+            "කම්මුල්ගාය",
+            "ක්ෂය රෝගය"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සෙමෙන් ක්‍රියාකරන පේශි තන්තු (Slow Twitch Fiber) වලින් ඇතිකරන චලන වල වේගවත් බව, වේගයෙන් ක්‍රියාකරන පේශි තන්තු (Fast Twitch Fiber) වලට සාපේක්ෂව අඩු වුවද වඩා දිගු කාලයක් ක්‍රියාකිරීමේ හැකියාව ඇත. මෙවැනි පේශි තන්තු පිහිටා ඇත්තේ,",
+        "choices": [
+            "කෙටි දුර ධාවකයන් තුළය.",
+            "දුර පනින ක්‍රීඩකයින් තුළය.",
+            "දුර ධාවකයන් තුළය.",
+            "උස පනින ක්‍රීඩකයන් තුළය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "දෙඅත් සිරුර දෙපසින් පහලට හෙළා සෘජුව සිටගෙන සිටින විට පුද්ගලයකුගේ ගුරුත්වකේන්ද්‍රය පිහිටා ඇත්තේ ඔහුගේ උසින් .................................... පමණ පාදවල සිට ඉහළින් ය. හිස් තැනට සුදුසු පිළිතුර වන්නේ,",
+        "choices": [
+            "25% ක්",
+            "56% ක්",
+            "70% ක්",
+            "90% ක්"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "පෙර දිනකදී සිදුකළ දැනුවත් කිරීමට අනුව 11 ශ්‍රේණියේ දරුවන් කිහිපදෙනෙකු පහත උපකරණ රැගෙන විත් තිබුණි. (සිතියමක්, මාලිමාවක් ආරක්ෂක උපකරණ කිහිපයක්, ආහාර, ජලය)\r\nඒ අනුව මෙම දරුවන් සම්බන්ධවීමට නියමිත එළිමහන් ක්‍රියාකාරකම වනුයේ, \n",
+        "choices": [
+            "කඳු තරණයයි.",
+            "කැලෑ ගවේෂණයයි.",
+            "පාපැදි සවාරියයි.",
+            "තරු රටා නිරීක්ෂණයයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "සිරිසඟබෝ විදුහලේ නිවාසාන්තර ක්‍රීඩා උළලේ සංවිධායක මණ්ඩලය විසින් පහත සඳහන් කාර්යයන් සිදු කරන ලදී. (අ) සහතික පත්‍ර හා ආරාධනා පත්‍ර සකස් කිරීම. (ආ) නිවාස සඳහා ගුරු මණ්ඩලය බෙදා වෙන්කිරීම. ඉහත කාර්යයන් අයත් වනුයේ,",
+        "choices": [
+            "පූර්ව සංවිධාන කටයුතු වලටය.",
+            "උත්සව දින සංවිධාන කටයුතු වලටය.",
+            "පසු සංවිධාන කටයුතු වලටය.",
+            "තරඟ සංවිධාන කටයුතු වලටය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මෙවර පැවැත්වූ ආසියානු නෙට්බෝල් (දැල්පන්දු) තරඟාවලිය සඳහා කණ්ඩායම් 9 ක් සහභාගි විය. එහිදී සෑම කණ්ඩායමකටම සෑම කණ්ඩායමක් සමඟ තරඟ වැදීමේ අවස්ථාව ලබා දී තිබුණි. ඒ අනුව මෙම තරඟාවලියේ දී පැවැත්විය යුතු තරඟ සංඛ්‍යාව හා තරඟ වට ගණන වනුයේ පිළිවෙලින්,",
+        "choices": [
+            "තරඟ 8 යි, වට 3 යි.",
+            "තරඟ 9 යි, වට 4 යි.",
+            "තරඟ 36 යි, වට 9 යි.",
+            "තරඟ 72 යි, වට 8 යි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ඔලිම්පික් ධජය මඟින් ජාතිකත්ව සංකල්පය බැහැර වූ ඔලිම්පික් පරමාර්ථ සනාථ වේ. ඔලිම්පික් ධජයෙහි ඇති වළලු පහ මඟින් නිරෑපණය වනුයේ,",
+        "choices": [
+            "මහද්වීපය.",
+            "සාගරය.",
+            "ගංගා හා ඇළදොළය.",
+            "වනාන්තරය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ජවන තරඟ ආරම්භයේ දී සැරසෙන්, වෙඩිහඩ යන විධානයන් ලැබෙන ඉසව් කාණ්ඩය ලෙස සඳහන් කරනු ලබන්නේ,",
+        "choices": [
+            "මීටර් 100, මීටර් 110, මීටර් 1500",
+            "මීටර් 400 x 4, මීටර් 800, මීටර් 3000",
+            "මීටර් 400, මීටර් 800, ස්ටීපල් චෙස්",
+            "මීටර් 1500, මැරතන්, ස්ටීපල් චෙස්"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මීටර් 100 x 4 සහාය තරඟය සඳහා මිශ්‍ර මාරුව භාවිතා කරන සහාය කණ්ඩායමේ පළමු ධාවකයා දකුණු අතින් යෂටිය රැගෙන යන්නේ නම් ඇතුළත මාරුව අනුව යෂ්ටිය හුවමාරු වනුයේ කිනම් කලාප වලදී ද?",
+        "choices": [
+            "පළමු හා දෙවන යෂ්ටි හුවමාරු කලාප වලදී.",
+            "පළමු හා තෙවන යෂ්ටි හුවමාරු කලාප වලදී.",
+            "පළමු යෂ්ටි හුවමාරු කලාප වලදී.",
+            "දෙවන යෂ්ටි හුවමාරු කලාප වලදී."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මළල ක්‍රීඩා විසිකිරීමේ ඉසව් වලදී උපකරණය මුදා හැරීමට පෙර විසිකිරීමේ ක්‍රියාවලියේ දී තරඟකරුගේ පිටුපස විසිකිරීමේ පෙදෙසට යොමුවන සේ සිරුර කැරකීම නොකල යුතුය. මෙම නීතිය බලපාන ඉසව්ව වනුයේ,\r\n",
+        "choices": [
+            "හෙල්ල",
+            "කවපෙත්ත",
+            "යගුලිය",
+            "මිටිය විසිකිරීම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මීටර 100 × 4 සහාය තරඟය සඳහා මිශ්‍ර මාරුව භාවිතා කරන සහාය කණ්ඩායමේ පළමු ධාවකයා දකුණු අතින් යෂ්ටිය රැගෙන යන්නේ නම් ඇතුළත මාරුව අනුව යෂ්ටිය හුවමාරු වනුයේ කිනම් කලාප වලද? \n",
+        "choices": [
+            "පළමු හා දෙවන යෂ්ටි හුවමාරු කලාප වලදී.",
+            "පළමු හා තෙවන යෂ්ටි හුවමාරු කලාප වලදී.",
+            "පළමු යෂ්ටි හුවමාරු කලාප වලදී.",
+            "දෙවන යෂ්ටි හුවමාරු කලාප වලදී."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "උස පැනීමේ ඉසව්වක හරස් දණ්ඩ තරණයට පෙර අංක 50 ක්‍රීඩකයා තනි පාදයෙන් නික්මීම කළ අතර අංක 60 ක්‍රීඩකයා පාද දෙකෙන්ම නික්මීම කරන ලදී. මේ අනුව නිගමනය කළ හැක්කේ,",
+        "choices": [
+            "ක්‍රීඩකයින් දෙදෙනාගේම පැනීම් සාර්ථක පැනීම් බවය.",
+            "ක්‍රීඩකයින් දෙදෙනාගේම පැනීම් අසාර්ථක පැනීම් බවය.",
+            "අංක 50 දරණ ක්‍රීඩකයාගේ පැනීම් සාර්ථක අතර අංක 60 අසාර්ථක වේ.",
+            "අංක 60 දරණ ක්‍රීඩකයාගේ පැනීම සාර්ථක අතර අංක 50 අසාර්ථක වේ."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ප්‍රතික්‍රියා වේගය, චාලක දක්ෂතා ආශ්‍රිත යෝග්‍යතා සාධකයකි. එම දක්ෂතාවය හොඳින් දියුණු කරගැනීම වඩාත් වැදගත් වන්නේ පහත දක්ෂතා අතරින් කුමන දක්ෂතාවය සඳහා ද? \n",
+        "choices": [
+            "කෙටිදුර ධාවන තරඟ ආරම්භය.",
+            "ධාවන තරඟ අවසානය.",
+            "සහාය දිවීමේ යෂ්ටි හුවමාරුව.",
+            "දුර පැනීමේ අවතීර්ණ ධාවනය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "මනා ශාරීරික යෝග්‍යතාවයක් පවත්වාගෙන යාම සඳහා වැඩිහිටි පුද්ගලයකු ව්‍යායාම්වල නිරත විය යුතු අවම කාලය,",
+        "choices": [
+            "විනාඩි 12 කි.",
+            "විනාඩි 20 කි.",
+            "විනාඩි 15 කි.",
+            "විනාඩි 30 කි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "රමල් මෑතක සිට ඉතා සුලුදෙයකට උවද කලබල වෙයි. අන් අය නොරුස්සන ගතියක් පෙන්නුම් කරයි. සුළු සිද්ධියකදී පවා හෘද ස්පන්දන වේගය ඉතා ඉහළ යයි. මෙම ලක්ෂණ වලින් පිළිබිඹු වන්නේ ඔහු, ",
+        "choices": [
+            "බෝවන රෝගයකින් පෙළෙන බවයි.",
+            "පෝෂණ ඌණතාවයකින් පෙළෙන බවයි.",
+            "මානසික ආතතියට පත්ව ඇති බවයි.",
+            "ක්‍රීඩා අනතුරකට ලක්ව ඇති බවයි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ප්‍රථමාධාරකරුවකු අනතුරක් සඳහා ලබා දුන් ප්‍රථමාධාර ක්‍රියාවලිය පහත සඳහන් පරිදි වේ. • ආරක්ෂා කිරීම. • විවේකය ලබාදීම. • අයිස් තැබීම. • පීඩනයක් යෙදීම. • ඔසවා තැබීම. • ආධාරකයක් ලබා දීම. ඒ අනුව සිදුවී ඇති අනතුර විය හැක්කේ,",
+        "choices": [
+            "අස්ථී භග්නයකි.",
+            "සර්ප දශ්ඨනයකි.",
+            "කම්පන තත්ත්වයකි.",
+            "විදුලිසැර වැදීමකි."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "උදෑසන රැස්වීමේදී ගුරුතුමිය විසින් ලබාදෙන ලද උපදෙස් මාලාවක් පහත දැක්වේ. • ඔබගේ සිරුර පිටස්තර අයට ස්පර්ශ කිරීමට ඉඩ නොදෙන්න. • තැනට සුදුසු නුවණින් උපක්‍රමශීලීව කටයුතු කරන්න. • නාදුනන පුද්ගලයන්ගෙන් තෑගි බෝග නොගන්න. • හැකි ඉක්මනින් ආරක්ෂාකාරී ස්ථානයකට යන්න. දැනුවත් කරන ලද්දේ,",
+        "choices": [
+            "කල කෝලාහල නිසා ඇතිවන අනතුරු වලක්වා ගැනීම සම්බන්ධවයි.",
+            "ලිංගික සම්ප්‍රේෂණ රෝග පිළිබඳව දැනුවත් කිරීමයි.",
+            "ලිංගික අතවර හා අපයෝජන වළක්වා ගැනීමට ගතයුතු පියවරයන්ය.",
+            "රෝග ආසාදනය වීම වළක්වා ගැනීමට ගත යුතු පියවරයන්ය."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "ඔබගේ සොහොයුරාගේ පාදය පිලිස්සීම නිසා කෑගසමින් සිටින අවස්ථාවක ප්‍රථමාධාරයක් ලෙස ඔබ ප්‍රථමයෙන් කරනු ලබන්නේ,",
+        "choices": [
+            "පිළිස්සුන කොටසට බෙහෙත් ගැල්වීම.",
+            "පිළිස්සුන කොටස ජලකරාමයකට අල්ලා ජලයෙන් සිසිල් කිරීම.",
+            "කෝමාරිකා සාරය තුවාලය මත තැවරීම.",
+            "පිළිස්සුන තුවාලය ආවරණය කිරීම."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "• බෑවුම් වලින් හදිසියේ මඩවතුර කාන්දු වීම. • පොළවේ බෑවුම් පෘෂ්ඨයක අලුතින් ඉරිතැලීම ඇතිවීම. • ගස්වල කඳ පැත්තකට බරවී යාම. ඉහත පරිසර තත්ත්වයන් ඇතිවීම තුළින් සිදුවිය හැකි ආපදා තත්ත්වය වන්නේ,",
+        "choices": [
+            "ගංවතුර",
+            "සුළිසුළං",
+            "සුනාමි",
+            "නායයාම"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "වෙස්ටන් බ්ලොට් පරීක්ෂණය සිදුකරනු ලබන්නේ කුමන රෝගී තත්ත්වයක් තහවුරු කරගැනීම සඳහා ද?",
+        "choices": [
+            "ඩෙංගු රෝගය තහවුරු කරගැනීම සඳහා.",
+            "උපදංශය රෝගය තහවුරු කරගැනීම සඳහා.",
+            "තැලසීමියා රෝගය තහවුරු කරගැනීම සඳහා.",
+            "HIV ආසාධනය තහවුරු කරගැනීම සඳහා."
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Health",
+        "category": "Social_science",
+        "question": "2025 වර්ෂයේ පැවති ලෝක කුසලාන (කාන්තා) සීමිත ඕවර් ක්‍රිකට් තරඟවලියේ ජයග්‍රහණය ලැබූ රට වනුයේ,",
+        "choices": [
+            "බංගලිදේශය",
+            "ඕස්ට්‍රේලියාව",
+            "ඉන්දියාව",
+            "දකුණු අප්‍රිකාව"
+        ],
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1A28WDyE-QaRgu8zPRhlHSD4_IUCZg4Tm  "
+        }
+    }
+]

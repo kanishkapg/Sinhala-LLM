@@ -1,0 +1,29 @@
+{
+  "_doc": "Replay sources for s07_replay.py. 'tokens' = default Qwen3.5 tokens to collect; the level's replay_tokens in mixture.json override it (s07 collects 15% extra to cover dedup/decontamination losses; s09 then takes the exact mixture). Only the listed parquet files are read, and only random row groups of them, so nothing large is downloaded. Set enabled=false to skip a source. Licences: re-check each dataset card before use.",
+  "sources": [
+    {
+      "name": "wikipedia_si", "enabled": true, "lang": "si", "tokens": 4000000,
+      "repo": "wikimedia/wikipedia", "files": "20231101.si/*.parquet",
+      "text": "text", "url": "url", "title": "title",
+      "license": "CC BY-SA 3.0 / GFDL"
+    },
+    {
+      "name": "fineweb2_si", "enabled": true, "lang": "si", "tokens": 5000000,
+      "repo": "HuggingFaceFW/fineweb-2", "files": "data/sin_Sinh/train/*.parquet",
+      "text": "text", "url": "url",
+      "license": "ODC-By 1.0"
+    },
+    {
+      "name": "hplt2_si", "enabled": false, "lang": "si", "tokens": 2000000,
+      "repo": "HPLT/HPLT2.0_cleaned", "files": "sin_Sinh/*.parquet",
+      "text": "text", "url": "url",
+      "license": "CC0"
+    },
+    {
+      "name": "fineweb_edu_en", "enabled": true, "lang": "en", "tokens": 3000000,
+      "repo": "HuggingFaceFW/fineweb-edu", "files": "sample/10BT/*.parquet",
+      "text": "text", "url": "url",
+      "license": "ODC-By 1.0"
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ශ්‍රී ලංකාවේ ඉපැරණි වාරි තාක්ෂණය පිළිබඳ ප්‍රකාශ තුනක් පහත දැක්වේ.\nA - - අඹන් ගඟ හරස් කොට අමුණක් ඉදිකර ඇළ හැර ඔස්සේ මින්නේරිය හා කන්තලේ වැව් වලට ජලය ගෙනයන ලදී.\nB - තිසා වැවේ සිට කලා වැවට ජලය ගෙනයාමට ඉදි කළ යෝධ ඇළ ධාතුසේන රජතුමාගේ නිර්මානයකි.\nC - වැව් බැම්මට ජලය මගින් ඇතිවන පීඩනය අවම කරමින් ජලය මුදා හැරීම බිසෝ කොටුව නිර්මාණය කරන ලදී.\nඉහත ප්‍රකාශ අතුරින් නිවැරදි වනුයේ,",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "A හා C ය.",
+            "A, B හා C සියල්ලම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "වර්ෂාපතනය හා සුළගේ වේගය මනින සම්මත ඒකක පිළිවෙලින් දක්වා ඇති පිළිතුර කුමක්ද?",
+        "choices": [
+            "සෙන්ටිමීටර් හා පැයට කිලෝමීටර්",
+            "සෙන්ටිමීටර් හා තත්පරයට මීටර්",
+            "මිලි ලීටර් හා පැයට කිලෝමීටර්",
+            "මිලි මීටර් හා කිලෝමීටර්"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "බෝග වගාව කෙරෙහි උෂ්ණත්වයේ බලපෑම පිළිබඳ ප්‍රකාශ කීපයක් පහත දැක්වේ.\nA - උෂ්ණත්වය වැඩි වන විට යම් සීමාවක් දක්වා ප්‍රභා සංස්ලේෂණ සීඝ්‍රතාව වැඩි වේ.\nB - දඬු කැබලි මුල් ඇද්දවීමට පරිසර උෂ්ණත්වයට වඩා අඩු උෂ්ණත්වයක් හිතකර වේ.\nC - වැඩි උෂ්ණත්වයකදී පාංශු ක්ෂුද්‍ර ජීවී ක්‍රියාකාරීත්වය වැඩි වේ.\nඉහත ප්‍රකාශ අතුරින් නිවැරදි වනුයේ,",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "A හා C ය.",
+            "A, B හා C සියල්ලම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "කිරිගරුඬ (මාබල්) සෑදෙන්නේ පහත සඳහන් කුමන පාෂාණ විපරිත වීමෙන්ද?",
+        "choices": [
+            "ග්‍රැනයිට් හා ක්වාට්ස්",
+            "වැලි ගල් හා ෂෙල්",
+            "හුණු ගල් හා ඩොලමයිට්",
+            "ග්‍රැනයිට් හා පෙග්මට යිට්"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "වගාබිමකින් ලබාගත් පස් සාම්පලයක් වියලා 0.2 mm පෙනේරයකින් හලා ගත් විට පෙනේරය මත ඉතිරි වන්නේ,",
+        "choices": [
+            "රළු වැලි හා ගල් බොරළුය",
+            "සියුම් වැලි හා රළු වැලිය",
+            "රොන් මඩ හා සියුම් වැලිය",
+            "මැටි හා රොන්මඩය"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ක්‍ෂේත්‍ර ධාරිතාවයේ පවතින පසක ඇති ජල ආකාර වනුයේ,",
+        "choices": [
+            "ගුරුත්වාකර්ෂණ හා කේෂාකර්ෂණ ජලය යි.",
+            "කේෂාකර්ෂණ හා ජලාකර්ෂණ ජලය යි.",
+            "ගුරුත්වාකර්ෂණ හා ජලාකර්ෂණ ජලය යි.",
+            "ජලාකර්ෂණ ජලය පමණි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "පාංශු පැතිකඩක B කලාපය පිළිබඳ නිවැරදි ප්‍රකාශය කුමක්ද?",
+        "choices": [
+            "කාබනික ද්‍රව්‍ය බහුලව ඇති බැවින් කළු පැහැයෙන් යුක්තය.",
+            "මාතෘ පාෂාණය ජීර්ණය වී සෑදෙන මාතෘ ද්‍රව්‍ය මෙහි අන්තර්ගතය.",
+            "යටිපස හෙවත් සංචායක කලාපය ලෙස හැඳින් වේ.",
+            "විශෝදන කලාපය ලෙස හඳුන්වන අතර පාංශු ජීවීන් බහුලය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "කුකර්බිටේට්සියේ කුලයේ බෝග වගාවෙන් පසු රනිල හෝ බ්‍රැකේසියේ කුලයේ භෝග වගා කිරීමෙන්,",
+        "choices": [
+            "ඉල්මැස්සාගේ හානිය පාලනය වේ.",
+            "අවුලකපෝරාගේ හානිය පාලනය වේ.",
+            "වට පණු හානිය පාලනය වේ.",
+            "කූඩිත්තාගේ හානිය පාලනය වේ."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "නෙරිදෝස්කෝ තවානක සිටුවීම සඳහා වඩාත් උචිත භෝග කාණ්ඩය වන්නේ,",
+        "choices": [
+            "මිරිස්, රට කජු සහ තක්කාලිය.",
+            "වට්ටක්කා, තක්කාලි සහ මාළුමිරිස් ය.",
+            "මුං, කව්පි සහ සෝයා බෝංචිය.",
+            "කරවිල, පතෝල සහ මෑ ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "තවානක පැළ ගැලවීමට පෙර දැඩි කිරීමේ දී සිදු නොකරන ක්‍රියාවක් වන්නේ,",
+        "choices": [
+            "පොහොර යොදා පැළ පෝෂණය කිරීමයි.",
+            "ජලය යොදන තාලාන්තරය වැඩි කිරීමයි.",
+            "ආලෝකයට නිරාවරණය කරන පැය ගණන වැඩි කිරීමයි.",
+            "ක්‍රමානුකූලව සෙවණ ඉවත් කිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "බෑවුමක් සහිත බිමක වගා කර ඇති පැපොල් වගාවක් සඳහා වඩාත් සුදුසු ජල සම්පාදන ක්‍රමය වන්නේ,",
+        "choices": [
+            "බින්දු ජල සම්පාදනයයි.",
+            "ඉසින ජල සම්පාදනයයි.",
+            "බේසම් ජල සම්පාදනයයි.",
+            "වළලු ජල සම්පාදනයයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "අධික සුළඟ සහ උෂ්ණත්වය ඇති අවස්ථාවක පසෙන් ජලය ඉතා ඉක්මනින් ඉවත් වීම සිදු වන්නේ,",
+        "choices": [
+            "උත්ස්වේදනය නිසාය.",
+            "වාෂ්පීකරණය නිසාය.",
+            "වාෂ්පීකරන උත්ස්වේදනය නිසාය.",
+            "ගැඹුරු වෑස්සීම නිසාය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "පොහොර භාවිත කාර්යක්ෂමතාවය ඉහළ නැංවීමේ දී වැදගත් වන කරුණක් නොවන්නේ මින් කුමක්ද?",
+        "choices": [
+            "පසේ අඩංගු පෝෂක ප්‍රමාණය",
+            "පසේ ක්ෂුද්‍ර ජීවි ගහනය",
+            "ප්‍රදේශයේ දේශගුණික තත්ත්වය",
+            "පසේ තෙතමන තත්ත්වය"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "රසායනික පොහොර වර්ග තුනක භෞතික ලක්ෂණ කිහිපයක් පහත දක්වා ඇත.\nA - සුදු පැහැති කුඩා ස්පටික වන අතර ආවේනික ගන්ධයක් ඇත. ජලයේ දිය වේ.\nB - ලා දුඹුරු පැහැති ස්පටික වන අතර, ජලයේ දිය නොවේ.\nC - රතු දුඹුරු පැහැති කුඩා ස්පටික වන අතර ජලයේ හොඳින් දිය වේ.\nඉහත A, B හා C ට අදාළ පොහොර වර්ගය නිවැරදිව දක්වා ඇති පිළිතුර තෝරන්න.",
+        "choices": [
+            "A - යූරියා, B - ත්‍රිත්ව සුපර් පොස්පේට්. C - මියුරියේට් ඔෆ් පොටෑෂ්",
+            "A - යූරියා, B - ත්‍රිත්ව සුපර් පොස්පේට්, C - මියුරියේට් ඔෆ් පොටෑෂ්",
+            "A - ඇමෝනියම් සල්ෆේට්, B - ත්‍රිත්ව සුපර් පොස්පේට්, C - මියුරියේට් ඔෆ් පොටෑෂ්",
+            "A - ඇමෝනියම් සල්ෆේට්, B - රොක් පොස්පේට්, C - මියුරියේට් ඔෆ් පොටෑෂ්"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "වල් පැළයක ලක්ෂණ කිහිපයක් පහත දක්වා ඇත.\n• සිහින් දිගටි පත්‍ර හට ගනී.\nසිලින්ඩරාකාර කඳෙහි අග්‍රස්ථයේ පුෂ්ප මන්ජරියක් හට ගනී.\nමෙම වල්පැළෑටිය වන්නේ,",
+        "choices": [
+            "බජිරි ය.",
+            "කලාඳුරු ය.",
+            "මොනර කුඩුම්බිය ය.",
+            "කුඩ මැට්ට ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "වෛරස් හා ෆයිටෝප්ලාස්මා රෝගවල පොදු ලක්ෂණයක් වන්නේ,",
+        "choices": [
+            "පුෂ්ප කොළ පැහැයෙන් හට ගැනීමයි.",
+            "පත්‍ර විචිත්‍රයයි.",
+            "පත්‍ර කහ පාට වීම හා කුරු වීමයි.",
+            "ඵල විකෘති වීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "කෙසෙල් වගාවේ වද පීදීමේ රෝගයේ වාහකයා ලෙස සැලකෙන්නේ,",
+        "choices": [
+            "පැළ මැක්කාය.",
+            "කූඩිත්තාය.",
+            "කීඩෑවාය.",
+            "සුදු මැස්සාය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "වී වගාව සඳහා වසරකට වරක් විශේෂයෙන් මහ කන්නයේ දී නිර්දේශ කර ඇති මූලික පොහොර මිශ්‍රණයේ අඩංගු අත්‍යවශ්‍ය ක්ෂුද්‍ර පෝෂකය වන්නේ,",
+        "choices": [
+            "සින්ක් (Zn) ය.",
+            "කොපර් (Cu) ය.",
+            "මැංගනීස් (Mn) ය.",
+            "බෝරෝන් (B) ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "බීජ අක්‍රියතාවයේ පැවතීම හේතුවෙන් සිදුවන යහපත් ප්‍රතිඵලයක් වනුයේ,",
+        "choices": [
+            "කෘමි උවදුරු වලට ලක්වීම තාවකාලිකව අඩු වීමයි.",
+            "බීජවල ගුණාත්මක හා ප්‍රමාණාත්මක බව වැඩිවීමයි.",
+            "රෝග වලට ගොදුරු නොවී වැඩි කාලයක් පැවතීමයි.",
+            "අස්වනු නෙලීමට පෙර පල තුළදීම පැළවීම වැලකීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ප්‍රරෝහණය වන බීජයක බීජාධරය යනු,",
+        "choices": [
+            "බීජ පත්‍ර හා නව පැළයේ ප්‍රථම පත්‍රය අතර කොටසයි.",
+            "බීජ පත්‍ර හා බීජ මූලය අතර කොටසයි.",
+            "බීජ පත්‍ර හා හා බීජාංකුරය අතර කොටසයි.",
+            "බීජාංකුරය හා බීජ මූලය අතර කොටසයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "භූගත කඳන් සහිත ස්වාභාවික වර්ධක ප්‍රචාරණ ව්‍යුහයක් නොවන්නේ මින් කුමක්ද?",
+        "choices": [
+            "බල්බිල",
+            "කෝමය",
+            "බල්බ",
+            "රෛසෝමය"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "පත්‍ර හෝ පත්‍ර කැබලි මඟින් මුල් අද්දවා ගත හැකි බෝග වර්ග ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "දෙල්, බෙලි හා කරපිංචා",
+            "බිගෝනියා, රෝස හා වද",
+            "පෙපරෝමියා, අප්‍රිකන් වයලට් හා සැන්සවේරියා",
+            "පෙපරෝමියා, බිගෝනියා හා කෝලියස්"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "සිටුවීම සඳහා දඬු කැබැල්ලක් පිළියෙල කරගන්නා ආකාරය පිළිබඳව පියවර කීපයක් පහත දැක්වේ.\nA - ඉහළ කැපුම් පෘෂ්ඨය තිරස්වත් පහළ කැපුම් පෘෂ්ඨය අංශක 45 ක් ආනතවත් කැපීම.\nB - සාපේක්ෂ ආර්ද්‍රතාව හා උෂ්ණත්වය වැඩි පරිසරයක සිටු වීම.\nC - පර්ව කීපයක් සිටින සේ දඬු කැබැල්ලක් කලා ගැනීම.\nD - පහළ කැපුම් පෘෂ්ඨයේ මුල් ඇදීමේ හෝමෝන ආලේප කිරීම.\nඉහත පියවර නිවැරදි අනුපිළිවෙල අනුව සඳහන් පිළිතුර තෝරන්න.",
+        "choices": [
+            "A, D හා B",
+            "C, A, D හා B",
+            "A, C, D හා B",
+            "A, D, B හා C"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "නිර්පාංශු වගා ක්‍රමය යටතේ සිරස් වගා මළු වල වගා කිරීමේ දී එම වගා මලු තුළට මාධ්‍ය ලෙස යෙදීමට වඩාත් සුදුසු වන්නේ,",
+        "choices": [
+            "කොම්පෝස්ට්ය.",
+            "කොහු කෙඳිය.",
+            "වැලි ය.",
+            "කොහුබත් ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ගොවි මහතෙක් තම පොල් වගාවෙහි පැළ අතර කහ වගා කර ඇත්නම්, එම වගා රටාව වන්නේ,",
+        "choices": [
+            "මිශ්‍ර භෝග වගාවයි.",
+            "කඩින් කඩ භෝග වගාවයි.",
+            "අතුරු භෝග වගාවයි.",
+            "ශෂ්‍ය භෝග මාරුවයි"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "දීර්ඝ වියළි කාලයකට පසුව ජලය වැඩිපුර ලැබුණු විට තක්කාලි වගාවක ගෙඩි වලට සිදු වන්නේ,",
+        "choices": [
+            "ගෙඩි පැලී යාමයි.",
+            "දිලීර ආසාදනයන්ට ලක්වීමයි.",
+            "ගෙඩි ඉක්මනින් ඉදිමයි.",
+            "ගෙඩි වල රතු පැල්ලම් ඇති වීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "නීරෝගී දිවි පෙවෙතක් සඳහා අත්‍යවශ්‍ය වන විටමින් පිළිබඳ වගන්ති කිහිපයක් පහත දැක්වේ.\nA - විටමින් යනු කාබනික සංයෝගයකි.\nB - විටමින් A ඌනතාවයෙන් අක්ෂි රෝග ඇති වේ.\nC - විටමින් B හා C ජලයේ දිය වේ.\nමේවා අතුරෙන් සත්‍ය වනුයේ,",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "A හා C ය.",
+            "A, B හා C ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ආහාරයක් නරක් වීම සඳහා බලපාන භෞතික සාධකයක් වන්නේ,",
+        "choices": [
+            "ඔක්සිකරණය වීමයි.",
+            "නුසුදුසු වර්ණක මිශ්‍ර කර තිබීමයි.",
+            "බැක්ටීරියා හා දිලීර ආක්‍රමණය කර තිබීමයි.",
+            "තැලීම්, පොඩිවීම් හා සීරීම් වැනි යාන්ත්‍රික හානි සිදුවී තිබීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ආහාර කල් තබා ගැනීමේ දී අධිශීත කරණ තුළ ගබඩා කර තැබීම මඟින්,",
+        "choices": [
+            "ක්ෂුද්‍ර ජීවී ක්‍රියාකාරීත්වය අඩාල කෙරේ.",
+            "ක්ෂුද්‍ර ජීවීන්ගේ බීජානු විනාශ කෙරේ.",
+            "ක්ෂුද්‍ර ජීවී ක්‍රියාකාරීත්වය සම්පූර්ණයෙන්ම නව තාලයි.",
+            "ක්ෂුද්‍ර ජීවීන් ඇතුල්වීම වළකාලයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ශ්‍රී ලංකාවේ කිරි නිෂ්පාදනය සඳහා ඇති කරනු ලබන ඉන්දීය සම්භවයක් සහිත මී ගව වරිග වන්නේ.",
+        "choices": [
+            "සහීවාල් හා නිළිරව් ය.",
+            "මුරා හා සූර්තිය.",
+            "සින්දි හා සූර්තිය.",
+            "මුරා හා සහීවාල්ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ක්ෂීරණ අවධියේ සිටින ගැබ් ගත් දෙනෙකගේ ප්‍රසූතියට පෙර ලබා දෙන වියළි කාලය වන්නේ,",
+        "choices": [
+            "දින 60 ය.",
+            "දින 70 ය.",
+            "දින 80 ය.",
+            "දින 90 ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ගවයින්ට වැළදෙන වෛරස් රෝගයකි,",
+        "choices": [
+            "බුරුළු ප්‍රදාහය",
+            "ගව රක්තාශ්‍රය",
+            "කුර හා මුඛ රෝගය",
+            "කාලගාත්‍රා රෝගය"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ආසියානු සම්භවයක් සහිත ප්‍රධාන වශයෙන් මස් පිණිස ඇති කරනු ලබන කුකුළු වර්ග වන්නේ,",
+        "choices": [
+            "ලෙගෝන් හා මිනෝකාය.",
+            "ඕර්පින්ටන් හා සසෙක්ස්ය.",
+            "RIR හා නිව් හැක්ස්පයර්",
+            "බ්‍රහ්මා හා කොවින්ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "කුකුළන්ට වැළදෙන රැනිකට් රෝගයේ රෝග කාරකයා වන්නේ,",
+        "choices": [
+            "දිලීරයකි.",
+            "වයිසරයකි",
+            "බැක්ටීරියාවකි",
+            "ප්‍රොටෝ සෝවාවකි"
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "බ්‍රොයිලර් සතුන් ඇති කිරීමේ දී වැඩි නිෂ්පාදනයක් ලබා ගැනීමට නම් ඔවුන් ඇති කිරීමට වඩාත් සුදුසු ක්‍රමය වන්නේ,",
+        "choices": [
+            "නිදැලි ක්‍රමයයි.",
+            "අඩ සියුම් ක්‍රමයයි.",
+            "තට්ටු ක්‍රමයයි.",
+            "ඝණ ආස්තරණ ක්‍රමයයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "ආහාර ඇසුරුම් කිරීමේ අවශ්‍යතාව පිළිබඳ ප්‍රකාශ කිහිපයක් පහත දැක්වේ.\nA - ආහාරයේ ගුණාත්මක බව රැක ගැනීමට හැකි වීම.\nB - අදාළ ආහාර ද්‍රව්‍යය මිලදී ගැනීමට පාරිභෝගිකයින් පෙළඹවීම.\nC - ආහාරයේ පෝෂණ අගය වැඩි කර ගැනීමට හැකි වීම.\nමේවා අතුරින් නිවැරදි වනුයේ,",
+        "choices": [
+            "A හා B ය.",
+            "B හා C ය.",
+            "A හා C ය.",
+            "A, B හා C සියල්ලම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Agriculture and Food Technology",
+        "category": "other",
+        "question": "බාල කරන ලද ආහාර හඳුනාගැනීමේ පරීක්ෂණයක දී එළකිරි මිලි ලීටර් 1 කට අයිඩින් බින්දු 02ක් එක් කළ විට නිල්දම් වර්ණයක් ඇති විය. එයට හේතුව වන්නේ,",
+        "choices": [
+            "පොල් කිරි මිශ්‍ර කර තිබීමයි.",
+            "තිරිඟු පිටි මිශ්‍ර කර තිබීමයි.",
+            "ජලය මිශ්‍ර කර තිබීමයි.",
+            "හාල් පිටි මිශ්‍ර කර තිබීමයි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි හා ආහාර තාක්‍ෂණය",
+            "difficulty": "medium",
+            "grade": "11",
+            "type": "NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vVOKnoFeddvjb5jurPJwocBL30gZqUqs/view?usp=drive_link"
+        }
+    }
+]

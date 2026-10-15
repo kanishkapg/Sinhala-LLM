@@ -1,0 +1,1002 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "සෛලයක න්‍යෂ්ටිය පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද?",
+        "choices": [
+            "න්‍යෂ්ටි ආවරණයේ පිටත ආස්තරණය කරන ප්‍රෝටීන සූත්‍රිකා වලින් න්‍යෂ්ටි තලාව තැනී ඇත.",
+            "න්‍යෂ්ටි ආවරණයේ ඇතුළත සහ පිටත පටල වෙන් වී ඇත්තේ 20-40 μm ක් වූ අවකාශයකිනි.",
+            "ද්‍රව්‍ය ඇතුළුවීම සහ පිටවීම යාමනය කිරීම සඳහා සිදුරු සංකීර්ණයක් න්‍යෂ්ටි ආවරණයේ ඇත.",
+            "න්‍යෂ්ටිකාව න්‍යෂ්ටි තලාව තුළ ගිලී ඇත."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "පහත සඳහන් කුමන ක්ෂේත්‍ර වල පරීක්ෂණ සහ නිරීක්ෂණ ප්‍රථම ජීවී සෛල බිහිවීම සඳහා සාක්ෂි සපයා තිබේ ද ?\nA - ජීව විද්‍යාව\nB - රසායන විද්‍යාව\nC - භූගර්භ විද්‍යාව\nD - භෞතික විද්‍යාව",
+        "choices": [
+            "A සහ B පමණි.",
+            "A, B සහ D පමණි.",
+            "B, C සහ D පමණි.",
+            "A, B, C සහ D."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ජීවීන්ගේ ලක්ෂණ පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "විකසනය යනු ජීවියකුගේ ජිවිත කාලය තුළ සිදු වන වෙනස්විම්ය.",
+            "පරිණාමය යනු ප්‍රවේණික විකරණ වලට අනුකූලව ජීවියකු තම ජිවිත කාලය තුළ වෙනස් වීමයි.",
+            "පරිවෘත්තිය යනු ජීවියකු තුළ සිදුවන ශක්තිය වැය වන සියලු ම රසායනික ක්‍රියාවන්ගේ සමස්තයයි.",
+            "උද්දීප්‍යතාව සහ සමායෝජනය යන දෙකම ජීවීන්ගේ චලනය සඳහා අවශ්‍ය ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "RNA වර්ග සහ ඒවායේ ලක්ෂණ පිළිබඳ පහත සඳහන් සංකලන අතුරෙන් නිවැරදි වන්නේ කුමක්ද?/ කුමන ඒවා ද?\nA - mRNA - න්‍යෂ්ටි ප්ලාස්මයේ සිට ප්‍රෝටීන සංශ්ලේෂණය සිදුවන ස්ථානයට ප්‍රවේණික තොරතුරු පරිවහනය කරයි; රේඛීය අණුවකි.\nB - tRNA - ප්‍රෝටීන සංශ්ලේෂණය සිදුවන ස්ථානයට ඇමයිනෝ අම්ල පරිවහනය කරයි; සංකීර්ණ අක්‍රමවත් අණුවකි.\nC - rRNA - පොලිපෙප්ටයිඩ දාම සෑදීම සඳහා ස්ථානය සපයයි; පුඩු තුනක් සහිත අණුවකි.",
+        "choices": [
+            "A පමණි.",
+            "B පමණි.",
+            "A සහ B පමණි.",
+            "A සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ප්ලාස්ම පටල ප්‍රෝටීන වල නිවැරදි කෘත්‍ය තෝරන්න.\nA - විශිෂ්ට ජෛවරසායනික සමග අන්තර් ක්‍රියා කිරීම සඳහා ප්‍රතිග්‍රාහක ලෙස ක්‍රියා කිරීම\nB - ආසන්නව පිහිටි සෛලවලට එකිනෙක සමග සන්නිවේදනය සිදු කිරීම සඳහා ඉඩ සැලසීම\nC - සෛලයේ හැඩය පවත්වා ගැනීමට උපකාරී වීම\nD - ප්ලාස්ම පටලයේ තරලමය ස්වභාවය පවත්වා ගැනීම",
+        "choices": [
+            "A සහ B පමණි.",
+            "B සහ C පමණි.",
+            "B සහ D පමණි.",
+            "A, B සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "අනූනනය පිළිබඳ පහත සඳහන් ' කලාව - සිදුවීම ' සංකලන අතුරෙන් නිවැරදි වන්නේ කුමක්ද?/ කුමන ඒවාද?\nකලාව | සිදුවීම\nA - ප්‍රාක් කලාව | යුගලනය වූ සමජාත වර්ණ දේහවල DNA කොටස් කැඩී යයි.\nB - යෝග කලාව | එක් එක් සමජාත වර්ණදේහ යුගලයේ වර්ණ දේහ ප්‍රතිවිරුද්ධ ධ්‍රැව වලට මුහුණලා පිහිටයි.\nC - වියෝග කලාව | සහෝදර වර්ණ දේභාංශ වෙන් වී සෛලයේ ප්‍රතිවිරුද්ධ ධ්‍රැව දෙසට ඇදී යයි.",
+        "choices": [
+            "A පමණි.",
+            "B පමණි.",
+            "C පමණි.",
+            "A, B සහ C."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "එන්සයිම පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "එන්සයිම අණුවේ ඇති සෑම ඇමයිනෝ අම්ලයක් සක්‍රිය ස්ථානයේ හැඩය පවත්වා ගැනීමට දායක වේ.",
+            "යාමක අණු එන්සයිම වල යාමක ස්ථාන වලට සහසංයුජ ලෙස බැඳේ.",
+            "සමහර සහසාධක එන්සයිම වලට ස්ථිර ලෙස බැඳේ.",
+            "තරඟකාරී නොවන නිශේධක එන්සයිමයේ සක්‍රිය ස්ථානයට බැඳේ."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ප්‍රභාපද්ධති පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද?",
+        "choices": [
+            "ආලෝකයේ ෆෝටෝන වර්ණක මත ගැටීම නිසා ප්‍රභාපද්ධති I හි සහ ප්‍රභාපද්ධති II හි ඉලෙක්ට්‍රෝන උද්දීපනය වේ.",
+            "ප්‍රභාපද්ධති I හි අධි ශක්ති මට්ටමක ඇති ඉලෙක්ට්‍රෝන ප්‍රභා පද්ධති II හි ඇති ප්‍රාථමික ඉලෙක්ට්‍රෝන ප්‍රතිග්‍රාහකයක් මගින් ප්‍රතිග්‍රහණය කරනු ලැබේ.",
+            "ප්‍රභාපද්ධති II හි ඇති උද්දීපනය වූ ඉලෙක්ට්‍රෝන NADP^{+} ඔක්සිහරණය කරයි.",
+            "ජලය බිඳ හෙලීම නිසා නිදහස් වන ඉලෙක්ට්‍රෝන උද්දීපනය වූ ප්‍රභාපද්ධති I උදාසීන කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ජීවීන් වර්ගී කරණය කිරීමේදී වයිරස කිසිම රාජධානියකට ඇතුළත් කර නොමැත්තේ ඒවා",
+        "choices": [
+            "නිරික්ෂණය කළ හැක්කේ ඉලෙක්ට්‍රෝන අන්වීක්ෂයක් භාවිතයෙන් පමණක් බැවිනි.",
+            "ප්‍රෝටීන සංශ්ලේෂණ යන්ත්‍රණයක් නොදරන බැවිනි.",
+            "ප්‍රවේණික ද්‍රව්‍ය ලෙස RNA දරන බැවිනි.",
+            "සෛලීය සංවිධානයක් නොදක්වන බැවිනි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ද්විලිංගික ජන්මාණු ශාකයක් සහ ප්‍රමුඛ බීජාණු ශාකයක් සහිත සමබීජාණුක භෞමික ශාකයක් අයත් වන වංශය බොහෝ විට",
+        "choices": [
+            "ඇන්තොෆයිටා විය හැකි ය.",
+            "බ්‍රයෝෆයිටා විය හැකි ය.",
+            "ටෙරොෆයිටා විය හැකි ය.",
+            "කොනිෆෙරොෆයිටා විය හැකිය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ඒක ලිංගික සතුන් සිටිනුයේ පහත සඳහන් කුමන වංශයේ ද ? වංශ වලද?\nA - නෙමටෝඩා\nB - ආත්‍රොපෝඩා\nC - ප්ලැටිහෙල්මින්තේස්\nD - එකයිනොඩර්මේටා",
+        "choices": [
+            "B පමණි.",
+            "C පමණි.",
+            "B සහ D පමණි.",
+            "A, B සහ D පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "දැව වර්ග කිහිපයක් සහ ඒවායේ ලක්ෂණ පහත දැක්වේ.\nදැව වර්ගය | ලක්ෂණය\nA - දෘඪ දැව | P - දිලීර වලින් ආරක්ෂාව සපයයි.\nB - මෘදු දැව | Q - ලවණ පරිවහනය නොකරයි.\nC - අරටුව | R - ශෛලම වාහිනී නොදරයි.\n| S - ආවෘත බීජක ශාකවල ඇත.\nසියලු ම ' දැව වර්ගය - ලක්ෂණය ' සංකලන නිවැරදි වන වරණය තෝරන්න.",
+        "choices": [
+            "A-Q, B-P, C-R",
+            "A-S, B-R, C-P",
+            "A-S, B-P, C-S",
+            "A-Q, B-R, C-P"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ශාකයක පොත්තේ දැකිය හැකි පටක කිහිපයක් වන්නේ",
+        "choices": [
+            "ද්විතීයික ප්ලෝයම, ද්විතීයික ශෛලම සහ සනාල කැම්බියමයි.",
+            "ප්‍රාථමික ශෛලම, ප්‍රාථමික ප්ලෝයම සහ වල්ක කැම්බියමයි.",
+            "ප්‍රාථමික ප්ලෝයම, ද්වීතීයික ප්ලෝයම සහ වල්ක කැම්බියමයි.",
+            "ප්‍රාථමික ශෛලම, ද්වීතීයික ප්ලෝයම සහ සනාල කැම්බියමයි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "බොහෝ ශාකවල පත්‍ර මධ්‍ය සෛලවල සිට ප්ලෝයම තුළට සීනි පරිවහනය කෙරෙනුයේ",
+        "choices": [
+            "විසරණය මගිනි.",
+            "නිපානය මගිනි.",
+            "තොග ප්‍රවාහය මගිනි.",
+            "සක්‍රිය පරිවහනය මගිනි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "සහභෝජිතාව දක්වන්නේ පහත සඳහන් කුමන ශාකය ද?",
+        "choices": [
+            "Cuscuta",
+            "අපිශාකී ඕකිඩ්",
+            "Loranthus",
+            "රනිල ශාක"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ප්‍රභාසංශ්ලේෂී නොවන පුංජන්මාණු ශාකයක් සහ ප්‍රභාසංශ්ලේෂී ජායා ජන්මාණු ශාකයක් ඇත්තේ පහත සඳහන් කුමන ශාකයේ ජීවන චක්‍රයේද?",
+        "choices": [
+            "Pogonatum",
+            "Selaginella",
+            "Cycas",
+            "පොල්"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "බීජ පැළවල ත්‍රිත්ව ප්‍රතිචාරය දිරිගන්වන සහ ඵල වල වර්ධනය උත්තේජනය කරන ශාක හෝමෝන වන්නේ පිළිවෙළින්",
+        "choices": [
+            "ඔක්සීන සහ ගිබරලීනය.",
+            "ඇබ්සිසික් අම්ලය සහ එතිලීන් ය.",
+            "එතිලීන් සහ සයිටොකයිනීනය.",
+            "එතිලීන් සහ ගිබරලීනය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව ඛේටය පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද? කුමන ඒවාද?\nA - එය පිෂ්ඨය කුඩා පොලිසැකරයිඩ බවට ජීරණය කරයි.\nB - එහි ඇති එන්සයිම දත් දිරා යෑම වළක්වයි.\nC - එහි ඇති ශ්ලේෂ්මලය මුඛය පිරිසිදු කිරීමට උපකාරී වේ.",
+        "choices": [
+            "A පමණි.",
+            "A සහ B පමණි.",
+            "A සහ C පමණි.",
+            "A, B සහ C."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "කිසියම් පුද්ගලයකුගේ අග්න්‍යාශය පිළිකාවක් නිසා ඉවත් කළේ නම් වඩාත් ම බලපෑමක් ඇති විය හැක්කේ පහත සඳහන් කුමක් ජීරණය කිරීම සඳහා ද?",
+        "choices": [
+            "නියුක්ලික් අම්ල",
+            "නියුක්ලියෝටයිඩ",
+            "කුඩා පෙප්ටයිඩ",
+            "ට්‍රයිග්ලිසරයිඩ"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව හෘදය පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "SA ගැටය පිහිටන්නේ වම් කර්ණිකාවේ මයෝකාඩියම තුළය.",
+            "පූර්ණ හෘත් විස්තාරයේදී කෝෂිකා තුළට රුධිරය අක්‍රියව ගලා යයි.",
+            "කර්ණිකා ආකුංචය තත්පර 0.3 ක් පවතී.",
+            "හෘත් ස්ඵන්දනයේ රිද්මය ඇති කරනු ලබන්නේ AV ගැටය මගිනි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව පෙණහැලි පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද?",
+        "choices": [
+            "එක් එක් පෙණහැල්ල බාහිර අන්තරංග ප්ලුරාවෙන් සහ අභ්‍යන්තර පාර්ශ්වික ප්ලුරාවෙන් වට වී ඇත.",
+            "වම් පෙණහැල්ල, දකුණු පෙණහැල්ලට වඩා ස්වල්පයක් කුඩාය.",
+            "ගර්ත තුළ ඇති ශ්ලේෂ්මලය මගින් ආශ්වාස වාතයේ ඇති දූවිලි අංශු රඳවා ගැනේ.",
+            "ගර්තවල අපිච්ඡදයේ ඇති පක්ෂ්ම පෘෂ්ඨානති ශමකයේ චලනයට උපකාරී වේ."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව වෘක්කාණුවේ ව්‍යුහමය කොටස් කිහිපයක් සහ මුත්‍ර සෑදීමේදී සිදුවන ක්‍රියාවලි කිහිපයක් පහත දී ඇත.\nව්‍යුහමය කොටස | ක්‍රියාවලිය\nA - අවිදුර සංවලිත නාලිකාව | P - K^{+} ස්‍රාවය කිරීම\nB - හෙන්ලේ පුඩුවේ අවරෝහණ බාහුව | Q - HCO_3^{-} ප්‍රතිශෝෂණය\nC - හෙන්ලේ පුඩුවේ ආරෝහණ බාහුව | R - ජලය ප්‍රතිශෝෂණය\nD - විදුර සංවලිත නාලිකාව |\nසියලු ම ' ව්‍යුහමය කොටස - ක්‍රියාවලිය' සංකලන නිවැරදි වන වරණය තෝරන්න.",
+        "choices": [
+            "A-R, C-R, D-P",
+            "A-Q, B-R, D-P",
+            "A-Q, C-R, D-R",
+            "A-R, C-R, D-Q"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව ස්වයංසාධක ස්නායු පද්ධතියේ අනුවේගී කොටස",
+        "choices": [
+            "පිත්තාශය උත්තේජනය කරයි.",
+            "ලිංගේන්ද්‍රියන් උද්ගමනය වීම දිරි ගන්වයි.",
+            "මුත්‍රාශය හිස් වීම දිරි ගන්වයි.",
+            "අධිවෘක්ක මජ්ජාව උත්තේජනය කරයි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "අන්තෝ වසා තරලයෙන් පිරී ඇත්තේ මානව කනේ පහත සඳහන් කුමන ව්‍යුහ ද ?",
+        "choices": [
+            "අලින්ද නාලය, කර්ණ පටහ නාලය සහ කර්ණ ශංඛ ප්‍රණාලය",
+            "කර්ණ පටහ නාලය, කර්ණ ශංඛ ප්‍රණාලය සහ මඩිච්චිය",
+            "තුම්බිකාව, මඩිච්චිය සහ අලින්ද නාලය",
+            "කර්ණශංඛ ප්‍රණාලය, තුම්බිකාව සහ මඩිච්චිය"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව රුධිරයේ ආස්‍රැති මෞලිකතාව කායික විද්‍යාත්මක සීමා ඉක්මවා වැඩි වූ විට සමස්ථිතිය ඇති කිරීම සඳහා සිදු වන්නේ පහත සඳහන් කුමන සිදුවීම් ශ්‍රේණිය ද?\nADH නිදහස් වීම | ජලය සඳහා වෘක්ක නාලිකාවල පාරගම්‍යතාව | නිපදවෙන මුත්‍ර ප්‍රමාණය",
+        "choices": [
+            "වැඩි වේ. | වැඩි වේ. | වැඩි වේ.",
+            "වැඩි වේ. | අඩු වේ. | අඩු වේ.",
+            "අඩු වේ. | වැඩි වේ. | අඩු වේ.",
+            "වැඩි වේ. | වැඩි වේ. | අඩු වේ."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "කාන්තාවන්ගේ ප්‍රජනක චක්‍ර පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ඩිම්බකෝෂයේ ඇති අණ්ඩ මාතෘ සෛල කාණ්ඩයක වර්ධනය සහ විකසනය ආර්තව කලාවේදී යළි ආරම්භ වේ.",
+            "ස්‍යුනික කලාවේදී, වර්ධනය වන ස්‍යුනිකාවෙන් ඊස්ට්‍රඩියෝල් ස්‍රාවය අධිකව ඉහළ යෑම ආරම්භ වේ.",
+            "නිදහස් වූ ඩිම්බයට පෝෂණය සැපයීම සඳහා ඩිම්බ මෝචනයේදී ගර්භාශයික ආස්තරණය ගැලවී යයි.",
+            "ස්‍රාවී කලාවේදී නිපද වූ පීත දේහය මගින් ගර්භණී කාලය මුළුල්ලේම ප්‍රොජෙස්ටෙරෝන් නිදහස් කරනු ලැබේ."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව භ්‍රෑණ පටලවල කෘත්‍ය කිහිපයක් පහත දැක්වේ.\nA - මුත්‍රාශය විකසනය වීම හා සම්බන්ධය.\nB - මූලික ජන්මාණු සෛලවල ප්‍රභවය වේ.\nC - මවගේ ප්‍රතිශක්ති ප්‍රතිචාර වලින් භ්‍රෑණයට ආරක්ෂාව සපයයි.\nබීජාන්න මඩිය මගින් ඉටු කරනු ලබන්නේ ඉහත සඳහන් කුමන කෘත්‍යය ද? කෘත්‍යයද?",
+        "choices": [
+            "A පමණි.",
+            "B පමණි.",
+            "A සහ B පමණි.",
+            "A සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව කශේරුව පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "රේඛීයව සකස් වූ අස්ථි 24 කින් එය සමන්විත වේ.",
+            "සෑම ග්‍රෛවී කශේරුකාවක්ම ද්විභින්න කණ්ටක ප්‍රසරයක් බැගින් දරයි.",
+            "කටී කශේරුකාවක එක් එක් තීරයක් ප්‍රසරයේ කශේරුක ධමනියට ගමන් කිරීම සඳහා ජිද්‍රයක් බැගින් ඇත.",
+            "ස්නායුවලට ගමන් කිරීම සඳහා ත්‍රිකාස්ථියේ එක් එක් පැත්තේ ජිද්‍ර ශ්‍රේණියක් බැගින් ඇත."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව ගාත්‍රා සැකිල්ලේ",
+        "choices": [
+            "ප්‍රගන්ඩාස්ථියේ විදුර කෙළවර ඇති තනි සන්ධාන පෘෂ්ඨය සමඟ අරාස්ථිය සහ අන්වරාස්ථිය සන්ධානය වීමෙන් වැලමිට සන්ධිය තැනේ.",
+            "පළමුවැනි හස්තකූර්චෝපරී අස්ථිය සහ හස්තකූර්චාස්ථියක් අතර මහපටැඟිල්ලේ පාදස්ථයේ තැනෙන සන්ධිය නිසා බල ග්‍රහණ හැකියාව ලැබී ඇත.",
+            "සිටගෙන සිටින විට දේහ බර දරාගැනීම සඳහා උකුළු සන්ධිය ඉතා දැඩි සහ ශක්තිමත් වී ඇත.",
+            "ඌර්වස්ථිය සහ ජංඝාස්ථිය මගින් තැනෙන දණහිස් සන්ධිය භ්‍රමණ චලනයට ඉඩ සලසයි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "හාඩි - වයින්බර්ග් සමතුලිතතාවේ ඇති ගෙවතු පැළ ශාක ගහනයක පුෂ්පවල රතු වර්ණය සඳහා වන ඇලීලය, සුදු වර්ණය සඳහා වන ඇලීලයට ප්‍රමුඛ වේ. මෙම ගහනයේ නිලීන ඇලීල සංඛ්‍යාතය 0.3 නම් විෂම යුග්මක ශාකවල ප්‍රවේණිදර්ශ සංඛ්‍යාතය කුමක්ද?",
+        "choices": [
+            "0.09",
+            "0.21",
+            "0.42",
+            "0.70"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ශාකවල බහුගුණතාව පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ මොනවාද?\nA - ශාක අවයවවල විශාලත්වය එමගින් වැඩි වේ.\nB - ශාකවල වර්ධන වේගය එමගින් වැඩි වේ.\nC - ඔක්සීන භාවිතයෙන් එය කෘත්‍රිමව ප්‍රේරණය කළ හැකි ය.\nD - එයට බීජ රහිත ඵල නිපදවිය හැකි ය.",
+        "choices": [
+            "A සහ D පමණි.",
+            "A, B සහ D පමණි.",
+            "A, C සහ D පමණි.",
+            "B, C සහ D පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "පොලිපෙප්ටයිඩ සංශ්ලේෂණයේදී පරිවර්තන ශීඝ්‍රතාව වැඩි කිරීම සඳහා දායක වන්නේ පහත සඳහන් ඒවායින් කුමක්ද?",
+        "choices": [
+            "පොලිසෝම",
+            "සංඥා පෙප්ටයිඩ",
+            "මෙතියොනින්",
+            "UAG කෝඩෝන"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "DNA පිළිසකර කිරීමේ යන්ත්‍රණය පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද? කුමන ඒවාද?\nA - පිළිකා සෛල සෑදීම වැළැක්වීමට එය උපකාරී වේ.\nB - DNA දාමයේ හිදැස් නිවැරදි නියුක්ලියොටයිඩ මගින් පිරවීම DNA ලයිගේස් මගින් සිදු කෙරේ.\nC - හානි වූ DNA දාමයේ ඇති නොගැළපෙන නියුක්ලියොටයිඩ අනුක්‍රම නියුක්ලියෙස් මගින් කපා දැමේ.",
+        "choices": [
+            "B පමණි.",
+            "C පමණි.",
+            "A සහ B පමණි.",
+            "A සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ස්වාභාවික පරිසර පද්ධතියක තිබිය හැකි වඩාත්ම පාරිසරිකව කාර්යක්ෂම ආහාර දාමය තෝරන්න.",
+        "choices": [
+            "මුවා → දිවියා",
+            "බඩ ඉරිඟු → මීයා → සර්පයා → බකමුණා",
+            "තෘණ → සීබ්‍රා → සයිබීරියානු කොටියා",
+            "තෘණ → තණකොළපෙත්තා → ගෙම්බා → සර්පයා → රාජාලියා"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "බියෝම කිහිපයක් සහ ඒවායේ සාමාන්‍යයෙන් දැකිය හැකි සතුන් කිහිප දෙනෙකු පහත දී ඇත.\nබියෝමය | සත්ත්වයා\nA - සැවානා | P - පිණිමුවා\nB - තුන්ද්‍රා | Q - එළුවා\nC - උතුරු කේතුධර වනාන්තර | R - සිංහයා\nD - චැපරාල් | S - දුඹුරු වළහා\nසියලුම ' බියෝමය - සත්ත්වයා' සංකලන නිවැරදි වන වරණය තෝරන්න.",
+        "choices": [
+            "A-R, B-P, C-Q, D-S",
+            "A-R, B-P, C-S, D-Q",
+            "A-R, B-S, C-Q, D-P",
+            "A-Q, B-R, C-P, D-S"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "(i) හි වැඩිවීම නිසා (ii) හි වැඩිවීමක් විය හැක්කේ පහත සඳහන් කුමන යුගලේ ද?/ යුගලවලද?\nA - (i) වායුගෝලයේ MeBr ප්‍රමාණය | (ii) කොරල් පර හායනය\nB - (i) ගව ගොවිපළ | (ii) පානීය ජලයේ ලෙඩ් ප්‍රමාණය\nC - (i) වායුගෝලයේ CO2 ප්‍රමාණය | (ii) අක්ෂි රෝග ඇති වීමේ අවදානම",
+        "choices": [
+            "A පමණි.",
+            "B පමණි.",
+            "A සහ C පමණි.",
+            "B සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "පහත සඳහන් කුමන ලක්ෂණ සහිත එන්නත් පිළිවෙළින් සරම්ප සහ කොලරාව සඳහා භාවිත කරනු ලබයි ද?\nA - දුර්වල කරන ලද සජීවී ව්‍යාධිජනකයන් අඩංගු වීම\nB - අක්‍රිය කරන ලද හෝ මරණ ලද ව්‍යාධිජනකයන් අඩංගු වීම\nC - අක්‍රිය කරන ලද ධූලක අඩංගු වීම\nD - ජිවිතාන්තය දක්වා පවතින ප්‍රතිශක්තියක් සැපයීම",
+        "choices": [
+            "A සහ C",
+            "C සහ D",
+            "D සහ B",
+            "D සහ C"
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "කොම්පෝස්ට් සෑදීම පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද? කුමන ඒවාද?\nA - ආරම්භයේදී තාපකාමී බැක්ටීරියා හායන ක්‍රියාවලියේ ප්‍රමුඛත්වය ගනී.\nB - නිර්වායු තත්ත්ව යටතේදී එය වේගවත් කළ හැකි ය.\nC - ඇක්ටිනොමයිසිටිස් සහ ප්‍රෝටොසෝවාවන් ක්‍රියාවලියට දායක වේ.",
+        "choices": [
+            "C පමණි.",
+            "A සහ B පමණි.",
+            "A සහ C පමණි.",
+            "B සහ C පමණි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "කෝලිෆෝම් බැක්ටීරියා යනු",
+        "choices": [
+            "යෂ්ටි හැඩැති, ග්‍රෑම් ඍණ, අන්තඃ බීජාණු නොසාදන, ලැක්ටෝස් ද්‍රව රෝපණ මාධ්‍යය 60°C දී පැසීමෙන් පැය 24 ක් ඇතුළත වායු වර්ග නිපදවන බැක්ටීරියා වේ.",
+            "යෂ්ටි හැඩැති, ග්‍රෑම් ධන, අන්තඃබීජාණු සාදන, ලැක්ටෝස් ද්‍රව රෝපණ මාධ්‍යය 35°C දී පැසීමෙන් පැය 24 ක් ඇතුළත වායු වර්ග නිපදවන බැක්ටීරියා වේ.",
+            "ගෝලාකාර, ග්‍රෑම් ධන, අන්තඃ බීජාණු සාදන, ලැක්ටෝස් ද්‍රව රෝපණ මාධ්‍යය 35°C දී පැසීමෙන් පැය 48 ක් ඇතුළත වායු වර්ග නිපදවන බැක්ටීරියා වේ.",
+            "යෂ්ටි හැඩැති, ග්‍රෑම් ඍණ, අන්තඃ බීජාණු නොසාදන, ලැක්ටෝස් ද්‍රව රෝපණ මාධ්‍යය 35°C දී පැසීමෙන් පැය 48 ක් ඇතුළත වායු වර්ග නිපදවන බැක්ටීරියා වේ."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව කලල මූලික සෛල පරිණත මූලික සෛලවලින් වෙනස් වන්නේ",
+        "choices": [
+            "ඒවාට දේහයේ ඕනෑම සෛල වර්ගයක් බවට විභේදනය විය හැකි බැවිනි.",
+            "ඒවා විභේදනය නොවූ සෛල බැවිනි.",
+            "ඒවා නාලස්ථව වගා කළ හැකි බැවිනි.",
+            "හානි වූ සෛල ප්‍රතිස්ථාපනය කිරීමට ඒවා භාවිත කළ හැකි බැවිනි."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "එතිල් මද්‍යසාර පැසීමේදී සිදු වන්නේ පහත සඳහන් ඒවායින් කුමක්ද? කුමන ඒවාද?\n(A) ග්ලයිකොලිසියේදී නිපද වූ NADH භාවිත වේ.\n(B) ග්ලූකෝස් අණුවක් එතනෝල් අණුවක් බවට පරිවර්තනය කෙරේ.\n(C) එක් ග්ලූකෝස් අණුවකින් NADH අණු දෙකක් නිපද වේ.\n(D) පයිරුවේට්, ඇසිටැල්ඩිහයිඩ් බවට පරිවර්තනය කෙරේ.\n(E) එක් පයිරුවේට් අණුවකින් CO_2 අණු දෙකක් නිදහස් කෙරේ.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ප්‍රෝටිස්ටාවන්ගේ ලක්ෂණ කිහිපයක් සහ එම ලක්ෂණ දරන ජීවීන් පහත දැක් වේ.\nලක්ෂණය | ජීවියා\nA - ඡවිකාවක් තිබීම | P - Euglena\nB - සංකෝචක රික්තක තිබීම | Q - Amoeba\nC - ප්‍රභා ස්වයං පෝෂී පෝෂණය | R - Paramecium\nD - කශිකා මගින් සංචරණය කිරීම | S - Gelidium\nසියලුම ' ලක්ෂණය - ජීවියා' සංකලන නිවැරදි වන වරණය/වරණ තෝරන්න.\n(A) A-R, B-Q, C-S, D-P\n(B) A-R, B-R, C-S, D-P\n(C) A-P, B-R, C-P, D-S\n(D) A-R, B-Q, C-P, D-P\n(E) A-P, B-Q, C-P, D-R",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(A), (B) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "පර පරාගනය සඳහා අනුවර්තන වන්නේ පහත සඳහන් ඒවා අතුරෙන් මොනවාද ?\n(A) ස්ව වන්ධ්‍යාතාව\n(B) විෂම කීලතාව\n(C) සම කීලතාව\n(D) ඒකලිංගිකතාව\n(E) ඒක ගෘහී වීම",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(A), (B) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව අපිච්ඡද පටක වල ප්‍රධාන කෘත්‍යයන් වන්නේ පහත සඳහන් ඒවා අතුරෙන් මොනවාද ?\n(A) ස්‍රාවය කිරීම\n(B) පරිවරණය\n(C) අවශෝෂණය\n(D) ආරක්ෂාව\n(E) සන්ධාරණය",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව ශ්වේතාණු පිළිබඳ නිවැරදි ප්‍රකාශය/ප්‍රකාශ තෝරන්න.\n(A) මොනොසයිට ඛණ්ඩිකා කීපයකින් සමන්විත න්‍යෂ්ටි දරයි.\n(B) සක්‍රිය වූ බේසොෆිල තුවාලයක් සිදු වූ විට සයිටොකයින නිදහස් කරයි.\n(C) වසා සෛල විශිෂ්ට නොවන ආරක්ෂණයට දායක වේ.\n(D) නියුට්‍රොෆිල වලට ව්‍යාධිජනකයන් අධිග්‍රහණය කිරීමට හැකි ය.\n(E) ප්‍රදාහක ප්‍රතිචාරයේදී ඉයොසිනොෆිල හිස්ටැමින් නිදහස් කරයි.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (B) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානවයින්ගේ මස්තිෂ්ක බාහිකයේ සංගාමී ප්‍රදේශ වගකීම් දරනුයේ\n(A) වේදනාව සහ උෂ්ණත්වය පිළිබඳ සංවේදන තොරතුරු ලබා ගැනීම සහ සැකසීම සඳහාය.\n(B) කංකාල පේශි චලනය මෙහෙය වීම සඳහාය.\n(C) සංවේදනය පිළිබඳ තොරතුරු හඳුනා ගැනීම සහ අර්ථ කථනය සඳහාය.\n(D) සංකීර්ණ මානසික ක්‍රියාවලි වල සමෝධානය සහ සංකලනය සඳහාය.\n(E) දෘෂ්ටිය සහ ශ්‍රවණය පිළිබඳ සංවේදන තොරතුරු ලබා ගැනීම සහ සැකසීම සඳහාය.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(A), (B) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "මානව ශුක්‍රාණු\n(A) වැඩිවියට පැමිණීමට පෙර නිපද නොවේ.\n(B) හිසේ ට්‍රිප්සින් දරයි.\n(C) විසර්ජනයෙන් පසු ස්ත්‍රී ප්‍රජනක මාර්ගය තුළ පැය 48-72 පමණ සජීවීව පවතී.\n(D) ලේඩිග් සෛල වලින් පෝෂණය ලබා ගනී.\n(E) ශුක්‍රධර නාලිකා තුළදී චල භාවය ලබා ගනී.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "ආහාර වර්ග ගෘහස්ථ පරිරක්ෂණයේදී ශ්‍රී ලංකාවේ භාවිත කරනුයේ පහත සඳහන් කුමන ක්‍රමය ද? ක්‍රම ද?\n(A) සීනි එකතු කිරීම\n(B) ලුණු දැමීම\n(C) ඇසිටික් අම්ලය භාවිත කිරීම\n(D) වියළීම\n(E) විකිරණ භාවිතය",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "බැක්ටීරියා පිළිබඳ පහත සඳහන් ප්‍රකාශ අතුරෙන් නිවැරදි වන්නේ කුමක්ද? කුමන ඒවාද?\n(A) Escherichia coli වෛකල්පිත නිර්වායු වේ.\n(B) Lactobacillus sp. ක්ෂුද්‍රවාතකාමී වේ.\n(C) Clostridium sp. අනිවාර්ය වායු වේ.\n(D) Nitrobacter sp. රසායනික ස්වයංපෝෂී වේ.\n(E) දම් සල්ෆර් බැක්ටීරියා ප්‍රභාවිෂමපෝෂී වේ.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(A), (B) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Biology",
+        "category": "stem",
+        "question": "DNA ඒෂණ\n(A) සලකුණු කරන ලද තනි දාම DNA ඛණ්ඩ වේ.\n(B) DNA ඇඟිලි සළකුණු තාක්ෂණයේදී භාවිත කරනු ලැබේ.\n(C) DNA අනුක්‍රම නිර්ණයේදී භාවිත කරනු ලැබේ.\n(D) අනුපූරක RNA සමඟ දෙමුහුම් විය හැකිය.\n(E) විශේෂිත DNA අනුක්‍රම කැපීමට භාවිත කරනු ලැබේ.",
+        "choices": [
+            "(A), (B), (D) නිවැරදි ය.",
+            "(A), (C), (D) නිවැරදි ය.",
+            "(C), (D) නිවැරදි ය.",
+            "වෙනත් කිසියම් ප්‍රතිචාරයක් හෝ ප්‍රතිචාර සංයෝජනයක් හෝ නිවැරදි ය."
+        ],
+        "metadata": {
+            "subject_original": "ජීව විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126550&token=&preview=1"
+        }
+    }
+]

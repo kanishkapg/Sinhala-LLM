@@ -1,0 +1,602 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "මූලික වර්ණ 02ක්‌ එක්‌ කළ චිට සෑදෙන්නේ,",
+        "choices": [
+            "ප්‍රධාන වර්ණ වේ.",
+            "ද්විතීයික වර්ණ වේ.",
+            "තෘතීය වර්ණ වේ.",
+            "විසංඝත වර්ණ වේ."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Yf4T_jnG-O-JOAoGm0x9wj4wX6T7gPx-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ළමා පොත්‌ පිටකවරයක්‌ නිර්මාණය කිරීම සඳහා භාවිත කරනු ලබන මුද්‍රණ ක්‍රමය අයත්‌ වන්නේ,",
+        "choices": [
+            "ග්‍රැෆික්‌ සැලසුම්‌ ක්‍රමයටය.",
+            "ටෙම්ප්ලේට්‌ ක්‍රමයටය.",
+            "මෝස්තර නිර්මාණ ක්‍රමයටය.",
+            "එකලස්‌ කිරීමේ ක්‍රමයටය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Yf4T_jnG-O-JOAoGm0x9wj4wX6T7gPx-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ඉවතලන ප්ලාස්ටික්‌, තහඩු, ලී, ලෑලි පටි, ගම්වර්ග, කඩදාසි, කාඩිබෝඞ්‌ පැනසල්‌ සායම්‌ පින්සල්‌ ආදී චිවිධ ද්‍රව්‍ය යොදා ගනිමින්‌ මූර්ති නිර්මාණය කිරීම.",
+        "choices": [
+            "ඇඹීමේ ක්‍රමය වේ.",
+            "නෙලීමේ ක්‍රමය වේ.",
+            "එකලස්‌ කිරීමේ ක්‍රමය වේ.",
+            "ග්‍රැෆික්‌ ක්‍රමය වේ."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Yf4T_jnG-O-JOAoGm0x9wj4wX6T7gPx-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ඔබ පන්ති කාමරයේ දී ගෝලාකාර වස්තූන්‌ ඇඳ ත්‍රිමණ ලක්ෂණ දැක්වීම සඳහා භාවිත කරනු ලබන පැන්සල්‌ වර්ගය වන්නේ,",
+        "choices": [
+            "'H' අගයෙන්‌ වැඩි පැන්සල්ය.",
+            "'H' අගයෙන්‌ අඩු පැන්සල්ය.",
+            "'HB' අගයේ පැන්සල්ය.",
+            "'B' අගයෙන්‌ වැඩි පැන්සල්ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Yf4T_jnG-O-JOAoGm0x9wj4wX6T7gPx-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "පන්ති කාමරයේ දී චිවිධ වර්ණ සහිත කොළ ඉරා ඇලවීමෙන්‌ නිර්මාණය කරනු ලබන චිත්‍ර හඳුන්වන්නේ,",
+        "choices": [
+            "කොලාජර්‌ චිත්‍ර ලෙසයි.",
+            "ග්‍රැෆික්‌ චිත්‍ර ලෙසයි.",
+            "මෝස්තර චිත්‍ර ලෙසයි.",
+            "ප්‍රකාශන චිත්‍ර ලෙසයි."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Yf4T_jnG-O-JOAoGm0x9wj4wX6T7gPx-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ආමිස මෙන්ම ප්‍රතිපත්ති පුජාවලට මුල්තැන දෙනු ලබන්නේ,",
+        "choices": [
+            "නත්තල්‌ උත්සවයේදී ය.",
+            "වෙසක්‌ උත්සවයේදී ය.",
+            "තෛපොංගල්‌ උත්සවයේදී ය.",
+            "රාමසාන්‌ උත්සවයේදී ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/176S_l5FDiU-dVOwiQ8sNizmPZLu0xTk7/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "තෛපොංගල්‌ උත්සවයේ දී දොරටුවට බද්ධවන සේ සකස්‌ කරනු ලබන තොරණ සඳහා භාවිත කරන අමුද්‍රව්‍ය වන්නේ,",
+        "choices": [
+            "සෘජුෆෝම්‌ ය.",
+            "ගොක්‌ කොළ ය.",
+            "වර්ණ රෙදිකැබලි ය.",
+            "කෙසෙල්‌ ගස ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/176S_l5FDiU-dVOwiQ8sNizmPZLu0xTk7/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "අරාබි වචනයෙන්‌ \"සව්ම් සමාදන්‌” යනු,",
+        "choices": [
+            "කුර්‌ආනය කියවීමයි.",
+            "අනිවාර්ය දානය දීමයි.",
+            "උපවාසයේ යෙදීමයි.",
+            "යාච්ඤා කිරීමයි."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/176S_l5FDiU-dVOwiQ8sNizmPZLu0xTk7/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ලතින්‌ භාෂාවෙන්‌ \"නත්තල” යන්න හඳුන්වන්නේ,",
+        "choices": [
+            "තනාල ලෙස ය.",
+            "නතාලිස්‌ ලෙස ය.",
+            "නත්තල ලෙස ය.",
+            "උපත ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/176S_l5FDiU-dVOwiQ8sNizmPZLu0xTk7/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "කළයක්‌ මුනින්‌ අතට නැවූ හැඩය ඇති ස්තූපය වන්නේ,",
+        "choices": [
+            "ඝටාකාර චෛත්‍ය යි.",
+            "ඝණ්ඨාකාර චෛත්‍ය යි.",
+            "බුඛ්බුලාකාර චෛත්‍ය යි.",
+            "අම්ලාකාර චෛත්‍ය යි"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/176S_l5FDiU-dVOwiQ8sNizmPZLu0xTk7/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "සරල හා වියුක්ත හැඩතල යොදා ගනිමින්‌ නිර්මාණය කරන ලද රූප සපීවීකරණයට ලක්‌ කිරීමෙන්‌ කාටුන්‌ නිර්මාණය කරනු ලැබේ. මෙසේ සජීවීකරණය කරනු ලබන්නේ,",
+        "choices": [
+            "පරිගණක තාක්ෂණය උපයෝගී කරගෙනය.",
+            "නැනෝ තාක්ෂණය උපයෝගී කරගෙනය.",
+            "ලිතෝ මුද්‍රණ තාක්ෂණය උපයෝගී කරගෙනය.",
+            "විවීමේ තාක්ෂණය උපයෝගී කරගෙනය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lQGBhypmFIQ3hx4IQFsCJajKBi5KsV3-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ජනප්‍රිය කාටුන්‌ වැඩ සටහන තෝරන්න.",
+        "choices": [
+            "මුල්‌ පිටුව",
+            "දඟර වලිග ලප වානර",
+            "සිංහබාහු",
+            "රස රසි ගී"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lQGBhypmFIQ3hx4IQFsCJajKBi5KsV3-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "වර්තමානයේ ප්‍රාසාංගික කලාවක්‌ ලෙස වර්ධනය වී ඇති රූකඩ කලාවේ ඉතා ජනප්‍රිය රූකඩ වර්ග 05 ඇතුළත්‌ වරණය තෝරන්න.",
+        "choices": [
+            "නුල්‌ රූකඩ, සැරසිලි රූකඩ, සත්ත්ව රූකඩ, මල්‌ රූකඩ, රිටි රූකඩ",
+            "සෙවනැලි රූකඩ, ගස්‌ රූකඩ, කුරුළු රූකඩ, රිටි රූකඩ, ගොඩ රූකඩ",
+            "රිටි රූකඩ, තල රූකඩ, රජ රූකඩ, නුල්‌ රූකඩ, තඹ රූකඩ",
+            "අත්‌ රූකඩ, ඇගිලි රූකඩ, නුල්‌ රූකඩ, සෙවණැලි රූකඩ, රිටි රූකඩ"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lQGBhypmFIQ3hx4IQFsCJajKBi5KsV3-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "රූකඩ නිර්මාණය සඳහා ලංකාවේ භාවිතා කරන දැව වර්ග",
+        "choices": [
+            "හල්මිල්ල ලී, නැඳුන්‌ ලී",
+            "පලු ලී, මී ගහේ ලී",
+            "කදුරු ලී, රුක්‌ අත්තන ලී",
+            "වීර ලී, බුරුතලී"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lQGBhypmFIQ3hx4IQFsCJajKBi5KsV3-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "රූකඩ නාට්‍ය සඳහා බොහෝ විට ගායනා කරනු ලබන්නේ,",
+        "choices": [
+            "නුර්ති හා නාඩගම්‌ ගීතයි.",
+            "සරල ගීතයි.",
+            "පන්නම්‌ ගීතයි.",
+            "බයිලා ගීතයි."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1lQGBhypmFIQ3hx4IQFsCJajKBi5KsV3-/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "නිවැරදි විසංගත වර්ණ යුගලය වන්නේ,",
+        "choices": [
+            "කොළ + රතු",
+            "තැඹිලි + කහ",
+            "කොළ + නිල්‌",
+            "තැඹිලි + රතු"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1UDe8mOuw1DtVQ_DR-L9RPN1meGnlRozS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "සංඛනිධි බහිරව රුව සහිත මුරගල්‌ දක්නට ඇත්තේ,",
+        "choices": [
+            "කැලණි ස්තූපයේ ය.",
+            "රුවන්වැලි ස්තූපයේ ය.",
+            "අභයගිරි ස්තූපයේ ය.",
+            "ජේතවන ස්තූපයේ ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1UDe8mOuw1DtVQ_DR-L9RPN1meGnlRozS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "තල්‌ කොළ පැදුරු වර්ග අතර \"සෝට්ටුපායි” යනු,",
+        "choices": [
+            "අස්වනු පැදුරු ය.",
+            "නිදන පැදුරු ය.",
+            "උත්සව පැදුරු ය.",
+            "බත්‌ පැදුරු ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1UDe8mOuw1DtVQ_DR-L9RPN1meGnlRozS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "පන්‌ හා නියඳ වර්ණ ගැන්වීමේ දී පතඟි දැව සහ කොරකහ කොළ භාවිතයෙන්‌",
+        "choices": [
+            "රතු වර්ණය සාදා ගනී.",
+            "කහ වර්ණය සාදා ගනී.",
+            "කොළ වර්ණය සාදා ගනී.",
+            "කළු වර්ණය සාදා ගනී."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1UDe8mOuw1DtVQ_DR-L9RPN1meGnlRozS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "මහා වංශයේ සඳහන්‌ වන පරිදි කැලණි දාගැබ ඉදිකර වූ රජු වන්නේ,",
+        "choices": [
+            "වළගම්බා රජු ය.",
+            "මහසෙන්‌ රජු ය.",
+            "දුටුගැමුණු රජු ය.",
+            "මණි අක්ඛිත රජු ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1UDe8mOuw1DtVQ_DR-L9RPN1meGnlRozS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "කොහොඹා කංකාරී ශාන්තිකර්මය අයත්‌ වන්නේ,",
+        "choices": [
+            "උඩරට නර්තන සම්ප්‍රදායට ය.",
+            "පහතරට නර්තන සම්ප්‍රදායට ය.",
+            "සබරගමු නර්තන සම්ප්‍රදායට ය.",
+            "ජන නැටුම්‌ නර්තන සම්ප්‍රදායට ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1rklxe_wZ0RlRAGVGz9Z3MJQ21vstn7kw/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "මැටි භාණ්ඩ නිර්මාණය කිරීමේ ක්‍රම ශිල්පයක්‌ නොවන්නේ මෙයින්‌ කුමක්‌ ද?",
+        "choices": [
+            "අත්‌ සකපෝරුව යොදා ගැනීමෙන්‌.",
+            "පා සකපෝරුව යොදා ගැනීමෙන්‌.",
+            "පට්ටලය ආධාරයෙන්‌.",
+            "මැටි වළලු සහ මැටි පුචරු උපයෝගී කර ගැනීමෙන්‌."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1rklxe_wZ0RlRAGVGz9Z3MJQ21vstn7kw/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "නියද කළාල හෙවත්‌ නියද පැදුරු කොටස්‌ තුනකින්‌ යුක්ත වන අතර පන්නම්‌ කළාල ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "සාමාන්‍ය පැදුරු ය.",
+            "මිශ්‍ර සැරසිලි පැඳුරු ය.",
+            "කුරුළු හැඩ සහිත පැදුරු ය.",
+            "අකුරු සහ සත්ත්ව රූප සහිත පැදුරු ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1rklxe_wZ0RlRAGVGz9Z3MJQ21vstn7kw/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "තල්කොළ කලා කර්මාන්තයේ දී නිර්මාණය කරන හකුරු බහාලන උපකරණය හැඳුන්වන නම වනුයේ,",
+        "choices": [
+            "ඌවල්ය.",
+            "කුට්ටාන්ය.",
+            "පඩුක්කේයිපායිය.",
+            "කඳිර්පායිය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1rklxe_wZ0RlRAGVGz9Z3MJQ21vstn7kw/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "පාරම්පරික සැරසිල්ලක්‌ වන බිනර මල පහතරට ප්‍රදේශයේ දී හඳුන්වන නම වන්නේ,\n",
+        "choices": [
+            "කුමුද්‍රප්පල",
+            "කිනිහිරියා මල",
+            "කතිරමල",
+            "සීනමල"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1rklxe_wZ0RlRAGVGz9Z3MJQ21vstn7kw/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "ප්‍රාග්‌ ඓතිහාසික චිත්‍ර හමුවන ලැස්කෝ ගුහාව අයත්‌ රට වන්නේ,",
+        "choices": [
+            "ස්පාඤ්ඤය යි.",
+            "ප්‍රංශය යි.",
+            "ඉතාලිය යි.",
+            "ජර්මනිය යි."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KERbz-McTogLJgCjE0N0HlcRtPzr3OfJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "කාන්තා දේව රූප සඳහා බහුලව භාවිත වන, පහළට වැටුණු අතෙහි අත්ල සහ ඇඟිලි රිද්මයානුකූලව පොළොවට දිගුවන මුද්‍රාව වනුයේ,",
+        "choices": [
+            "විතර්ක මුද්‍රාව යි.",
+            "වරද මුද්‍රාව යි.",
+            "ගජහස්ත මුද්‍රාව යි.",
+            "ලෝලහස්ත මුද්‍රාව යි."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KERbz-McTogLJgCjE0N0HlcRtPzr3OfJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "උඩරට නැටුම්‌ සම්ප්‍රදාය සමග බැඳි ශාන්තිකර්මය කුමක්‌ ද?",
+        "choices": [
+            "පහන්මඩුව ශාන්තිකර්මය",
+            "දොවොල්මඩුව ශාන්තිකර්මය",
+            "කොහොඹා කංකාරිය ශාන්තිකර්මය",
+            "කුම්බබ්ෂේකම්‌ ශාන්තිකර්මය"
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KERbz-McTogLJgCjE0N0HlcRtPzr3OfJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "වර්ණ භාවිතය තුළ මූලික වර්ණ ලෙස හඳුන්වනුයේ,",
+        "choices": [
+            "නිල්‌, කහ, දම්‌ ය.",
+            "නිල්‌, රතු, කොළ ය.",
+            "රතු, කහ, තැඹිලි ය.",
+            "නිල්‌, කහ, රතු ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KERbz-McTogLJgCjE0N0HlcRtPzr3OfJ/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Art",
+        "category": "Humanities",
+        "question": "වට්ටගාමිණි අභය රජු විසින්‌ ඉදිකළ අභයගිරි ස්තූපයේ වර්තමාන හැඩය වන්නේ,",
+        "choices": [
+            "බුබ්බුලාකාර ය",
+            "ධාන්‍යාකාර ය.",
+            "ඝණ්ඨාකාර ය.",
+            "පත්මාකාර ය."
+        ],
+        "metadata": {
+            "subject_original": "චිත්‍ර කලාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1KERbz-McTogLJgCjE0N0HlcRtPzr3OfJ/view?usp=drive_link"
+        }
+    }
+]

@@ -1,0 +1,742 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "පෘෂ්ඨීය ජලසම්පාදනය යනු බහුලව භාවිත කරන, සාපේක්ෂව සරල ජලසම්පාදන ක්‍රමයකි. පෘෂ්ඨීය ජලසම්පාදන ක්‍රමයක් සඳහා උදාහරණයක් වනුයේ ",
+        "choices": [
+            "බිංදු ජලසම්පාදනය ය.",
+            "බේසම් ජලසම්පාදනය ය.",
+            "බඳුන් ජලසම්පාදනය ය.",
+            "සවිවර නල ජලසම්පාදනය ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "සමබල ආහාරයක අඩංගු වන දේහ පටක වර්ධනයට සහ අලුත්වැඩියාවට මූලික වන පෝෂක කාණ්ඩය වනුයේ \n",
+        "choices": [
+            "මේදය ය.",
+            "ජලය ය.",
+            "ප්‍රෝටීන් ය.",
+            "විටමින් ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "PCR පරීක්ෂණය මගින් හඳුනාගනු ලබන්නේ, ශාකවල \n",
+        "choices": [
+            "වෛරස් රෝගයන් ය.",
+            "අජෛව ආතතීන් ය.",
+            "ඌනතා රෝග ලක්ෂණයන් ය.",
+            "කායික විද්‍යාත්මක රෝගයන් ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "උපතේ සිට පළමු මාසය තුළ වසුපැටවෙකුට දෛනිකව කිරි දිය යුත්තේ \n",
+        "choices": [
+            "යථාරුචි ලෙස ය.",
+            "වසුපැටවාගේ දේහ බරින් 5% ක ප්‍රමාණයක් ය.",
+            "වසුපැටවාගේ දේහ බරින් 7.5% ක ප්‍රමාණයක් ය.",
+            "වසුපැටවාගේ දේහ බරින් 10% ක ප්‍රමාණයක් ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "වාණිජ පැපොල් වගාවක, ශාකවල කරටිය කොටස් පෙරදින රාත්‍රි කාලයේ දී කඩාවැටී ඇති බව වාර්තා වුණි. මෙම සිදුවීම සඳහා වඩාත් හේතුවිය හැක්කේ ",
+        "choices": [
+            "වල් ඌරන්ගේ හානිය ය.",
+            "අධික සුළං හැමීම ය.",
+            "වල් අලියන්ගේ හානිය ය.",
+            "මොණරුන්ගේ හානිය ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "පාංශු ජනනය සඳහා බලපාන වඩාත් වැදගත් පාරිසරික සාධක දෙක වනුයේ \n",
+        "choices": [
+            "සුළඟ සහ ආර්ද්‍රතාව ය.",
+            "ආර්ද්‍රතාව සහ වර්ෂාපතනය ය.",
+            "උෂ්ණත්වය සහ සුළඟ ය.",
+            "වර්ෂාපතනය සහ උෂ්ණත්වය ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "නයිට්‍රජන් ඌනතාවයක දී ශාකවල සුලබව නිරීක්ෂණය කළ හැකි ඌනතා ලක්ෂණයක් වන්නේ \n",
+        "choices": [
+            "පත්‍ර දාර පිළිස්සුනු ස්වභාවයක් ගැනීම ය.",
+            "මේරූ/පරිණත පත්‍ර දම් පැහැයට හැරීම ය.",
+            "අලුත් පත්‍රවල අන්තර් නාරටි හරිතක්ෂය ඇතිවීම ය.",
+            "වර්ධනය බාලවීම හා පරිණත පත්‍ර කහ පැහැගැන්වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "වී වගාවේ දී බහුලව භාවිතා කරන ලබන නයිට්‍රජන් තිර කරන ජෛව පොහොරක් වන්නේ \n",
+        "choices": [
+            "ඇසොස්පිරිල්ලම් (Azospirillum) ය.",
+            "මයිකොරයිසා (Mycorrhiza) ය.",
+            "ඇනබීනා ඇසොලේ (Anabaena azollae) ය.",
+            "බැසිලස් සබ්ටිලිස් (Bacillus subtilis) ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "චූර්ණමය නොවන දුඹුරු පස (Non calcic brown soil), \n",
+        "choices": [
+            "නයිට්‍රජන් සහ පොස්පරස්වලින් බහුල පසකි.",
+            "රළු හා වියළි මතුපිටකින් සමන්විත ගැඹුරු පසකි.",
+            "දුර්වල ව්‍යුහයකින් සමන්විත බැවින් සාරවත් බවින් අඩු පසකි.",
+            "කිසිදු තත්ත්වයක් යටතේ වී වගා කිරීම සඳහා යොදා නොගන්නා පසකි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "එක්තරා ක්ෂුද්‍ර මුලද්‍රවයක් අචල බැවින් එහි ඌනතා රෝග ලක්ෂණ පළමු ව නිරීක්ෂණය වන්නේ ළපටි පත්‍රවල බව කෘෂි විද්‍යා පෙළ පොතක සඳහන් කර තිබුණි. මෙම ක්ෂුද්‍ර මුලද්‍රවය සඳහා උදාහරණයක් වන්නේ \n",
+        "choices": [
+            "සල්ෆර් ය.",
+            "නයිට්‍රජන් ය.",
+            "මැග්නීසියම් ය.",
+            "මැංගනීස් ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ද්විතීයික බිම් සැකසීමේ ප්‍රධාන අරමුණක් වන්නේ \n",
+        "choices": [
+            "විශාල පස් කැට පොඩි කිරීම ය.",
+            "වැටි සහ ඇළි සෑදීම ය.",
+            "ක්ෂේත්‍රයේ ජල වහනය දියුණු කිරීම ය.",
+            "බීජ පැළ සිටුවීම සඳහා පසෙහි වලවල් සෑදීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "කේන්ද්‍රාපසාරී පොම්පයක් මගින් ක්‍රියාත්මක වන ජලය එසවීමේ පද්ධතියක පා කපාටයේ (foot valve) ප්‍රධාන කාර්යය වන්නේ \n",
+        "choices": [
+            "බලශක්ති පරිභෝජනය අඩු කිරීම ය.",
+            "පොම්පයෙහි චූෂණ පීඩනය පාලනය කිරීම ය.",
+            "මෝටරයෙහි ප්‍රශස්ත වේගය පවත්වා ගැනීම ය.",
+            "චූෂණ මාර්ගයේ වායු බුබුළු ඇතිවීම වැළැක්වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ, තොරාගත් වනජීව විශේෂ පිළිබඳ මෑතක දී සිදුකළ ජාතික සංගණනයේ මූලික අරමුණ වූයේ \n",
+        "choices": [
+            "ජෛව විවිධත්වයේ වත්මන් තත්ත්වය ලේඛනගත කිරීම ය.",
+            "සතුන්ගේ චර්යාත්මක සහ සංක්‍රමණ රටා අධ්‍යයනය කිරීම ය.",
+            "වනජීවින් බහුල ස්ථාන සිතියම් කිරීම මගින් පරිසර හිතකාමී සංචාරක කර්මාන්තය නගාසිටුවීම ය.",
+            "බෝග හානිය තක්සේරු කිරීම සඳහා සත්ත්ව ගහන ප්‍රමාණය ඇස්තමේන්තු කිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "සුළඟ, බෝග වගාව කෙරෙහි ධනාත්මක සහ ඍණාත්මක බලපෑම් ඇති කරයි. බෝග වගාවේ දී සුළඟ මගින් ඇති කරනු ලබන ධනාත්මක බලපෑමක් විය හැක්කේ ",
+        "choices": [
+            "පරාගනය පහසු කිරීම ය.",
+            "ධාන්‍යවලින් අපද්‍රව ඉවත් කිරීම ය.",
+            "බීජ වැපිරීමට උපකාරී වීම ය.",
+            "කෘෂිරසායනිකවල බිඳිති ඉලක්ක නොවන බෝග මත විසිර වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "මැටි ඛනිජ සලකනු ලබන්නේ \n",
+        "choices": [
+            "මොන්ටිමොරිලොනයිට් සහ කෙඔලිනයිට් වැනි ද්විතීයක ඛනිජ ලෙස ය.",
+            "කැල්සයිට් සහ හීමටයිට් වැනි සිලිකේට් නොවන ඛනිජ ලෙස ය.",
+            "ක්වෝට්ස් සහ පෙල්ස්පාර් වැනි ප්‍රාථමික ඛනිජ ලෙස ය.",
+            "කෙඔලිනයිට් සහ ඉලයිට් වැනි ප්‍රාථමික ඛනිජ ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "බීජ ප්‍රචාරණයට සංසන්දනාත්මකව, වර්ධක ප්‍රචාරණයෙහි ප්‍රධාන ආර්ථික ප්‍රතිලාභයක් වන්නේ \n",
+        "choices": [
+            "කෘමි උවදුරු වැළැක්වීම ය.",
+            "ප්‍රවේණික විචලතාව වැඩිවීම ය.",
+            "අස්වැන්න නෙළාගැනීමට ගතවන කාලය අඩුවීම ය.",
+            "ජලසම්පාදන අවශ්‍යතාව අඩුවීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "කෝලියාස් සහ රෝස ශාක ප්‍රචාරණය කිරීම සඳහා වඩාත් සුදුසු රෝපණ ද්‍රව්‍ය වනුයේ \n",
+        "choices": [
+            "ළා දඬු කැබලි ය.",
+            "අඩ දළ දඬු කැබලි ය.",
+            "පිළිවෙළින් ළා දඬු කැබලි සහ අඩ දළ දඬු කැබලි ය.",
+            "පිළිවෙළින් අඩ දළ දඬු කැබලි සහ කාෂ්ඨීය දඬු කැබලි ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ සහතික කළ බිත්තර වී සඳහා තිබිය යුතු අවම ප්‍රරෝහණ ප්‍රතිශතය වනුයේ \n",
+        "choices": [
+            "55% කි.",
+            "65% කි.",
+            "75% කි.",
+            "85% කි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "සාර්ථක ශාක බද්ධ ක්‍රියාවලියක දී අනුජය සහ ග්‍රාහකය අතර ආරම්භක සන්ධානය ඇති වනුයේ \n",
+        "choices": [
+            "පොත්තෙහි ය.",
+            "ශෛලම පටකයෙහි ය.",
+            "ප්ලෝයම පටකයෙහි ය.",
+            "කැම්බියම් පටකයෙහි ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "එකිනෙකට වෙනස් සහාභිජාත ජනකයන් දෙදෙනකු අතර මුහුමකින් ලැබෙන ප්‍රජනිතය හඳුන්වන්නේ \n",
+        "choices": [
+            "F₂ ශාක ලෙස ය.",
+            "දෙමුහුම් ශාක ලෙස ය.",
+            "අලිංගික ශාක ලෙස ය.",
+            "සමයෝගී ශාක ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "වාණිජව බෝග වගා කරන ගොවිමහතෙකු ඔහුගේ ක්ෂේත්‍රයේ පස් සාම්පලයක් පරීක්ෂා කිරීමේ දී පාංශු pH අඩු බව සහ පෝෂක සචලතාව සෙමින් සිදුවන බව සොයාගන්නා ලදී. ඔහුගේ ක්ෂේත්‍රයේ වගා කර ඇති කොළ එළවළු වගාවෙන් යොදනු ලබන පොහොර සඳහා ඉක්මන් ප්‍රතිචාරයක් ලබාගැනීමට ඔහුට අවශ්‍ය විය. මේ සඳහා බෝග ක්ෂේත්‍රයට පොහොර යෙදීමේ වඩාත් සුදුසු ක්‍රමය වනුයේ \n",
+        "choices": [
+            "පස මතුපිටට පොහොර යෙදීම ය.",
+            "පත්‍ර මතට පොහොර ඉසීම ය.",
+            "බිංදු ජලසම්පාදනය හරහා පොහොර යෙදීම ය.",
+            "බෝග පේළි දිගේ තීරු ලෙස පොහොර යෙදීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ශුද්ධ ජලසම්පාදන අවශ්‍යතාව (NIR) යනු \n",
+        "choices": [
+            "බෝග වගා කන්නය තුළ දී ලැබෙන මුළු වර්ෂාපතන ප්‍රමාණය ය.",
+            "පාංශු තෙතමනය, ක්ෂේත්‍ර ධාරිතාවට ගෙන ඒම සඳහා බාහිරින් යෙදිය යුතු ජල ප්‍රමාණය ය.",
+            "බෝග වගා කන්නය තුළ දී ජලසම්පාදනය මගින් ක්ෂේත්‍රයට යොදන මුළු ජල ප්‍රමාණය ය.",
+            "බෝග වර්ධනය, ජල වහනය සහ වාෂ්පීකරණ-උත්ස්වේදනය සඳහා බාහිරින් සැපයිය යුතු ජල ප්‍රමාණය ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ ශාක ජාන සම්පත්, ස්ථානීය සංරක්ෂණය කිරීමේ දී ප්‍රධාන සීමාකාරී සාධකයක් වන්නේ \n",
+        "choices": [
+            "විශේෂ විවිධත්වය අඩුවීම ය.",
+            "විශේෂ අතර අන්තර්ක්‍රියා අඩුවීම ය.",
+            "ස්වභාවික විපත් නිසා නඩත්තු පිරිවැය ඉහළ යාම ය.",
+            "දේශගුණය හෝ මානව ක්‍රියාකාරකම් හේතුවෙන් වාසස්ථාන විනාශ වීමේ අවදානම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "දේශගුණික සුහුරු කෘෂිකාර්මික (CSA) පිළිවෙතක් සඳහා උදාහරණයක් වන්නේ \n",
+        "choices": [
+            "නියගයට ඔරොත්තු දෙන බෝග වගාකිරීම ය.",
+            "කාණු ඉදිකිරීම මගින් ජලවහනය වැඩි දියුණු කිරීම ය.",
+            "ශාක වර්ධනය වේගවත් කිරීම සඳහා පොහොර භාවිතය වැඩිකිරීම ය.",
+            "නිරන්තර ජලසම්පාදනය අවශ්‍ය වන වැඩි අස්වනු බෝග වගාකිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "අතුරු බෝග සහ බහු ස්ථර බෝග වගා පද්ධතිවල පොදු ලක්ෂණයක් වන්නේ \n",
+        "choices": [
+            "ආලෝකය වඩාත් හොඳින් උපයෝගී කරගැනීම ය.",
+            "ජල භාවිත කාර්යක්ෂමතාව අඩුවීම ය.",
+            "අන්තර් විශේෂ තරගකාරිත්වය ශුන්‍යවීම ය.",
+            "පළිබෝධ හා රෝග හටගැනීම වැඩිවීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ලොකු ළුණු සඳහා වෙළෙදපොළ ඉල්ලුම පහත සමීකරණයෙන් විස්තර කෙරේ. \nQd = 600 – 3P, මෙහි Qd = ඉල්ලුම් කළ ප්‍රමාණය හා P = ලොකු ළුණු කිලෝග්‍රෑමයක මිල වේ. ලොකු ළුණු කිලෝග්‍රෑමයක මිල රු. 120 නම්, ඉල්ලුම් කරනු ලබන ලොකු ළුණු ප්‍රමාණය වනුයේ \n",
+        "choices": [
+            "200 kg කි.",
+            "240 kg කි.",
+            "260 kg කි.",
+            "280 kg කි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "එළදෙනකගේ මද ලක්ෂණ නිරීක්ෂණය කළ හැකි වනුයේ \n",
+        "choices": [
+            "පෙර මදයේ දී ය.",
+            "මදයේ දී ය.",
+            "පසු මදයේ දී ය.",
+            "මද අතුර ආරම්භයේ දී ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "අන්ත උපරිමය වන පලතුරු \n",
+        "choices": [
+            "සැමවිට ම පැණි රස වේ.",
+            "නෙළීමෙන් පසුව ඉදීම සිදු වේ.",
+            "ඉදීම සඳහා වැඩි ජල ප්‍රමාණයක් අවශ්‍ය වේ.",
+            "අඩු හරිතප්‍රද ප්‍රමාණයක් සහිත පොත්තකින් යුක්ත ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "බෝග පරිණතභාවය නිර්ණය කිරීමට යොදාගනු ලබන කායික විද්‍යාත්මක දර්ශක සඳහා උදාහරණයක් වනුයේ \n",
+        "choices": [
+            "මුළු ද්‍රාව්‍ය ඝන ද්‍රව්‍ය ප්‍රමාණය ය.",
+            "පත්‍රවල තෙතමන ප්‍රමාණය ය.",
+            "පුෂ්පීකරණයේ සිට දින ගණන ය.",
+            "පොත්තේ වර්ණය ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "කෘෂිකර්මාන්තයේ දී ලැත් නිවාස භාවිත කිරීමේ මූලික අරමුණ වන්නේ \n",
+        "choices": [
+            "වර්ෂාවෙන් බෝග ආරක්ෂා කරගැනීම ය.",
+            "පළිබෝධ හා රෝගවලින් බෝග ආරක්ෂා කරගැනීම ය.",
+            "සෙවන ප්‍රියකරන ශාක සඳහා ආලෝක තීව්‍රතාව අඩුකිරීම ය.",
+            "නිර්වර්තන කලාපීය ශාක සඳහා උෂ්ණත්වය වැඩිකිරීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "පළිබෝධ පාලනය සඳහා පෙරමෝන යොදා ගැනේ. මෙය වර්ගීකරණය කළ හැකි වනුයේ \n",
+        "choices": [
+            "ජෛව රසායනික ක්‍රමයක් ලෙස ය.",
+            "භෞතික ක්‍රමයක් ලෙස ය.",
+            "ජෛව විද්‍යාත්මක ක්‍රමයක් ලෙස ය.",
+            "ශෂ්‍ය විද්‍යාත්මක ක්‍රමයක් ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "කිඹුල් මුකුණුවැන්න (Alternanthera philoxeroides) වඩාත් හොදින් පැහැදිලි කළ හැකි වනුයේ \n",
+        "choices": [
+            "ආගන්තුක ජලජ ශාකයක් ලෙස ය.",
+            "ආගන්තුක ආක්‍රමණශීලී ශාකයක් ලෙස ය.",
+            "ඒකදේශික ජලජ ශාකයක් ලෙස ය.",
+            "ඌන උපයෝජිත ඖෂධීය ශාකයක් ලෙස ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ආහාරයෙහි අඩංගු යකඩ සම්බන්ධයෙන් නිවැරදි ප්‍රකාශය වනුයේ \n",
+        "choices": [
+            "\"එළකිරි යකඩ සඳහා හොඳ ප්‍රභවයකි\" යන්න ය.",
+            "\"ටැනින්, ශරීරයට යකඩ අවශෝෂණය නිශේධනය කරයි\" යන්න ය.",
+            "\"ශාක ආහාර ප්‍රභවයන්හි පහසුවෙන් අවශෝෂණය කළ හැකි යකඩ අඩංගු වේ\" යන්න ය.",
+            "\"ආහාරවල ඇති යකඩ අවශෝෂණය විටමින් C මගින් අඩු කරයි\" යන්න ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "සත්ත්ව ආහාර සහ ජීරණය පිළිබඳ නිවැරදි ප්‍රකාශය වනුයේ \n",
+        "choices": [
+            "\"සයිලේජ් ලෙස තෘණ සංරක්ෂණය කිරීමේ අරමුණ එහි ගුණාත්මකය වැඩිදියුණු කිරීම වේ\" යන්න ය.",
+            "\"ගවයින් සහ කුකුළන් දෙවර්ගයේම කාබෝහයිඩ්‍රේට් ජීරණයේ අවසාන ප්‍රධාන ඵලය ග්ලූකෝස් වේ\" යන්න ය.",
+            "\"රෝමාන්තික සහ රෝමාන්තික නොවන සත්ත්ව දෙකොට්ඨාශයේම  එන්සයිම මගින් ආහාර ජීරණය ප්‍රධාන වශයෙන් ම සිදුවන්නේ ග්‍රහනයේදී ය\" යන්න ය.",
+            "\"ගවයින්ට දෙන ආහාරවල ප්‍රධාන පෝෂක කාණ්ඩය කාබෝහයිඩ්‍රේට් වන නමුත් කුකුළන්ගේ ආහාරවලට එය සත්‍ය නොවේ\" යන්න ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "ස්වාරක්ෂක වී තොගයක් පවත්වා ගැනීමට රජය ගත් තීරණයකට වඩාත් වලංගු හේතුව වනුයේ \n",
+        "choices": [
+            "සත්ත්ව ආහාර කර්මාන්තයේ ඉල්ලුම සපුරාලීමට ය.",
+            "හිග අවස්ථාවල දී වෙළෙඳපොළ මිල ස්ථාවර කිරීමට ය.",
+            "අවාරයේ ඉල්ලුම සපුරාලීමට ය.",
+            "අවශ්‍යතා ඇති ප්‍රජාවන් හට නොමිලේ සහල් සැපයීමට ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "නුදුරු අනාගතයේ දී කිරිපිටි මිල ඉහළ යනු ඇතැයි පාරිභෝගිකයින් උපකල්පනය කළහොත් වෙළෙඳපොළෙහි සිදුවිය හැකි ක්ෂණික වෙනසෙහි ප්‍රතිඵලය වනුයේ \n",
+        "choices": [
+            "ඉල්ලුම් වක්‍රය දකුණට විතැන්වීම ය.",
+            "ඉල්ලුම් වක්‍රය වමට විතැන්වීම ය.",
+            "සැපයුම් සහ ඉල්ලුම් වක්‍ර දෙක ම වමට විතැන්වීම ය.",
+            "සැපයුම් සහ ඉල්ලුම් වක්‍ර දෙකම දකුණට විතැන්වීම ය."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Agricultural Science",
+        "category": "stem",
+        "question": "එක්තරා පාරිභෝගිකයෙක් තේ පානය කිරීමෙන් පසු පහත සඳහන් මුළු උපයෝගිතාව අත්විඳින ලදී: පළමු තේ කෝප්පයෙන් ලැබූ උපයෝගිතාව යූටිල් 25 ක් ද දෙවන තේ කෝප්පයෙන් පසු ලැබූ මුළු උපයෝගිතාව යූටිල් 45 ක් ද තෙවන තේ කෝප්පයෙන් පසු ලැබූ මුළු උපයෝගිතාව යූටිල් 60 ක් ද වේ. තෙවන තේ කෝප්පය බීමෙන් ලැබෙන ආන්තික උපයෝගිතාව වනුයේ \n",
+        "choices": [
+            "යූටිල් 15 කි.",
+            "යූටිල් 25 කි.",
+            "යූටිල් 60 කි.",
+            "යූටිල් 70 කි."
+        ],
+        "metadata": {
+            "subject_original": "කෘෂි  විද්‍යාව",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=126842&token=&preview=1 "
+        }
+    }
+]

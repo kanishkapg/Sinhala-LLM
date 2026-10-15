@@ -1,0 +1,602 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "තුසිත දෙව්ලොව වැඩ සිටින බෝසතුන්‌ වෙත ගොස්‌ මිනිස්‌ ලොව උපදින ලෙස දේවාරාධනාව කළේ,",
+        "choices": [
+            "පස්වග මහණුන්‌ ය.",
+            "සක්දෙව්‌ රජු ය.",
+            "සහම්පතී මහා බ්‍රහ්මයා ය.",
+            "අසිත තාපස තුමා ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EH7wwKHYOf7_1q0u1fjmRkRWR5HSRe3B/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "පස්මහ බැලුම්වලට අයත්‌ නොවන්නෙකි,",
+        "choices": [
+            "කාලය",
+            "දීපය",
+            "ද්වේෂය",
+            "කුලය"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EH7wwKHYOf7_1q0u1fjmRkRWR5HSRe3B/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බෝසතානන්‌ වහන්සේ මව්‌ කුස පිළිසිඳ ගනු ලැබුවේ,",
+        "choices": [
+            "වෙසක්‌ පෝය දිනක ය.",
+            "පොසොන්‌ පෝය දිනක ය.",
+            "ඇසල පෝය දිනක ය.",
+            "දුරුතු පෝය දිනක ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EH7wwKHYOf7_1q0u1fjmRkRWR5HSRe3B/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "සිදුහත්‌ කුමරුගේ ගිහි කල ගුරුවරයා වූයේ,",
+        "choices": [
+            "අසිත තාපස තුමා ය.",
+            "සර්වමිත්‍ර බමුණා ය.",
+            "කොණ්ඩඤ්ඤ තාපස තුමා ය.",
+            "දිසාපාමොක්‌ ඇදුරු තුමා ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EH7wwKHYOf7_1q0u1fjmRkRWR5HSRe3B/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "සිදුහත්‌ කුමරු ඒකාන්තයෙන්ම බුදුවන බව ප්‍රකාශ කළේ,",
+        "choices": [
+            "අසිත හෙවත්‌ කාලදේවල තාපස තුමා ය.",
+            "කොණ්ඩඤ්ඤ තාපස තුමා ය.",
+            "සර්වමිත්‍ර බමුණා ය.",
+            "සහම්පති මහා බ්‍රහ්මයා ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1EH7wwKHYOf7_1q0u1fjmRkRWR5HSRe3B/view?usp=sharing"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "තුසිත දෙච්‌ ලොව දිව්‍ය පුත්‍රයෙකු වී සිටි ඛෝසතාණන්ට මිනිස්‌ ලොව උපදින ලෙස ආරාධනා කළේ,",
+        "choices": [
+            "සක්‌ දෙවිඳුන්‌ ය.",
+            "කාලදේවල තාපසයන්‌ ය.",
+            "සහම්පති බ්‍රහ්මයා ය.",
+            "සුදවුන්‌ රජතුමා ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/19w49Pe_gaK_0jV0AajODBQP-Er8BkrOb/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "අසිත හෙචත්‌ කාලදේවල තවුසා යනු,",
+        "choices": [
+            "සිදුහත්‌ කුමරුගේ ගුරුවරයා ය.",
+            "සුද්ධෝදන රජුගේ ගුරුචරයා ය.",
+            "නන්ද කුමරුගේ ගුරුවරයා ය.",
+            "රාහුල කුමරුගේ ගුරුවරයා ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/19w49Pe_gaK_0jV0AajODBQP-Er8BkrOb/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "සිදුහත්‌ කුමරු ගිහිගෙය හැරයාම සිදුවූයේ,",
+        "choices": [
+            "වෙසක්‌ පොහොය දිනක ය.",
+            "ඇසල පොහොය දිනක ය.",
+            "පොසොන්‌ පොහොය දිනක ය.",
+            "දුරුතු පොසභොය දිනක ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/19w49Pe_gaK_0jV0AajODBQP-Er8BkrOb/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "“නමෝ තස්ස භගවතෝ අරහතෝ සම්මා සම්බුද්ධස්ස\" යන පාඨය හඳුන්වන්නේ,",
+        "choices": [
+            "බුදු ගුණ සිහිකරන පාඨය නමින්‌ ය.",
+            "දහම්ගුණ සිහිකරන පාඨය නමින්‌ ය.",
+            "නමස්කාර පාඨය නමින්‌ ය.",
+            "තිසරණ සරණ යාම නමින්‌ ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/19w49Pe_gaK_0jV0AajODBQP-Er8BkrOb/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "ශික්ෂාකාමී භික්ෂූන්‌ අතර අගතනතුර හිමි වූයේ,",
+        "choices": [
+            "ආනන්ද තෙරුන්‌ වහන්සේට ය.",
+            "රාහුල තෙරුන්‌ වහන්සේට ය.",
+            "දෙචිදත්‌ තෙරුන්‌ චහන්සේට ය.",
+            "සුනීත තෙරුන්‌ චහන්සේට ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/19w49Pe_gaK_0jV0AajODBQP-Er8BkrOb/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදු රදුන්‌ සත්‌ සතිය ගත කළ ආකාරය දැක්වෙන පාඨය වන්නේ,",
+        "choices": [
+            "අග්ගෝ හමස්මි ලෝකස්ස",
+            "නිධිනංච පවත්තාරං",
+            "පඨමං බෝධි පල්ලංකං",
+            "දානං සීලංච නෙක්ඛම්ම"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Ucs1FeTIg0yRm-wmChDG37xSulXyyuEk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "සමාපත්ති සුවයෙන්‌ බුදු රදුන්‌ වැඩ සිටියේ,",
+        "choices": [
+            "පස්වන සතියේ ය.",
+            "සත්වන සතියේ ය.",
+            "සිව්වන සතියේ ය.",
+            "දෙවන සතියේ ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Ucs1FeTIg0yRm-wmChDG37xSulXyyuEk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "කෝලිත හා උපතිස්සගේ ගුරුවරයා වූ සංජය,",
+        "choices": [
+            "බ්‍රාහ්මණයෙකි.",
+            "පිරිචැජියෙකි.",
+            "ජටිලයෙකි.",
+            "තවුසෙකි."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Ucs1FeTIg0yRm-wmChDG37xSulXyyuEk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "ගිලනුන්ට උපස්ථාන කරන්නකු තුළ තිබිය යුතු ගුණාංග,",
+        "choices": [
+            "5කි.",
+            "6කි.",
+            "7කි.",
+            "8 කි."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Ucs1FeTIg0yRm-wmChDG37xSulXyyuEk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "සියලු කෙලෙස්‌ නසා තුන්ලොව පිළිබඳ ව මනාකොට දැනගෙන නොදන්නා වූ ලොක ප්‍රජාවට ඉතා පැහැදිලි ලෙස දේශනා කළ බැවින්‌ බුදු රදුන්‌,",
+        "choices": [
+            "අරහං වේ.",
+            "ලෝකවිදු චේ.",
+            "සුගත වේ.",
+            "සම්මා සම්බුද්ධ චේ."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Ucs1FeTIg0yRm-wmChDG37xSulXyyuEk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදුරජාණන්‌ වහන්සේ ගිරිමානන්ද සූත්‍රයේදී රෝග හට ගන්නා ක්‍රම ............................ පිළිබඳ උගන්වා ඇත.",
+        "choices": [
+            "පහක්‌",
+            "හයක්‌",
+            "හතක්‌",
+            "අටක්‌"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/16IIIh7hQL1BnpdOkfeuc7EDpO2PZHAEn/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "උතු නියාමය යනුවෙන්‌ ධර්මයේ හැඳින්වෙන්නේ,",
+        "choices": [
+            "කාලගුණික හේතූ ය.",
+            "කර්මානුරූප හේතූ ය.",
+            "උද්භිත විද්‍යාත්මක හේතූ ය.",
+            "ලෝක ධර්මතා ආශ්‍රිත හේතූ ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/16IIIh7hQL1BnpdOkfeuc7EDpO2PZHAEn/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදුරජාණන්‌ වහන්සේ විසින්‌ ලෝක සත්වයාට වැළඳී ඇති මුලික රෝගය ලෙස හඳුන්වා දුන්නේ කුමක්‌ ද?",
+        "choices": [
+            "තණ්හාව ය.",
+            "කුසගින්න ය.",
+            "සසර දුක ය.",
+            "කෙලෙස්‌ ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/16IIIh7hQL1BnpdOkfeuc7EDpO2PZHAEn/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදු රදුන්ගේ පළමු ධර්ම දේශනය වන්නේ,",
+        "choices": [
+            "අනන්තලක්ඛණ සුත්‍රය යි.",
+            "දම්සක්‌ පැවතුම්‌ සූත්‍රය යි.",
+            "ආදිත්ත පරියාය සූත්‍රය යි.",
+            "මහා පරිනිබ්බාණ සුත්‍රය යි."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/16IIIh7hQL1BnpdOkfeuc7EDpO2PZHAEn/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "ත්‍රි ශික්ෂාව පිළිවෙළින්‌,",
+        "choices": [
+            "ප්‍රඥා, සමාධි, සීල",
+            "සීල, සමාධි, ප්‍රඥා",
+            "සමාධි, ප්‍රඥා, සීල",
+            "සමාධි, සීල, ප්‍රඥා"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/16IIIh7hQL1BnpdOkfeuc7EDpO2PZHAEn/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදුරජාණන්‌ වහන්සේ මල්ල රට අනුපිය නම්‌ අඹවනයට වැඩම කළ අවස්ථාවේ දේවදත්ත කුමරුන්‌ සමඟ පැවිදි බව ලබාගත්‌ අයෙකු වන්නේ,",
+        "choices": [
+            "පිප්ඵලී කූමරු",
+            "ඡන්න ඇමති",
+            "භද්දිය කුමරු",
+            "නන්ද කුමරු"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1AjI0ZUCzTReRJQ5IuCeVdGfmSc6lsvoV/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "තමාගේ වෙනත්‌ කටයුතු සියල්ල පසෙකින්‌ තබා සිතට නඟා ගැනීමට සුදුසු බැවින්‌ ධර්මරත්නය,",
+        "choices": [
+            "ඒහිපස්සික වේ.",
+            "සන්දිට්ඨික චේ.",
+            "ස්වාක්ඛාත වේ.",
+            "ඕපනයික වේ."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1AjI0ZUCzTReRJQ5IuCeVdGfmSc6lsvoV/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "දේවදත්ත තෙරුන්‌ සිදුකළ ආනත්තර්ය පාපකර්මයක්‌ වන්නේ,",
+        "choices": [
+            "රහතුන්‌ මැරීම යි.",
+            "මච මැරීම යි.",
+            "පියා මැරීම යි.",
+            "බුදුරදුන්ගේ ලේ සෙලවීම යි."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1AjI0ZUCzTReRJQ5IuCeVdGfmSc6lsvoV/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදුරජාණන්‌ වහන්සේ තුළ පැවති සතුටු සාමීච්‌ කථා බහ ඇති බව හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "පුබ්බභාසී යනුවෙනි.",
+            "සම්මෝදක යනුවෙනි.",
+            "උත්තානමුඛ යනුවෙනි.",
+            "සබිලබව යනුවෙනි."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1AjI0ZUCzTReRJQ5IuCeVdGfmSc6lsvoV/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "කිඹුල්වත්‌ නුවර බුදුරජාණන්‌ වහන්සේ වෙනුවෙන්‌ ඉදිකොට තිබූ ආරාමය කුමක්‌ ද?",
+        "choices": [
+            "ඝෝෂිතාරාමය",
+            "රාජකාරාමය",
+            "නීග්‍රෝධාරාමය",
+            "ජේතවනාරාමය"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1AjI0ZUCzTReRJQ5IuCeVdGfmSc6lsvoV/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "බුදුරජාණන්‌ වහන්සේගෙන්‌ පංචවර ආයාචනය කරණු ලැබූයේ,",
+        "choices": [
+            "ආනන්ද තෙරුන්ය.",
+            "කාශ්‍යප තෙරුන්ය.",
+            "දෙව්දත්‌ තෙරුන්ය.",
+            "මුගලන්‌ තෙරුන්ය."
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vE7MxecDsTeayjBLYbHfpYg6kR1_qJ4K/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "චුල්ල පන්ථක තෙරුන්හට මතක ශක්තිය වර්ධනය කරගැනීමට බුදුරදුන්‌ ලබාදුන්‌ උපකරණය නම්‌,",
+        "choices": [
+            "සුදු රෙදි කඩකි",
+            "කැඩපතකි",
+            "පාත්‍රයකි",
+            "සිවුරකි"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vE7MxecDsTeayjBLYbHfpYg6kR1_qJ4K/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "තෙරුවනෙහි ගුණ ගණන වන්නේ,",
+        "choices": [
+            "හයකි",
+            "නවයකි",
+            "දහඅටකි",
+            "විසිහතරකි"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vE7MxecDsTeayjBLYbHfpYg6kR1_qJ4K/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "'අප දෙදෙනාගෙන්‌ යමෙකු පළමුව විමුක්තිය ලදහොත්‌ ඒ බව අනෙකාට දැන්විය යුතුයි.” යන ප්‍රකාශය සිදුකළේ,",
+        "choices": [
+            "අස්සජි විසිනි",
+            "කෝලිත විසිනි",
+            "උපතිස්ස / කෝලිත විසිනි",
+            "උපතිස්ස විසිනි"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vE7MxecDsTeayjBLYbHfpYg6kR1_qJ4K/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Buddhism",
+        "category": "Humanities",
+        "question": "දළදා තේවාවට උපකාරීවන තේවාකාර දූරයක්‌ නොවන්නේ,",
+        "choices": [
+            "වට්ටෝරුරාල",
+            "ඇනම්තිරාල",
+            "හක්ගෙඩිරාල",
+            "ගෙපරාල"
+        ],
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1vE7MxecDsTeayjBLYbHfpYg6kR1_qJ4K/view?usp=drive_link"
+        }
+    }
+]

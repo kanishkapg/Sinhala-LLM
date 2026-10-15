@@ -1,0 +1,402 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ඕෂ්ඨජ අක්ෂර පමණක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "ළ, ඨ, ථ, ආ, ක, ච, ට",
+            "ම, භ, බ, එ, ප, උ, ඌ",
+            "ක, බ, ඩ, ට, ත, ඉ, ඊ",
+            "ශ, ෂ, ස, හ, ෆ, ඍ, ඎ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසය සහිත පද පේළිය තෝරන්න.",
+        "choices": [
+            "සම්ප්‍රේෂණය, කලටි, උච්ඡාවස්ථාව, බොලඳ, සුළැඟිල්ල",
+            "සම්ප්‍රේෂනය, කලටි, උච්චාවස්ථාව, බොළඳ, සුළැඟිල්ල",
+            "සම්ප්‍රේසනය, කලටි, උච්ඡාවස්ථාව, බොළඳ, සුලැඟිල්ල",
+            "සම්ප්‍රේෂණය, කළටි, උච්චාවස්ථාව, බොළඳ, සුළැඟිල්ල"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "අකාරාදි පිළිවෙළ අනුව නිවැරදි ව ලියා ඇති පද පේළිය තෝරන්න.",
+        "choices": [
+            "පැරකුම්බා, විජයබාහු, කිත්සිරිමෙවන්, රාජසිංහ, දුටුගැමුණු",
+            "කිත්සිරිමෙවන්, දුටුගැමුණු, පැරකුම්බා, රාජසිංහ, විජයබාහු",
+            "කිත්සිරිමෙවන්, පැරකුම්බා, විජයබාහු, රාජසිංහ, දුටුගැමුණු",
+            "රාජසිංහ, විජයබාහු, පැරකුම්බා, දුටුගැමුණු, කිත්සිරිමෙවන්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත සඳහන් ප්‍රකාශ අතුරෙන් නිරවද්‍ය ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "අනුස්වාර දෙකක් එක ළඟ එක යෙදිය හැකි ය.",
+            "අනුස්වාරය ස්වරයකට පසුවම යෙදිය යුතු ය.",
+            "අනුස්වාරය වචනයක මුලට යෙදේ.",
+            "අනුස්වාරය ලිවීමේ දී 'අ' යන්නක් භාවිත කිරීම අනිවාර්ය ය."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එකිනෙකට අනුරූප වන සේ වචන යුගල යෙදී ඇති වරණය තෝරන්න.",
+        "choices": [
+            "ප්‍රායෝගික පරීක්ෂණ, අකාල වර්ෂාව, පුළුල් ක්ෂේත්‍රය, කාලීන අවශ්‍යතා",
+            "කර්මාන්ත අමාත්‍ය, නිසල දිය, භූමි කම්පාව, ව්‍යවස්ථා විරෝධී",
+            "සෙල්ලම් ගෙය, විභාග ලකුණු, ආරාධනා පත්‍ර, ප්‍රාමාණික වියත්හු",
+            "ද්විතීය අදියර, අන්තර්ගත කරුණු, ඉගෙනුම් කුසලතා, විදේශ රැකියා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තත්සම පද පමණක් යෙදී ඇති වරණය තෝරන්න.",
+        "choices": [
+            "ශ්‍රමණ, විමන, භ්‍රමණ, අඟන",
+            "විචාර, කුමාර, කෑදර, ප්‍රචාර",
+            "අශ්ව, නිශ්චල, ආශ්චර්ය, විශ්ව",
+            "විනාශ, ප්‍රකාශ, ප්‍රදේශ, දෑස"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තද්භව වචන පමණක් අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "ප්‍රහාර, තුසර, හසර, වසර",
+            "අඹ, දඹ, ලඹ, තඹ",
+            "දුහද, සුහද, විෂාද, ප්‍රසාද",
+            "ආලාප, ප්‍රලාප, අලස, විලස"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "කම් විබත්, සබඳ විබත්, කරණ විබත් සහ අවදි විබත් යන සමාස පද පිළිවෙළින් දැක්වෙන වරණය තෝරන්න.",
+        "choices": [
+            "ගත්කරු, ගිනි බිය, හිරුරැස්, මිණිපලඟ",
+            "මිණිපලඟ, ගිනි බිය, හිරුරැස්, ගත්කරු",
+            "ගිනිබිය, හිරුරැස්, මිණිපලඟ, ගත්කරු",
+            "ගත්කරු, හිරුරැස්, මිණිපලඟ, ගිනිබිය"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "කෘදන්තයක් නොවන පදයක් අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "පූජිත, පෝෂිත, භාවිත, භාෂිත",
+            "දරණ, පරණ, මරන, උරන",
+            "දැරූ, පිරූ, බිරූ, තෙරූ",
+            "විඳින, බිඳින, අඳින, බඳින"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "පහත දැක්වෙන උද්ධෘත වල වරහන් සහිත පද අයත් ක්‍රියා වර්ගය පිළිවෙළින් දක්වා ඇති වරණය තෝරන්න.\n(අ) \"[පාලා] ගිය වැනි බහුරූ කෝලම්\"\n(ආ) \"[කියව] පුළුවන් ද වෙණ වැයුමා\"\n(ඉ) \"[සැරද] හස රද සඳ\"\n(ඊ) \"[බඳිමින්] දනමන නුවරූ\"",
+        "choices": [
+            "ආශීර්වාද ක්‍රියා, මිශ්‍ර ක්‍රියා, පූර්ව ක්‍රියා, විධි ක්‍රියා",
+            "මිශ්‍ර ක්‍රියා, පූර්ව ක්‍රියා, විධි ක්‍රියා, ආශීර්වාද ක්‍රියා",
+            "පූර්ව ක්‍රියා, විධි ක්‍රියා, ආශීර්වාද ක්‍රියා, මිශ්‍ර ක්‍රියා",
+            "විධි ක්‍රියා, ආශීර්වාද ක්‍රියා, පූර්ව ක්‍රියා, මිශ්‍ර ක්‍රියා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "තද්ධිතයක් නොවන පදයක් අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "මාණික්‍යමය, ස්වර්ණමය, ශෛලමය, ලෝහමය",
+            "සැහැලි, කැබැලි, වැදැලි, කැදැලි",
+            "යකකු, බඹකු, සොරකු, ඇතකු",
+            "දෛනික, වෛකල්පික, නෛතික, ඓතිහාසික"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "උපසර්ගයක් යෙදී නැති පදයක් සහිත පද පේළිය තෝරන්න.",
+        "choices": [
+            "විගමන, විසංයෝග, විප්‍රයෝග, විසම්මුති",
+            "ප්‍රමෝද, ප්‍රබෝධ, ප්‍රකම්පන, ප්‍රවර්ධන",
+            "සුනීල, සුධීර, සුශීල, සුළඟ",
+            "පිළිතුරු, පිළියම්, පිළිසකර, පිළිවදන්"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "නිපාතයක් නොවන පදයක් අන්තර්ගත වරණය තෝරන්න.",
+        "choices": [
+            "මෙන්, විසින්, වෙනුවෙන්, සඳහා",
+            "පිණිස, ලෙස, දෙස, මිස",
+            "සහ, දක්වා, නීති, විනා",
+            "කැටුව, ඉක්බිති, හැර, සමග"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "\"තමාගේ රට පිළිබඳ [අභිමාන]ය ද [සෞභාග්‍යය] ද කෙනෙකුගේ දේශානුරාගය කෙරෙහි හේතු වේ.\" යන වාක්‍යයෙහි වචන යෙදී ඇති පිළිවෙළ අනුව වරහන් සහිත පද අයත් වන්නේ කුමන ව්‍යාකරණ අංග වලටද ?",
+        "choices": [
+            "තද්ධිත, සන්ධි, උපසර්ග",
+            "සන්ධි, තද්ධිත, උපසර්ග",
+            "තද්ධිත, උපසර්ග, සන්ධි",
+            "උපසර්ග, තද්ධිත, සන්ධි"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සමාන ව්‍යාකරණ ලක්ෂණ නිරූපණය කෙරෙන ක්‍රියා රූප සහිත වරණය තෝරන්න.",
+        "choices": [
+            "ගසන්නෝ ය, දෙසන්නෝ ය, නසන්නෝ ය, අසන්නෝ ය",
+            "පැන්නේය, ඇන්නේ ය, දෙන්නෝ ය, කන්නේය",
+            "දෙති, ගති, එති, යති",
+            "කළ, පල, බල, මළ"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "සමාසයක් නොවන පදයක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "සුබස්, සුමිත්, සුදම්, සුරත්",
+            "අනදර, අරමුණු, අනලස, අනන්ත",
+            "සත්මහල්, තුන්දොස්, දසරජදම්, දෙනුවන්",
+            "නෙතුපුල්, පාකමල්, හදවිමන, දම්අමා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "එක ම වර්ගයට අයත් සන්ධි පද පමණක් ඇතුළත් වරණය තෝරන්න.",
+        "choices": [
+            "පොල්ලත්ත, ගොක්කත්ත, අල්ලස, රුක්කත්තන",
+            "උනුන්, ඔවුනොවුන්, සිහසුන්, මුලසුන්",
+            "සුවැති, සිරිතැති, දැනුමැති, හදැති",
+            "කොග්ගල, හග්ගල, උග්ගස්, දුග්ගන්නා"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූල ව නොගැළපෙන වරණය කුමක්ද?",
+        "choices": [
+            "සුරැකුම්, සුදිලුම්, සුපැතුම්, සුසැදුම්",
+            "සරණ, ඉරන, වරන, කිරන",
+            "විවාදාපන්න, ස්වරාරෝහණ, විරෝධාකල්ප, රාජ්‍යායතනය",
+            "ත්‍යාගවන්ත, ප්‍රඥාවන්ත, ශ්‍රද්ධාවන්ත, ධනවන්ත"
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ව්‍යාකරණානුකූල ව නිරවද්‍ය වාක්‍යය තෝරන්න.",
+        "choices": [
+            "අසංවේදී පුද්ගලයෝ සමාජ හිතකාමීහු නො වෙති.",
+            "නායකයෝ රටේ දියුණුව ඇති කරති'යි ජනතාව දෑස් දල්වා බලා සිටිති.",
+            "ඉදිරියෙන් ම දුවන්නී අප පාසලේ ක්‍රීඩා නායකයාය.",
+            "මම මෙන් අනිකා වෙනුවෙන් කැප වී වැඩ කරන්න."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Sinhala",
+        "category": "language",
+        "question": "ලේඛන ව්‍යවහාරයට වඩාත් සුදුසු වාක්‍යය සහිත වරණය තෝරන්න.",
+        "choices": [
+            "අනුන්ගේ ඇද - කුද හොය හොයා ඉන්නෙපා.",
+            "වහෙන් ඔරෝ නැතුව කියන දෙයක් කෙළින් කියන්න.",
+            "අපරාධකරුවා පෝරකයට නගිනු අපි බලා සිටියෙමු.",
+            "මං කඩේ ගාවට යද්දී ඔක්කොම දුවගෙන ආවා."
+        ],
+        "metadata": {
+            "subject_original": "සිංහල",
+            "difficulty": "hard",
+            "grade": "AL",
+            "type": "G",
+            "year": 2025,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=50461&wpfd_file_id=127049&token=&preview=1"
+        }
+    }
+]

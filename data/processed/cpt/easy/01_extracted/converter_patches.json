@@ -1,0 +1,17 @@
+[
+  "P1 upstream regex bugs: f\\da / f\\d (\\d = any digit) -> f|da / f|d (ඳෝ ඳො); f\\\\{da / f\\\\{d -> f{da / f{d (ඥෝ ඥො)",
+  "P2 nasal prefix ` + consonant code -> the code of the pre-nasalised letter (`o -> | = ඳ, `v -> ~ = ඬ, `. -> Õ = ඟ, `n -> U = ඹ, `ÿ -> ÷ = ඳු, `È -> ¢ = ඳි ...), mapped before the base table so the f (ෙ) prefix rules still apply; any ` left before ද ඩ ග බ after conversion is fixed in POST",
+  "P3 ¥ -> දූ and ¨ -> ලු (upstream: missing / ලූ); ª -> ඳු, ý -> ඡි, \\ -> ඳ (rare glyphs found in the audit)",
+  "P4 delete the • -> x rule; ¡ and ² -> •; ⋆ (from ³) -> •",
+  "P5 % -> ්‍ර without a leading ZWJ; strip stray '=' from upstream outputs (ඡ= රැ= ඳැ= ඤු= ඤූ=)",
+  "P6 per-font punctuation kept as-is (config/fonts.json: punct_keep)",
+  "P7 ligatures ﬁ ﬂ -> fi fl before conversion",
+  "P8 delete the early & -> ) rule: its output was turned into * by the later ) -> * rule; the final & -> ) rule (after it) gives the right )",
+  "P9 · before a digit -> × (magnification ×5, ×40 in science)",
+  "P10 vowel sign written before the rakaransaya / yansaya -> after it (ගාබි්‍රයෙල් -> ගාබ්‍රියෙල්)",
+  "P11 Easy s02 leftovers, checked on the printed page: `ã -> ඬී, `t and `: -> ළු (මාළු ඇතුළු), ` dropped before ¯ ® | (මජ්ඣිම සඳහා), consonant + ` + vowel sign (o`d -> ඳා), `` -> `, `c -> ඦ, μ after a letter -> ද්‍ය (වෛද්‍ය), Ω before ¿ and the Ohm sign U+2126 dropped (එළවළු, මනඃ)",
+  "P12 roman numerals: » -> I (the table used » as its own placeholder for the comma), ¼ -> V",
+  "P13 · not before a digit -> • (bullets); ASCII control characters removed",
+  "P15 last Easy leftovers: `X -> ඬ (බුඬ ගජ්ඣ), `Co -> ඤ (alphabet table), a line holding only ` -> dropped",
+  "P14 per line, across spans: ` + ඵ -> ළු; Ω doubled by an FM span and a Times span -> one Ω; same for a » bullet"
+]

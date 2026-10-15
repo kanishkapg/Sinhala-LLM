@@ -1,0 +1,1002 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ විශාලම පළාත කුමක්‌ ද",
+        "choices": [
+            "දකුණු පළාත",
+            "වයඹ පළාත",
+            "උතුරු මැද පළාත",
+            "ඌව පළාත"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RsFGSIDW0pHY82nwpKlgS9enYGAMOYUz/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "කාලගුණ විද්‍යා දෙපාර්තමේන්තු මූලස්ථානය පිහිටා ඇත්තේ,",
+        "choices": [
+            "කොළඹ",
+            "ගාල්ල",
+            "මහනුවර",
+            "ත්‍රිකුණාමලය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RsFGSIDW0pHY82nwpKlgS9enYGAMOYUz/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "වර්ෂාපතනය මනිනු ලබන්නේ,\n",
+        "choices": [
+            "මිලි මීටර්‌ වලිනි.",
+            "මිලි ලීටර්‌ වලිනි.",
+            "ලීටර්‌ වලිනි.",
+            "මීටර්‌ වලිනි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RsFGSIDW0pHY82nwpKlgS9enYGAMOYUz/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "උතුරු සහ නැගෙනහිර දිශාව අතර පිහිටා ඇත්තේ,",
+        "choices": [
+            "ගිණිකොණ දිශාවය.",
+            "ඊසාන දිශාවය.",
+            "වයඹ දිශාවය.",
+            "නිරිත දිශාවය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RsFGSIDW0pHY82nwpKlgS9enYGAMOYUz/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සුළඟේ වේගය මැනීමට භාවිත කරන උපකරණය වන්නේ,",
+        "choices": [
+            "උෂ්ණත්ව මානයයි.",
+            "වර්ෂා මානයයි.",
+            "සුළං දිශා දර්ශකයයි.",
+            "අනිල මානයයි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1RsFGSIDW0pHY82nwpKlgS9enYGAMOYUz/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "වයඹ පළාතට යාබද පළාත්‌ යුගලය වන්නේ,\n",
+        "choices": [
+            "උතුර සහ නැගෙනහිර ය.",
+            "උතුරු මැද සහ මධ්‍යමය ය.",
+            "දකුණ සහ බස්නාහිරය ය.",
+            "ඌව සහ සබරගමුව ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qcfBSK8DOlT2gtssDni7t61USXtPoC0S/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ඔබ හිරුනැගෙන දිශාවට මුහුණලා සිටින විට ඔබේ දකුණු අත පැත්තෙන්‌ පිහිටි දිශාව වන්නේ කුමන දිශාව ද?",
+        "choices": [
+            "උතුරු දිශාව",
+            "නැගෙනහිර දිශාව",
+            "දකුණු දිශාව",
+            "බටහිර දිශාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qcfBSK8DOlT2gtssDni7t61USXtPoC0S/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පහත දක්වා ඇති රාජ්‍ය අතරින්‌ දූපතක්‌ නොවන්නේ මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "බ්‍රිතාන්‍යය",
+            "ජපානය",
+            "නවසීලන්තය",
+            "ප්‍රංශය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qcfBSK8DOlT2gtssDni7t61USXtPoC0S/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පහත යුගල අතරින්‌ නිවැරදි යුගලය කුමක්‌ ද?",
+        "choices": [
+            "සුළගේ වේගය - අනිලමානය",
+            "වලාකුළු - උෂ්ණත්වමානය",
+            "සුළං දිශාව - පීඩනමානය",
+            "වර්ෂාපතනය - බැරෝමීටරය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qcfBSK8DOlT2gtssDni7t61USXtPoC0S/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "වේවැල්‌ භාණ්ඩ සඳහා ප්‍රසිද්ධ ප්‍රදේශය වන්නේ,",
+        "choices": [
+            "දුම්බරය.",
+            "අම්බලන්ගොඩය.",
+            "රදාවඩුන්නය.",
+            "මොරටුව ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1qcfBSK8DOlT2gtssDni7t61USXtPoC0S/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවි ආදර්ශ ගෝලයේ දකුණු අක්ෂාංශ අංශක 23. 5 රේඛාව .............................. නිවර්තන ලෙස හඳුන්වයි. ",
+        "choices": [
+            "කර්කටක",
+            "මකර",
+            "ආක්ටික්‌",
+            "සිංහ"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "අක්ෂාංශ හා දේශාංශ පදනම්‌ කරගෙන පිහිටීම දැක්වීම ............................................................ පිහිටීම ලෙස හඳුන්වයි. ",
+        "choices": [
+            "නිරපේක්ෂ",
+            "සාපේක්ෂ",
+            "අනපේක්ෂ",
+            "ආසන්න"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවට අයත්‌ රාෂ්ට්‍රීය මුහුදු සීමාවට නාවික සැතපුම්‌ ................................. ක සීමාවක අයිතිය උරැම කර දී ඇත. \n",
+        "choices": [
+            "12",
+            "24",
+            "200",
+            "100"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "මාර්තු සහ ..................... මාසවල ශ්‍රී ලංකාවට පළමු සංවහන වර්ෂා ලැබේ.\n",
+        "choices": [
+            "අප්‍රේල්‌",
+            "මැයි",
+            "අගෝස්තු",
+            "ජූලි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "මුහුදු මට්ටමේ සිට 300m ට වඩා උසින්‌ වැඩි ප්‍රදේශ .................. භූ දර්ශනයට අයත්‌ වේ. \n",
+        "choices": [
+            "කඳුකර",
+            "තැනිතලා",
+            "බෑවුම්‌",
+            "සබැඳි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාව තුළ නිදහස්‌ වෙළඳ කලාපයක්‌ පිහිටා ඇති ස්ථානය මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "මීගමුව",
+            "කටුනායක",
+            "සීතාවක",
+            "පෑලියගොඩ"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "අභ්‍යන්තර තැනිතලාව තුළ පිහිටා ඇති භූ විෂමතා ලක්ෂණයකි,\n",
+        "choices": [
+            "ශේෂ කඳු",
+            "කලපු",
+            "සානු",
+            "කඳුවැටි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවි ආදර්ශ ගෝලයේ ඇති දේශාංශ රේඛා ගණන,",
+        "choices": [
+            "180º කි.",
+            "90º කි.",
+            "360º කි.",
+            "200º කි."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ ආදිවාසී ජනයා මහවැලි ගොවිජනපද ආශ්‍රිතව පදිංචි කර ඇති ස්ථානයකි.",
+        "choices": [
+            "රාජාංගනය",
+            "ගිරාඳුරුකෝට්ටේ",
+            "ඇලහැර",
+            "හෙන්නානිගල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාව පිහිටා ඇත්තේ,",
+        "choices": [
+            "නිවර්තන කලාපය තුළය.",
+            "සෞම්‍ය කලාපය තුළය.",
+            "ශීත කලාපය තුළය.",
+            "අතරමැදි කලාපය තුළය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1Mq34c6SoAjCz8pU2d4lO_D9TgMp4hB45/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ලෝකයේ විශාලතම සාගරය .................................. සාගරය වේ. ",
+        "choices": [
+            "අත්ලාන්තික්‌",
+            "පැසිපික්‌",
+            "ඉන්දියන්‌",
+            "ආක්ටික්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ග්‍රිනිච්‌ රේඛාව විහිදෙන්නේ .................................. දේශාංශය ඔස්සේ ය. ",
+        "choices": [
+            "0º",
+            "180º",
+            "නැගෙනහිර 80º",
+            "බටහිර 90º"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවට අකුණු අනතුරු බහුලව බලපාන්නේ ............................... මාසවල ය.",
+        "choices": [
+            "මැයි - සැප්තැම්බර්‌",
+            "දෙසැම්බර්‌ - පෙබරවාරි",
+            "මාර්තු - අප්‍රේල්‌",
+            "ජූනි - අගෝස්තු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ප්‍රංශය පිහිටා ඇත්තේ .................................. මහාද්වීපයේ ය. ",
+        "choices": [
+            "ආසියා",
+            "අප්‍රිකා",
+            "යුරෝපා",
+            "ඕස්ට්‍රේලියා"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "දකුණු ආසියාවේ ඉහළම ළදරු මරණ අනුපාතයක්‌ දක්නට ලැබෙන්නේ ................................. ය.",
+        "choices": [
+            "ඉන්දියාවේ",
+            "පාකිස්ථානයේ",
+            "භූතානයේ",
+            "ශ්‍රී ලංකාවේ"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ සුළි සුළං ඇති වන දිස්ත්‍රික්කයක්‌ වන්නේ මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "කුරුණෑගල",
+            "මඩකලපුව",
+            "නුවරඑළිය",
+            "රත්නපුරය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1ZiL7ddkfFLsXcouOI6jYQJygCHhqqdX6"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ආසියා මහාද්වීපය තුළ පිහිටා ඇති අභ්‍යන්තර මුහුදකි,",
+        "choices": [
+            "එරල්‌ මුහුද",
+            "උතුරු මුහුද",
+            "රතු මුහුද",
+            "බෝෆට්‌ මුහුද"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "අරාබි මුහුද පිහිටා ඇත්තේ,\n",
+        "choices": [
+            "පැසිපික්‌ සාගරයේ ය.",
+            "අත්ලාන්තික්‌ සාගරයේ ය.",
+            "ඉන්දියන්‌ සාගරයේ ය.",
+            "ආක්ටික්‌ සාගරයේ ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1ZiL7ddkfFLsXcouOI6jYQJygCHhqqdX6"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ සාමාන්‍ය වාර්ෂික උෂ්ණත්වය වන්නේ,",
+        "choices": [
+            "20º - 25º  අතර ය.",
+            "25º  - 27º  අතර ය.",
+            "15º  - 25º  අතර ය.",
+            "27º  - 30º  අතර ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1yJ8Lo-g4H4wByAYSkg4Wv4XBROcC8ypS/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ පිහිටි ස්වාභාවික ජාතික උරැමයක්‌ වන්නේ මින්‌ කුමක්‌ ද?",
+        "choices": [
+            "රන්මසු උයන",
+            "ශ්‍රී මහා බෝධිය",
+            "සිංහරාජ වනාන්තරය",
+            "කතරගම පූජා භූමිය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1ZiL7ddkfFLsXcouOI6jYQJygCHhqqdX6"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සෞරග්‍රහ මණ්ඩලය දැනට වර්ෂ මිලියන ......................................................... කට පමණ පෙර විශ්වයේ පැවති දූවිලි හා වායූ අංශූ ඒකාබද්ධ වීමෙන්‌ නිර්මාණය වී ඇත. ",
+        "choices": [
+            "1500",
+            "5100",
+            "4600",
+            "3200"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "නිශ්චිත කක්‍ෂතලයක්‌ හඳුනාගත නොහැකි ප්‍රමණයෙන්‌ කුඩා ග්‍රහලොක ........................ ලෙස නම්‌ කර ඇත. \n",
+        "choices": [
+            "උපග්‍රහයින්‌",
+            "ග්‍රහලෝක",
+            "වාමන ග්‍රහයින්‌",
+            "ධූමකේතු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සෞරග්‍රහ මණ්ඩලයේ නැගෙනහිර සිට බටහිර දෙසට භ්‍රමණය වන ග්‍රහලෝකය ................................මව්‌.\n",
+        "choices": [
+            "යුරේනස්‌",
+            "සිකුරු",
+            "බ්‍රහස්පති",
+            "අඟහරු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "විවිධ ප්‍රමාණයේ අයිස්‌ අංශු වලින්‌ සෑදුණු දර්ශනීය වළලු පද්ධතියක්‌ පිහිටා ඇත්තේ ....................................... ග්‍රහලෝකයට ය. ",
+        "choices": [
+            "යුරේනස්‌",
+            "සිකුරු",
+            "බ්‍රහස්පති",
+            "අඟහරු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ගිම්හාන සෘතුවේ පැවති උෂ්ණත්වය ක්‍රමයෙන්‌ අඩුවෙමින්‌ උතුරු අර්ධගෝලයේ රටවලට සැප්තැම්බර්‌ මාසය වන විට ද දකුණු අර්ධගෝලයේ රටවලට මාර්තු මාසය වන විට උදාවන්නේ ...................... සෘතුවයි. ",
+        "choices": [
+            "සරත්‌",
+            "සිසිර",
+            "වසන්ත",
+            "ගිම්හාන"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සෞරග්‍රහ මණ්ඩලයේ මිලියන ගණනක්‌ වන පාෂාණ කැබලිවලට අයත්‌ වන්නේ කුමක්‌ ද?\n",
+        "choices": [
+            "ග්‍රහක",
+            "වාමන ග්‍රහලෝක",
+            "ග්‍රහලෝක",
+            "උප ග්‍රහයින්‌"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සිකුරු ග්‍රහයා පිළිබඳ අසත්‍ය ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "පෘථිවියට ආසන්න ම ග්‍රහලෝකය යි.",
+            "ඉරබටුතරුව ලෙස හඳුන්වයි.",
+            "සෞරග්‍රහ මණ්ඩලයේ තුන්වන විශාලතම ග්‍රහලෝකය යි.",
+            "මතුපිට පෘෂ්ඨය දැක ගැනීමට අපහසුය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "දකුණු ආසියා රටක අගනගරයක්‌ වන්නේ කුමක්‌ ද?",
+        "choices": [
+            "කල්කටා",
+            "කරච්චිය",
+            "මුම්බායි",
+            "ඉස්ලාමාබාද්‌"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සිංහල හා හිංදු බැතිමතුන්‌ සමරන හිරු හා සඳු පදනම්‌ කරගත්‌ උත්සවයකි,",
+        "choices": [
+            "රාමලාන්‌",
+            "මහ සිකුරාදා",
+            "පාස්කු ඉරිදා",
+            "හජ්ජි උත්සවය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/12CcZwpNZyyvz1846daHDWCgW4-riQkMk/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සෞරග්‍රහ මණ්ඩලය පිළිබඳව පහත දැක්වෙන ප්‍රකාශ අතුරින්‌ නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "අප ජීවත්වන පෘථිවිය ඇතුළු සෞරග්‍රහ මණ්ඩලය ග්‍රහලෝක 09 කින්‌ සමන්විත වේ.",
+            "සූර්යයා හා එහි ගුරුත්ව බලය නිසා ඒ හා බැඳී පවතින අනෙකුත්‌ ග්‍රහලෝක පමණක්‌ සෞරග්‍රහ මණ්ඩලයට අයත්‌ වේ.",
+            "ඇමරිකා එක්සත්‌ ජනපදයේ නාසා ආයතනය පෘථිවිය මෙන්‌ දස ගුණයකින්‌ විශාල ග්‍රහලෝකයක්‌ ඇති බව හඳුනාගෙන ඇත.",
+            "ගැලීලියෝ ගැලිලි විසින්‌ ක්‍රි. ව. 1610 දී විශ්වය නිර්ක්ෂණය සඳහා දුර දක්නය මුලින්‌ ම භාවිත කර ඇත."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/drive/folders/1xUPXHtsg6pIXo5lMCka-IZg2nFyg1Ac0"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සෞරග්‍රහ මණ්ඩලයේ ....................................... පාෂාණමය සංයුතියකින්‌ සමන්විතවන ග්‍රහලෝකයකි.",
+        "choices": [
+            "අඟහරු",
+            "නෙප්චූන්‌",
+            "එරිස්‌",
+            "සෙනසුරු"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවිය මෙන්‌ දසගුණයක්‌ පමණ විශාල ග්‍රහලෝකය ....................... වේ. ",
+        "choices": [
+            "සෙනසුරු",
+            "බ්‍රහස්පති",
+            "යුරේනස්‌",
+            "නෙප්චූන්"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "දකුණු ආසියානු කලාපය තුළ වැඩි වශයෙන්‌ පවතින්නේ ....................................:.............. දේශගුණයයි.",
+        "choices": [
+            "සෞම්‍ය",
+            "ශීත",
+            "නිවර්තන",
+            "ධ්‍රැවීය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ජෛව විවිධත්වය ඉහළ මට්ටමක පවතින ......................................................... වෙරළ භූ දර්ශනයට අයත්‌ සුවිශේෂී පරිසර පද්ධතියකි. ",
+        "choices": [
+            "තැනිතලා",
+            "කඩොලාන",
+            "තෘණ බිම්‌",
+            "ප්‍රවාල"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "සිතියමක දැක්වෙන තොරතුරු අධ්‍යයනය කිරීම සඳහා වඩාත්‌ යෝග්‍ය වන්නේ ................................. යයි.",
+        "choices": [
+            "මාතෘකාව",
+            "සූචකය",
+            "පරිමාණය",
+            "දිශාව"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවි ග්‍රහයාට ආසන්නම ග්‍රහලෝක දෙක වන්නේ,",
+        "choices": [
+            "බ්‍රහස්පති හා අඟහරු ය.",
+            "බුධ හා සිකුරු ය.",
+            "සිකුරු හා අඟහරු ය.",
+            "අඟහරු හා බුධ ය."
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "ශ්‍රී ලංකාවේ 1:50,000 භූ ලක්‍ෂණ සිතියමේ සමොච්ච රේඛා යොදාගෙන නිරූපණය කර ඇති ලක්‍ෂණයකි,",
+        "choices": [
+            "ගංඟාව",
+            "අභයභූමිය",
+            "වනාන්තරය",
+            "කඳුවැටිය"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පෘථිවි වායුගෝලයේ වැඩිම පරිමාවක්‌ සහ අඩුම පරිමාවක්‌ සහිත වායු වර්ග දෙක පිළිවෙලින්‌ දැක්වෙන පිළිතුර කුමක්‌ ද?",
+        "choices": [
+            "ඔක්සිජන්‌ සහ ඕසෝන්‌",
+            "නයිට්‍රජන්‌ සහ ඕසෝන්‌",
+            "ඔක්සිජන්‌ සහ කාබන්ඩයොක්සයිඩ්‌",
+            "නයිට්‍රජන්‌ සහ ආගන්‌"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "පහත දැක්වෙන ලක්‍ෂණ අතුරෙන්‌ කඳුකර භූ දර්ශනයේ ලක්‍ෂණ පමණක්‌ දක්නට ලැබෙන පිළිතුර තෝරන්න.\nA) අලවර්ග මී පැණි දඩයම්‌ කළ සතුන්‌ ආහාරයට ගනී.\nB) සංස්කෘතික ලක්ෂණ නොවෙනස්ව පවතී.\nC) නොදියුණු ගෝත්‍ර ජනයා වාසය කරයි.\nD) සත්ව පාලන කටයුතු සඳහා අධික ලෙස තෘණ භාවිතා කරයි.\nE) රැලිබිම්‌ ලක්‍ෂණ දැකිය හැකිය.",
+        "choices": [
+            "A හා D",
+            "A හා C",
+            "B හා D",
+            "A හා E"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Geography",
+        "category": "Social_science",
+        "question": "වෙරළබඩ භූ දර්ශනයේ කැපී පෙනෙන භෞතික ලක්‍ෂණයක්‌ නොවන්නේ,",
+        "choices": [
+            "වැලිපර",
+            "කලපු",
+            "බොකු",
+            "පිටාරතැනි"
+        ],
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/10NZG6e1oswNdCHfDfFbTwOYUM2Xl28zr/view?usp=drive_link"
+        }
+    }
+]

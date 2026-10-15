@@ -1,0 +1,802 @@
+[
+    {
+        "q_no": 1,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "මෙරට ඉතිහාසය හැදැටීමේ දී තොරතුරු ලබාගත හැකි පැරණිම සාහිත්‍ය මූලාශ්‍රය වන්නේ,",
+        "choices": [
+            "මහාවංශය",
+            "දීපවංශය",
+            "දළදා සිරිත",
+            "සද්ධර්මරත්නාවලිය"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dKQwzfJ4tuhkfe9MBMXE7a2MyQBcNFo1/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "බුදුන්‌ වහන්සේගේ මහා පරිනිර්වාණය සිදු වූයේ,",
+        "choices": [
+            "කි. පූ. 818",
+            "කි. පූ. 544",
+            "කි. පූ, 67",
+            "ක්‍රි. ව. 544"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dKQwzfJ4tuhkfe9MBMXE7a2MyQBcNFo1/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "යුප්‍රටීස්‌ ටයිග්‍රීස්‌ ගංගා පිහිටා ඇති ප්‍රදේශය දැන්‌ අයත්‌ වන්නේ,",
+        "choices": [
+            "ඉරානය",
+            "ඉරාකය",
+            "ඊශ්‍රායලය",
+            "ඊජිප්තුව"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dKQwzfJ4tuhkfe9MBMXE7a2MyQBcNFo1/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "පාරාවෝ රජවරුන්ගේ මළ සිරුරු තැන්පත්‌ කරන ලද්දේ,",
+        "choices": [
+            "භරණී සුසාන තුළය.",
+            "පිරමීඩවලය.",
+            "ශිලා මංජුසා තුළය.",
+            "මැටි ඔරු තුළය."
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dKQwzfJ4tuhkfe9MBMXE7a2MyQBcNFo1/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "කුවේණිය අයත්වන ගෝත්‍රික ජන කොට්ඨාසය වනුයේ,",
+        "choices": [
+            "දේව",
+            "නාග",
+            "ඉන්කා",
+            "යක්‍ෂ"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "6",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1dKQwzfJ4tuhkfe9MBMXE7a2MyQBcNFo1/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "අතීත ජනතාවගේ ප්‍රධාන ජීවනෝපාය .................... විය.",
+        "choices": [
+            "වී ගොවිතැන",
+            "කෘෂිකර්මාන්තය",
+            "හේන් වගාව",
+            "ධීවර කර්මාන්තය"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "හේන් වල වගා කල .................... කටුසර භෝගයකි.",
+        "choices": [
+            "තල",
+            "වී",
+            "බතල",
+            "කොස්"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "අනුරාධපුර රාජධානි අවධියේ වැව් ඉදිකළ පුද්ගලයින් .................... නමින් මහාවංශයේ හඳුන්වා ඇත.",
+        "choices": [
+            "වපිහමික",
+            "ගමික",
+            "වමික",
+            "රාජක"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "අතීතයේ වී වගාව සම්බන්ධ කන්න පිළිබඳ .................... සෙල්ලිපියේ සඳහන් වේ.",
+        "choices": [
+            "මිහින්තලා සෙල්ලිපිය",
+            "බදුලු ටැම් ලිපිය",
+            "තෝනිගල ලිපිය",
+            "කිරිවෙහෙර සෙල්ලිපිය"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "වී නොතම්බා ආහාරය සඳහා සකසා ගත් සහල් .................... ලෙස හැඳින්වේ.",
+        "choices": [
+            "තැම්බූ හාල්",
+            "සම්බා හාල්",
+            "කැකුළු සහල්",
+            "නූල් හාල්"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "A හා B අක්ෂර නිවැරදිව ගළපන්න .\nA\n(1) පල්ලව රාජ්‍යය\n(2) පාණ්ඩ්‍ය රාජ්‍යය\n(3) චෝල රාජ්‍යය\nB\n(a) තන්ජෝරය\n(b) කාංචිපුරය\n(c) මදුරාපුරය",
+        "choices": [
+            "bca",
+            "abc",
+            "cba",
+            "bac"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "A හා B අක්ෂර නිවැරදිව ගළපන්න .\nA\n(1) කපු කර්මාන්තය\n(2) යකඩ කර්මාන්තය\n(3) මැටි කර්මාන්තය\nB\n(a) කුම්බකාර\n(b) පෙහෙකාර\n(c) ලෝකුරුවන්",
+        "choices": [
+            "cba",
+            "bca",
+            "abc",
+            "cab"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "A හා B අක්ෂර නිවැරදිව ගළපන්න .\nA\n(1) පරාක්‍රමබාහු රජු\n(2) නිශ්ශංකමල්ල රජු\n(3) 1 සේන රජු\nB\n(a) මිහින්තලේ රෝහල ඉදිකිරීම\n(b) පබළු වෙහෙර ඉදිකිරීම\n(c) රන්කොත් වෙහෙර ඉදිකිරීම",
+        "choices": [
+            "bca",
+            "cba",
+            "acb",
+            "bac"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "A හා B අක්ෂර නිවැරදිව ගළපන්න .\nA\n(1) වෙස් මුහුණු කර්මාන්තය\n(2) පිත්තල කර්මාන්තය\n(3) ලාක්ෂා කර්මාන්තය\nB\n(a) පිළිමතලාව\n(b) මහනුවර\n(c) අම්බලංගොඩ",
+        "choices": [
+            "bac",
+            "abc",
+            "cba",
+            "bca"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "A\n(1) අති අදික\n(2) ගමික\n(3) ඇත් අදික\nB\n(a) ඇත් ප්‍රධානියා\n(b) ගම් ප්‍රධානියා\n(c) අශ්ව ප්‍රධානියා",
+        "choices": [
+            "bac",
+            "cba",
+            "abc",
+            "cab"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1S0reAmpmc3_j8zqwxSa4hcghO90buAbh/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "කෑරගල පද්මාවතී පිරිවෙන පිහිටා ඇති රාජධානිය වන්නේ,",
+        "choices": [
+            "ගම්පල",
+            "කෝට්ටේ",
+            "දඹදෙණිය",
+            "යාපහුව"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1SaHou0vpWOkx-FqphSl1GXBxfKwbtdht/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "මහා පරාක්‍රමබාහු රජු විසින්‌ දක්‍ෂිණ දේශයේ ඉදිකළ නව නගරය කුමක්‌ ද?",
+        "choices": [
+            "පොලොන්නරුව",
+            "දඹදෙණිය",
+            "පඬුවස්නුවර",
+            "යාපහුව"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1SaHou0vpWOkx-FqphSl1GXBxfKwbtdht/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "බටහිර වෛද්‍ය විද්‍යාවේ පියා ලෙස හැඳින්‌ වූයේ කවුරුන්‌ ද?",
+        "choices": [
+            "හිපොක්‍රටීස්‌",
+            "ප්ලේටෝ",
+            "ඇරිස්ටෝටල්‌",
+            "ගැලන්"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1SaHou0vpWOkx-FqphSl1GXBxfKwbtdht/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "ග්‍රීක ජාතිකයන්‌ ලංකාව මෙම නමින්‌ හැඳින්විය.\n",
+        "choices": [
+            "සෙයිලන්‌",
+            "තැප්‍රොබේන්",
+            "තම්බපණ්ණි",
+            "සෙරන්දිබ්"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1SaHou0vpWOkx-FqphSl1GXBxfKwbtdht/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "අතීතයේ වෙළඳාම දියුණු වීමත්‌ සමඟ බිහි වූ වෙළඳ නගරයක්‌ වන්නේ,",
+        "choices": [
+            "මාගම",
+            "මන්නාරම",
+            "පොලොන්නරුව",
+            "දඹදෙණිය"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "7",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1SaHou0vpWOkx-FqphSl1GXBxfKwbtdht/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "රජරට ශිෂ්ඨාචාරය බිඳ වැටීමට බලපෑ ආක්‍රමණය කුමක්ද?",
+        "choices": [
+            "විජය",
+            "කාලිංග මාඝ",
+            "පාණ්ඩ්‍යය",
+            "චෝල"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "සාහිත්‍ය මූලාශ්‍රයවලට අනුව මෙරට ඉදි වූ මුල්ම දාගැබ වන්නේ,",
+        "choices": [
+            "ථුපාරාමයයි.",
+            "මිරිස වැටිය යි.",
+            "රුවන්වැලි සෑය යි.",
+            "රන්කොත් වෙහෙරයි."
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "අනුරාධපුර ඇතුළු නුවර පිහිටි විජයබා මාලිගය කුමන රාජධානි සමයක ඉදිකරන ලද්දක්ද?",
+        "choices": [
+            "අනුරාධපුරය",
+            "පොළොන්නරුව",
+            "දඹදෙණිය",
+            "කුරුණෑගල"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "ජයවීර බණ්ඩාර රජුගෙන් පසුව උඩරට රජ බවට පත් වූයේ කවුරුන්ද?",
+        "choices": [
+            "සේනා සම්මත වික්‍රමබාහු",
+            "කොනප්පු බණ්ඩාර",
+            "වීරසුන්දර බණ්ඩාර",
+            "කරලියද්දේ බණ්ඩාර"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "බ්‍රිතාන්‍ය අත්අඩංගුවට පත් වූ ශ්‍රී වික්‍රම රාජසිංහ රජු ඉංග්‍රීසීන් විසින් රැගෙන යන ලද්දේ,",
+        "choices": [
+            "පෘතුගාලයට ය.",
+            "ඕලන්දයට ය.",
+            "වෙල්ලෝරයට ය.",
+            "බ්‍රිතාන්‍යයට ය."
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව\n1. තිසා වැව\n2. ජය වැව\n3. හුරුළු වැව\n4. මඩාටුගම වැව\nII තීරුව\nA - මහසෙන් රජු\nB - දේවානම් පියතිස්ස රජු\nC - පණ්ඩුකාභය රජු\nD - ධාතුසේන රජු",
+        "choices": [
+            "ABCD",
+            "BCAD",
+            "BADC",
+            "CBAD"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව\n1. දැදිගම\n2. පොලොන්නරුව\n3. අනුරාධපුරය\n4. මාගම\nII තීරුව\nA - මිරිසවැටිය\nB - කිරිවෙහෙර\nC - කොටවෙහෙර\nD - තිස්සමහාරාම දාගැබ",
+        "choices": [
+            "ABCD",
+            "BCAD",
+            "BADC",
+            "CBAD"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව\n1. රෝහල\n2. රජ මාළිගය\n3. පිළිමගෙය\n4. කැටයම\nII තීරුව\nA - අශ්ව හිස සහ මිනිසා\nB - ථූපාරාමය\nC - ආළාහන පිරිවෙන\nD - වෛජයන්ති ප්‍රාසාදය",
+        "choices": [
+            "ADCB",
+            "BACD",
+            "CBAD",
+            "CDBA"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව\n1. කුසුමාසන දේවිය\n2. යමසිංහ බණ්ඩාර\n3. කොනප්පු බණ්ඩාර\n4. දෙවන රාජසිංහ\nII තීරුව\nA - දෝන කතිරිනා\nB - මහා ආස්ථාන\nC - දොන් ජුවන්\nD - දොන් පිලිප්",
+        "choices": [
+            "ADCB",
+            "BACD",
+            "CBAD",
+            "CDBA"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව\n1. යකඩ කර්මාන්තය\n2. පන් කර්මාන්තය\n3. ලී කැටයම්\n4. ටැම්පිට විහාරය\nII තීරුව\nA - මැදවල\nB - කොත්මලේ\nC - දුම්බර\nD - ඇම්බැක්ක",
+        "choices": [
+            "BCDA",
+            "BCAD",
+            "BADC",
+            "CBAD"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_2",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1W0DPITGI8hlM8tLFarJ_o6uaJ6XPlKUL/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "නෙලුම් පොකුණ පිහිටා ඇත්තේ කොහේද ?",
+        "choices": [
+            "අනුරාධපුරය",
+            "පොළොන්නරුව",
+            "මිහින්තලය",
+            "රජගල"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "දෙවන රාජසිංහ රජු උඩරට රජ වීමට පෙර හඳුන්වනු ලැබුවේ.",
+        "choices": [
+            "මහා අස්ථාන නමිනි.",
+            "ටිකිරි කුමරු නමිනි.",
+            "කන්නසාමි නමිනි.",
+            "මුත්තුසාමි නමිනි."
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "පුනරුද සමයේ දී කලාවට අනුග්‍රහය දැක් වූ පුද්ගලයෙකි,",
+        "choices": [
+            "ඉරාස්මස්",
+            "ඩේවිඩ්",
+            "මෝසස්",
+            "මෙඩිසි"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "පර්ඩි නැන්ඩෝ කෝටේස් විසින් ගවේෂණය කොට සොයාගත් ප්‍රදේශය කුමක්ද?",
+        "choices": [
+            "පේරු",
+            "ශාන්ත ලෝරන්ස්",
+            "මෙක්සිකෝව",
+            "පිලිපිනය"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "මුල්ලේරියා වෙලේ සටනේ දී පරාජයට පත් යුරෝපා ජාතිය කවුරුන් ද?",
+        "choices": [
+            "පෘතුගීසි",
+            "ලන්දේසි",
+            "ඉංග්‍රීසි",
+            "ප්‍රංශ"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව:\n1. මහාදත්තවාපී\n2. මයෙන් වැව\n3. ජල්ලුරවාපී\n4. මණිහිර\nII තීරුව:\nA - හුරුලු වැව\nB - මහවිලච්චිය වැව\nC - මඩාටුගම වැව\nD - මින්නේරිය වැව",
+        "choices": [
+            "ABCD",
+            "BCAD",
+            "BADC",
+            "CBAD"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව:\n1. දන්තුරේ\n2. බලන\n3. රන්දෙණිවෙල\n4. ගන්නෝරුව\nII තීරුව:\nA - පේරෝ ලෝපෙස් ද සූසා\nB - දොන් ජෙරනිමෝද අසවේදු\nC - කොන්ස්තන්තීනු ද සා\nD - දියෝගෝ ද මේලෝ",
+        "choices": [
+            "ABCD",
+            "BCAD",
+            "CADC",
+            "DABD"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව:\n1. නිකලස් කොපර්නිකස්\n2. විලියම් හාවේ\n3. පැරසල්සස්\n4. ඉරාස්මස්\nII තීරුව:\nA - රුධිර සංසරණ පද්ධතිය\nB - රෙපරමාදුවාදීන්\nC - පෘතුවිය ගෝලාකාර බව\nD - ලෙඩ රෝග සෑදීමට හේතු",
+        "choices": [
+            "ABCD",
+            "BCDA",
+            "CADB",
+            "DBAC"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව:\n1. පෘතුගාලය\n2. ස්පාඤ්ඤය\n3. එංගලන්තය\n4. ඕලන්දය\nII තීරුව:\nA - හෙන්රි හඩ්සන්\nB - බර්තොලමියුඩයස්\nC - ෆ්‍රැන්සිස්කෝ පිසාරෝ\nD - කැබේ සහෝදරයෝ",
+        "choices": [
+            "ACBD",
+            "BCDA",
+            "BDAC",
+            "DBAC"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "History",
+        "category": "Humanities",
+        "question": "I තීරුවේ සඳහන් තොරතුරු හා සම්බන්ධ පිළිතුර II තීරුවෙන් ගැළපූ විට ලැබෙන නිවැරදි පිළිතුර තෝරන්න.\nI තීරුව:\n1. කෝට්ටේ\n2. උඩරට\n3. යාපනය\n4. සීතාවක\nII තීරුව:\nA - හයවන විජයබාහු\nB - පරරාජසේකරම්\nC - මායාදුන්නේ\nD - සේනා සම්මත වික්‍රමබාහු",
+        "choices": [
+            "ADBC",
+            "BDCA",
+            "CDBA",
+            "DCBA"
+        ],
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": "8",
+            "type": "P_NWP_3",
+            "year": 2025,
+            "source": "https://drive.google.com/file/d/1juOeuWS72XCA8WvNQ1OJTASsP6dxzD_O/view?usp=drive_link"
+        }
+    }
+]
