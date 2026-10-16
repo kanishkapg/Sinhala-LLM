@@ -1,0 +1,45 @@
+{
+  "wikipedia_si": {
+    "repo": "wikimedia/wikipedia",
+    "files": "20231101.si/*.parquet",
+    "license": "CC BY-SA 3.0 / GFDL",
+    "seen": 3665,
+    "too_short": 992,
+    "few_sentences": 680,
+    "language": 324,
+    "repeated_lines": 6,
+    "short_lines": 3,
+    "boilerplate": 1,
+    "link_heavy": 1,
+    "exam_material": 1,
+    "kept": 1671,
+    "tokens": 4600806
+  },
+  "fineweb2_si": {
+    "repo": "HuggingFaceFW/fineweb-2",
+    "files": "data/sin_Sinh/train/*.parquet",
+    "license": "ODC-By 1.0",
+    "seen": 3600,
+    "few_sentences": 273,
+    "boilerplate": 3,
+    "language": 87,
+    "exam_material": 6,
+    "short_lines": 1,
+    "repeated_lines": 1,
+    "kept": 3141,
+    "tokens": 5751006
+  },
+  "fineweb_edu_en": {
+    "repo": "HuggingFaceFW/fineweb-edu",
+    "files": "sample/10BT/*.parquet",
+    "license": "ODC-By 1.0",
+    "seen": 4400,
+    "few_sentences": 221,
+    "boilerplate": 27,
+    "exam_material": 2,
+    "language": 1,
+    "link_heavy": 1,
+    "kept": 3822,
+    "tokens": 3450019
+  }
+}

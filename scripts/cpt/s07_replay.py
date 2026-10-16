@@ -20,8 +20,10 @@ import random
 import re
 import time
 
-from common import (CONFIG_DIR, LEVEL_GRADES, PIPELINE_VERSION, SEED, count_tokens, level_dir, normalize,
-                    read_json, sha1, sinhala_ratio, stdout_utf8, write_json, write_jsonl)
+from common import (CONFIG_DIR, LEVEL_GRADES, PIPELINE_VERSION, ROOT, SEED, count_tokens, level_dir, normalize,
+                    read_json, restore_zwj, sha1, sinhala_ratio, stdout_utf8, write_json, write_jsonl)
+
+WORDFREQ = ROOT / "data" / "processed" / "cpt" / "common" / "si_wordfreq.json"   # from s05_review.py wordlist
 
 HEADROOM = 1.15                    # collect 15 % more than the budget (dedup / decontamination losses)
 MIN_CHARS, MAX_CHARS = 200, 20_000
@@ -100,6 +102,11 @@ def collect(src, rng, stats):
     budget = int(src["budget"] * HEADROOM)
     got, docs = 0, []
     cols = [c for c in (src["text"], src.get("url"), src.get("title")) if c]
+    freq = None
+    if src.get("restore_zwj"):
+        freq = read_json(WORDFREQ, {})
+        if not freq:
+            raise SystemExit(f"{src['name']} has restore_zwj: run `python scripts/cpt/s05_review.py wordlist` first")
     print(f"{src['name']}: {len(files)} files, {len(groups)} row groups, budget {budget:,} tokens", flush=True)
     for f, g in groups:
         def read():
@@ -112,7 +119,10 @@ def collect(src, rng, stats):
         for row in rows[:400]:                      # a few hundred rows per group spreads the sample
             stats["seen"] += 1
             url = row.get(src.get("url") or "", None)
-            for piece in split_long(normalize(row[src["text"]] or "")):
+            text = normalize(row[src["text"]] or "")
+            if freq:
+                text = restore_zwj(text, freq)
+            for piece in split_long(text):
                 r = reject_reason(piece, url, src["lang"])
                 if r:
                     stats[r] += 1

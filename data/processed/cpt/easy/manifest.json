@@ -1,0 +1,2770 @@
+{
+  "pipeline_version": "cpt-v1",
+  "created": "2026-10-16T18:10:32",
+  "level": "easy",
+  "seed": 42,
+  "tokenizer": "Qwen/Qwen3.5-4B-Base",
+  "tokenizer_json_sha1": "4d234f4b99803cc3f6a82eb4b98735d047c38682",
+  "eos_token": "<|endoftext|>",
+  "eos_id": 248044,
+  "bos": null,
+  "block_size": 2048,
+  "train": {
+    "blocks": 11181,
+    "tokens": 22898688,
+    "shards": 6
+  },
+  "val": {
+    "blocks": 104,
+    "tokens": 212992,
+    "shards": 1
+  },
+  "mixture": {
+    "textbook_levels": [
+      "easy"
+    ],
+    "textbook_epochs": 3,
+    "replay_tokens": {
+      "wikipedia_si": 4000000,
+      "fineweb2_si": 5000000,
+      "fineweb_edu_en": 3000000
+    },
+    "val_textbook_chapter_share": 0.03,
+    "val_replay_share": 0.005,
+    "header": true
+  },
+  "mix_summary": {
+    "train": {
+      "textbook": {
+        "tokens": 10880733,
+        "share": 0.475
+      },
+      "fineweb2_si": {
+        "tokens": 5001545,
+        "share": 0.219
+      },
+      "wikipedia_si": {
+        "tokens": 4001040,
+        "share": 0.175
+      },
+      "fineweb_edu_en": {
+        "tokens": 3000176,
+        "share": 0.131
+      },
+      "_total_tokens": 22883494
+    },
+    "val": {
+      "textbook": {
+        "tokens": 133984,
+        "share": 0.627
+      },
+      "wikipedia_si": {
+        "tokens": 40282,
+        "share": 0.189
+      },
+      "fineweb2_si": {
+        "tokens": 23398,
+        "share": 0.11
+      },
+      "fineweb_edu_en": {
+        "tokens": 15857,
+        "share": 0.074
+      },
+      "_total_tokens": 213521
+    },
+    "val_chapters": [
+      "buddhism_g8_si/ch08",
+      "buddhism_g8_si/ch15",
+      "catholic_g6_si/ch14",
+      "catholic_g7_si/ch16",
+      "christianism_g7_si/ch12",
+      "christianism_g8_si/ch05",
+      "civic_g6_si/ch02",
+      "dancing_g7_si/ch07",
+      "drama_g7_p1_si/ch00",
+      "geo_g7_si/ch05",
+      "health_g6_si/ch08",
+      "history_g8_si/ch04",
+      "islam_g6_si/ch06",
+      "islam_g8_si/ch11",
+      "islam_g8_si/ch22",
+      "music_g7_si/ch09",
+      "science_g6_si/ch01",
+      "sinhala_g6_si/ch06",
+      "sinhala_g8_si/ch03"
+    ],
+    "textbook_epochs": 3
+  },
+  "docs_jsonl_sha1": "de3eb85edf829ce2d2f67e466a0301b6e2bc09ab",
+  "inventory": [
+    {
+      "book_id": "art_g6_si",
+      "file": "data/raw/g6/art g-6 S.pdf",
+      "subject": "Art",
+      "grade": 6,
+      "pages": 47,
+      "scanned": false
+    },
+    {
+      "book_id": "buddhism_g6_si",
+      "file": "data/raw/g6/buddhism g-6 S.pdf",
+      "subject": "Buddhism",
+      "grade": 6,
+      "pages": 128,
+      "scanned": false
+    },
+    {
+      "book_id": "catholic_g6_si",
+      "file": "data/raw/g6/catholic g-6 S.pdf",
+      "subject": "Catholicism",
+      "grade": 6,
+      "pages": 136,
+      "scanned": false
+    },
+    {
+      "book_id": "christianism_g6_si",
+      "file": "data/raw/g6/christianism g-6 S.pdf",
+      "subject": "Christianity",
+      "grade": 6,
+      "pages": 110,
+      "scanned": false
+    },
+    {
+      "book_id": "civic_g6_si",
+      "file": "data/raw/g6/civic g-6 S.pdf",
+      "subject": "Civics",
+      "grade": 6,
+      "pages": 116,
+      "scanned": false
+    },
+    {
+      "book_id": "dancing_g6_si",
+      "file": "data/raw/g6/dancing g-6 S.pdf",
+      "subject": "Dancing",
+      "grade": 6,
+      "pages": 87,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g6_p1_si",
+      "file": "data/raw/g6/drama g-6 p-I S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 6,
+      "pages": 24,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g6_p2_si",
+      "file": "data/raw/g6/drama g-6 p-II S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 6,
+      "pages": 21,
+      "scanned": false
+    },
+    {
+      "book_id": "geo_g6_si",
+      "file": "data/raw/g6/geo g-6 S.pdf",
+      "subject": "Geography",
+      "grade": 6,
+      "pages": 72,
+      "scanned": false
+    },
+    {
+      "book_id": "health_g6_si",
+      "file": "data/raw/g6/health g-6 S.pdf",
+      "subject": "Health",
+      "grade": 6,
+      "pages": 158,
+      "scanned": false
+    },
+    {
+      "book_id": "history_g6_si",
+      "file": "data/raw/g6/history g-6 S.pdf",
+      "subject": "History",
+      "grade": 6,
+      "pages": 68,
+      "scanned": false
+    },
+    {
+      "book_id": "islam_g6_si",
+      "file": "data/raw/g6/islam g-6 S.pdf",
+      "subject": "Islam",
+      "grade": 6,
+      "pages": 120,
+      "scanned": false
+    },
+    {
+      "book_id": "music_g6_si",
+      "file": "data/raw/g6/music g-6 S.pdf",
+      "subject": "Eastern Music",
+      "grade": 6,
+      "pages": 70,
+      "scanned": false
+    },
+    {
+      "book_id": "science_g6_si",
+      "file": "data/raw/g6/science g-6 S.pdf",
+      "subject": "Science",
+      "grade": 6,
+      "pages": 184,
+      "scanned": false
+    },
+    {
+      "book_id": "sinhala_g6_si",
+      "file": "data/raw/g6/sinhala g-6 S.pdf",
+      "subject": "Sinhala",
+      "grade": 6,
+      "pages": 152,
+      "scanned": false
+    },
+    {
+      "book_id": "art_g7_si",
+      "file": "data/raw/g7/art g-7 S.pdf",
+      "subject": "Art",
+      "grade": 7,
+      "pages": 54,
+      "scanned": true
+    },
+    {
+      "book_id": "buddhism_g7_si",
+      "file": "data/raw/g7/buddhism g-7 S.pdf",
+      "subject": "Buddhism",
+      "grade": 7,
+      "pages": 168,
+      "scanned": false
+    },
+    {
+      "book_id": "catholic_g7_si",
+      "file": "data/raw/g7/catholic g-7 S.pdf",
+      "subject": "Catholicism",
+      "grade": 7,
+      "pages": 110,
+      "scanned": false
+    },
+    {
+      "book_id": "christianism_g7_si",
+      "file": "data/raw/g7/christianism g-7 S.pdf",
+      "subject": "Christianity",
+      "grade": 7,
+      "pages": 94,
+      "scanned": false
+    },
+    {
+      "book_id": "civic_g7_si",
+      "file": "data/raw/g7/civic g-7 S.pdf",
+      "subject": "Civics",
+      "grade": 7,
+      "pages": 120,
+      "scanned": false
+    },
+    {
+      "book_id": "dancing_g7_si",
+      "file": "data/raw/g7/dancing g-7 S.pdf",
+      "subject": "Dancing",
+      "grade": 7,
+      "pages": 67,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g7_p1_si",
+      "file": "data/raw/g7/drama g-7 p-I S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 7,
+      "pages": 20,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g7_p2_si",
+      "file": "data/raw/g7/drama g-7 p-II S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 7,
+      "pages": 23,
+      "scanned": false
+    },
+    {
+      "book_id": "geo_g7_si",
+      "file": "data/raw/g7/geo g-7 S.pdf",
+      "subject": "Geography",
+      "grade": 7,
+      "pages": 84,
+      "scanned": false
+    },
+    {
+      "book_id": "health_g7_si",
+      "file": "data/raw/g7/health g-7 S.pdf",
+      "subject": "Health",
+      "grade": 7,
+      "pages": 183,
+      "scanned": false
+    },
+    {
+      "book_id": "history_g7_si",
+      "file": "data/raw/g7/history g-7 S.pdf",
+      "subject": "History",
+      "grade": 7,
+      "pages": 88,
+      "scanned": false
+    },
+    {
+      "book_id": "islam_g7_si",
+      "file": "data/raw/g7/islam g-7 S.pdf",
+      "subject": "Islam",
+      "grade": 7,
+      "pages": 135,
+      "scanned": false
+    },
+    {
+      "book_id": "music_g7_si",
+      "file": "data/raw/g7/music g-7 S.pdf",
+      "subject": "Eastern Music",
+      "grade": 7,
+      "pages": 77,
+      "scanned": false
+    },
+    {
+      "book_id": "science_g7_p1_si",
+      "file": "data/raw/g7/science g-7 p-I S.pdf",
+      "subject": "Science",
+      "grade": 7,
+      "pages": 162,
+      "scanned": false
+    },
+    {
+      "book_id": "science_g7_p2_si",
+      "file": "data/raw/g7/science g-7 p-II S.pdf",
+      "subject": "Science",
+      "grade": 7,
+      "pages": 142,
+      "scanned": false
+    },
+    {
+      "book_id": "sinhala_g7_si",
+      "file": "data/raw/g7/sinhala g-7 S.pdf",
+      "subject": "Sinhala",
+      "grade": 7,
+      "pages": 208,
+      "scanned": false
+    },
+    {
+      "book_id": "art_g8_si",
+      "file": "data/raw/g8/art g-8 S.pdf",
+      "subject": "Art",
+      "grade": 8,
+      "pages": 26,
+      "scanned": true
+    },
+    {
+      "book_id": "buddhism_g8_si",
+      "file": "data/raw/g8/buddhism g-8 S.pdf",
+      "subject": "Buddhism",
+      "grade": 8,
+      "pages": 164,
+      "scanned": false
+    },
+    {
+      "book_id": "catholic_g8_si",
+      "file": "data/raw/g8/catholic g-8 S.pdf",
+      "subject": "Catholicism",
+      "grade": 8,
+      "pages": 108,
+      "scanned": false
+    },
+    {
+      "book_id": "christianism_g8_si",
+      "file": "data/raw/g8/christianism g-8 S.pdf",
+      "subject": "Christianity",
+      "grade": 8,
+      "pages": 122,
+      "scanned": false
+    },
+    {
+      "book_id": "civic_g8_si",
+      "file": "data/raw/g8/civic g-8 S.pdf",
+      "subject": "Civics",
+      "grade": 8,
+      "pages": 160,
+      "scanned": false
+    },
+    {
+      "book_id": "dancing_g8_si",
+      "file": "data/raw/g8/dancing g-8 S.pdf",
+      "subject": "Dancing",
+      "grade": 8,
+      "pages": 78,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g8_p1_si",
+      "file": "data/raw/g8/drama g-8 p-I S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 8,
+      "pages": 33,
+      "scanned": false
+    },
+    {
+      "book_id": "drama_g8_p2_si",
+      "file": "data/raw/g8/drama g-8 p-II S.pdf",
+      "subject": "Drama and Theatre",
+      "grade": 8,
+      "pages": 25,
+      "scanned": false
+    },
+    {
+      "book_id": "geo_g8_si",
+      "file": "data/raw/g8/geo g-8 S.pdf",
+      "subject": "Geography",
+      "grade": 8,
+      "pages": 76,
+      "scanned": false
+    },
+    {
+      "book_id": "health_g8_si",
+      "file": "data/raw/g8/health g-8 S.pdf",
+      "subject": "Health",
+      "grade": 8,
+      "pages": 216,
+      "scanned": true
+    },
+    {
+      "book_id": "history_g8_si",
+      "file": "data/raw/g8/history g-8 S.pdf",
+      "subject": "History",
+      "grade": 8,
+      "pages": 88,
+      "scanned": false
+    },
+    {
+      "book_id": "islam_g8_si",
+      "file": "data/raw/g8/islam g-8 S.pdf",
+      "subject": "Islam",
+      "grade": 8,
+      "pages": 138,
+      "scanned": false
+    },
+    {
+      "book_id": "music_g8_si",
+      "file": "data/raw/g8/music g-8 S.pdf",
+      "subject": "Eastern Music",
+      "grade": 8,
+      "pages": 82,
+      "scanned": false
+    },
+    {
+      "book_id": "science_g8_p1_si",
+      "file": "data/raw/g8/science g-8 p-I S.pdf",
+      "subject": "Science",
+      "grade": 8,
+      "pages": 134,
+      "scanned": false
+    },
+    {
+      "book_id": "science_g8_p2_si",
+      "file": "data/raw/g8/science g-8 p-II S.pdf",
+      "subject": "Science",
+      "grade": 8,
+      "pages": 152,
+      "scanned": false
+    },
+    {
+      "book_id": "sinhala_g8_si",
+      "file": "data/raw/g8/sinhala g-8 S.pdf",
+      "subject": "Sinhala",
+      "grade": 8,
+      "pages": 206,
+      "scanned": false
+    }
+  ],
+  "font_config": {
+    "_doc": "Font whitelist for Step 3 (docs/prepare_cpt_dataset.md). Matching is on the font name without the subset prefix (ABCDEF+). convert = legacy FM-encoded Sinhala; keep = already Unicode or Latin; drop = other scripts and dingbats. s01_inventory.py lists every font that is in none of these lists, with sample text: classify it here before running s02 (legacy Sinhala can hide behind any name, e.g. F2, R1, KELANI-Plain). punct_keep lists, per font, ASCII characters that are real punctuation in that font and must NOT go through the FM table (check against the printed page). Classified from the Easy (g6-g8) inventory on 2026-10-15.",
+    "convert": [
+      "FMAbhaya",
+      "FMAbhayax",
+      "FMAbhaya-Bold",
+      "FMAbhaya-Light",
+      "FMAbabldBold",
+      "FMAbabld,Bold",
+      "FMSLRAbhayax",
+      "FMSLRAbabldBold",
+      "FMSLRBasurux",
+      "FMMalithix",
+      "FMEmaneex",
+      "FMSamanthax",
+      "FMSamanthaBoldx",
+      "FMDeranax",
+      "FMGanganeex",
+      "FMEconbldBold",
+      "FMBasurux",
+      "FMMaduriThin",
+      "FMSandhyaneex",
+      "FMBindumathix",
+      "FMGeethikaBold",
+      "FMGemunux",
+      "FM-ABILIC",
+      "SARAWIPULA",
+      "F2",
+      "0KDBOLIDDAbold",
+      "R1",
+      "KELANI-Plain",
+      "FS-Chami.",
+      "AaAnita",
+      "Chamodi",
+      "Helabasa",
+      "FMMalithi",
+      "FMAbabld",
+      "FMBindumathi",
+      "FMSamantha",
+      "FMGanganee",
+      "FMDerana",
+      "FMRajantha",
+      "TT15FCO00",
+      "TT23F0O00",
+      "TT1CFDO00",
+      "TT2B4BO00",
+      "SA-Nimali",
+      "NPW-Kasun",
+      "SARA-SIRI",
+      "SARA-RAMANEE",
+      "SARA-KALANEE",
+      "SARA-PUNCHI",
+      "SARA-SETH",
+      "SARA-MAHEE",
+      "SARA-PRAMESHA",
+      "apex-a.pura-008",
+      "apex-a.pura-010",
+      "Su_MADURA2",
+      "NelumPC",
+      "kaputadotcom",
+      "DL-Paras.",
+      "ZWAdobeF",
+      "F1",
+      "F3",
+      "AmSamanthaNormal"
+    ],
+    "keep": [
+      "IskoolaPota",
+      "SymbolMT",
+      "Symbol",
+      "AdobeHebrew-Regular",
+      "Algerian",
+      "BaskOldFace",
+      "TrebuchetMS",
+      "Impact",
+      "HoboStd",
+      "FreedomExtendedNormal",
+      "ACaslonPro-Bold",
+      "FuturaBT-Bold",
+      "TektonPro-BoldCond",
+      "FranklinGothic-Demi",
+      "Time-Roman",
+      "MyriadArabic-Regular",
+      "MyriadArabic-Bold",
+      "Century725BlkBT",
+      "Centaur",
+      "apex-a.pura-017",
+      "FootlightMTLight",
+      "FranklinGothicBook",
+      "FixedMiriamTransparent",
+      "AharoniBold"
+    ],
+    "keep_prefixes": [
+      "Times",
+      "Arial",
+      "Minion",
+      "Myriad",
+      "Calibri",
+      "Helvetica",
+      "AGaramond",
+      "Garamond",
+      "Cambria",
+      "Tahoma",
+      "Courier"
+    ],
+    "drop": [
+      "ArabicTypesetting",
+      "TraditionalArabic-Bold",
+      "AdobeArabic-Regular",
+      "AdobeArabic-Bold",
+      "AdobeNaskh-Medium",
+      "NCNitusha",
+      "TAM-Tamil003",
+      "Tharmini-Plain",
+      "Baamini-Plain",
+      "MonotypeSorts",
+      "Webdings",
+      "ZapDingbats",
+      "SymbolProportionalBT-Reg",
+      "KozGoPro-Bold",
+      "FMAbhaya#20x",
+      "FMAbabld#20Bold",
+      "FMSamantha#20x",
+      "FMEmanee#20x",
+      "FMMalithi#20x",
+      "FMBindumathi#20x",
+      "Angsana#20New",
+      "Microsoft#20Sans#20Serif",
+      "MicrosoftSansSerif",
+      "Upmusic",
+      "Latha",
+      "TAMKavi",
+      "Tam-Tamil017"
+    ],
+    "drop_prefixes": [
+      "SHREE-TAM",
+      "Wingdings",
+      "ZapfDingbats"
+    ],
+    "punct_keep": {}
+  },
+  "converter": {
+    "base": "Open-SL fm_abaya_to_unicode (MIT)",
+    "patches": [
+      "P1 upstream regex bugs: f\\da / f\\d (\\d = any digit) -> f|da / f|d (ඳෝ ඳො); f\\\\{da / f\\\\{d -> f{da / f{d (ඥෝ ඥො)",
+      "P2 nasal prefix ` + consonant code -> the code of the pre-nasalised letter (`o -> | = ඳ, `v -> ~ = ඬ, `. -> Õ = ඟ, `n -> U = ඹ, `ÿ -> ÷ = ඳු, `È -> ¢ = ඳි ...), mapped before the base table so the f (ෙ) prefix rules still apply; any ` left before ද ඩ ග බ after conversion is fixed in POST",
+      "P3 ¥ -> දූ and ¨ -> ලු (upstream: missing / ලූ); ª -> ඳු, ý -> ඡි, \\ -> ඳ (rare glyphs found in the audit)",
+      "P4 delete the • -> x rule; ¡ and ² -> •; ⋆ (from ³) -> •",
+      "P5 % -> ්‍ර without a leading ZWJ; strip stray '=' from upstream outputs (ඡ= රැ= ඳැ= ඤු= ඤූ=)",
+      "P6 per-font punctuation kept as-is (config/fonts.json: punct_keep)",
+      "P7 ligatures ﬁ ﬂ -> fi fl before conversion",
+      "P8 delete the early & -> ) rule: its output was turned into * by the later ) -> * rule; the final & -> ) rule (after it) gives the right )",
+      "P9 · before a digit -> × (magnification ×5, ×40 in science)",
+      "P10 vowel sign written before the rakaransaya / yansaya -> after it (ගාබි්‍රයෙල් -> ගාබ්‍රියෙල්)",
+      "P11 Easy s02 leftovers, checked on the printed page: `ã -> ඬී, `t and `: -> ළු (මාළු ඇතුළු), ` dropped before ¯ ® | (මජ්ඣිම සඳහා), consonant + ` + vowel sign (o`d -> ඳා), `` -> `, `c -> ඦ, μ after a letter -> ද්‍ය (වෛද්‍ය), Ω before ¿ and the Ohm sign U+2126 dropped (එළවළු, මනඃ)",
+      "P12 roman numerals: » -> I (the table used » as its own placeholder for the comma), ¼ -> V",
+      "P13 · not before a digit -> • (bullets); ASCII control characters removed",
+      "P15 last Easy leftovers: `X -> ඬ (බුඬ ගජ්ඣ), `Co -> ඤ (alphabet table), a line holding only ` -> dropped",
+      "P14 per line, across spans: ` + ඵ -> ළු; Ω doubled by an FM span and a Times span -> one Ω; same for a » bullet"
+    ]
+  },
+  "books_config": {
+    "buddhism_g6_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "catholic_g6_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "christianism_g6_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "civic_g6_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "geo_g6_si": {
+      "skip_pages": [
+        72
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "health_g6_si": {
+      "skip_pages": [
+        157
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "history_g6_si": {
+      "skip_pages": [
+        1,
+        5,
+        8,
+        66,
+        67
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "islam_g6_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "science_g6_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "sinhala_g6_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "buddhism_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "catholic_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "christianism_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "civic_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "geo_g7_si": {
+      "skip_pages": [
+        83
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "health_g7_si": {
+      "skip_pages": [
+        180,
+        183
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "history_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "islam_g7_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "science_g7_p1_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "science_g7_p2_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "sinhala_g7_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "buddhism_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "catholic_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "christianism_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "civic_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "geo_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "health_g8_si": {
+      "skip_pages": [
+        1,
+        5,
+        7,
+        214,
+        215,
+        216
+      ],
+      "ocr": true,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "history_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "islam_g8_si": {
+      "skip_pages": [
+        1,
+        10
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "science_g8_p1_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "science_g8_p2_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "sinhala_g8_si": {
+      "skip_pages": [],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "art_g6_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        47
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "dancing_g6_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        87
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {
+        "9": 1,
+        "24": 2,
+        "52": 3,
+        "59": 4,
+        "61": 5,
+        "67": 6,
+        "81": 7
+      },
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g6_p1_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g6_p2_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "music_g6_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "art_g7_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        53
+      ],
+      "ocr": true,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "dancing_g7_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        67
+      ],
+      "ocr": false,
+      "ocr_pages": [
+        50,
+        51,
+        52
+      ],
+      "chapter_pages": {
+        "9": 1,
+        "16": 2,
+        "34": 3,
+        "40": 4,
+        "45": 5,
+        "57": 6,
+        "63": 7
+      },
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g7_p1_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g7_p2_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "music_g7_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "art_g8_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        25,
+        26
+      ],
+      "ocr": true,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "dancing_g8_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {
+        "9": 1,
+        "17": 2,
+        "37": 3,
+        "41": 4,
+        "45": 5,
+        "63": 6,
+        "73": 7
+      },
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g8_p1_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "drama_g8_p2_si": {
+      "skip_pages": [
+        1
+      ],
+      "ocr": false,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    },
+    "music_g8_si": {
+      "skip_pages": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        78
+      ],
+      "ocr": true,
+      "ocr_pages": [],
+      "chapter_pages": {},
+      "chapter_min_size": null,
+      "notes": ""
+    }
+  },
+  "ocr": {
+    "tool": "Tesseract 5, tessdata_best sin, --psm 4, 300 dpi",
+    "books": [
+      "health_g8_si",
+      "art_g7_si",
+      "dancing_g7_si",
+      "art_g8_si",
+      "music_g8_si"
+    ]
+  },
+  "review": {},
+  "cleaning": {
+    "art_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        47
+      ],
+      "skipped_page": 249,
+      "diagram_block": 476,
+      "duplicate_line": 179,
+      "header_footer": 195,
+      "label_in_image": 3,
+      "repeated_line": 8,
+      "body_size": 11.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 3,
+        "20.0": 4,
+        "39.0": 1
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "items_out": 161,
+      "chars_out": 32227
+    },
+    "art_g7_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        52,
+        53
+      ],
+      "skipped_page": 220,
+      "notation_noise": 3,
+      "caption": 1,
+      "body_size": null,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {},
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "notation_noise_paragraph": 1,
+      "items_out": 146,
+      "chars_out": 41370
+    },
+    "art_g8_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        25,
+        26
+      ],
+      "skipped_page": 210,
+      "spaced_letters": 1,
+      "notation_noise": 1,
+      "body_size": null,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {},
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "items_out": 55,
+      "chars_out": 14089
+    },
+    "buddhism_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        9
+      ],
+      "skipped_page": 115,
+      "diagram_block": 179,
+      "header_footer": 118,
+      "small_font_label": 1,
+      "duplicate_line": 4,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 77,
+        "24.0": 12,
+        "25.0": 26
+      },
+      "warning": "first chapter found on page 23: the text before it is kept as chapter 0; add the missed chapter pages to chapter_pages in the config",
+      "items_out": 725,
+      "chars_out": 109425
+    },
+    "buddhism_g7_si": {
+      "skipped_pages": [
+        2,
+        3,
+        6,
+        7,
+        8
+      ],
+      "header_footer": 163,
+      "skipped_page": 100,
+      "diagram_block": 380,
+      "small_font_label": 1,
+      "label_in_image": 304,
+      "repeated_line": 3,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 1,
+        "22.0": 21,
+        "24.0": 1,
+        "25.0": 28,
+        "30.0": 1,
+        "32.0": 1
+      },
+      "front_matter_lines": 6,
+      "items_out": 634,
+      "chars_out": 164791
+    },
+    "buddhism_g8_si": {
+      "skipped_pages": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        9
+      ],
+      "small_font_label": 10,
+      "skipped_page": 152,
+      "diagram_block": 212,
+      "header_footer": 244,
+      "repeated_line": 9,
+      "duplicate_line": 2,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 128,
+        "15.0": 36,
+        "16.0": 6,
+        "18.0": 1,
+        "25.0": 31,
+        "36.0": 1,
+        "50.0": 1,
+        "58.0": 2,
+        "60.0": 20
+      },
+      "front_matter_lines": 26,
+      "not_sinhala": 3,
+      "items_out": 1049,
+      "chars_out": 207140
+    },
+    "catholic_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "skipped_page": 148,
+      "diagram_block": 637,
+      "header_footer": 131,
+      "caption": 70,
+      "small_font_label": 40,
+      "label_in_image": 232,
+      "spaced_letters": 1,
+      "repeated_line": 19,
+      "duplicate_line": 24,
+      "body_size": 14.0,
+      "chapter_min_size": 25.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "18.0": 48,
+        "25.0": 28
+      },
+      "front_matter_lines": 19,
+      "duplicate_heading": 1,
+      "too_short": 49,
+      "items_out": 909,
+      "chars_out": 93562
+    },
+    "catholic_g7_si": {
+      "skipped_pages": [],
+      "caption": 50,
+      "small_font_label": 61,
+      "header_footer": 110,
+      "label_in_image": 154,
+      "diagram_block": 305,
+      "duplicate_line": 1,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "20.0": 28,
+        "22.0": 25
+      },
+      "front_matter_lines": 0,
+      "items_out": 865,
+      "chars_out": 95022
+    },
+    "catholic_g8_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        9
+      ],
+      "header_footer": 103,
+      "diagram_block": 107,
+      "skipped_page": 112,
+      "caption": 22,
+      "small_font_label": 25,
+      "label_in_image": 49,
+      "repeated_line": 4,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 78,
+        "15.0": 1,
+        "16.0": 2,
+        "18.0": 1,
+        "24.0": 32,
+        "36.0": 1,
+        "48.0": 25,
+        "50.0": 1
+      },
+      "front_matter_lines": 60,
+      "too_short": 5,
+      "items_out": 738,
+      "chars_out": 101041
+    },
+    "christianism_g6_si": {
+      "skipped_pages": [
+        2,
+        5,
+        6,
+        7,
+        9
+      ],
+      "diagram_block": 123,
+      "skipped_page": 157,
+      "header_footer": 109,
+      "duplicate_line": 3,
+      "label_in_image": 199,
+      "small_font_label": 70,
+      "spaced_letters": 2,
+      "caption": 20,
+      "repeated_line": 16,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 8,
+        "18.1": 1,
+        "23.6": 2,
+        "24.0": 5,
+        "24.1": 8,
+        "24.2": 6,
+        "24.3": 3,
+        "24.5": 1,
+        "38.0": 1,
+        "48.0": 1
+      },
+      "front_matter_lines": 3,
+      "too_short": 1,
+      "items_out": 702,
+      "chars_out": 98508
+    },
+    "christianism_g7_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        9
+      ],
+      "skipped_page": 157,
+      "header_footer": 87,
+      "diagram_block": 39,
+      "small_font_label": 12,
+      "spaced_letters": 6,
+      "label_in_image": 22,
+      "repeated_line": 5,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "16.6": 1,
+        "16.8": 2,
+        "18.0": 5,
+        "20.4": 12,
+        "20.5": 3,
+        "21.2": 1,
+        "21.5": 5,
+        "22.8": 17,
+        "34.4": 1,
+        "36.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 26,
+      "duplicate_heading": 3,
+      "too_short": 8,
+      "not_sinhala": 1,
+      "items_out": 768,
+      "chars_out": 88034
+    },
+    "christianism_g8_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        9
+      ],
+      "diagram_block": 197,
+      "skipped_page": 90,
+      "header_footer": 115,
+      "small_font_label": 9,
+      "label_in_image": 28,
+      "caption": 27,
+      "duplicate_line": 3,
+      "spaced_letters": 1,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 207,
+        "18.0": 1,
+        "24.0": 24,
+        "36.0": 1,
+        "48.0": 23,
+        "50.0": 1,
+        "60.0": 1
+      },
+      "front_matter_lines": 22,
+      "not_sinhala": 1,
+      "items_out": 1020,
+      "chars_out": 144076
+    },
+    "civic_g6_si": {
+      "skipped_pages": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        9
+      ],
+      "header_footer": 120,
+      "skipped_page": 155,
+      "diagram_block": 252,
+      "caption": 44,
+      "small_font_label": 75,
+      "label_in_image": 43,
+      "repeated_line": 91,
+      "duplicate_line": 43,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 36,
+        "22.0": 7,
+        "25.0": 7,
+        "30.0": 1,
+        "32.0": 1
+      },
+      "front_matter_lines": 3,
+      "duplicate_heading": 13,
+      "too_short": 18,
+      "not_sinhala": 15,
+      "items_out": 927,
+      "chars_out": 89470
+    },
+    "civic_g7_si": {
+      "skipped_pages": [
+        2,
+        3,
+        6
+      ],
+      "skipped_page": 89,
+      "header_footer": 115,
+      "label_in_image": 69,
+      "small_font_label": 39,
+      "caption": 73,
+      "diagram_block": 125,
+      "repeated_line": 3,
+      "duplicate_line": 1,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 1,
+        "23.0": 1,
+        "24.0": 3,
+        "36.0": 1,
+        "45.0": 4
+      },
+      "front_matter_lines": 3,
+      "not_sinhala": 14,
+      "too_short": 2,
+      "items_out": 640,
+      "chars_out": 95716
+    },
+    "civic_g8_si": {
+      "skipped_pages": [
+        2,
+        3,
+        6,
+        9
+      ],
+      "skipped_page": 117,
+      "header_footer": 155,
+      "diagram_block": 387,
+      "small_font_label": 86,
+      "duplicate_line": 4,
+      "label_in_image": 43,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 136,
+        "15.0": 6,
+        "16.0": 11,
+        "18.0": 1,
+        "24.0": 7,
+        "36.0": 1,
+        "45.0": 6,
+        "50.0": 1
+      },
+      "front_matter_lines": 22,
+      "duplicate_heading": 5,
+      "not_sinhala": 27,
+      "too_short": 3,
+      "items_out": 1398,
+      "chars_out": 150327
+    },
+    "dancing_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        87
+      ],
+      "skipped_page": 241,
+      "diagram_block": 1589,
+      "repeated_line": 279,
+      "header_footer": 156,
+      "caption": 2,
+      "small_font_label": 23,
+      "duplicate_line": 45,
+      "label_in_image": 3,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 14,
+        "16.0": 10
+      },
+      "front_matter_lines": 0,
+      "too_short": 7,
+      "not_sinhala": 1,
+      "items_out": 485,
+      "chars_out": 72568
+    },
+    "dancing_g7_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        67
+      ],
+      "skipped_page": 242,
+      "diagram_block": 1948,
+      "header_footer": 110,
+      "repeated_line": 162,
+      "small_font_label": 364,
+      "duplicate_line": 19,
+      "notation_noise": 3,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 10,
+        "16.0": 10,
+        "18.0": 1
+      },
+      "front_matter_lines": 0,
+      "duplicate_heading": 1,
+      "too_short": 5,
+      "not_sinhala": 2,
+      "items_out": 341,
+      "chars_out": 53174
+    },
+    "dancing_g8_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        78
+      ],
+      "skipped_page": 255,
+      "diagram_block": 2426,
+      "repeated_line": 255,
+      "duplicate_line": 25,
+      "header_footer": 162,
+      "small_font_label": 10,
+      "spaced_letters": 14,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 15,
+        "16.0": 7,
+        "18.0": 4
+      },
+      "front_matter_lines": 0,
+      "not_sinhala": 6,
+      "too_short": 4,
+      "items_out": 517,
+      "chars_out": 57238
+    },
+    "drama_g6_p1_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 29,
+      "header_footer": 53,
+      "diagram_block": 56,
+      "repeated_line": 4,
+      "small_font_label": 1,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 13,
+        "18.0": 1
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "not_sinhala": 2,
+      "items_out": 357,
+      "chars_out": 51454
+    },
+    "drama_g6_p2_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 31,
+      "header_footer": 47,
+      "diagram_block": 59,
+      "repeated_line": 7,
+      "spaced_letters": 1,
+      "small_font_label": 5,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 17,
+        "16.0": 1
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "items_out": 366,
+      "chars_out": 41294
+    },
+    "drama_g7_p1_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 25,
+      "header_footer": 42,
+      "repeated_line": 7,
+      "small_font_label": 10,
+      "diagram_block": 67,
+      "label_in_image": 2,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 12
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "not_sinhala": 1,
+      "items_out": 359,
+      "chars_out": 32314
+    },
+    "drama_g7_p2_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 22,
+      "header_footer": 55,
+      "repeated_line": 12,
+      "diagram_block": 269,
+      "label_in_image": 2,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 24,
+        "16.0": 2
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "not_sinhala": 1,
+      "items_out": 334,
+      "chars_out": 40033
+    },
+    "drama_g8_p1_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 36,
+      "header_footer": 75,
+      "repeated_line": 11,
+      "diagram_block": 179,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 19
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "not_sinhala": 1,
+      "items_out": 459,
+      "chars_out": 72571
+    },
+    "drama_g8_p2_si": {
+      "skipped_pages": [
+        1
+      ],
+      "skipped_page": 28,
+      "header_footer": 61,
+      "repeated_line": 97,
+      "spaced_letters": 1,
+      "diagram_block": 66,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {
+        "14.0": 17
+      },
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "items_out": 411,
+      "chars_out": 53166
+    },
+    "geo_g6_si": {
+      "skipped_pages": [
+        2,
+        3,
+        6,
+        9,
+        72
+      ],
+      "header_footer": 82,
+      "diagram_block": 565,
+      "skipped_page": 97,
+      "small_font_label": 102,
+      "label_in_image": 390,
+      "repeated_line": 51,
+      "caption": 6,
+      "duplicate_line": 10,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "16.4": 3,
+        "17.0": 3,
+        "18.0": 14,
+        "18.4": 1,
+        "25.0": 6,
+        "36.0": 1,
+        "38.0": 4,
+        "50.0": 1
+      },
+      "front_matter_lines": 35,
+      "duplicate_heading": 3,
+      "too_short": 15,
+      "not_sinhala": 16,
+      "items_out": 354,
+      "chars_out": 29413
+    },
+    "geo_g7_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        81,
+        83
+      ],
+      "small_font_label": 523,
+      "skipped_page": 257,
+      "footer": 67,
+      "header_footer": 195,
+      "diagram_block": 192,
+      "caption": 24,
+      "label_in_image": 31,
+      "repeated_line": 32,
+      "duplicate_line": 1,
+      "body_size": 13.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "15.0": 33,
+        "16.0": 6,
+        "17.7": 4,
+        "18.0": 2,
+        "20.0": 18,
+        "32.0": 5,
+        "36.0": 1,
+        "50.0": 6
+      },
+      "front_matter_lines": 3,
+      "duplicate_heading": 3,
+      "not_sinhala": 12,
+      "too_short": 18,
+      "items_out": 536,
+      "chars_out": 43147
+    },
+    "geo_g8_si": {
+      "skipped_pages": [
+        3,
+        4,
+        9
+      ],
+      "repeated_line": 66,
+      "header_footer": 134,
+      "skipped_page": 55,
+      "label_in_image": 172,
+      "small_font_label": 188,
+      "caption": 57,
+      "diagram_block": 143,
+      "duplicate_line": 6,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 26,
+        "14.4": 1,
+        "15.0": 13,
+        "16.0": 16,
+        "18.0": 1,
+        "24.0": 5,
+        "30.0": 1,
+        "36.0": 1,
+        "50.0": 1,
+        "55.0": 4
+      },
+      "front_matter_lines": 5,
+      "duplicate_heading": 25,
+      "not_sinhala": 50,
+      "too_short": 15,
+      "items_out": 378,
+      "chars_out": 42571
+    },
+    "health_g6_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        157
+      ],
+      "header_footer": 168,
+      "diagram_block": 441,
+      "skipped_page": 162,
+      "small_font_label": 69,
+      "label_in_image": 87,
+      "repeated_line": 54,
+      "caption": 66,
+      "duplicate_line": 13,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 65,
+        "24.0": 4,
+        "25.0": 26,
+        "26.0": 3,
+        "30.0": 1,
+        "45.0": 3
+      },
+      "front_matter_lines": 5,
+      "not_sinhala": 59,
+      "too_short": 4,
+      "items_out": 1194,
+      "chars_out": 124422
+    },
+    "health_g7_si": {
+      "skipped_pages": [
+        2,
+        5,
+        9,
+        180,
+        183
+      ],
+      "header_footer": 54,
+      "diagram_block": 284,
+      "skipped_page": 202,
+      "duplicate_line": 18,
+      "repeated_line": 250,
+      "small_font_label": 212,
+      "caption": 20,
+      "label_in_image": 3,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "16.3": 4,
+        "18.0": 1,
+        "23.0": 2,
+        "24.0": 4,
+        "25.0": 30,
+        "36.0": 1,
+        "39.0": 3
+      },
+      "front_matter_lines": 7,
+      "duplicate_heading": 2,
+      "not_sinhala": 8,
+      "too_short": 1,
+      "items_out": 1390,
+      "chars_out": 145439
+    },
+    "health_g8_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        214,
+        215,
+        216
+      ],
+      "skipped_page": 339,
+      "footer": 1,
+      "caption": 122,
+      "notation_noise": 13,
+      "spaced_letters": 2,
+      "duplicate_line": 2,
+      "body_size": null,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {},
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "too_short": 2,
+      "items_out": 1104,
+      "chars_out": 168553
+    },
+    "history_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        66,
+        67
+      ],
+      "skipped_page": 222,
+      "diagram_block": 192,
+      "header_footer": 58,
+      "label_in_image": 7,
+      "footer": 56,
+      "caption": 24,
+      "small_font_label": 68,
+      "repeated_line": 7,
+      "spaced_letters": 1,
+      "body_size": 14.0,
+      "chapter_min_size": 25.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "25.0": 5,
+        "31.3": 1
+      },
+      "front_matter_lines": 4,
+      "items_out": 414,
+      "chars_out": 71786
+    },
+    "history_g7_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "skipped_page": 154,
+      "diagram_block": 464,
+      "header_footer": 153,
+      "caption": 70,
+      "small_font_label": 71,
+      "label_in_image": 89,
+      "repeated_line": 17,
+      "duplicate_line": 1,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 1,
+        "21.0": 5,
+        "25.0": 6,
+        "36.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 19,
+      "items_out": 544,
+      "chars_out": 87827
+    },
+    "history_g8_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        9
+      ],
+      "diagram_block": 328,
+      "skipped_page": 142,
+      "header_footer": 159,
+      "label_in_image": 22,
+      "caption": 71,
+      "small_font_label": 84,
+      "repeated_line": 13,
+      "body_size": 13.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "15.0": 1,
+        "18.0": 1,
+        "21.0": 6,
+        "21.3": 2,
+        "24.0": 5,
+        "36.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 16,
+      "duplicate_heading": 2,
+      "too_short": 1,
+      "items_out": 559,
+      "chars_out": 109981
+    },
+    "islam_g6_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "diagram_block": 90,
+      "skipped_page": 141,
+      "header_footer": 113,
+      "small_font_label": 1,
+      "repeated_line": 5,
+      "label_in_image": 16,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 2,
+        "21.0": 1,
+        "23.0": 7,
+        "24.4": 1,
+        "25.0": 26,
+        "36.0": 1,
+        "37.0": 29,
+        "50.0": 1
+      },
+      "front_matter_lines": 42,
+      "not_sinhala": 4,
+      "items_out": 796,
+      "chars_out": 111157
+    },
+    "islam_g7_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "skipped_page": 158,
+      "diagram_block": 117,
+      "header_footer": 126,
+      "small_font_label": 1,
+      "label_in_image": 48,
+      "body_size": 14.0,
+      "chapter_min_size": 24.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "18.0": 9,
+        "20.0": 29,
+        "22.0": 1,
+        "24.0": 28,
+        "25.0": 4,
+        "32.0": 1
+      },
+      "front_matter_lines": 0,
+      "duplicate_heading": 1,
+      "too_short": 28,
+      "not_sinhala": 1,
+      "items_out": 831,
+      "chars_out": 122299
+    },
+    "islam_g8_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "skipped_page": 238,
+      "diagram_block": 74,
+      "header_footer": 29,
+      "small_font_label": 2,
+      "label_in_image": 304,
+      "spaced_letters": 1,
+      "duplicate_line": 1,
+      "body_size": 12.0,
+      "chapter_min_size": 25.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "14.0": 47,
+        "16.0": 106,
+        "18.0": 4,
+        "19.0": 1,
+        "24.6": 1,
+        "25.0": 33,
+        "53.1": 1
+      },
+      "front_matter_lines": 0,
+      "too_short": 99,
+      "items_out": 984,
+      "chars_out": 147871
+    },
+    "music_g6_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "skipped_page": 164,
+      "diagram_block": 1559,
+      "header_footer": 60,
+      "label_in_image": 13,
+      "caption": 1,
+      "notation_noise": 86,
+      "duplicate_line": 159,
+      "repeated_line": 23,
+      "spaced_letters": 1,
+      "fm_in_latin_font": 16,
+      "small_font_label": 21,
+      "body_size": 12.0,
+      "chapter_min_size": 24.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "14.0": 55,
+        "15.8": 6,
+        "16.0": 1,
+        "18.0": 16,
+        "20.0": 1,
+        "24.0": 38,
+        "28.0": 14
+      },
+      "warning": "first chapter found on page 28: the text before it is kept as chapter 0; add the missed chapter pages to chapter_pages in the config",
+      "duplicate_heading": 9,
+      "too_short": 59,
+      "notation_noise_paragraph": 3,
+      "not_sinhala": 31,
+      "items_out": 455,
+      "chars_out": 61630
+    },
+    "music_g7_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "skipped_page": 173,
+      "diagram_block": 533,
+      "spaced_letters": 15,
+      "label_in_image": 12,
+      "header_footer": 70,
+      "repeated_line": 6,
+      "duplicate_line": 28,
+      "caption": 1,
+      "body_size": 12.0,
+      "chapter_min_size": 18.0,
+      "chapter_detection": "size",
+      "heading_sizes": {
+        "13.8": 11,
+        "14.0": 17,
+        "15.0": 13,
+        "16.0": 7,
+        "17.0": 3,
+        "18.0": 12,
+        "19.0": 1,
+        "24.0": 2
+      },
+      "front_matter_lines": 0,
+      "duplicate_heading": 1,
+      "too_short": 20,
+      "not_sinhala": 15,
+      "items_out": 274,
+      "chars_out": 36265
+    },
+    "music_g8_si": {
+      "skipped_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        78
+      ],
+      "skipped_page": 196,
+      "spaced_letters": 138,
+      "notation_noise": 336,
+      "duplicate_line": 4,
+      "repeated_line": 72,
+      "body_size": null,
+      "chapter_min_size": null,
+      "chapter_detection": "none",
+      "heading_sizes": {},
+      "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+      "notation_noise_paragraph": 8,
+      "too_short": 1,
+      "items_out": 330,
+      "chars_out": 74957
+    },
+    "science_g6_si": {
+      "skipped_pages": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "diagram_block": 481,
+      "skipped_page": 194,
+      "header_footer": 338,
+      "repeated_line": 325,
+      "label_in_image": 106,
+      "small_font_label": 660,
+      "caption": 40,
+      "duplicate_line": 6,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 20,
+        "18.2": 2,
+        "20.0": 1,
+        "24.0": 11,
+        "32.0": 11,
+        "40.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 137,
+      "duplicate_heading": 1,
+      "not_sinhala": 16,
+      "too_short": 7,
+      "items_out": 1254,
+      "chars_out": 137752
+    },
+    "science_g7_p1_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "header_footer": 302,
+      "skipped_page": 180,
+      "diagram_block": 785,
+      "repeated_line": 234,
+      "footer": 1,
+      "small_font_label": 602,
+      "caption": 31,
+      "label_in_image": 107,
+      "duplicate_line": 28,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 25,
+        "24.0": 8,
+        "25.0": 2,
+        "32.0": 10,
+        "36.0": 1,
+        "40.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 58,
+      "duplicate_heading": 3,
+      "not_sinhala": 10,
+      "too_short": 2,
+      "items_out": 1167,
+      "chars_out": 118583
+    },
+    "science_g7_p2_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9
+      ],
+      "small_font_label": 836,
+      "header_footer": 264,
+      "skipped_page": 183,
+      "diagram_block": 461,
+      "repeated_line": 175,
+      "caption": 31,
+      "label_in_image": 182,
+      "duplicate_line": 3,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "17.0": 3,
+        "18.0": 3,
+        "19.9": 1,
+        "21.8": 1,
+        "24.0": 7,
+        "25.0": 2,
+        "32.0": 9,
+        "33.9": 1,
+        "36.0": 1,
+        "40.0": 1,
+        "50.0": 1
+      },
+      "front_matter_lines": 58,
+      "duplicate_heading": 2,
+      "too_short": 5,
+      "not_sinhala": 16,
+      "items_out": 935,
+      "chars_out": 101819
+    },
+    "science_g8_p1_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "header_footer": 262,
+      "skipped_page": 236,
+      "diagram_block": 643,
+      "repeated_line": 602,
+      "small_font_label": 446,
+      "footer": 1,
+      "duplicate_line": 3,
+      "caption": 33,
+      "label_in_image": 15,
+      "spaced_letters": 1,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "13.9": 1,
+        "14.0": 147,
+        "15.0": 7,
+        "16.0": 21,
+        "18.0": 1,
+        "28.0": 4,
+        "30.0": 8,
+        "36.0": 1,
+        "40.0": 1,
+        "50.0": 1,
+        "92.0": 8
+      },
+      "front_matter_lines": 10,
+      "duplicate_heading": 2,
+      "not_sinhala": 52,
+      "too_short": 3,
+      "items_out": 1123,
+      "chars_out": 131461
+    },
+    "science_g8_p2_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "header_footer": 264,
+      "skipped_page": 208,
+      "diagram_block": 726,
+      "repeated_line": 527,
+      "small_font_label": 617,
+      "caption": 16,
+      "duplicate_line": 3,
+      "label_in_image": 13,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "13.8": 12,
+        "13.9": 2,
+        "14.0": 137,
+        "15.0": 21,
+        "16.0": 35,
+        "18.0": 2,
+        "22.0": 1,
+        "24.5": 3,
+        "30.0": 11,
+        "36.0": 1,
+        "40.0": 1,
+        "50.0": 1,
+        "92.0": 8
+      },
+      "front_matter_lines": 10,
+      "duplicate_heading": 1,
+      "too_short": 12,
+      "not_sinhala": 42,
+      "items_out": 1404,
+      "chars_out": 148615
+    },
+    "sinhala_g6_si": {
+      "skipped_pages": [
+        2,
+        7,
+        9
+      ],
+      "header_footer": 151,
+      "skipped_page": 81,
+      "diagram_block": 1126,
+      "label_in_image": 137,
+      "repeated_line": 28,
+      "footer": 142,
+      "duplicate_line": 5,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 9,
+        "18.3": 1,
+        "25.0": 20,
+        "25.2": 3,
+        "33.1": 21,
+        "36.0": 1,
+        "50.0": 2
+      },
+      "front_matter_lines": 8,
+      "too_short": 3,
+      "not_sinhala": 1,
+      "items_out": 1121,
+      "chars_out": 145447
+    },
+    "sinhala_g7_si": {
+      "skipped_pages": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        11
+      ],
+      "skipped_page": 133,
+      "header_footer": 201,
+      "diagram_block": 1259,
+      "repeated_line": 35,
+      "footer": 195,
+      "caption": 2,
+      "duplicate_line": 16,
+      "small_font_label": 21,
+      "label_in_image": 2,
+      "spaced_letters": 1,
+      "body_size": 14.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "18.0": 22,
+        "24.0": 31,
+        "36.0": 25,
+        "38.0": 1,
+        "43.0": 1
+      },
+      "front_matter_lines": 52,
+      "not_sinhala": 1,
+      "too_short": 5,
+      "items_out": 1567,
+      "chars_out": 192885
+    },
+    "sinhala_g8_si": {
+      "skipped_pages": [
+        2,
+        3,
+        6,
+        7,
+        9
+      ],
+      "skipped_page": 122,
+      "header_footer": 199,
+      "diagram_block": 1099,
+      "repeated_line": 6,
+      "footer": 1,
+      "spaced_letters": 2,
+      "small_font_label": 33,
+      "duplicate_line": 28,
+      "label_in_image": 6,
+      "caption": 1,
+      "body_size": 12.0,
+      "chapter_min_size": null,
+      "chapter_detection": "number",
+      "heading_sizes": {
+        "14.0": 103,
+        "15.0": 1,
+        "16.0": 2,
+        "16.9": 2,
+        "17.9": 1,
+        "18.0": 29,
+        "18.7": 1,
+        "19.0": 1,
+        "19.9": 7,
+        "20.0": 4,
+        "24.0": 27,
+        "30.0": 8,
+        "36.0": 24,
+        "38.0": 1,
+        "42.0": 1,
+        "50.0": 2
+      },
+      "front_matter_lines": 20,
+      "duplicate_heading": 1,
+      "too_short": 8,
+      "not_sinhala": 5,
+      "items_out": 1835,
+      "chars_out": 202531
+    }
+  },
+  "replay_collection": {
+    "wikipedia_si": {
+      "repo": "wikimedia/wikipedia",
+      "files": "20231101.si/*.parquet",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "seen": 3665,
+      "too_short": 992,
+      "few_sentences": 680,
+      "language": 324,
+      "repeated_lines": 6,
+      "short_lines": 3,
+      "boilerplate": 1,
+      "link_heavy": 1,
+      "exam_material": 1,
+      "kept": 1671,
+      "tokens": 4600806
+    },
+    "fineweb2_si": {
+      "repo": "HuggingFaceFW/fineweb-2",
+      "files": "data/sin_Sinh/train/*.parquet",
+      "license": "ODC-By 1.0",
+      "seen": 3600,
+      "few_sentences": 273,
+      "boilerplate": 3,
+      "language": 87,
+      "exam_material": 6,
+      "short_lines": 1,
+      "repeated_lines": 1,
+      "kept": 3141,
+      "tokens": 5751006
+    },
+    "fineweb_edu_en": {
+      "repo": "HuggingFaceFW/fineweb-edu",
+      "files": "sample/10BT/*.parquet",
+      "license": "ODC-By 1.0",
+      "seen": 4400,
+      "few_sentences": 221,
+      "boilerplate": 27,
+      "exam_material": 2,
+      "language": 1,
+      "link_heavy": 1,
+      "kept": 3822,
+      "tokens": 3450019
+    }
+  },
+  "dedup_decontamination": {
+    "threshold": 0.8,
+    "ngram": 13,
+    "test_questions": 4089,
+    "sources": {
+      "textbook": {
+        "in": 3060,
+        "exact_dup": 0,
+        "near_dup": 0,
+        "contaminated": 5,
+        "contaminated_ids": [
+          "catholic_g8_si/ch10/s02",
+          "catholic_g8_si/ch14/s01",
+          "christianism_g8_si/ch08/s02",
+          "civic_g8_si/ch03/s02",
+          "drama_g6_p2_si/ch00/s22"
+        ],
+        "out": 3060,
+        "tokens_out": 3512497
+      },
+      "wikipedia_si": {
+        "in": 1671,
+        "exact_dup": 1,
+        "near_dup": 10,
+        "contaminated": 0,
+        "contaminated_ids": [],
+        "out": 1660,
+        "tokens_out": 4578205
+      },
+      "fineweb2_si": {
+        "in": 3141,
+        "exact_dup": 0,
+        "near_dup": 0,
+        "contaminated": 0,
+        "contaminated_ids": [],
+        "out": 3141,
+        "tokens_out": 5751006
+      },
+      "fineweb_edu_en": {
+        "in": 3822,
+        "exact_dup": 0,
+        "near_dup": 2,
+        "contaminated": 0,
+        "contaminated_ids": [],
+        "out": 3820,
+        "tokens_out": 3449211
+      }
+    }
+  },
+  "closed_api_use": "none (edit this if a closed model/API was used for OCR or data building - it must be disclosed)"
+}

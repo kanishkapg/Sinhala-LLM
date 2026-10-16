@@ -1,0 +1,49 @@
+{
+  "threshold": 0.8,
+  "ngram": 13,
+  "test_questions": 4089,
+  "sources": {
+    "textbook": {
+      "in": 3060,
+      "exact_dup": 0,
+      "near_dup": 0,
+      "contaminated": 5,
+      "contaminated_ids": [
+        "catholic_g8_si/ch10/s02",
+        "catholic_g8_si/ch14/s01",
+        "christianism_g8_si/ch08/s02",
+        "civic_g8_si/ch03/s02",
+        "drama_g6_p2_si/ch00/s22"
+      ],
+      "out": 3060,
+      "tokens_out": 3512497
+    },
+    "wikipedia_si": {
+      "in": 1671,
+      "exact_dup": 1,
+      "near_dup": 10,
+      "contaminated": 0,
+      "contaminated_ids": [],
+      "out": 1660,
+      "tokens_out": 4578205
+    },
+    "fineweb2_si": {
+      "in": 3141,
+      "exact_dup": 0,
+      "near_dup": 0,
+      "contaminated": 0,
+      "contaminated_ids": [],
+      "out": 3141,
+      "tokens_out": 5751006
+    },
+    "fineweb_edu_en": {
+      "in": 3822,
+      "exact_dup": 0,
+      "near_dup": 2,
+      "contaminated": 0,
+      "contaminated_ids": [],
+      "out": 3820,
+      "tokens_out": 3449211
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_doc": "Replay sources for s07_replay.py. 'tokens' = default Qwen3.5 tokens to collect; the level's replay_tokens in mixture.json override it (s07 collects 15% extra to cover dedup/decontamination losses; s09 then takes the exact mixture). Only the listed parquet files are read, and only random row groups of them, so nothing large is downloaded. Set enabled=false to skip a source. Licences: re-check each dataset card before use.",
+  "_doc": "Replay sources for s07_replay.py. 'tokens' = default Qwen3.5 tokens to collect; the level's replay_tokens in mixture.json override it (s07 collects 15% extra to cover dedup/decontamination losses; s09 then takes the exact mixture). Only the listed parquet files are read, and only random row groups of them, so nothing large is downloaded. Set enabled=false to skip a source. restore_zwj=true puts back the ZWJ of ප්‍ර / ත්‍ය for sources that stripped it (FineWeb-2 has none; the textbooks and the test use it). Licences: re-check each dataset card before use.",
   "sources": [
     {
       "name": "wikipedia_si", "enabled": true, "lang": "si", "tokens": 4000000,
@@ -8,7 +8,7 @@
       "license": "CC BY-SA 3.0 / GFDL"
     },
     {
-      "name": "fineweb2_si", "enabled": true, "lang": "si", "tokens": 5000000,
+      "name": "fineweb2_si", "enabled": true, "lang": "si", "tokens": 5000000, "restore_zwj": true,
       "repo": "HuggingFaceFW/fineweb-2", "files": "data/sin_Sinh/train/*.parquet",
       "text": "text", "url": "url",
       "license": "ODC-By 1.0"

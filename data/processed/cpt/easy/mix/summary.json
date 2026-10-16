@@ -1,0 +1,62 @@
+{
+  "train": {
+    "textbook": {
+      "tokens": 10880733,
+      "share": 0.475
+    },
+    "fineweb2_si": {
+      "tokens": 5001545,
+      "share": 0.219
+    },
+    "wikipedia_si": {
+      "tokens": 4001040,
+      "share": 0.175
+    },
+    "fineweb_edu_en": {
+      "tokens": 3000176,
+      "share": 0.131
+    },
+    "_total_tokens": 22883494
+  },
+  "val": {
+    "textbook": {
+      "tokens": 133984,
+      "share": 0.627
+    },
+    "wikipedia_si": {
+      "tokens": 40282,
+      "share": 0.189
+    },
+    "fineweb2_si": {
+      "tokens": 23398,
+      "share": 0.11
+    },
+    "fineweb_edu_en": {
+      "tokens": 15857,
+      "share": 0.074
+    },
+    "_total_tokens": 213521
+  },
+  "val_chapters": [
+    "buddhism_g8_si/ch08",
+    "buddhism_g8_si/ch15",
+    "catholic_g6_si/ch14",
+    "catholic_g7_si/ch16",
+    "christianism_g7_si/ch12",
+    "christianism_g8_si/ch05",
+    "civic_g6_si/ch02",
+    "dancing_g7_si/ch07",
+    "drama_g7_p1_si/ch00",
+    "geo_g7_si/ch05",
+    "health_g6_si/ch08",
+    "history_g8_si/ch04",
+    "islam_g6_si/ch06",
+    "islam_g8_si/ch11",
+    "islam_g8_si/ch22",
+    "music_g7_si/ch09",
+    "science_g6_si/ch01",
+    "sinhala_g6_si/ch06",
+    "sinhala_g8_si/ch03"
+  ],
+  "textbook_epochs": 3
+}
