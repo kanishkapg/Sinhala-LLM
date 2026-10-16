@@ -253,7 +253,6 @@
 {"kind": "p", "page": 16, "text": "• දෙවනුව විවිධ පරාසයන්ට අනුව කීමේ දී විවිධ හැඟීම් දනවන ආකාරයට කියන්න.", "extraction": "fm_convert"}
 {"kind": "p", "page": 16, "text": "1. ”කැත්තක් අරගෙන වත්තට යනකොට පෙත්තෙක් ඉඳ ගෙන කජු කනවා ලංසි පැටව් මූදු යන්න නැවක් හදනවා තකදොං නැවක් හදනවා”", "extraction": "fm_convert"}
 {"kind": "p", "page": 16, "text": "2. ”අම්මේ... මට බෑ අද ඉස්කෝලෙ යන්න. ටීචර් කිව්ව චක්කරේ පාඩම් නැත්නම් පන්තියෙන් එළියට දානව කියලා.”", "extraction": "fm_convert"}
-{"kind": "p", "page": 16, "text": "3. ”සුදු රට කජු, කළු රට කජු, රතු රට කජු, රජ රට රට කජු”", "extraction": "fm_convert"}
 {"kind": "p", "page": 17, "text": "පහත දැක්වෙන වචන විවිධ හැඟීම්වලින් (ආදරය, දුක, කෝපය, සතුට, තරහ, ලැජ්ජාව) හා විවිධ අදහස් ප්‍රකාශවන පරිදි (ධනාත්මක, ඍණාත්මක, උපහාසාත්මක, ප්‍රශ්නාර්ථයෙන්, පුදුමයෙන්, රහසින්, දුර සිටින කෙනෙකුට... ) ඉදිරිපත් කරන්න. එහි දී ආංගික හා සාත්ත්වික අභිනයන් ද දැක්විය හැකි ය.", "extraction": "fm_convert"}
 {"kind": "p", "page": 17, "text": "1. අර තියෙන්නෙ දොර.", "extraction": "fm_convert"}
 {"kind": "p", "page": 17, "text": "2. එයාට පුළුවන්.", "extraction": "fm_convert"}
@@ -312,7 +311,7 @@
 {"kind": "p", "page": 19, "text": "(49) වන කවිය ඇඟ වැසුමෙන් නිසි ඇඳුම් අඳින්නේ බඩ පෙනුමෙන් රෙදි ඇඳ නොම ගන්නේ හිස වැසුමෙන් කිසි තැන නොවදින්නේ සුදුසු තැනින් නිසි ලෙස පලයන්නේ පැවරුම - ”සිරිත් මල්දම” ග්‍රන්ථයෙන් තෝරා ගත් කාව්‍ය තේමා කර ගනිමින් නාට්‍යයක් නිර්මාණය කර දිරිපත් කරන්න.", "extraction": "fm_convert"}
 {"kind": "h2", "page": 20, "text": "I කොටස", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "නම : ______ පන්තිය: ______ අංකය : ______", "extraction": "fm_convert"}
-{"kind": "h2", "page": 20, "text": " ප්‍රශ්න සියල්ලටම පිළිතුරු සපයන්න", "extraction": "fm_convert"}
+{"kind": "h2", "page": 20, "text": "• ප්‍රශ්න සියල්ලටම පිළිතුරු සපයන්න", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "01. යම් කිසි චරිතයක් ඒ අයුරින් ම නිරූපණය කිරීම හඳුන්වනු ලබන්නේ,", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "(1) අනුකරණය නමිනි.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "(2) එසැණ නිරූපන නමිනි.", "extraction": "fm_convert"}
@@ -326,20 +325,21 @@
 {"kind": "p", "page": 20, "text": "03. ස්වභාවික පරිසරයට අයත් වේ.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "04. අධි මානෂ චරිතයකි.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "05. පුද්ගල චරිත නිරූපණයේ දී හමුදා සෙබළාගේ චරිතය සඳහා භාවිත කළ හැකි මෙවලම කි.", "extraction": "fm_convert"}
-{"kind": "p", "page": 20, "text": " අංක 6 සිට 10 දක්වා ගැළපෙන පිළිතුර තෝරා යා කරන්න.", "extraction": "fm_convert"}
+{"kind": "p", "page": 20, "text": "• අංක 6 සිට 10 දක්වා ගැළපෙන පිළිතුර තෝරා යා කරන්න.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "A නරි බැණා", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "06. රජතුමා B බූමිකා", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "07. ”පුංචි අපට දැන් තේරෙයි”", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "C සිද්ධි", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "08. ජනකතා D කඩුව", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "09. චරිත E අමර", "extraction": "fm_convert"}
-{"kind": "p", "page": 20, "text": "10. කතාන්දරය F කුකුළ් හාමි  අංක 11 සිට 15 දක්වා ප්‍රකාශ නිවැරදි නම් ( √ ) ලකුණ ද වැරදි නම් ( X ) ලකුණ ද යොදන්න.", "extraction": "fm_convert"}
+{"kind": "p", "page": 20, "text": "10. කතාන්දරය F කුකුළ් හාමි", "extraction": "fm_convert"}
+{"kind": "p", "page": 20, "text": "• අංක 11 සිට 15 දක්වා ප්‍රකාශ නිවැරදි නම් ( √ ) ලකුණ ද වැරදි නම් ( X ) ලකුණ ද යොදන්න.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "11. ජනකතාවල ගැමි වහර භාවිතා කරයි. ( ______ )", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "12. කතාන්දරයක නාට්‍යෝචිත අවස්ථා දක්නට ලැබේ.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "13. පියාඹන සමනලයා අපට අනුකරණය කළ හැකි ය.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "14. දෛනික සිදුවීම් ක්ෂණික නිරූපණ ලෙස ඉදිරිපත් කළ හැකි ය.", "extraction": "fm_convert"}
 {"kind": "p", "page": 20, "text": "15. නාට්‍ය නිර්මාණය සඳහා පරිකල්පන ශක්තිය අවශ්‍ය නොවේ.", "extraction": "fm_convert"}
-{"kind": "p", "page": 21, "text": " වරහන් තුළ දී ඇති වචන තෝරා හිස්තැන් පුරවන්න.", "extraction": "fm_convert"}
+{"kind": "p", "page": 21, "text": "• වරහන් තුළ දී ඇති වචන තෝරා හිස්තැන් පුරවන්න.", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "11. රංගනයේ දී උපයෝගී කරගන්නා භාණ්ඩ ______ නමින් හඳුන්වයි.", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "12. නාට්‍යයේ මාධ්‍ය ______ ය යි.", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "13. ‘පුංචි අපට දැන් තේරෙයි’ නාට්‍යය නිර්මාණය කරන ලද්දේ ______ විසිනි.", "extraction": "fm_convert"}
@@ -348,7 +348,7 @@
 {"kind": "p", "page": 21, "text": "( රංග විධාන, අභිනය, නාට්‍යෝපකරණ, සංවාද, සෝමලතා සුබසිංහ මහත්මිය, කිෂණික නිරූපණ )", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "(ලකුණු 1x20 = 20)", "extraction": "fm_convert"}
 {"kind": "h2", "page": 21, "text": "II කොටස", "extraction": "fm_convert"}
-{"kind": "p", "page": 21, "text": " පළමු ප්‍රශ්නය ඇතුළුව ප්‍රශ්න තුනකට පිළිතුරු සපයන්න.", "extraction": "fm_convert"}
+{"kind": "p", "page": 21, "text": "• පළමු ප්‍රශ්නය ඇතුළුව ප්‍රශ්න තුනකට පිළිතුරු සපයන්න.", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "01. i) ඔබ උගත් ජනකතා දෙකක් නම් කරන්න. (ල. 2) ii) ජනකතාවල ලක්ෂණ තුනක් ලියන්න. (ල. 3) iii) පහත දැක්වෙන එක් ජනකතාවක් තෝරාගෙන එය ප්‍රතිනිර්මාණය කරන්න. (ල. 5)", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "a) තොප්පි වෙළෙන්දා", "extraction": "fm_convert"}
 {"kind": "p", "page": 21, "text": "b) අහස කඩා වැටීම", "extraction": "fm_convert"}

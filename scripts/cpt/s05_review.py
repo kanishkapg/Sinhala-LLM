@@ -15,6 +15,7 @@ Sub-commands (run from the repo root):
 Acceptance per book: >= 95 % of samples "OK" and no wrong form repeated in 2+ samples.
 """
 import argparse
+import bisect
 import collections
 import csv
 import json
@@ -28,7 +29,7 @@ COMMON = ROOT / "data" / "processed" / "cpt" / "common"
 MALFORMED = re.compile(r"(?:^|[\s(\"'“‘])[්ා-ෟෲෳංඃ]"   # sign at word start
                        r"|[ා-ෟෲෳ]{2,}"                               # two vowel signs
                        r"|්[්ා-ෟ]")                                  # hal + sign
-OK_CHARS = set(" \u200D0123456789.,:;?!()-/%'\"=+*×÷–—‘’“”[]•…_<>#\n")
+OK_CHARS = set(" \u200D0123456789.,:;?!()-/%'\"=+*×÷–—‘’“”[]•…_<>#\n" "√Ωµ°″²³→←↑↓»{}^")   # 2nd part: real symbols seen in the books
 WORD = re.compile(r"[\u0D80-\u0DFF\u200D]+")
 
 
@@ -86,9 +87,8 @@ def cmd_auto(args):
     for bid, ss in per_book.items():
         for key in ("malformed_per_1k", "odd_chars", "oov_rate"):
             vals = sorted(x[key] or 0 for x in ss)
-            rank = {v: i / max(len(vals) - 1, 1) for i, v in enumerate(vals)}
-            for x in ss:
-                x[f"r_{key}"] = rank[x[key] or 0]
+            for x in ss:                   # share of the book's paragraphs that score lower (ties -> lowest rank)
+                x[f"r_{key}"] = round(bisect.bisect_left(vals, x[key] or 0) / max(len(vals) - 1, 1), 3)
         for x in ss:
             x["badness"] = round(max(x["r_malformed_per_1k"], x["r_odd_chars"], x["r_oov_rate"]) +
                                  (1 if x["malformed_per_1k"] > 1 else 0) + (1 if x["odd_chars"] else 0), 3)

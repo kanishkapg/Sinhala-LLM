@@ -42,14 +42,16 @@
       53
     ],
     "skipped_page": 220,
+    "notation_noise": 3,
     "caption": 1,
     "body_size": null,
     "chapter_min_size": null,
     "chapter_detection": "none",
     "heading_sizes": {},
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
-    "items_out": 148,
-    "chars_out": 41616
+    "notation_noise_paragraph": 1,
+    "items_out": 146,
+    "chars_out": 41370
   },
   "art_g8_si": {
     "skipped_pages": [
@@ -65,13 +67,15 @@
       26
     ],
     "skipped_page": 210,
+    "spaced_letters": 1,
+    "notation_noise": 1,
     "body_size": null,
     "chapter_min_size": null,
     "chapter_detection": "none",
     "heading_sizes": {},
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "items_out": 55,
-    "chars_out": 14198
+    "chars_out": 14089
   },
   "buddhism_g6_si": {
     "skipped_pages": [
@@ -97,7 +101,7 @@
     },
     "warning": "first chapter found on page 23: the text before it is kept as chapter 0; add the missed chapter pages to chapter_pages in the config",
     "items_out": 725,
-    "chars_out": 109428
+    "chars_out": 109425
   },
   "buddhism_g7_si": {
     "skipped_pages": [
@@ -160,7 +164,7 @@
     "front_matter_lines": 26,
     "not_sinhala": 3,
     "items_out": 1049,
-    "chars_out": 207141
+    "chars_out": 207140
   },
   "catholic_g6_si": {
     "skipped_pages": [
@@ -178,6 +182,7 @@
     "caption": 70,
     "small_font_label": 40,
     "label_in_image": 232,
+    "spaced_letters": 1,
     "repeated_line": 19,
     "duplicate_line": 24,
     "body_size": 14.0,
@@ -191,7 +196,7 @@
     "duplicate_heading": 1,
     "too_short": 49,
     "items_out": 909,
-    "chars_out": 93608
+    "chars_out": 93562
   },
   "catholic_g7_si": {
     "skipped_pages": [],
@@ -210,7 +215,7 @@
     },
     "front_matter_lines": 0,
     "items_out": 865,
-    "chars_out": 95024
+    "chars_out": 95022
   },
   "catholic_g8_si": {
     "skipped_pages": [
@@ -243,7 +248,7 @@
     "front_matter_lines": 60,
     "too_short": 5,
     "items_out": 738,
-    "chars_out": 101045
+    "chars_out": 101041
   },
   "christianism_g6_si": {
     "skipped_pages": [
@@ -259,6 +264,7 @@
     "duplicate_line": 3,
     "label_in_image": 199,
     "small_font_label": 70,
+    "spaced_letters": 2,
     "caption": 20,
     "repeated_line": 16,
     "body_size": 14.0,
@@ -279,7 +285,7 @@
     "front_matter_lines": 3,
     "too_short": 1,
     "items_out": 702,
-    "chars_out": 98608
+    "chars_out": 98508
   },
   "christianism_g7_si": {
     "skipped_pages": [
@@ -293,6 +299,7 @@
     "header_footer": 87,
     "diagram_block": 39,
     "small_font_label": 12,
+    "spaced_letters": 6,
     "label_in_image": 22,
     "repeated_line": 5,
     "body_size": 14.0,
@@ -316,7 +323,7 @@
     "too_short": 8,
     "not_sinhala": 1,
     "items_out": 768,
-    "chars_out": 88211
+    "chars_out": 88034
   },
   "christianism_g8_si": {
     "skipped_pages": [
@@ -330,9 +337,10 @@
     "skipped_page": 90,
     "header_footer": 115,
     "small_font_label": 9,
-    "label_in_image": 29,
+    "label_in_image": 28,
     "caption": 27,
     "duplicate_line": 3,
+    "spaced_letters": 1,
     "body_size": 12.0,
     "chapter_min_size": null,
     "chapter_detection": "number",
@@ -348,7 +356,7 @@
     "front_matter_lines": 22,
     "not_sinhala": 1,
     "items_out": 1020,
-    "chars_out": 144083
+    "chars_out": 144076
   },
   "civic_g6_si": {
     "skipped_pages": [
@@ -381,8 +389,8 @@
     "duplicate_heading": 13,
     "too_short": 18,
     "not_sinhala": 15,
-    "items_out": 925,
-    "chars_out": 89472
+    "items_out": 927,
+    "chars_out": 89470
   },
   "civic_g7_si": {
     "skipped_pages": [
@@ -444,8 +452,8 @@
     "duplicate_heading": 5,
     "not_sinhala": 27,
     "too_short": 3,
-    "items_out": 1394,
-    "chars_out": 150339
+    "items_out": 1398,
+    "chars_out": 150327
   },
   "dancing_g6_si": {
     "skipped_pages": [
@@ -478,7 +486,7 @@
     "too_short": 7,
     "not_sinhala": 1,
     "items_out": 485,
-    "chars_out": 72569
+    "chars_out": 72568
   },
   "dancing_g7_si": {
     "skipped_pages": [
@@ -498,6 +506,7 @@
     "repeated_line": 162,
     "small_font_label": 364,
     "duplicate_line": 19,
+    "notation_noise": 3,
     "body_size": 12.0,
     "chapter_min_size": null,
     "chapter_detection": "number",
@@ -510,8 +519,8 @@
     "duplicate_heading": 1,
     "too_short": 5,
     "not_sinhala": 2,
-    "items_out": 343,
-    "chars_out": 53445
+    "items_out": 341,
+    "chars_out": 53174
   },
   "dancing_g8_si": {
     "skipped_pages": [
@@ -530,7 +539,8 @@
     "repeated_line": 255,
     "duplicate_line": 25,
     "header_footer": 162,
-    "small_font_label": 12,
+    "small_font_label": 10,
+    "spaced_letters": 14,
     "body_size": 12.0,
     "chapter_min_size": null,
     "chapter_detection": "number",
@@ -543,7 +553,7 @@
     "not_sinhala": 6,
     "too_short": 4,
     "items_out": 517,
-    "chars_out": 57601
+    "chars_out": 57238
   },
   "drama_g6_p1_si": {
     "skipped_pages": [
@@ -563,8 +573,8 @@
     },
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "not_sinhala": 2,
-    "items_out": 356,
-    "chars_out": 51456
+    "items_out": 357,
+    "chars_out": 51454
   },
   "drama_g6_p2_si": {
     "skipped_pages": [
@@ -574,6 +584,7 @@
     "header_footer": 47,
     "diagram_block": 59,
     "repeated_line": 7,
+    "spaced_letters": 1,
     "small_font_label": 5,
     "body_size": 12.0,
     "chapter_min_size": null,
@@ -584,7 +595,7 @@
     },
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "items_out": 366,
-    "chars_out": 41349
+    "chars_out": 41294
   },
   "drama_g7_p1_si": {
     "skipped_pages": [
@@ -604,8 +615,8 @@
     },
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "not_sinhala": 1,
-    "items_out": 356,
-    "chars_out": 32317
+    "items_out": 359,
+    "chars_out": 32314
   },
   "drama_g7_p2_si": {
     "skipped_pages": [
@@ -644,8 +655,8 @@
     },
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "not_sinhala": 1,
-    "items_out": 462,
-    "chars_out": 72591
+    "items_out": 459,
+    "chars_out": 72571
   },
   "drama_g8_p2_si": {
     "skipped_pages": [
@@ -654,6 +665,7 @@
     "skipped_page": 28,
     "header_footer": 61,
     "repeated_line": 97,
+    "spaced_letters": 1,
     "diagram_block": 66,
     "body_size": 12.0,
     "chapter_min_size": null,
@@ -663,7 +675,7 @@
     },
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
     "items_out": 411,
-    "chars_out": 53241
+    "chars_out": 53166
   },
   "geo_g6_si": {
     "skipped_pages": [
@@ -699,7 +711,7 @@
     "too_short": 15,
     "not_sinhala": 16,
     "items_out": 354,
-    "chars_out": 29415
+    "chars_out": 29413
   },
   "geo_g7_si": {
     "skipped_pages": [
@@ -812,7 +824,7 @@
     "not_sinhala": 59,
     "too_short": 4,
     "items_out": 1194,
-    "chars_out": 124424
+    "chars_out": 124422
   },
   "health_g7_si": {
     "skipped_pages": [
@@ -847,7 +859,7 @@
     "not_sinhala": 8,
     "too_short": 1,
     "items_out": 1390,
-    "chars_out": 145451
+    "chars_out": 145439
   },
   "health_g8_si": {
     "skipped_pages": [
@@ -867,16 +879,17 @@
     "skipped_page": 339,
     "footer": 1,
     "caption": 122,
+    "notation_noise": 13,
+    "spaced_letters": 2,
     "duplicate_line": 2,
     "body_size": null,
     "chapter_min_size": null,
     "chapter_detection": "none",
     "heading_sizes": {},
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
-    "not_sinhala": 1,
     "too_short": 2,
-    "items_out": 1106,
-    "chars_out": 168924
+    "items_out": 1104,
+    "chars_out": 168553
   },
   "history_g6_si": {
     "skipped_pages": [
@@ -899,6 +912,7 @@
     "caption": 24,
     "small_font_label": 68,
     "repeated_line": 7,
+    "spaced_letters": 1,
     "body_size": 14.0,
     "chapter_min_size": 25.0,
     "chapter_detection": "size",
@@ -907,8 +921,8 @@
       "31.3": 1
     },
     "front_matter_lines": 4,
-    "items_out": 415,
-    "chars_out": 71823
+    "items_out": 414,
+    "chars_out": 71786
   },
   "history_g7_si": {
     "skipped_pages": [
@@ -939,7 +953,7 @@
     },
     "front_matter_lines": 19,
     "items_out": 544,
-    "chars_out": 87831
+    "chars_out": 87827
   },
   "history_g8_si": {
     "skipped_pages": [
@@ -1006,7 +1020,7 @@
     "front_matter_lines": 42,
     "not_sinhala": 4,
     "items_out": 796,
-    "chars_out": 111167
+    "chars_out": 111157
   },
   "islam_g7_si": {
     "skipped_pages": [
@@ -1040,7 +1054,7 @@
     "too_short": 28,
     "not_sinhala": 1,
     "items_out": 831,
-    "chars_out": 122305
+    "chars_out": 122299
   },
   "islam_g8_si": {
     "skipped_pages": [
@@ -1059,6 +1073,7 @@
     "header_footer": 29,
     "small_font_label": 2,
     "label_in_image": 304,
+    "spaced_letters": 1,
     "duplicate_line": 1,
     "body_size": 12.0,
     "chapter_min_size": 25.0,
@@ -1074,8 +1089,8 @@
     },
     "front_matter_lines": 0,
     "too_short": 99,
-    "items_out": 985,
-    "chars_out": 147939
+    "items_out": 984,
+    "chars_out": 147871
   },
   "music_g6_si": {
     "skipped_pages": [
@@ -1092,8 +1107,11 @@
     "header_footer": 60,
     "label_in_image": 13,
     "caption": 1,
-    "duplicate_line": 154,
+    "notation_noise": 86,
+    "duplicate_line": 159,
     "repeated_line": 23,
+    "spaced_letters": 1,
+    "fm_in_latin_font": 16,
     "small_font_label": 21,
     "body_size": 12.0,
     "chapter_min_size": 24.0,
@@ -1103,16 +1121,17 @@
       "15.8": 6,
       "16.0": 1,
       "18.0": 16,
-      "20.0": 2,
-      "24.0": 39,
+      "20.0": 1,
+      "24.0": 38,
       "28.0": 14
     },
     "warning": "first chapter found on page 28: the text before it is kept as chapter 0; add the missed chapter pages to chapter_pages in the config",
     "duplicate_heading": 9,
-    "too_short": 57,
-    "not_sinhala": 30,
-    "items_out": 463,
-    "chars_out": 65910
+    "too_short": 59,
+    "notation_noise_paragraph": 3,
+    "not_sinhala": 31,
+    "items_out": 455,
+    "chars_out": 61630
   },
   "music_g7_si": {
     "skipped_pages": [
@@ -1126,6 +1145,7 @@
     ],
     "skipped_page": 173,
     "diagram_block": 533,
+    "spaced_letters": 15,
     "label_in_image": 12,
     "header_footer": 70,
     "repeated_line": 6,
@@ -1148,8 +1168,8 @@
     "duplicate_heading": 1,
     "too_short": 20,
     "not_sinhala": 15,
-    "items_out": 241,
-    "chars_out": 36816
+    "items_out": 274,
+    "chars_out": 36265
   },
   "music_g8_si": {
     "skipped_pages": [
@@ -1164,16 +1184,19 @@
       78
     ],
     "skipped_page": 196,
+    "spaced_letters": 138,
+    "notation_noise": 336,
+    "duplicate_line": 4,
     "repeated_line": 72,
-    "duplicate_line": 1,
     "body_size": null,
     "chapter_min_size": null,
     "chapter_detection": "none",
     "heading_sizes": {},
     "warning": "no chapters found (OCR'd book?): the whole book is one chapter; set chapter_pages",
+    "notation_noise_paragraph": 8,
     "too_short": 1,
-    "items_out": 355,
-    "chars_out": 95251
+    "items_out": 330,
+    "chars_out": 74957
   },
   "science_g6_si": {
     "skipped_pages": [
@@ -1209,7 +1232,7 @@
     "not_sinhala": 16,
     "too_short": 7,
     "items_out": 1254,
-    "chars_out": 137753
+    "chars_out": 137752
   },
   "science_g7_p1_si": {
     "skipped_pages": [
@@ -1247,7 +1270,7 @@
     "not_sinhala": 10,
     "too_short": 2,
     "items_out": 1167,
-    "chars_out": 118590
+    "chars_out": 118583
   },
   "science_g7_p2_si": {
     "skipped_pages": [
@@ -1288,7 +1311,7 @@
     "too_short": 5,
     "not_sinhala": 16,
     "items_out": 935,
-    "chars_out": 101858
+    "chars_out": 101819
   },
   "science_g8_p1_si": {
     "skipped_pages": [
@@ -1309,6 +1332,7 @@
     "duplicate_line": 3,
     "caption": 33,
     "label_in_image": 15,
+    "spaced_letters": 1,
     "body_size": 12.0,
     "chapter_min_size": null,
     "chapter_detection": "number",
@@ -1329,8 +1353,8 @@
     "duplicate_heading": 2,
     "not_sinhala": 52,
     "too_short": 3,
-    "items_out": 1124,
-    "chars_out": 131516
+    "items_out": 1123,
+    "chars_out": 131461
   },
   "science_g8_p2_si": {
     "skipped_pages": [
@@ -1373,7 +1397,7 @@
     "too_short": 12,
     "not_sinhala": 42,
     "items_out": 1404,
-    "chars_out": 148649
+    "chars_out": 148615
   },
   "sinhala_g6_si": {
     "skipped_pages": [
@@ -1383,7 +1407,7 @@
     ],
     "header_footer": 151,
     "skipped_page": 81,
-    "diagram_block": 1135,
+    "diagram_block": 1126,
     "label_in_image": 137,
     "repeated_line": 28,
     "footer": 142,
@@ -1404,7 +1428,7 @@
     "too_short": 3,
     "not_sinhala": 1,
     "items_out": 1121,
-    "chars_out": 145360
+    "chars_out": 145447
   },
   "sinhala_g7_si": {
     "skipped_pages": [
@@ -1424,6 +1448,7 @@
     "duplicate_line": 16,
     "small_font_label": 21,
     "label_in_image": 2,
+    "spaced_letters": 1,
     "body_size": 14.0,
     "chapter_min_size": null,
     "chapter_detection": "number",
@@ -1438,7 +1463,7 @@
     "not_sinhala": 1,
     "too_short": 5,
     "items_out": 1567,
-    "chars_out": 192962
+    "chars_out": 192885
   },
   "sinhala_g8_si": {
     "skipped_pages": [
@@ -1450,9 +1475,10 @@
     ],
     "skipped_page": 122,
     "header_footer": 199,
-    "diagram_block": 1112,
+    "diagram_block": 1099,
     "repeated_line": 6,
     "footer": 1,
+    "spaced_letters": 2,
     "small_font_label": 33,
     "duplicate_line": 28,
     "label_in_image": 6,
@@ -1479,10 +1505,10 @@
       "50.0": 2
     },
     "front_matter_lines": 20,
-    "duplicate_heading": 7,
+    "duplicate_heading": 1,
     "too_short": 8,
     "not_sinhala": 5,
-    "items_out": 1874,
-    "chars_out": 202327
+    "items_out": 1835,
+    "chars_out": 202531
   }
 }

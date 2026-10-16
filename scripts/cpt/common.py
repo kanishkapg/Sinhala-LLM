@@ -140,6 +140,38 @@ def normalize(text: str) -> str:
     return text.strip()
 
 
+# Textbook-only repairs (s04). Symbol-font private-use glyphs and odd quote/space characters seen in the Easy books.
+_CHAR_MAP = [("", "•"), ("", "•"), ("", "√"), ("", " "), ("²•", "•"),
+             ("ˮ", "”"), ("ʻ", "‘")]
+_SPACES = re.compile(r"[ -  ]")
+_MIDDOT_BULLET = re.compile(r"(?<!\S)·(?=\s)")
+_C = "[ක-ෆ]"                                  # Sinhala consonant
+_SIGN = "[ංඃ්-ෟෲෳ]"       # hal, vowel signs, anusvara / visarga
+_WORD_START = r"(?<![඀-෿‍])"
+_KOMBUVA = [                                             # kombuva (ෙ) left in visual order at a word start
+    (re.compile(_WORD_START + f"ෙ({_C})ෙ"), "\\1ෛ"),    # ෙසෙල   -> සෛල
+    (re.compile(_WORD_START + f"ෙ({_C})ා"), "\\1ො"),    # ෙදාර   -> දොර
+    (re.compile(_WORD_START + f"ෙ({_C})්"), "\\1ේ"),    # ෙඡ්ද   -> ඡේද
+    (re.compile(_WORD_START + f"ෙ({_C})ෟ"), "\\1ෞ"),
+    (re.compile(_WORD_START + f"ෙ({_C})(?!{_SIGN})"), "\\1ෙ"),   # ෙකටියෙන් -> කෙටියෙන්
+]
+_VISARGA_COLON = re.compile(r" ?(?<![඀-෿‍])ඃ")   # උදා ඃ-  /  පූර්ණක ඃ  -> උදා:-  /  පූර්ණක:
+_SPLIT_SIGN = re.compile(f"({_C}) +(?={_SIGN})")        # මෙන ්ම -> මෙන්ම (a sign never starts a word)
+
+
+def repair_sinhala(text: str) -> str:
+    """Fix glyph-level damage in extracted textbook text: Symbol-font bullets, stray quotes and spaces,
+    kombuva left before its consonant, and a space between a consonant and its sign. Idempotent."""
+    for a, b in _CHAR_MAP:
+        text = text.replace(a, b)
+    text = _SPACES.sub(" ", text)
+    text = _MIDDOT_BULLET.sub("•", text)
+    for rx, b in _KOMBUVA:
+        text = rx.sub(b, text)
+    text = _VISARGA_COLON.sub(":", text)
+    return _SPLIT_SIGN.sub(r"\1", text)
+
+
 def sinhala_ratio(text: str) -> float:
     """Share of Sinhala characters among letters (digits, punctuation and spaces are ignored)."""
     sin = lat = 0

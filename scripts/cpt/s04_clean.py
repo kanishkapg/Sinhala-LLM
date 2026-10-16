@@ -30,8 +30,8 @@ import collections
 import re
 import statistics
 
-from common import (CONFIG_DIR, LEVEL_GRADES, level_dir, normalize, read_json, read_jsonl, sinhala_ratio,
-                    stdout_utf8, write_json, write_jsonl)
+from common import (CONFIG_DIR, LEVEL_GRADES, level_dir, normalize, read_json, read_jsonl, repair_sinhala,
+                    sinhala_ratio, stdout_utf8, write_json, write_jsonl)
 
 # Front/back matter markers (pages near the start/end of a book that contain one are skipped).
 FRONT_MATTER = re.compile(r"ශ්\u200Dරී ලංකා මාතා|ජාතික ගීය|එක මවකගෙ|පෙරවදන|පටුන|සියලු හිමිකම්|ISBN|"
@@ -46,6 +46,25 @@ LEADER = re.compile(r"(?:[.…·]\s?){4,}|_{3,}")
 SINHALA_START = re.compile(r"[\u0D80-\u0DFF]")
 NUM_ONLY = re.compile(r"0?(\d{1,2})\s*\.?")                  # "01", "4", "4."
 NUM_TITLE = re.compile(r"0?(\d{1,2})\s*[.)]\s*([^\d\s.].*)")  # "3. title" (not "3.1 section")
+NOISE_CHARS = set("|~।॥₹£$෴")                                # music bar lines / OCR of notation and diagrams
+SINHALA_WORD = re.compile(r"[\u0D80-\u0DFF\u200D]+")
+FM_LEFTOVER = re.compile(r"[;%<'¾ßñúÈÍÿ]")
+
+
+def noise_reason(t):
+    """Lines that are not prose: music notation / OCR'd diagrams, letter-spaced text, FM codes in a Latin font."""
+    n = sum(c in NOISE_CHARS for c in t)
+    if n >= 3 and n >= 0.03 * len(t):
+        return "notation_noise"                  # | ස ස ස | රි රි රි |   ෴ස෴ි෴෴~෴෴
+    toks = t.split()
+    sin = [w for w in toks if SINHALA_WORD.fullmatch(w)]
+    if len(sin) >= 6 and sum(len(w) <= 2 for w in sin) >= 0.7 * len(sin):
+        return "spaced_letters"                  # කු ඳ තා - කු ඳ ග ජි ත   එ ක ි ෙ න ක ා ට
+    lat = [w for w in toks if re.search(r"[A-Za-z]", w)]
+    if (not sin and len(lat) >= 6 and FM_LEFTOVER.search(t)
+            and sum(len(re.sub(r"[^A-Za-z]", "", w)) <= 2 for w in lat) >= 0.6 * len(lat)):
+        return "fm_in_latin_font"                # i x. S; NdK av h k g f . j k  ñ ,
+    return None
 
 
 def page_ranges(spec):
@@ -77,6 +96,8 @@ def consecutive_run(page_to_no):
 def clean_book(records, cfg, stats):
     pages = {r["page"]: r for r in records if r["type"] == "page"}
     lines = [r for r in records if r["type"] == "line"]
+    for l in lines:
+        l["text"] = repair_sinhala(l["text"])
     n_pages = max(pages) if pages else 0
     by_page = collections.defaultdict(list)
     for l in lines:
@@ -145,6 +166,8 @@ def clean_book(records, cfg, stats):
             return None                          # big stand-alone number = chapter opener, not a page number
         if FOOTER.search(t):
             return "footer"
+        if r := noise_reason(t):
+            return r
         if in_margin(l) and (PAGE_NO.fullmatch(t) or len(margin_pages[k]) >= 3):
             return "header_footer"
         if len(any_pages[k]) > 0.3 * len(by_page) and len(t) < 80:
@@ -290,12 +313,16 @@ def clean_book(records, cfg, stats):
     # --- 6. normalise + language filter
     out = []
     for it in items:
-        it["text"] = normalize(it["text"])
+        it["text"] = normalize(repair_sinhala(it["text"]))
         if len(it["text"]) < 3:
             stats["too_short"] += 1
             continue
         if sinhala_ratio(it["text"]) < 0.5:
             stats["not_sinhala"] += 1
+            continue
+        n = sum(c in NOISE_CHARS for c in it["text"])
+        if n >= 5 and n >= 0.02 * len(it["text"]):
+            stats["notation_noise_paragraph"] += 1    # noise spread over lines that each passed the line check
             continue
         out.append(it)
     stats["items_out"] = len(out)
