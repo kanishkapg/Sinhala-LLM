@@ -1,6 +1,8 @@
 {
   "buddhism_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -8,7 +10,9 @@
     "notes": ""
   },
   "catholic_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -32,7 +36,9 @@
     "notes": ""
   },
   "geo_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      72
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -40,7 +46,9 @@
     "notes": ""
   },
   "health_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      157
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -48,7 +56,13 @@
     "notes": ""
   },
   "history_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      5,
+      8,
+      66,
+      67
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -112,7 +126,9 @@
     "notes": ""
   },
   "geo_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      83
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -120,7 +136,10 @@
     "notes": ""
   },
   "health_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      180,
+      183
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -136,7 +155,9 @@
     "notes": ""
   },
   "islam_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -208,7 +229,14 @@
     "notes": ""
   },
   "health_g8_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      5,
+      7,
+      214,
+      215,
+      216
+    ],
     "ocr": true,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -224,7 +252,10 @@
     "notes": ""
   },
   "islam_g8_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      10
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -256,7 +287,13 @@
     "notes": ""
   },
   "art_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      47
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -264,15 +301,31 @@
     "notes": ""
   },
   "dancing_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      87
+    ],
     "ocr": false,
     "ocr_pages": [],
-    "chapter_pages": {},
+    "chapter_pages": {
+      "9": 1,
+      "24": 2,
+      "52": 3,
+      "59": 4,
+      "61": 5,
+      "67": 6,
+      "81": 7
+    },
     "chapter_min_size": null,
     "notes": ""
   },
   "drama_g6_p1_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -280,7 +333,9 @@
     "notes": ""
   },
   "drama_g6_p2_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -288,7 +343,14 @@
     "notes": ""
   },
   "music_g6_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -296,7 +358,15 @@
     "notes": ""
   },
   "art_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      53
+    ],
     "ocr": true,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -304,19 +374,35 @@
     "notes": ""
   },
   "dancing_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      67
+    ],
     "ocr": false,
     "ocr_pages": [
       50,
       51,
       52
     ],
-    "chapter_pages": {},
+    "chapter_pages": {
+      "9": 1,
+      "16": 2,
+      "34": 3,
+      "40": 4,
+      "45": 5,
+      "57": 6,
+      "63": 7
+    },
     "chapter_min_size": null,
     "notes": ""
   },
   "drama_g7_p1_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -324,7 +410,9 @@
     "notes": ""
   },
   "drama_g7_p2_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -332,7 +420,14 @@
     "notes": ""
   },
   "music_g7_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -340,7 +435,16 @@
     "notes": ""
   },
   "art_g8_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8,
+      25,
+      26
+    ],
     "ocr": true,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -348,15 +452,30 @@
     "notes": ""
   },
   "dancing_g8_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5
+    ],
     "ocr": false,
     "ocr_pages": [],
-    "chapter_pages": {},
+    "chapter_pages": {
+      "9": 1,
+      "17": 2,
+      "37": 3,
+      "41": 4,
+      "45": 5,
+      "63": 6,
+      "73": 7
+    },
     "chapter_min_size": null,
     "notes": ""
   },
   "drama_g8_p1_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -364,7 +483,9 @@
     "notes": ""
   },
   "drama_g8_p2_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1
+    ],
     "ocr": false,
     "ocr_pages": [],
     "chapter_pages": {},
@@ -372,7 +493,16 @@
     "notes": ""
   },
   "music_g8_si": {
-    "skip_pages": [],
+    "skip_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      78
+    ],
     "ocr": true,
     "ocr_pages": [],
     "chapter_pages": {},
