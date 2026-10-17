@@ -1,0 +1,258 @@
+{"source_id": "art_g7_si/ch00/s12", "split": "train", "subject": "Art", "grade": 7, "role": "primary"}
+{"source_id": "art_g6_si/ch00/s01", "split": "train", "subject": "Art", "grade": 6, "role": "primary"}
+{"source_id": "art_g8_si/ch00/s01", "split": "train", "subject": "Art", "grade": 8, "role": "primary"}
+{"source_id": "art_g7_si/ch00/s10", "split": "train", "subject": "Art", "grade": 7, "role": "primary"}
+{"source_id": "art_g6_si/ch00/s16", "split": "train", "subject": "Art", "grade": 6, "role": "primary"}
+{"source_id": "art_g8_si/ch00/s02", "split": "train", "subject": "Art", "grade": 8, "role": "primary"}
+{"source_id": "art_g7_si/ch00/s07", "split": "train", "subject": "Art", "grade": 7, "role": "primary"}
+{"source_id": "art_g7_si/ch00/s02", "split": "train", "subject": "Art", "grade": 7, "role": "primary"}
+{"source_id": "art_g6_si/ch00/s17", "split": "train", "subject": "Art", "grade": 6, "role": "primary"}
+{"source_id": "art_g7_si/ch00/s19", "split": "train", "subject": "Art", "grade": 7, "role": "primary"}
+{"source_id": "art_g6_si/ch00/s05", "split": "train", "subject": "Art", "grade": 6, "role": "primary"}
+{"source_id": "art_g8_si/ch00/s05", "split": "train", "subject": "Art", "grade": 8, "role": "alternate"}
+{"source_id": "art_g7_si/ch00/s03", "split": "train", "subject": "Art", "grade": 7, "role": "alternate"}
+{"source_id": "art_g7_si/ch00/s15", "split": "train", "subject": "Art", "grade": 7, "role": "alternate"}
+{"source_id": "art_g6_si/ch00/s14", "split": "train", "subject": "Art", "grade": 6, "role": "alternate"}
+{"source_id": "buddhism_g7_si/ch04/s05", "split": "train", "subject": "Buddhism", "grade": 7, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch07/s03", "split": "train", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g6_si/ch02/s01", "split": "train", "subject": "Buddhism", "grade": 6, "role": "primary"}
+{"source_id": "buddhism_g7_si/ch03/s01", "split": "train", "subject": "Buddhism", "grade": 7, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch12/s02", "split": "train", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g6_si/ch03/s01", "split": "train", "subject": "Buddhism", "grade": 6, "role": "primary"}
+{"source_id": "buddhism_g7_si/ch13/s06", "split": "train", "subject": "Buddhism", "grade": 7, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch19/s03", "split": "train", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g6_si/ch07/s05", "split": "train", "subject": "Buddhism", "grade": 6, "role": "primary"}
+{"source_id": "buddhism_g7_si/ch12/s01", "split": "train", "subject": "Buddhism", "grade": 7, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch20/s05", "split": "train", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g6_si/ch00/s07", "split": "train", "subject": "Buddhism", "grade": 6, "role": "alternate"}
+{"source_id": "buddhism_g7_si/ch15/s02", "split": "train", "subject": "Buddhism", "grade": 7, "role": "alternate"}
+{"source_id": "buddhism_g8_si/ch01/s08", "split": "train", "subject": "Buddhism", "grade": 8, "role": "alternate"}
+{"source_id": "buddhism_g6_si/ch08/s04", "split": "train", "subject": "Buddhism", "grade": 6, "role": "alternate"}
+{"source_id": "catholic_g8_si/ch23/s02", "split": "train", "subject": "Catholicism", "grade": 8, "role": "primary"}
+{"source_id": "catholic_g7_si/ch08/s02", "split": "train", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "catholic_g6_si/ch13/s01", "split": "train", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g8_si/ch22/s01", "split": "train", "subject": "Catholicism", "grade": 8, "role": "primary"}
+{"source_id": "catholic_g7_si/ch15/s01", "split": "train", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "catholic_g6_si/ch23/s01", "split": "train", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g8_si/ch19/s01", "split": "train", "subject": "Catholicism", "grade": 8, "role": "primary"}
+{"source_id": "catholic_g7_si/ch06/s01", "split": "train", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "catholic_g6_si/ch09/s02", "split": "train", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g8_si/ch18/s03", "split": "train", "subject": "Catholicism", "grade": 8, "role": "primary"}
+{"source_id": "catholic_g7_si/ch13/s01", "split": "train", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "catholic_g6_si/ch21/s03", "split": "train", "subject": "Catholicism", "grade": 6, "role": "alternate"}
+{"source_id": "catholic_g8_si/ch06/s02", "split": "train", "subject": "Catholicism", "grade": 8, "role": "alternate"}
+{"source_id": "catholic_g7_si/ch02/s02", "split": "train", "subject": "Catholicism", "grade": 7, "role": "alternate"}
+{"source_id": "catholic_g6_si/ch10/s02", "split": "train", "subject": "Catholicism", "grade": 6, "role": "alternate"}
+{"source_id": "christianism_g6_si/ch15/s02", "split": "train", "subject": "Christianity", "grade": 6, "role": "primary"}
+{"source_id": "christianism_g7_si/ch16/s02", "split": "train", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g8_si/ch22/s04", "split": "train", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "christianism_g6_si/ch09/s02", "split": "train", "subject": "Christianity", "grade": 6, "role": "primary"}
+{"source_id": "christianism_g7_si/ch14/s01", "split": "train", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g8_si/ch03/s04", "split": "train", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "christianism_g6_si/ch14/s01", "split": "train", "subject": "Christianity", "grade": 6, "role": "primary"}
+{"source_id": "christianism_g7_si/ch07/s03", "split": "train", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g8_si/ch20/s02", "split": "train", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "christianism_g6_si/ch19/s03", "split": "train", "subject": "Christianity", "grade": 6, "role": "primary"}
+{"source_id": "christianism_g7_si/ch11/s01", "split": "train", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g8_si/ch11/s02", "split": "train", "subject": "Christianity", "grade": 8, "role": "alternate"}
+{"source_id": "christianism_g6_si/ch04/s01", "split": "train", "subject": "Christianity", "grade": 6, "role": "alternate"}
+{"source_id": "christianism_g7_si/ch03/s01", "split": "train", "subject": "Christianity", "grade": 7, "role": "alternate"}
+{"source_id": "christianism_g8_si/ch09/s01", "split": "train", "subject": "Christianity", "grade": 8, "role": "alternate"}
+{"source_id": "civic_g8_si/ch03/s13", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g6_si/ch01/s05", "split": "train", "subject": "Civics", "grade": 6, "role": "primary"}
+{"source_id": "civic_g7_si/ch02/s02", "split": "train", "subject": "Civics", "grade": 7, "role": "primary"}
+{"source_id": "civic_g8_si/ch02/s16", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g6_si/ch03/s11", "split": "train", "subject": "Civics", "grade": 6, "role": "primary"}
+{"source_id": "civic_g7_si/ch03/s21", "split": "train", "subject": "Civics", "grade": 7, "role": "primary"}
+{"source_id": "civic_g8_si/ch06/s12", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g7_si/ch01/s04", "split": "train", "subject": "Civics", "grade": 7, "role": "primary"}
+{"source_id": "civic_g8_si/ch04/s02", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g8_si/ch01/s13", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g8_si/ch05/s01", "split": "train", "subject": "Civics", "grade": 8, "role": "primary"}
+{"source_id": "civic_g6_si/ch03/s07", "split": "train", "subject": "Civics", "grade": 6, "role": "alternate"}
+{"source_id": "civic_g8_si/ch02/s12", "split": "train", "subject": "Civics", "grade": 8, "role": "alternate"}
+{"source_id": "civic_g8_si/ch06/s07", "split": "train", "subject": "Civics", "grade": 8, "role": "alternate"}
+{"source_id": "civic_g7_si/ch03/s13", "split": "train", "subject": "Civics", "grade": 7, "role": "alternate"}
+{"source_id": "dancing_g6_si/ch04/s01", "split": "train", "subject": "Dancing", "grade": 6, "role": "primary"}
+{"source_id": "dancing_g8_si/ch03/s03", "split": "train", "subject": "Dancing", "grade": 8, "role": "primary"}
+{"source_id": "dancing_g7_si/ch05/s01", "split": "train", "subject": "Dancing", "grade": 7, "role": "primary"}
+{"source_id": "dancing_g6_si/ch02/s06", "split": "train", "subject": "Dancing", "grade": 6, "role": "primary"}
+{"source_id": "dancing_g8_si/ch07/s03", "split": "train", "subject": "Dancing", "grade": 8, "role": "primary"}
+{"source_id": "dancing_g7_si/ch02/s02", "split": "train", "subject": "Dancing", "grade": 7, "role": "primary"}
+{"source_id": "dancing_g6_si/ch05/s03", "split": "train", "subject": "Dancing", "grade": 6, "role": "primary"}
+{"source_id": "dancing_g8_si/ch06/s02", "split": "train", "subject": "Dancing", "grade": 8, "role": "primary"}
+{"source_id": "dancing_g7_si/ch06/s01", "split": "train", "subject": "Dancing", "grade": 7, "role": "primary"}
+{"source_id": "dancing_g6_si/ch06/s05", "split": "train", "subject": "Dancing", "grade": 6, "role": "primary"}
+{"source_id": "dancing_g8_si/ch05/s06", "split": "train", "subject": "Dancing", "grade": 8, "role": "primary"}
+{"source_id": "dancing_g7_si/ch01/s03", "split": "train", "subject": "Dancing", "grade": 7, "role": "alternate"}
+{"source_id": "dancing_g6_si/ch07/s01", "split": "train", "subject": "Dancing", "grade": 6, "role": "alternate"}
+{"source_id": "dancing_g8_si/ch04/s02", "split": "train", "subject": "Dancing", "grade": 8, "role": "alternate"}
+{"source_id": "dancing_g7_si/ch04/s02", "split": "train", "subject": "Dancing", "grade": 7, "role": "alternate"}
+{"source_id": "drama_g8_p2_si/ch00/s04", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "primary"}
+{"source_id": "drama_g6_p1_si/ch00/s11", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "primary"}
+{"source_id": "drama_g8_p1_si/ch00/s36", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "primary"}
+{"source_id": "drama_g7_p2_si/ch00/s15", "split": "train", "subject": "Drama and Theatre", "grade": 7, "role": "primary"}
+{"source_id": "drama_g6_p2_si/ch00/s01", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "primary"}
+{"source_id": "drama_g7_p2_si/ch00/s08", "split": "train", "subject": "Drama and Theatre", "grade": 7, "role": "primary"}
+{"source_id": "drama_g8_p2_si/ch00/s28", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "primary"}
+{"source_id": "drama_g6_p1_si/ch00/s14", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "primary"}
+{"source_id": "drama_g6_p1_si/ch00/s02", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "primary"}
+{"source_id": "drama_g6_p2_si/ch00/s06", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "primary"}
+{"source_id": "drama_g8_p1_si/ch00/s19", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "primary"}
+{"source_id": "drama_g8_p2_si/ch00/s15", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "alternate"}
+{"source_id": "drama_g8_p2_si/ch00/s11", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "alternate"}
+{"source_id": "drama_g8_p2_si/ch00/s29", "split": "train", "subject": "Drama and Theatre", "grade": 8, "role": "alternate"}
+{"source_id": "drama_g6_p2_si/ch00/s12", "split": "train", "subject": "Drama and Theatre", "grade": 6, "role": "alternate"}
+{"source_id": "music_g7_si/ch08/s01", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g8_si/ch00/s07", "split": "train", "subject": "Eastern Music", "grade": 8, "role": "primary"}
+{"source_id": "music_g6_si/ch00/s28", "split": "train", "subject": "Eastern Music", "grade": 6, "role": "primary"}
+{"source_id": "music_g7_si/ch04/s01", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch05/s02", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch03/s01", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch10/s02", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch06/s01", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch02/s02", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g7_si/ch07/s03", "split": "train", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "music_g6_si/ch00/s37", "split": "train", "subject": "Eastern Music", "grade": 6, "role": "primary"}
+{"source_id": "music_g6_si/ch00/s24", "split": "train", "subject": "Eastern Music", "grade": 6, "role": "alternate"}
+{"source_id": "music_g6_si/ch00/s01", "split": "train", "subject": "Eastern Music", "grade": 6, "role": "alternate"}
+{"source_id": "music_g8_si/ch00/s17", "split": "train", "subject": "Eastern Music", "grade": 8, "role": "alternate"}
+{"source_id": "music_g8_si/ch00/s02", "split": "train", "subject": "Eastern Music", "grade": 8, "role": "alternate"}
+{"source_id": "geo_g6_si/ch02/s03", "split": "train", "subject": "Geography", "grade": 6, "role": "primary"}
+{"source_id": "geo_g7_si/ch03/s02", "split": "train", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "geo_g8_si/ch02/s02", "split": "train", "subject": "Geography", "grade": 8, "role": "primary"}
+{"source_id": "geo_g6_si/ch04/s01", "split": "train", "subject": "Geography", "grade": 6, "role": "primary"}
+{"source_id": "geo_g7_si/ch04/s10", "split": "train", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "geo_g8_si/ch03/s09", "split": "train", "subject": "Geography", "grade": 8, "role": "primary"}
+{"source_id": "geo_g6_si/ch01/s02", "split": "train", "subject": "Geography", "grade": 6, "role": "primary"}
+{"source_id": "geo_g7_si/ch02/s02", "split": "train", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "geo_g8_si/ch01/s03", "split": "train", "subject": "Geography", "grade": 8, "role": "primary"}
+{"source_id": "geo_g6_si/ch03/s04", "split": "train", "subject": "Geography", "grade": 6, "role": "primary"}
+{"source_id": "geo_g7_si/ch01/s01", "split": "train", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "geo_g8_si/ch04/s03", "split": "train", "subject": "Geography", "grade": 8, "role": "alternate"}
+{"source_id": "geo_g6_si/ch01/s07", "split": "train", "subject": "Geography", "grade": 6, "role": "alternate"}
+{"source_id": "geo_g7_si/ch04/s09", "split": "train", "subject": "Geography", "grade": 7, "role": "alternate"}
+{"source_id": "geo_g8_si/ch03/s03", "split": "train", "subject": "Geography", "grade": 8, "role": "alternate"}
+{"source_id": "health_g6_si/ch01/s03", "split": "train", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g8_si/ch00/s15", "split": "train", "subject": "Health", "grade": 8, "role": "primary"}
+{"source_id": "health_g7_si/ch11/s05", "split": "train", "subject": "Health", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch06/s01", "split": "train", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g7_si/ch01/s03", "split": "train", "subject": "Health", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch09/s10", "split": "train", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g7_si/ch05/s03", "split": "train", "subject": "Health", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch07/s01", "split": "train", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g7_si/ch07/s01", "split": "train", "subject": "Health", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch05/s02", "split": "train", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g7_si/ch15/s02", "split": "train", "subject": "Health", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch10/s05", "split": "train", "subject": "Health", "grade": 6, "role": "alternate"}
+{"source_id": "health_g7_si/ch12/s01", "split": "train", "subject": "Health", "grade": 7, "role": "alternate"}
+{"source_id": "health_g6_si/ch03/s03", "split": "train", "subject": "Health", "grade": 6, "role": "alternate"}
+{"source_id": "health_g7_si/ch13/s06", "split": "train", "subject": "Health", "grade": 7, "role": "alternate"}
+{"source_id": "history_g6_si/ch05/s14", "split": "train", "subject": "History", "grade": 6, "role": "primary"}
+{"source_id": "history_g7_si/ch02/s05", "split": "train", "subject": "History", "grade": 7, "role": "primary"}
+{"source_id": "history_g8_si/ch05/s12", "split": "train", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "history_g6_si/ch04/s01", "split": "train", "subject": "History", "grade": 6, "role": "primary"}
+{"source_id": "history_g7_si/ch03/s08", "split": "train", "subject": "History", "grade": 7, "role": "primary"}
+{"source_id": "history_g8_si/ch02/s01", "split": "train", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "history_g6_si/ch01/s04", "split": "train", "subject": "History", "grade": 6, "role": "primary"}
+{"source_id": "history_g7_si/ch04/s03", "split": "train", "subject": "History", "grade": 7, "role": "primary"}
+{"source_id": "history_g8_si/ch01/s07", "split": "train", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "history_g6_si/ch02/s03", "split": "train", "subject": "History", "grade": 6, "role": "primary"}
+{"source_id": "history_g7_si/ch05/s02", "split": "train", "subject": "History", "grade": 7, "role": "primary"}
+{"source_id": "history_g8_si/ch03/s06", "split": "train", "subject": "History", "grade": 8, "role": "alternate"}
+{"source_id": "history_g6_si/ch03/s07", "split": "train", "subject": "History", "grade": 6, "role": "alternate"}
+{"source_id": "history_g7_si/ch01/s04", "split": "train", "subject": "History", "grade": 7, "role": "alternate"}
+{"source_id": "history_g8_si/ch01/s09", "split": "train", "subject": "History", "grade": 8, "role": "alternate"}
+{"source_id": "islam_g7_si/ch12/s01", "split": "train", "subject": "Islam", "grade": 7, "role": "primary"}
+{"source_id": "islam_g6_si/ch24/s01", "split": "train", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g8_si/ch07/s03", "split": "train", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g7_si/ch11/s02", "split": "train", "subject": "Islam", "grade": 7, "role": "primary"}
+{"source_id": "islam_g6_si/ch13/s01", "split": "train", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g8_si/ch28/s01", "split": "train", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g7_si/ch04/s03", "split": "train", "subject": "Islam", "grade": 7, "role": "primary"}
+{"source_id": "islam_g6_si/ch14/s02", "split": "train", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g8_si/ch25/s01", "split": "train", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g7_si/ch08/s02", "split": "train", "subject": "Islam", "grade": 7, "role": "primary"}
+{"source_id": "islam_g6_si/ch27/s01", "split": "train", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g8_si/ch23/s04", "split": "train", "subject": "Islam", "grade": 8, "role": "alternate"}
+{"source_id": "islam_g7_si/ch14/s01", "split": "train", "subject": "Islam", "grade": 7, "role": "alternate"}
+{"source_id": "islam_g6_si/ch02/s01", "split": "train", "subject": "Islam", "grade": 6, "role": "alternate"}
+{"source_id": "islam_g8_si/ch06/s02", "split": "train", "subject": "Islam", "grade": 8, "role": "alternate"}
+{"source_id": "science_g8_p2_si/ch05/s18", "split": "train", "subject": "Science", "grade": 8, "role": "primary"}
+{"source_id": "science_g6_si/ch10/s01", "split": "train", "subject": "Science", "grade": 6, "role": "primary"}
+{"source_id": "science_g8_p1_si/ch08/s10", "split": "train", "subject": "Science", "grade": 8, "role": "primary"}
+{"source_id": "science_g7_p2_si/ch09/s03", "split": "train", "subject": "Science", "grade": 7, "role": "primary"}
+{"source_id": "science_g7_p1_si/ch07/s02", "split": "train", "subject": "Science", "grade": 7, "role": "primary"}
+{"source_id": "science_g8_p2_si/ch03/s02", "split": "train", "subject": "Science", "grade": 8, "role": "primary"}
+{"source_id": "science_g6_si/ch07/s03", "split": "train", "subject": "Science", "grade": 6, "role": "primary"}
+{"source_id": "science_g8_p1_si/ch06/s05", "split": "train", "subject": "Science", "grade": 8, "role": "primary"}
+{"source_id": "science_g7_p2_si/ch07/s03", "split": "train", "subject": "Science", "grade": 7, "role": "primary"}
+{"source_id": "science_g7_p1_si/ch09/s10", "split": "train", "subject": "Science", "grade": 7, "role": "primary"}
+{"source_id": "science_g8_p2_si/ch02/s22", "split": "train", "subject": "Science", "grade": 8, "role": "primary"}
+{"source_id": "science_g6_si/ch09/s01", "split": "train", "subject": "Science", "grade": 6, "role": "alternate"}
+{"source_id": "science_g8_p1_si/ch04/s02", "split": "train", "subject": "Science", "grade": 8, "role": "alternate"}
+{"source_id": "science_g7_p2_si/ch02/s02", "split": "train", "subject": "Science", "grade": 7, "role": "alternate"}
+{"source_id": "science_g7_p1_si/ch04/s03", "split": "train", "subject": "Science", "grade": 7, "role": "alternate"}
+{"source_id": "sinhala_g8_si/ch12/s08", "split": "train", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g6_si/ch09/s04", "split": "train", "subject": "Sinhala", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g7_si/ch16/s05", "split": "train", "subject": "Sinhala", "grade": 7, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch23/s01", "split": "train", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g6_si/ch12/s05", "split": "train", "subject": "Sinhala", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g7_si/ch08/s01", "split": "train", "subject": "Sinhala", "grade": 7, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch15/s02", "split": "train", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g6_si/ch08/s02", "split": "train", "subject": "Sinhala", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g7_si/ch05/s03", "split": "train", "subject": "Sinhala", "grade": 7, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch09/s06", "split": "train", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g6_si/ch16/s03", "split": "train", "subject": "Sinhala", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g7_si/ch18/s01", "split": "train", "subject": "Sinhala", "grade": 7, "role": "alternate"}
+{"source_id": "sinhala_g8_si/ch22/s05", "split": "train", "subject": "Sinhala", "grade": 8, "role": "alternate"}
+{"source_id": "sinhala_g6_si/ch21/s03", "split": "train", "subject": "Sinhala", "grade": 6, "role": "alternate"}
+{"source_id": "sinhala_g7_si/ch13/s06", "split": "train", "subject": "Sinhala", "grade": 7, "role": "alternate"}
+{"source_id": "buddhism_g8_si/ch08/s02", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch08/s03", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch08/s04", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch15/s03", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch15/s06", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "buddhism_g8_si/ch15/s07", "split": "heldout", "subject": "Buddhism", "grade": 8, "role": "primary"}
+{"source_id": "catholic_g6_si/ch14/s01", "split": "heldout", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g6_si/ch14/s02", "split": "heldout", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g6_si/ch14/s03", "split": "heldout", "subject": "Catholicism", "grade": 6, "role": "primary"}
+{"source_id": "catholic_g7_si/ch16/s01", "split": "heldout", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "catholic_g7_si/ch16/s02", "split": "heldout", "subject": "Catholicism", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g7_si/ch12/s01", "split": "heldout", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g7_si/ch12/s02", "split": "heldout", "subject": "Christianity", "grade": 7, "role": "primary"}
+{"source_id": "christianism_g8_si/ch05/s01", "split": "heldout", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "christianism_g8_si/ch05/s02", "split": "heldout", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "christianism_g8_si/ch05/s03", "split": "heldout", "subject": "Christianity", "grade": 8, "role": "primary"}
+{"source_id": "civic_g6_si/ch02/s02", "split": "heldout", "subject": "Civics", "grade": 6, "role": "primary"}
+{"source_id": "civic_g6_si/ch02/s07", "split": "heldout", "subject": "Civics", "grade": 6, "role": "primary"}
+{"source_id": "civic_g6_si/ch02/s08", "split": "heldout", "subject": "Civics", "grade": 6, "role": "primary"}
+{"source_id": "dancing_g7_si/ch07/s01", "split": "heldout", "subject": "Dancing", "grade": 7, "role": "primary"}
+{"source_id": "dancing_g7_si/ch07/s02", "split": "heldout", "subject": "Dancing", "grade": 7, "role": "primary"}
+{"source_id": "drama_g7_p1_si/ch00/s04", "split": "heldout", "subject": "Drama and Theatre", "grade": 7, "role": "primary"}
+{"source_id": "drama_g7_p1_si/ch00/s07", "split": "heldout", "subject": "Drama and Theatre", "grade": 7, "role": "primary"}
+{"source_id": "drama_g7_p1_si/ch00/s09", "split": "heldout", "subject": "Drama and Theatre", "grade": 7, "role": "primary"}
+{"source_id": "geo_g7_si/ch05/s01", "split": "heldout", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "geo_g7_si/ch05/s02", "split": "heldout", "subject": "Geography", "grade": 7, "role": "primary"}
+{"source_id": "health_g6_si/ch08/s01", "split": "heldout", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g6_si/ch08/s05", "split": "heldout", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "health_g6_si/ch08/s07", "split": "heldout", "subject": "Health", "grade": 6, "role": "primary"}
+{"source_id": "history_g8_si/ch04/s01", "split": "heldout", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "history_g8_si/ch04/s04", "split": "heldout", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "history_g8_si/ch04/s05", "split": "heldout", "subject": "History", "grade": 8, "role": "primary"}
+{"source_id": "islam_g6_si/ch06/s01", "split": "heldout", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g6_si/ch06/s02", "split": "heldout", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g6_si/ch06/s03", "split": "heldout", "subject": "Islam", "grade": 6, "role": "primary"}
+{"source_id": "islam_g8_si/ch11/s01", "split": "heldout", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g8_si/ch11/s02", "split": "heldout", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g8_si/ch22/s02", "split": "heldout", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g8_si/ch22/s03", "split": "heldout", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "islam_g8_si/ch22/s04", "split": "heldout", "subject": "Islam", "grade": 8, "role": "primary"}
+{"source_id": "music_g7_si/ch09/s01", "split": "heldout", "subject": "Eastern Music", "grade": 7, "role": "primary"}
+{"source_id": "science_g6_si/ch01/s04", "split": "heldout", "subject": "Science", "grade": 6, "role": "primary"}
+{"source_id": "science_g6_si/ch01/s05", "split": "heldout", "subject": "Science", "grade": 6, "role": "primary"}
+{"source_id": "science_g6_si/ch01/s07", "split": "heldout", "subject": "Science", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g6_si/ch06/s01", "split": "heldout", "subject": "Sinhala", "grade": 6, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch03/s04", "split": "heldout", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch03/s07", "split": "heldout", "subject": "Sinhala", "grade": 8, "role": "primary"}
+{"source_id": "sinhala_g8_si/ch03/s08", "split": "heldout", "subject": "Sinhala", "grade": 8, "role": "primary"}

@@ -270,21 +270,27 @@ not evidence of learning. The held-out chapters and the probes are.
 
 Both use the scoring of the competition: the official Sinhala prompt and the option digit with the highest
 next-token logit, as in [scripts/eval_baseline.py](../scripts/eval_baseline.py) — but **as plain text, without
-the chat template** (the Base model has none). Check which token follows `පිළිතුර:` (a space + digit, or the digit
-alone) and score that token. The scoring code must be identical for every checkpoint, including step 0.
+the chat template** (the Base model has none). The prompt ends with `පිළිතුර:` followed by a space: Qwen
+tokenizes `: 3` as `:` + ` ` + `3`, so the next token is the bare digit (ids 16–19). Use `build_prompt` from
+[scripts/probes/probe_common.py](../scripts/probes/probe_common.py). The scoring code must be identical for every
+checkpoint, including step 0. Files, format and checks: [scripts/probes/README.md](../scripts/probes/README.md).
 
 **Probe A — close to the competition.** The public SinhalaMMLU Easy questions with gold answers,
 [data/SinhalaMMLU/TEST/easy](../data/SinhalaMMLU/TEST/easy/) (1,851 questions, 14 subjects).
 
-- A fixed, subject-balanced subset of ~500 for the frequent checks; all 1,851 at the epoch boundaries.
-- It is effectively separate from the shared-task test: only 1 of the 2,238 shared-task questions also appears
-  in it. Leave that one out of the probe.
+- A fixed subset of 504 (36 per subject) for the frequent checks; all 1,826 usable questions at the epoch
+  boundaries.
+- 25 questions are left out: 18 are near-copies of shared-task test questions (same question, at least 2
+  identical options; an exact-text match finds none, because of spacing and punctuation differences), and 7 have
+  two identical options. One gold answer stored as the option text ("24") is mapped to its number.
 - Zero-shot by default. If the official few-shot examples are available (not in the repo now), 3-shot makes a
   base model's answers more stable.
 - **Monitoring only: never train on these questions.**
 
-**Probe B — did the textbook facts go in.** ~300 MCQs written once by a strong LLM from textbook sections that
-are **in training**, plus ~100 from the **19 held-out chapters** as a control (4 options, the same prompt format).
+**Probe B — did the textbook facts go in.** 305 MCQs written once by Claude (`claude-opus-5-5`) from 154
+textbook sections that are **in training**, plus 100 from the **19 held-out chapters** as a control (4 options,
+the same prompt format). Each question carries the quote it was written from; the check script verifies the quote
+is in its section and that no held-out quote also appears in a training section.
 
 | Result | Meaning |
 |---|---|
@@ -482,7 +488,8 @@ edit code locally → git push → start the instance → connect from VS Code �
 1. **Today:** request the GPU quota; check the Free/Paid plan; set up the budget alerts.
 2. Write the training script (settings of section 4, per-source eval, probe callback, epoch-copy callback,
    smoke-test mode).
-3. Make Probe B (~300 + ~100 MCQs) and pick the Probe A subset.
+3. Make Probe B (~300 + ~100 MCQs) and pick the Probe A subset. *Done: `data/probes/easy/`; the Sinhala
+   reader review of `probe_b_review.csv` is still open.*
 4. Debug the script end to end with a tiny Qwen3.5 model on Kaggle/Colab/CPU.
 5. On the g6e: smoke test → resume test → full Easy run with the stop points of section 8.6.
 6. Choose the epoch count from the epoch-boundary checkpoints (section 5).
