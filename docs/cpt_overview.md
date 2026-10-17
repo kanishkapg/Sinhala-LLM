@@ -3,6 +3,11 @@
 This is a high-level plan, not training code. It uses the dataset built by `scripts/cpt/` (see
 [prepare_cpt_dataset.md](prepare_cpt_dataset.md) and [scripts/cpt/README.md](../scripts/cpt/README.md)).
 
+> **The detailed CPT training setup is in [prepare_cpt_training_pipeline.md](prepare_cpt_training_pipeline.md),
+> and it replaces sections 1 and 4 below where they differ.** In particular, training runs on one 48 GB GPU (not
+> 80 GB), and labels are `input_ids` without `DataCollatorForLanguageModeling`, which would mask the
+> `<|endoftext|>` document separators. See its section 13 for the full list of changes.
+
 ---
 
 ## 1. Which kind of training for the CPT dataset?

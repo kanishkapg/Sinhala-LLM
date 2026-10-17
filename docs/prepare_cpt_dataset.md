@@ -7,7 +7,7 @@ train-ready dataset**. Every step lists what to do, why it matters, and how to c
 
 > **Implementation:** each step is a script in [`scripts/cpt/`](../scripts/cpt/).
 > [`scripts/cpt/README.md`](../scripts/cpt/README.md) gives the run order, the manual-review stops and how to restart.
-> The training plan (full CPT vs LoRA, compute, SFT, merging) is in [cpt_training_plan.md](cpt_training_plan.md).
+> The training plan (full CPT vs LoRA, compute, SFT, merging) is in [cpt_overview.md](cpt_overview.md).
 
 ---
 
@@ -497,7 +497,7 @@ Figures like "78 GB" (Wikipedia) or "2 TB" (FineWeb-2) are the **whole multiling
 download those. `scripts/cpt/s07_replay.py` doesn't even download the Sinhala files. It opens them
 remotely, reads **random row groups**, filters the documents (9.2), and stops at the token budget set in
 `config/mixture.json`. Training cost depends on the tokens you train on, not on the corpus size
-(see [cpt_training_plan.md](cpt_training_plan.md#2-how-much-compute-and-why-the-huge-corpora-are-not-a-problem)).
+(see [cpt_overview.md](cpt_overview.md#2-how-much-compute-and-why-the-huge-corpora-are-not-a-problem)).
 
 ### 9.2 Filters for replay documents
 Apply in order and log how many documents each filter removes:
