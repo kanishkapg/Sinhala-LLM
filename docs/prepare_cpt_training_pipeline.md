@@ -487,10 +487,11 @@ edit code locally → git push → start the instance → connect from VS Code �
 
 1. **Today:** request the GPU quota; check the Free/Paid plan; set up the budget alerts.
 2. Write the training script (settings of section 4, per-source eval, probe callback, epoch-copy callback,
-   smoke-test mode).
+   smoke-test mode). *Done: [scripts/train/](../scripts/train/README.md).*
 3. Make Probe B (~300 + ~100 MCQs) and pick the Probe A subset. *Done: `data/probes/easy/`; the Sinhala
    reader review of `probe_b_review.csv` is still open.*
-4. Debug the script end to end with a tiny Qwen3.5 model on Kaggle/Colab/CPU.
+4. Debug the script end to end with a tiny Qwen3.5 model on Kaggle/Colab/CPU. *Done on CPU with a tiny random
+   Qwen3.5 (`scripts/train/make_tiny_model.py`): train, eval, probes, gates, epoch copies, stop + resume, smoke mode.*
 5. On the g6e: smoke test → resume test → full Easy run with the stop points of section 8.6.
 6. Choose the epoch count from the epoch-boundary checkpoints (section 5).
 7. Base vs CPT SFT comparison (section 8.8). Continue only if CPT wins.

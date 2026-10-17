@@ -18,6 +18,10 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Training outputs (scripts/train): checkpoints, epoch copies, probe records, W&B files
+outputs/
+wandb/
+
 *.png
 *.jpg
 *.jpeg

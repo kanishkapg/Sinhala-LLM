@@ -1,0 +1,13 @@
+# CPT training (scripts/train). Python 3.10+.
+# torch comes from the machine (AWS Deep Learning AMI, CUDA build): do NOT pip-install torch here.
+transformers==5.19.0
+accelerate>=1.10
+datasets>=3.0
+pyarrow>=15
+huggingface_hub>=0.25
+wandb
+# GPU machine only:
+torchao>=0.11                 # adamw_torch_8bit with bf16 stochastic rounding; pick a release that matches the torch version
+flash-linear-attention        # Gated DeltaNet kernels (Triton)
+# causal-conv1d compiles against the local torch + CUDA, install it separately:
+#   pip install causal-conv1d --no-build-isolation

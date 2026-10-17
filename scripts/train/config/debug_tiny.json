@@ -1,0 +1,30 @@
+{
+  "extends": "cpt_easy.json",
+  "_doc": "Dry run on CPU / Colab / Kaggle with a tiny random Qwen3.5 (make_tiny_model.py): every code path (eval, probes, gates, epoch copies, checkpoints, resume) in a few minutes. The numbers mean nothing.",
+
+  "model": "outputs/tiny-qwen3.5",
+  "output_dir": "outputs/debug-tiny",
+  "run_name": "debug-tiny",
+  "report_to": "none",
+
+  "seq_len": 256,
+  "limit_blocks_per_epoch": 16,
+  "val_limit_blocks": 4,
+  "global_batch": 4,
+  "per_device_train_batch_size": 2,
+  "per_device_eval_batch_size": 2,
+
+  "learning_rate": 1e-3,
+  "optim": "adamw_torch",
+  "optim_args": null,
+
+  "eval_steps": 4,
+  "save_steps": 4,
+  "probe_steps": 6,
+  "probe_limit": 24,
+  "sample_max_new_tokens": 12,
+
+  "smoke_steps": 3,
+  "smoke_probe_limit": 12,
+  "allow_slow_kernels": true
+}

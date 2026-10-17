@@ -1,0 +1,10 @@
+{
+  "_doc": "Fixed prompts continued greedily (~100 tokens) at every probe (section 8.4). 1, 2 and 4 open held-out textbook chapters (science_g6 ch01, history_g8 ch04, music_g7 ch09) in the training header format; 3 is general Sinhala; 5 checks English. Never change them during a run.",
+  "prompts": [
+    "ශ්‍රේණිය: 6 | විෂය: විද්‍යාව | පාඩම 1: ජෛව ලෝකයේ අසිරිය\n\nපරිසරය යනු",
+    "ශ්‍රේණිය: 8 | විෂය: ඉතිහාසය | පාඩම 4: දේශ ගවේෂණ හා යුරෝපා ජාතීන් පෙරදිගට පැමිණීම\n\n",
+    "කොළඹ යනු ශ්‍රී ලංකාවේ",
+    "සිතාරය හින්දුස්තාන් සංගීතයේ",
+    "Photosynthesis is the process by which"
+  ]
+}
