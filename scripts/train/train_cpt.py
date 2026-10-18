@@ -19,6 +19,7 @@ import os
 import platform
 import subprocess
 import sys
+import uuid
 from pathlib import Path
 
 os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")   # less fragmentation near 48 GB
@@ -30,6 +31,12 @@ from cpt_callbacks import (CPTTrainer, EpochCopyCallback, GateCallback, ProbeCal
                            StopAtStepCallback, ThroughputCallback)
 from cpt_data import boundary_steps, build_val_sets, check_dataset, collate, load_train  # noqa: E402
 from probe_eval import ROOT, digit_token_ids, load_probes, load_sample_prompts, stdout_utf8, write_json  # noqa: E402
+
+try:    # HF_TOKEN / WANDB_API_KEY from <repo>/.env (git-ignored); variables already set in the shell win
+    from dotenv import load_dotenv
+    load_dotenv(ROOT / ".env")
+except ImportError:
+    pass
 
 LN_VOCAB = math.log(248_320)       # ~12.42: the loss of uniform guessing over the vocabulary
 
@@ -129,7 +136,7 @@ def init_wandb(cfg: dict, run_name: str, out: Path, record: dict) -> None:
     <output_dir>/wandb_run_id.txt, so a resumed run continues the same charts."""
     import wandb
     id_file = out / "wandb_run_id.txt"
-    run_id = id_file.read_text().strip() if id_file.exists() else wandb.util.generate_id()
+    run_id = id_file.read_text().strip() if id_file.exists() else uuid.uuid4().hex[:8]   # wandb.util.generate_id is gone in 0.31
     id_file.write_text(run_id)
     wandb.init(project=cfg["wandb_project"], name=run_name, id=run_id, resume="allow", dir=str(out), config=record)
     for f in ("repro.json", "pip_freeze.txt"):

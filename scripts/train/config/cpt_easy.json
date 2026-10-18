@@ -9,7 +9,8 @@
   "run_name": "cpt-easy-v1",
   "report_to": "wandb",
   "wandb_project": "sinhala-mmlu-cpt",
-  "hub_repo": null,
+  "hub_repo": "kanush21/qwen3.5-4b-si-cpt-easy"
+,
 
   "seq_len": 2048,
   "limit_blocks_per_epoch": null,
