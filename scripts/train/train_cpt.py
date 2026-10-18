@@ -264,7 +264,7 @@ def main() -> None:
           f"epoch copies at {boundaries}, Check 1 at the first eval >= step {derived['check1_step']}")
 
     # ---- model (section 3)
-    model = AutoModelForCausalLM.from_pretrained(cfg["model"], dtype=torch.bfloat16)
+    model = AutoModelForCausalLM.from_pretrained(cfg["model"], dtype=getattr(torch, cfg.get("model_dtype", "bfloat16")))
     if "ConditionalGeneration" in type(model).__name__:
         raise SystemExit(f"loaded {type(model).__name__}; the text-only Qwen3_5ForCausalLM is expected")
     model.config.use_cache = False

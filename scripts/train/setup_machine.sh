@@ -36,5 +36,6 @@ Next:
   hf auth login          # token with write access (epoch copies go to a private repo)
   wandb login
   tmux new -s train      # every run inside tmux
+  python scripts/train/gpu_check.py    # kernels + optimizer: RESULT must be "all needed checks passed"
   then README step 2 (smoke test)
 EOF

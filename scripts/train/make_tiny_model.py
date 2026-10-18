@@ -6,6 +6,11 @@ config.json and the tokenizer.
 
     python scripts/train/make_tiny_model.py                     # -> outputs/tiny-qwen3.5
     python scripts/train/train_cpt.py --config scripts/train/config/debug_tiny.json
+
+--real-heads keeps the 4B model's head sizes (DeltaNet key/value 128, attention 256, same rotary split), so the GPU
+kernels see real shapes (~66M parameters; used by colab_gpu_check.ipynb):
+
+    python scripts/train/make_tiny_model.py --real-heads --out outputs/tiny-qwen3.5-gpu
 """
 import argparse
 import sys
@@ -22,22 +27,27 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="Qwen/Qwen3.5-4B-Base")
     ap.add_argument("--out", default="outputs/tiny-qwen3.5")
+    ap.add_argument("--real-heads", action="store_true", help="keep the real head sizes (GPU kernel test)")
     args = ap.parse_args()
 
     cfg = AutoConfig.from_pretrained(args.base)
     cfg = getattr(cfg, "text_config", cfg)              # Qwen3.5 checkpoints wrap the text config
-    cfg.hidden_size = 64
-    cfg.intermediate_size = 128
     cfg.num_hidden_layers = 4
     cfg.layer_types = ["linear_attention"] * 3 + ["full_attention"]
     cfg.num_attention_heads = 2
     cfg.num_key_value_heads = 1
-    cfg.head_dim = 64                                    # partial rotary 0.25 -> 16 dims -> mrope sections sum to 8
-    cfg.rope_parameters = {**cfg.rope_parameters, "mrope_section": [3, 3, 2]}
     cfg.linear_num_key_heads = 2
     cfg.linear_num_value_heads = 4
-    cfg.linear_key_head_dim = 16
-    cfg.linear_value_head_dim = 16
+    if args.real_heads:                                  # head_dim, linear_*_head_dim and mrope_section stay
+        cfg.hidden_size = 256
+        cfg.intermediate_size = 512
+    else:
+        cfg.hidden_size = 64
+        cfg.intermediate_size = 128
+        cfg.head_dim = 64                                # partial rotary 0.25 -> 16 dims -> mrope sections sum to 8
+        cfg.rope_parameters = {**cfg.rope_parameters, "mrope_section": [3, 3, 2]}
+        cfg.linear_key_head_dim = 16
+        cfg.linear_value_head_dim = 16
     cfg.mtp_num_hidden_layers = 0
     cfg.tie_word_embeddings = True
 

@@ -14,7 +14,9 @@ behind every setting). Run every command from the repo root. Train inside `tmux`
 | `config/cpt_easy.json` | The Easy run (all settings of the plan) |
 | `config/debug_tiny.json` | Dry run with a tiny random model on CPU / Colab / Kaggle |
 | `config/sample_prompts.json` | The 5 fixed prompts of section 8.4 |
-| `make_tiny_model.py` | Builds the tiny random Qwen3.5 (same tokenizer and layer mix) for the dry run |
+| `make_tiny_model.py` | Builds the tiny random Qwen3.5 (same tokenizer and layer mix) for the dry run; `--real-heads` keeps the 4B head sizes for GPU tests |
+| `gpu_check.py` | GPU checks: DeltaNet kernels vs the PyTorch reference (outputs + gradients), 8-bit AdamW stochastic rounding |
+| `colab_gpu_check.ipynb` | Free-GPU (Colab / Kaggle T4) check of the installs, `gpu_check.py` and the dry run with the real optimizer |
 | `blend_weights.py` | Weighted average of models: the "free fix" of section 9 |
 | `setup_machine.sh` | First-time setup on the g6e (section 10.5) |
 | `launch.sh` | Runs `train_cpt.py` with a log file, then stops the machine (section 10.6) |
@@ -46,10 +48,18 @@ python scripts/train/train_cpt.py --config scripts/train/config/debug_tiny.json 
 resume. The numbers mean nothing (random model); kernel-fallback warnings are expected on CPU. Delete
 `outputs/debug-tiny*` before the next dry run (an existing checkpoint makes a new run refuse to start without `--resume`).
 
+**On a free GPU (Colab / Kaggle T4):** open [colab_gpu_check.ipynb](colab_gpu_check.ipynb)
+(`https://colab.research.google.com/github/kanishkapg/Sinhala-LLM/blob/main/scripts/train/colab_gpu_check.ipynb`)
+and run all cells: package installs, `gpu_check.py` (DeltaNet kernels vs the PyTorch reference, 8-bit AdamW
+stochastic rounding), then the same dry run on the GPU with the real optimizer and kernels
+(`make_tiny_model.py --real-heads` keeps the 4B head sizes). A T4 has no native bf16: bfloat16-only failures there
+are the T4's limit (`--set model_dtype=float32 bf16=false` runs the rest).
+
 ## 2. On the g6e: setup and smoke test
 
 ```bash
 bash scripts/train/setup_machine.sh          # once; then: hf auth login, wandb login
+python scripts/train/gpu_check.py            # kernels + optimizer on this machine's torch / CUDA: all PASS
 tmux new -s train
 NO_SHUTDOWN=1 bash scripts/train/launch.sh --config scripts/train/config/cpt_easy.json --smoke
 ```
