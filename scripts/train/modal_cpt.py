@@ -37,6 +37,11 @@ STEPS = {
     "resume": f"train_cpt.py {CFG} --resume",
 }
 DATA = "data/processed/cpt/easy"
+# The data comes from GitHub at this commit, fetched by Modal's builder: nothing large uploads from your machine
+# (a flaky upload of the parquet files stopped the first run). After changing the data: push, then update DATA_REV.
+GIT_URL = "https://github.com/kanishkapg/Sinhala-LLM.git"
+DATA_REV = "b759c1046bea5498225f05eaacee6d8922d726b0"
+DATA_PATHS = [f"{DATA}/packed", f"{DATA}/manifest.json", f"{DATA}/mix/val.jsonl", "data/probes/easy"]
 
 # Local paths only matter on your machine. In the container the image already exists and the mounts below are replayed.
 REPO = Path(__file__).resolve().parents[2] if modal.is_local() else Path("/repo")
@@ -49,13 +54,14 @@ image = (
     .pip_install("torchao==0.14.1", "ninja", "packaging", "wheel", "setuptools")    # torchao release for torch 2.9
     .pip_install_from_requirements(str(REPO / "scripts/train/requirements-train.txt"))
     .run_commands("pip install causal-conv1d --no-build-isolation")
+    .apt_install("git")
+    # only the files the scripts read (~30 MB); .git is removed so repro.json records your code commit, not DATA_REV
+    .run_commands(f"git clone --filter=blob:none --no-checkout {GIT_URL} /repo",
+                  f"cd /repo && git sparse-checkout set --no-cone {' '.join(DATA_PATHS)}"
+                  f" && git checkout {DATA_REV} && rm -rf /repo/.git")
     .env({"HF_HOME": "/cache/hf", "PYTHONUNBUFFERED": "1", "PYTHONUTF8": "1"})
-    # only what the scripts read (~30 MB); mounted at start, so code edits need no image rebuild
+    # the code (~0.6 MB) is mounted from your working tree at start, so code edits need no image rebuild
     .add_local_dir(REPO / "scripts", "/repo/scripts", ignore=["**/__pycache__/**", "**/*.ipynb"])
-    .add_local_dir(REPO / "data/probes/easy", "/repo/data/probes/easy")
-    .add_local_file(REPO / DATA / "manifest.json", f"/repo/{DATA}/manifest.json")
-    .add_local_file(REPO / DATA / "mix/val.jsonl", f"/repo/{DATA}/mix/val.jsonl")
-    .add_local_dir(REPO / DATA / "packed", f"/repo/{DATA}/packed")
 )
 
 app = modal.App("sinhala-cpt", image=image)
@@ -96,6 +102,9 @@ def main(step: str = "", cmd: str = ""):
     if bool(step) == bool(cmd) or (step and step not in STEPS):
         raise SystemExit(f'give --step {{{",".join(STEPS)}}} or --cmd "<script in scripts/train> <arguments>"')
     cmd = STEPS.get(step, cmd)
+    if _git("diff", "--name-only", DATA_REV, "--", *DATA_PATHS):
+        raise SystemExit(f"your data differs from DATA_REV {DATA_REV[:7]}, which the image holds: "
+                         "commit and push it, then set DATA_REV in modal_cpt.py to the new commit")
     dirty = bool(_git("status", "--porcelain"))
     if dirty:
         print("note: uncommitted changes. The run uses your working tree (recorded as git_dirty in repro.json)")
