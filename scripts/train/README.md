@@ -20,6 +20,7 @@ behind every setting). Run every command from the repo root. Train inside `tmux`
 | `blend_weights.py` | Weighted average of models: the "free fix" of section 9 |
 | `setup_machine.sh` | First-time setup on the g6e (section 10.5) |
 | `launch.sh` | Runs `train_cpt.py` with a log file, then stops the machine (section 10.6) |
+| `modal_cpt.py` | Runs any of these scripts on a Modal L40S, with `outputs/` on a Modal Volume (section "On Modal") |
 | `requirements-train.txt` | Packages on top of the AMI's torch |
 
 Outputs go to `outputs/` (git-ignored). For a run with `output_dir = outputs/cpt-easy-v1`:
@@ -92,6 +93,28 @@ steps); `launch.sh` stops the machine when it ends or crashes (`sudo shutdown -c
 After a crash or a stopped machine: start it, `tmux new -s train`, run the `--resume` line again. After a loss spike:
 delete the newest `checkpoint-*` (resume then uses the older one) and lower the LR with `--set learning_rate=1e-5`.
 Keep batch size, sequence length and data unchanged across resumes.
+
+## On Modal (no g6e capacity)
+
+[modal_cpt.py](modal_cpt.py) runs steps 2–3 and 5 on a Modal L40S. Every command starts a new container, so there is no
+tmux, no `launch.sh` and no shutdown: billing stops when the script ends. `outputs/` is the Volume `sinhala-cpt-outputs`.
+
+```bash
+pip install modal && modal setup                                     # once
+modal secret create sinhala-cpt HF_TOKEN=hf_... WANDB_API_KEY=...    # once; HF token with write access
+modal run scripts/train/modal_cpt.py --step check                    # builds the image (once), then gpu_check.py
+modal run --detach scripts/train/modal_cpt.py --step smoke
+modal run --detach scripts/train/modal_cpt.py --step stop25
+modal run --detach scripts/train/modal_cpt.py --step resume          # the full run
+modal run --detach scripts/train/modal_cpt.py --cmd "probe_eval.py --model outputs/cpt-easy-v1/epochs/e1 --out outputs/probes/e1"
+modal volume ls sinhala-cpt-outputs /outputs/cpt-easy-v1
+modal volume get sinhala-cpt-outputs /outputs/probes outputs/        # results to your machine
+modal volume rm -r sinhala-cpt-outputs /outputs/cpt-easy-v1-smoke    # instead of deleting the smoke folder
+```
+
+Logs: the terminal while it stays attached, and always the app page on modal.com and W&B. `modal app stop sinhala-cpt`
+ends a run. GPU containers can be preempted: Modal then restarts the same command, so `--step resume` carries on from the
+last checkpoint by itself.
 
 ## 4. What is logged, and the stop points (sections 7-8)
 

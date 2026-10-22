@@ -101,6 +101,11 @@ def _git(*args) -> str | None:
         return None
 
 
+def git_commit() -> str | None:
+    """HEAD of the repo; CPT_GIT_COMMIT when the code runs without its .git folder (Modal: modal_cpt.py)."""
+    return _git("rev-parse", "HEAD") or os.environ.get("CPT_GIT_COMMIT") or None
+
+
 def repro_record(cfg: dict, derived: dict, kernels: dict) -> dict:
     import accelerate
     import datasets
@@ -110,8 +115,8 @@ def repro_record(cfg: dict, derived: dict, kernels: dict) -> dict:
         "config": cfg,
         "derived": derived,
         "argv": sys.argv,
-        "git_commit": _git("rev-parse", "HEAD"),
-        "git_dirty": bool(_git("status", "--porcelain")),
+        "git_commit": git_commit(),
+        "git_dirty": bool(_git("status", "--porcelain")) or os.environ.get("CPT_GIT_DIRTY") == "1",
         "dataset_manifest_sha1": _sha1(ROOT / cfg["data_dir"] / "manifest.json"),
         "probe_sha1": {f: _sha1(probe_dir / f) for f in ("probe_a_subset.jsonl", "probe_a_full.jsonl", "probe_b.jsonl")},
         "probe_b_author": "claude-opus-5-5 (closed model: disclose in the system report)",
@@ -320,7 +325,7 @@ def main() -> None:
     stop_step = cfg["smoke_steps"] if args.smoke else args.stop_at_step
     tracked = {} if args.smoke else boundaries
     epoch_copies = EpochCopyCallback(tracked, out, None if args.smoke else cfg["hub_repo"],
-                                     {"run_name": run_name, "base_model": cfg["model"], "git_commit": _git("rev-parse", "HEAD"),
+                                     {"run_name": run_name, "base_model": cfg["model"], "git_commit": git_commit(),
                                       "dataset_manifest_sha1": _sha1(data_dir / "manifest.json")},
                                      derived["tokens_per_step"])
     gates = GateCallback(derived["check1_step"], cfg["replay_loss_tolerance"], cfg["gate_action"])
