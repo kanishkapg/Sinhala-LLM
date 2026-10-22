@@ -8,7 +8,7 @@ huggingface_hub>=0.25
 wandb
 python-dotenv                 # reads HF_TOKEN / WANDB_API_KEY from .env (optional: hf auth login / wandb login also work)
 # GPU machine only:
-torchao>=0.11                 # adamw_torch_8bit with bf16 stochastic rounding; pick a release that matches the torch version
+torchao>=0.15                 # adamw_torch_8bit with bf16 stochastic rounding (transformers 5.19 needs >= 0.15.0); pick a release that matches the torch version
 flash-linear-attention        # Gated DeltaNet kernels (Triton)
 # causal-conv1d compiles against the local torch + CUDA, install it separately:
 #   pip install causal-conv1d --no-build-isolation

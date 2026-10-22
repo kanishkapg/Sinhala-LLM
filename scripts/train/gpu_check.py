@@ -81,6 +81,19 @@ def check_environment(dev: str) -> None:
             except Exception:
                 pass
         report(f"import {mod}.{name}", "PASS" if ok else "FAIL", ("ok" + version) if ok else f"{type(f).__name__}: {f}")
+    # transformers has its own torchao version gate (5.19: >= 0.15.0), stricter than the import above
+    check = "transformers selects torchao AdamW8bit"
+    try:
+        import tempfile
+        from transformers import Trainer, TrainingArguments
+        targs = TrainingArguments(output_dir=tempfile.mkdtemp(), optim="adamw_torch_8bit",
+                                  optim_args="bf16_stochastic_round=True", report_to="none")
+        cls, kwargs = Trainer.get_optimizer_cls_and_kwargs(targs)
+        ok = cls.__name__ == "AdamW8bit" and bool(kwargs.get("bf16_stochastic_round"))   # transformers passes 1
+        report(check, "PASS" if ok else "FAIL",
+               f"{cls.__module__}.{cls.__name__}, bf16_stochastic_round={kwargs.get('bf16_stochastic_round')}")
+    except Exception as e:
+        report(check, "FAIL", f"{type(e).__name__}: {e}")
 
 
 # ---------------------------------------------------------------- 2. kernels vs reference

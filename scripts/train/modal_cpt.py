@@ -51,7 +51,8 @@ image = (
     modal.Image.from_registry("nvidia/cuda:12.8.1-devel-ubuntu22.04", add_python="3.12")
     .entrypoint([])
     .pip_install("torch==2.9.1", index_url="https://download.pytorch.org/whl/cu128")
-    .pip_install("torchao==0.14.1", "ninja", "packaging", "wheel", "setuptools")    # torchao release for torch 2.9
+    # torchao release for torch 2.9.1; transformers 5.19 refuses torchao < 0.15.0 for the 8-bit optimizer
+    .pip_install("torchao==0.15.0", "ninja", "packaging", "wheel", "setuptools")
     .pip_install_from_requirements(str(REPO / "scripts/train/requirements-train.txt"))
     .run_commands("pip install causal-conv1d --no-build-isolation")
     .apt_install("git")
