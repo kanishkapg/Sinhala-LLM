@@ -112,8 +112,8 @@ modal volume get sinhala-cpt-outputs /outputs/probes outputs/        # results t
 modal volume rm -r sinhala-cpt-outputs /outputs/cpt-easy-v1-smoke    # instead of deleting the smoke folder
 ```
 
-Logs: the terminal while it stays attached, and always the app page on modal.com and W&B. `modal app stop sinhala-cpt`
-ends a run. GPU containers can be preempted: Modal then restarts the same command, so `--step resume` carries on from the
+Logs: the terminal while it stays attached, and always the app page on modal.com and W&B. `modal run` apps have no
+name to stop by: `modal app list`, then `modal app stop ap-...` (the id in the "View run at" link) ends a run. GPU containers can be preempted: Modal then restarts the same command, so `--step resume` carries on from the
 last checkpoint by itself.
 
 ## 4. What is logged, and the stop points (sections 7-8)

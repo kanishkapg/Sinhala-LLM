@@ -67,6 +67,17 @@ class CPTTrainer(Trainer):
                 logs["gpu_mem_peak_gb"] = torch.cuda.max_memory_reserved() / 1e9
         super().log(logs, start_time)
 
+    def _load_from_checkpoint(self, resume_from_checkpoint: str, model=None) -> None:
+        """--resume: load the checkpoint's weights through from_pretrained, not Trainer's plain load_state_dict.
+        transformers v5 saves Qwen3.5 under the hub names (model.language_model.*) while the module uses model.*,
+        so Trainer's load_state_dict(strict=False) matches no key and silently keeps the base weights."""
+        model = model if model is not None else self.model
+        saved = type(model).from_pretrained(resume_from_checkpoint, dtype=model.dtype)   # maps the names back
+        state = saved.state_dict()
+        model.load_state_dict(state, strict=True)                                        # raises on any mismatch
+        print(f"resume: loaded all {len(state)} weight tensors from {resume_from_checkpoint}", flush=True)
+        del saved, state
+
     def log_extra(self, logs: dict) -> None:
         """log() from a callback. on_log clears control.should_log, so a call from on_step_end would silently drop
         the training-loss line of that step (every probe step and every epoch boundary): keep the flag."""
