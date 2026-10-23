@@ -1,0 +1,118 @@
+{
+  "_note": "Style exemplars for the generator prompt (doc Step 3.4). Authored by Claude (claude-opus-5-5) on 2026-10-23 from the sections in source_id, which s01_plan.py excludes from generation. MUST be approved by the Sinhala reader before wave 0 (set approved=true). Never use Probe A / Probe B questions here.",
+  "approved": false,
+  "exemplars": [
+    {
+      "source_id": "history_g6_si/ch01/s05", "subject": "History", "grade": 6,
+      "slot": 1, "qtype": "completion", "cognitive": "recall",
+      "question": "අතීතය පිළිබඳ සාධක සොයා ගැනීම සඳහා ක්‍රමානුකූලව පොළොව හෑරීම හැඳින්වෙන්නේ,",
+      "closing": "",
+      "correct": "පුරාවිද්‍යාත්මක කැණීම",
+      "distractors": ["භූ විද්‍යාත්මක සමීක්ෂණය", "ශිලා ලේඛන අධ්‍යයනය", "ඓතිහාසික ගවේෂණය"],
+      "statements": [],
+      "evidence": "එසේ පොළොව හෑරීම හැඳින්වෙන්නේ පුරාවිද්‍යාත්මක කැණීම යනුවෙනි.",
+      "explanation_en": "The section names systematic digging of the earth an archaeological excavation; the distractors are other study methods that are not digging.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "history_g6_si/ch01/s05", "subject": "History", "grade": 6,
+      "slot": 2, "qtype": "direct", "cognitive": "recall",
+      "question": "ශ්‍රී ලංකාවට නිදහස ලැබුණේ ක්‍රිස්තු වර්ෂ කීයේ ද?",
+      "closing": "",
+      "correct": "1948",
+      "distractors": ["1947", "1956", "1972"],
+      "statements": [],
+      "evidence": "ශ්‍රී ලංකාවට නිදහස ලැබීම\n\nක්‍රිස්තු වර්ෂ 1948",
+      "explanation_en": "The timeline gives AD 1948 for independence; 1947, 1956 and 1972 are nearby years of other events.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "geo_g8_si/ch04/s01", "subject": "Geography", "grade": 8,
+      "slot": 1, "qtype": "identification", "cognitive": "understanding",
+      "question": "භූ ලක්ෂණ සිතියමක දැක්වෙන සංස්කෘතික ලක්ෂණයකි.",
+      "closing": "",
+      "correct": "මාර්ගයක්",
+      "distractors": ["ගංගාවක්", "කඳු මුදුනක්", "දිය ඇල්ලක්"],
+      "statements": [],
+      "evidence": "මිනිසාගේ මැදිහත් වීමෙන් නිර්මාණය කර ඇති ලක්ෂණ සංස්කෘතික ලක්ෂණ ලෙසත් හැඳින්වේ.",
+      "explanation_en": "Cultural features are man-made; a road is man-made, while a river, a peak and a waterfall are natural (physical) features.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "science_g7_p2_si/ch01/s04", "subject": "Science", "grade": 7,
+      "slot": 1, "qtype": "completion", "cognitive": "application",
+      "question": "ඇදී ගිය දිග නූලකින් සම්බන්ධ කළ කෝප්ප දෙකකින් එකකට කතා කළ විට අනෙක් කෝප්පයට කන තැබූ අයට එම හඬ හොඳින් ඇසේ. මෙයින් පැහැදිලි වන්නේ,",
+      "closing": "",
+      "correct": "ඝන මාධ්‍ය හරහා ධ්වනිය ගමන් කරන බව",
+      "distractors": ["වාතය හරහා පමණක් ධ්වනිය ගමන් කරන බව", "රික්තය හරහා ධ්වනිය ගමන් කරන බව", "ද්‍රව හරහා ධ්වනිය ගමන් නොකරන බව"],
+      "statements": [],
+      "evidence": "නූල තුළින් ධ්වනිය සම්ප්‍රේෂණය වන බව මෙයින් පැහැදිලි වේ.",
+      "explanation_en": "The tight string is a solid medium carrying the sound; the distractors state wrong or unrelated claims about media of sound.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "buddhism_g8_si/ch06/s07", "subject": "Buddhism", "grade": 8,
+      "slot": 1, "qtype": "negation", "cognitive": "recall",
+      "question": "සැරියුත් මුගලන් අගසව් දෙනමගේ ජීවන චරිතවලින් ලබා ගත හැකි ආදර්ශයක් නොවන්නේ,",
+      "closing": "",
+      "correct": "කීර්තිය පතා ක්‍රියා කිරීම",
+      "distractors": ["ගුරු ගෞරවය", "කල්‍යාණ මිත්‍ර ආශ්‍රය", "නිහතමානි චාම් පැවැත්ම"],
+      "statements": [],
+      "evidence": "වගකීම් නිසි පරිදි දැන හැඳින ක්‍රියා කිරීමත්, ගුරු ගෞරවයත්, කල්‍යාණ මිත්‍ර ආශ්‍රයත්, නිහතමානි චාම් පැවැත්මත්, පරාර්ථ සේවාවත් ඒ අතර ප්‍රධාන ය.",
+      "explanation_en": "The section lists respect for teachers, good friendship and humble simple living as their examples (all true); seeking fame is not one, so it is the exception.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "christianism_g8_si/ch10/s04", "subject": "Christianity", "grade": 8,
+      "slot": 1, "qtype": "blank", "cognitive": "recall",
+      "question": "වෙනත් භාෂාවකින් කරන කථනය අන් අයට අවබෝධ වන අයුරින් පැහැදිලි කිරීම ශුද්ධාත්මයාණන් වහන්සේගේ ....................... දීමනාවයි.",
+      "closing": "",
+      "correct": "අන්‍ය භාෂා පහදා දීමේ",
+      "distractors": ["අන්‍ය භාෂා කථනයේ", "දිවැස් වැකි කීමේ", "සුව කිරීමේ"],
+      "statements": [],
+      "evidence": "අන්‍ය භාෂා පහදා දීම\n\nවෙනත් භාෂාවකින් කථනය සිදු කළ ද එය අන්‍යයන් හට අවබෝධ කර ගත නොහැකි නම් ඉන් පලක් නොවේ.",
+      "explanation_en": "Making speech in another tongue understandable is the gift of interpreting tongues; speaking in tongues, prophecy and healing are different gifts.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "christianism_g8_si/ch10/s04", "subject": "Christianity", "grade": 8,
+      "slot": 2, "qtype": "combination", "cognitive": "understanding",
+      "question": "ශුද්ධාත්ම දීමනා පිළිබඳ ප්‍රකාශ කිහිපයක් පහත දැක්වේ.",
+      "closing": "ඉහත ප්‍රකාශ අතුරින් නිවැරදි වන්නේ,",
+      "correct": "",
+      "distractors": [],
+      "statements": [
+        {"label": "A", "text": "ශුද්ධාත්ම දීමනා කිතුනු සභාව ගොඩනැගීමට උපකාරී වේ.", "true": true, "evidence": "කිතුනු සභාව ගොඩනැගීමටත් ය"},
+        {"label": "B", "text": "ශුද්ධාත්ම දීමනා ලැබෙන්නේ තමාගේ පෞද්ගලික යහපත සඳහා පමණි.", "true": false, "evidence": "දෙවියන් වහන්සේ තුළ එකිනෙකා ශක්තිමත් කිරීමටත්"},
+        {"label": "C", "text": "ශුද්ධාත්ම දීමනා තුළින් පාපයට හා නපුරට එරෙහි වීමට හැකි වේ.", "true": true, "evidence": "පාපයට හා නපුරට එරෙහි වෙමු"}
+      ],
+      "evidence": "",
+      "explanation_en": "The gifts build up the church (A) and help resist sin and evil (C); they are given to strengthen one another, not only for personal good (B is false). Answer: A and C only.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "civic_g7_si/ch01/s14", "subject": "Civics", "grade": 7,
+      "slot": 1, "qtype": "statement", "cognitive": "understanding",
+      "question": "පවුලේ සාමාජිකයන් සමඟ විවේක කාලය ගත කිරීම පිළිබඳ නිවැරදි ප්‍රකාශය තෝරන්න.",
+      "closing": "",
+      "correct": "ජන ක්‍රීඩාවල යෙදීමෙන් ඒවා පිළිබඳ දැනුවත් වීමට අවස්ථාව ලැබේ.",
+      "distractors": ["ගෘහස්ථ ක්‍රීඩාවල යෙදීමට අවස්ථාව ලැබෙන්නේ පාසලේ දී පමණි.", "විනෝද චාරිකා විවේක කාල ක්‍රියාකාරකමක් ලෙස නොසැලකේ.", "ජන ක්‍රීඩා පිළිබඳ වැඩිහිටියන්ගෙන් දැනගත නොහැකි ය."],
+      "statements": [],
+      "evidence": "එමඟින් පැරණි ජන ක්‍රීඩා පිළිබඳ දැනුවත් වීමට ද ඔබට අවස්ථාව ලැබේ.",
+      "explanation_en": "Playing folk games with elders teaches about them (true); indoor games are played at home, trips are listed as leisure activities, and elders are named as a source of folk-game knowledge.",
+      "skip_reason": ""
+    },
+    {
+      "source_id": "sinhala_g8_si/ch07/s02", "subject": "Sinhala", "grade": 8,
+      "slot": 1, "qtype": "completion", "cognitive": "application",
+      "question": "‘දරුවෙනි, ඉක්මනින් පන්තියට එන්න.’ යන වාක්‍යයේ ‘එන්න’ යන පදය අයත් වන්නේ,",
+      "closing": "",
+      "correct": "විධි ක්‍රියා පදවලට",
+      "distractors": ["ආශීර්වාද ක්‍රියා පදවලට", "අනවසාන ක්‍රියා පදවලට", "විශේෂණ පදවලට"],
+      "statements": [],
+      "evidence": "ක්‍රියා මූලයට -න්න/-න්ට/-න්ඩ ප්‍රත්‍යය එක් වීමෙන් විධි ක්‍රියා නිර්මාණය වෙයි.",
+      "explanation_en": "A verb root plus -න්න forms an imperative (විධි ක්‍රියා); it is not a benedictive, a non-final verb or an adjective.",
+      "skip_reason": ""
+    }
+  ]
+}

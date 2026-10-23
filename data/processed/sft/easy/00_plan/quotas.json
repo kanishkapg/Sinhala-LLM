@@ -1,0 +1,310 @@
+{
+  "subjects": {
+    "Art": {
+      "tokens": 69005,
+      "target": 372,
+      "cap": 246,
+      "quota": 246,
+      "n": 246,
+      "qtype": {
+        "completion": 81,
+        "identification": 49,
+        "direct": 37,
+        "negation": 29,
+        "blank": 15,
+        "statement": 20,
+        "combination": 15
+      },
+      "cognitive": {
+        "recall": 135,
+        "understanding": 74,
+        "application": 37
+      }
+    },
+    "Buddhism": {
+      "tokens": 349245,
+      "target": 709,
+      "cap": 1247,
+      "quota": 709,
+      "n": 709,
+      "qtype": {
+        "completion": 234,
+        "identification": 142,
+        "direct": 106,
+        "negation": 85,
+        "blank": 43,
+        "statement": 57,
+        "combination": 42
+      },
+      "cognitive": {
+        "recall": 390,
+        "understanding": 213,
+        "application": 106
+      }
+    },
+    "Catholicism": {
+      "tokens": 215465,
+      "target": 548,
+      "cap": 769,
+      "quota": 548,
+      "n": 548,
+      "qtype": {
+        "completion": 181,
+        "identification": 109,
+        "direct": 82,
+        "negation": 66,
+        "blank": 33,
+        "statement": 44,
+        "combination": 33
+      },
+      "cognitive": {
+        "recall": 302,
+        "understanding": 164,
+        "application": 82
+      }
+    },
+    "Christianity": {
+      "tokens": 244581,
+      "target": 583,
+      "cap": 873,
+      "quota": 583,
+      "n": 583,
+      "qtype": {
+        "completion": 192,
+        "identification": 117,
+        "direct": 87,
+        "negation": 70,
+        "blank": 35,
+        "statement": 47,
+        "combination": 35
+      },
+      "cognitive": {
+        "recall": 321,
+        "understanding": 175,
+        "application": 87
+      }
+    },
+    "Civics": {
+      "tokens": 245946,
+      "target": 585,
+      "cap": 878,
+      "quota": 585,
+      "n": 585,
+      "qtype": {
+        "completion": 193,
+        "identification": 117,
+        "direct": 88,
+        "negation": 70,
+        "blank": 35,
+        "statement": 47,
+        "combination": 35
+      },
+      "cognitive": {
+        "recall": 322,
+        "understanding": 175,
+        "application": 88
+      }
+    },
+    "Dancing": {
+      "tokens": 136930,
+      "target": 454,
+      "cap": 489,
+      "quota": 454,
+      "n": 454,
+      "qtype": {
+        "completion": 150,
+        "identification": 91,
+        "direct": 68,
+        "negation": 55,
+        "blank": 27,
+        "statement": 36,
+        "combination": 27
+      },
+      "cognitive": {
+        "recall": 250,
+        "understanding": 136,
+        "application": 68
+      }
+    },
+    "Drama and Theatre": {
+      "tokens": 197625,
+      "target": 527,
+      "cap": 705,
+      "quota": 527,
+      "n": 527,
+      "qtype": {
+        "completion": 174,
+        "identification": 105,
+        "direct": 79,
+        "negation": 63,
+        "blank": 32,
+        "statement": 42,
+        "combination": 32
+      },
+      "cognitive": {
+        "recall": 290,
+        "understanding": 158,
+        "application": 79
+      }
+    },
+    "Eastern Music": {
+      "tokens": 132730,
+      "target": 449,
+      "cap": 474,
+      "quota": 449,
+      "n": 449,
+      "qtype": {
+        "completion": 148,
+        "identification": 90,
+        "direct": 67,
+        "negation": 54,
+        "blank": 27,
+        "statement": 36,
+        "combination": 27
+      },
+      "cognitive": {
+        "recall": 247,
+        "understanding": 135,
+        "application": 67
+      }
+    },
+    "Geography": {
+      "tokens": 88479,
+      "target": 396,
+      "cap": 315,
+      "quota": 315,
+      "n": 315,
+      "qtype": {
+        "completion": 104,
+        "identification": 63,
+        "direct": 47,
+        "negation": 38,
+        "blank": 19,
+        "statement": 25,
+        "combination": 19
+      },
+      "cognitive": {
+        "recall": 173,
+        "understanding": 95,
+        "application": 47
+      }
+    },
+    "Health": {
+      "tokens": 330317,
+      "target": 686,
+      "cap": 1179,
+      "quota": 686,
+      "n": 686,
+      "qtype": {
+        "completion": 227,
+        "identification": 137,
+        "direct": 103,
+        "negation": 82,
+        "blank": 41,
+        "statement": 55,
+        "combination": 41
+      },
+      "cognitive": {
+        "recall": 377,
+        "understanding": 206,
+        "application": 103
+      }
+    },
+    "History": {
+      "tokens": 199901,
+      "target": 529,
+      "cap": 713,
+      "quota": 529,
+      "n": 529,
+      "qtype": {
+        "completion": 175,
+        "identification": 106,
+        "direct": 79,
+        "negation": 63,
+        "blank": 32,
+        "statement": 42,
+        "combination": 32
+      },
+      "cognitive": {
+        "recall": 291,
+        "understanding": 159,
+        "application": 79
+      }
+    },
+    "Islam": {
+      "tokens": 276524,
+      "target": 311,
+      "cap": 987,
+      "quota": 311,
+      "n": 311,
+      "qtype": {
+        "completion": 102,
+        "identification": 62,
+        "direct": 47,
+        "negation": 37,
+        "blank": 19,
+        "statement": 25,
+        "combination": 19
+      },
+      "cognitive": {
+        "recall": 171,
+        "understanding": 93,
+        "application": 47
+      }
+    },
+    "Science": {
+      "tokens": 491914,
+      "target": 880,
+      "cap": 1756,
+      "quota": 880,
+      "n": 880,
+      "qtype": {
+        "completion": 290,
+        "identification": 176,
+        "direct": 132,
+        "negation": 106,
+        "blank": 53,
+        "statement": 70,
+        "combination": 53
+      },
+      "cognitive": {
+        "recall": 484,
+        "understanding": 264,
+        "application": 132
+      }
+    },
+    "Sinhala": {
+      "tokens": 402397,
+      "target": 772,
+      "cap": 1437,
+      "quota": 772,
+      "n": 772,
+      "qtype": {
+        "completion": 255,
+        "identification": 154,
+        "direct": 116,
+        "negation": 93,
+        "blank": 46,
+        "statement": 62,
+        "combination": 46
+      },
+      "cognitive": {
+        "recall": 425,
+        "understanding": 231,
+        "application": 116
+      }
+    }
+  },
+  "total_slots": 7594,
+  "slots_per_wave": {
+    "0": 101,
+    "1": 3819,
+    "2": 3674
+  },
+  "jobs_per_wave": {
+    "0": 26,
+    "1": 1465,
+    "2": 1433
+  },
+  "chapters": 477
+}

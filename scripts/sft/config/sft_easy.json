@@ -1,0 +1,64 @@
+{
+  "level": "easy",
+  "seed": 42,
+
+  "plan": {
+    "total_questions": 7800,
+    "tokens_per_question_cap": 280,
+    "min_section_tokens": 150,
+    "subject_weight_factor": {"Islam": 0.5},
+    "max_slots_per_section": 6,
+    "max_slots_per_merged_job": 8,
+    "merge_below_tokens": 400,
+    "merge_max_tokens": 2000,
+    "min_slots_per_chapter": 2,
+    "wave0_jobs_per_subject": 2,
+    "qtype_quota": {
+      "completion": 0.33, "identification": 0.20, "direct": 0.15, "negation": 0.12,
+      "blank": 0.06, "statement": 0.08, "combination": 0.06
+    },
+    "cognitive_quota": {"recall": 0.55, "understanding": 0.30, "application": 0.15}
+  },
+
+  "generator": {"model": "opus", "effort": "high", "timeout_s": 900, "jobs_per_call": 1},
+  "validator": {"model": "sonnet", "effort": "medium", "timeout_s": 600, "jobs_per_call": 3},
+
+  "guard": {
+    "claude_exe": null,
+    "allowed_subscriptions": ["pro", "max"],
+    "require_extra_usage_disabled": true,
+    "limit_wait_minutes": 30,
+    "limit_probe_model": "haiku",
+    "window_hours": 5,
+    "max_notional_usd_per_window": null,
+    "max_budget_usd_per_call": 3.0,
+    "max_retries": 3
+  },
+
+  "checks": {
+    "stem_min_chars": 15, "stem_max_chars": 250, "combination_stem_max_chars": 600,
+    "option_max_chars": 80, "length_cue_ratio": 1.5, "length_cue_min_chars": 12,
+    "min_sinhala_ratio": 0.8, "job_duplicate_ratio": 0.8, "reason_warn_share": 0.10
+  },
+
+  "dedup": {
+    "drop_stem_ratio": 0.9, "drop_stem_ratio_with_options": 0.8, "drop_min_shared_options": 2,
+    "flag_stem_ratio": 0.6, "flag_min_shared_options": 3, "lsh_threshold": 0.5, "shingle": 4
+  },
+
+  "gates": {
+    "position_max_cell_imbalance": 1,
+    "key_longest_max": 0.30,
+    "key_shortest_min": 0.18,
+    "stem_overlap_max": 0.35,
+    "convergence_max": 0.35,
+    "choices_only_margin": 0.05,
+    "choices_only_max": 0.40,
+    "qtype_share_tolerance": 0.03,
+    "subject_share_rel_tolerance": 0.10,
+    "validator_accept_min": 0.75,
+    "length_fix_ratio": 1.3
+  },
+
+  "render": {"val_share": 0.05, "views": 2, "max_tokens": 1024}
+}
