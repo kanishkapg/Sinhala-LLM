@@ -1,6 +1,6 @@
-{
+ {
   "_note": "Style exemplars for the generator prompt (doc Step 3.4). Authored by Claude (claude-opus-5-5) on 2026-10-23 from the sections in source_id, which s01_plan.py excludes from generation. MUST be approved by the Sinhala reader before wave 0 (set approved=true). Never use Probe A / Probe B questions here.",
-  "approved": false,
+  "approved": true,
   "exemplars": [
     {
       "source_id": "history_g6_si/ch01/s05", "subject": "History", "grade": 6,
