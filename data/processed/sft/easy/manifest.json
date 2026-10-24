@@ -324,5 +324,12 @@
     },
     "chapters": 477
   },
-  "updated": "2026-10-23T18:51:03"
+  "updated": "2026-10-23T21:06:07",
+  "generation_wave0": {
+    "model": "opus",
+    "effort": "high",
+    "instructions_sha1": "d4c7eacd675b403f7e52a31354cadbfa2c51a1b2",
+    "backend": "claude-code-cli (claude.ai subscription)",
+    "started": "2026-10-23T21:06:07"
+  }
 }
