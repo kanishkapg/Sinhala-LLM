@@ -324,12 +324,24 @@
     },
     "chapters": 477
   },
-  "updated": "2026-10-23T21:06:07",
+  "updated": "2026-10-24T08:09:01",
   "generation_wave0": {
     "model": "opus",
     "effort": "high",
     "instructions_sha1": "d4c7eacd675b403f7e52a31354cadbfa2c51a1b2",
     "backend": "claude-code-cli (claude.ai subscription)",
     "started": "2026-10-23T21:06:07"
+  },
+  "checks": {
+    "items": 101,
+    "passed": 94,
+    "reasons": {
+      "absolute_word_in_distractor_only": 1,
+      "clang_cue": 2,
+      "key_much_longer": 1,
+      "refers_to_text_or_figure": 1,
+      "fm_artefact": 1,
+      "not_sinhala": 1
+    }
   }
 }
