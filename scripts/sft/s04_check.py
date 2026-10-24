@@ -41,8 +41,13 @@ def check(item: dict, section_text: str, cfg: dict) -> list[str]:
         return r
     if len({norm(o) for o in opts}) < 4:
         r.append("duplicate_options")
-    nn = [norm(o) for o in opts]
-    if any(len(a) >= 3 and a != b and a in b for a in nn for b in nn) and qtype != "combination":
+    # one option's words are a proper subset of another's, i.e. it contains the whole other option
+    # (e.g. "මාර්ගය" vs "ප්‍රධාන මාර්ගය"). Compare whole WORD tokens, not raw characters: in Sinhala
+    # "හිස්"/"දණහිස්" and "කුසල කර්ම"/"අකුසල කර්ම" share letters but are different words. Keep every
+    # token (do NOT drop short ones like words() does): 2-letter words such as ජන/දස/කළ/මව are the
+    # distinguishing word in homogeneous option sets, and dropping them makes them look like subsets.
+    ow = [{norm(w) for w in o.split()} - {""} for o in opts]
+    if qtype != "combination" and any(a and a < b for a in ow for b in ow):
         r.append("option_contains_option")
     # script / encoding
     for t in [stem] + opts:
