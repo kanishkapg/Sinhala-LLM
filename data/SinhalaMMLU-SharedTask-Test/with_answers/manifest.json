@@ -1,0 +1,47 @@
+{
+  "version": "answer-key-v1",
+  "source": "data/SinhalaMMLU-SharedTask-Test/<level>/*.json",
+  "answer_index": "1-based, as in data/SinhalaMMLU",
+  "generated_by": "scripts/answer_sharedtask_test.py (Claude Code CLI, claude.ai subscription)",
+  "model": "opus",
+  "effort": "high",
+  "updated": "2026-10-24T20:03:39",
+  "levels": {
+    "easy": {
+      "questions": 642,
+      "answered": 642,
+      "missing": 0,
+      "confidence": {
+        "high": 453,
+        "medium": 124,
+        "low": 65
+      },
+      "needs_review": 65,
+      "file": "data/SinhalaMMLU-SharedTask-Test/with_answers/easy.jsonl"
+    },
+    "hard": {
+      "questions": 485,
+      "answered": 485,
+      "missing": 0,
+      "confidence": {
+        "high": 308,
+        "medium": 132,
+        "low": 45
+      },
+      "needs_review": 45,
+      "file": "data/SinhalaMMLU-SharedTask-Test/with_answers/hard.jsonl"
+    },
+    "medium": {
+      "questions": 1111,
+      "answered": 1111,
+      "missing": 0,
+      "confidence": {
+        "medium": 283,
+        "low": 157,
+        "high": 671
+      },
+      "needs_review": 157,
+      "file": "data/SinhalaMMLU-SharedTask-Test/with_answers/medium.jsonl"
+    }
+  }
+}
