@@ -324,7 +324,7 @@
     },
     "chapters": 477
   },
-  "updated": "2026-10-24T10:18:43",
+  "updated": "2026-10-24T10:29:00",
   "generation_wave0": {
     "model": "opus",
     "effort": "high",
@@ -354,5 +354,40 @@
     "accepted": 87,
     "pending": 0,
     "acceptance": 0.9255
+  },
+  "dedup": {
+    "accepted_in": 87,
+    "kept": 86,
+    "dropped": 1,
+    "counts": {
+      "self_duplicates": 0,
+      "dropped_vs_shared_test": 1,
+      "dropped_vs_probe_a": 0,
+      "dropped_vs_probe_b": 0,
+      "dropped_vs_exemplars": 0
+    },
+    "reference_sizes": {
+      "shared_test": 2238,
+      "probe_a": 1826,
+      "probe_b": 405,
+      "exemplars": 9
+    },
+    "flagged": 16
+  },
+  "audit": {
+    "waves": [
+      0
+    ],
+    "passed": false,
+    "gates": {
+      "key_longest": false,
+      "key_shortest": false,
+      "stem_overlap": true,
+      "convergence": true,
+      "qtype_shares": false,
+      "subject_shares": false,
+      "chapter_coverage": true,
+      "validator_acceptance": true
+    }
   }
 }

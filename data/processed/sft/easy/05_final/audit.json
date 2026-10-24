@@ -1,0 +1,79 @@
+{
+  "waves": [
+    0
+  ],
+  "metrics": {
+    "n_items": 86,
+    "positions": {
+      "1": 25,
+      "2": 17,
+      "3": 22,
+      "4": 22
+    },
+    "key_longest": 0.328125,
+    "key_shortest": 0.17647058823529413,
+    "stem_overlap": 0.012658227848101266,
+    "convergence": 0.22784810126582278,
+    "key_longest_per_subject": {
+      "Art": 0.0,
+      "Buddhism": 0.6,
+      "Catholicism": 0.667,
+      "Christianity": 0.2,
+      "Civics": 0.4,
+      "Dancing": 0.286,
+      "Drama and Theatre": 1.0,
+      "Geography": 0.333,
+      "Health": 0.5,
+      "History": 0.167,
+      "Eastern Music": 0.143,
+      "Science": 0.25,
+      "Sinhala": 0.4
+    },
+    "qtype_share": {
+      "completion": 0.267,
+      "identification": 0.186,
+      "direct": 0.151,
+      "negation": 0.163,
+      "blank": 0.035,
+      "statement": 0.116,
+      "combination": 0.081
+    },
+    "subject_share_vs_plan": {
+      "Art": 1.077,
+      "Buddhism": 1.007,
+      "Catholicism": 0.783,
+      "Christianity": 1.174,
+      "Civics": 1.028,
+      "Dancing": 0.979,
+      "Drama and Theatre": 0.979,
+      "Eastern Music": 0.881,
+      "Geography": 1.007,
+      "Health": 0.979,
+      "History": 1.174,
+      "Science": 0.979,
+      "Sinhala": 0.979
+    },
+    "chapters_covered": "24/24",
+    "chapters_missing": [],
+    "validator_acceptance": 0.9255,
+    "dedup": {
+      "self_duplicates": 0,
+      "dropped_vs_shared_test": 1,
+      "dropped_vs_probe_a": 0,
+      "dropped_vs_probe_b": 0,
+      "dropped_vs_exemplars": 0
+    },
+    "choices_only_sft": null
+  },
+  "gates": {
+    "key_longest": false,
+    "key_shortest": false,
+    "stem_overlap": true,
+    "convergence": true,
+    "qtype_shares": false,
+    "subject_shares": false,
+    "chapter_coverage": true,
+    "validator_acceptance": true
+  },
+  "passed": false
+}
