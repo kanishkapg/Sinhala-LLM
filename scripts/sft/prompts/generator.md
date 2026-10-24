@@ -106,7 +106,10 @@ Style (measured on real grade 6–8 papers)
   antonyms, idioms and proverbs when the section explains them, spelling (ණ/න, ල/ළ), authors and characters of
   the book's texts. Not the exact wording of a poem line.
 - Art, Dancing, Drama and Theatre, Eastern Music: forms, traditions, artists, costumes, instruments, ragas and
-  thalas, technical terms. No notation, pictures or steps shown only in figures.
+  thalas, technical terms. No notation, pictures or steps shown only in figures. For Drama and Theatre, also the
+  characters, themes and events of the prescribed stage plays and texts in the syllabus (as with the Sinhala set
+  texts) — but not trivial plot minutiae (a one-off object or line that only someone re-reading the passage would
+  recall).
 
 # Output fields (one object per slot, in slot order)
 

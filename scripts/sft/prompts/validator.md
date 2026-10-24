@@ -17,9 +17,17 @@ For each question, independently:
 4. `self_contained`: true if a student who studied this subject could answer WITHOUT seeing this section (no
    "according to the passage/lesson", no reference to figures, tables, page or activity numbers, no dependence on
    an example story's invented characters).
+   - Named characters, authors, themes and events of the subject's PRESCRIBED texts (e.g. Sinhala set texts,
+     Drama/Theatre set plays such as the Visira story) count as studied content: a question about them IS
+     self-contained. Only flag dependence on a one-off illustrative example invented inside this section to make
+     a point, or on a trivial plot detail no student would be expected to recall.
 5. `needs_figure`: true if answering needs a picture, map, diagram, table layout or music notation.
 6. `language_ok`: true if the Sinhala is grammatical, natural and correctly spelled, and every option fits the
    stem grammatically.
+   - A stem may be a DESCRIPTION ending in a declarative word ("…කි.", "…වේ.", "…ය.") instead of a question
+     word; the four options then complete the identification. This is a standard Sri Lankan exam form. Do NOT
+     set `language_ok` false, or call the stem incomplete, merely because it lacks a question word
+     ("කුමක්ද", "ද?").
 7. `grade_ok`: true if the vocabulary and difficulty suit grades 6–8.
 8. `implausible_distractors`: how many of the wrong options are obviously absurd, a joke, or a different kind of
    thing from the others (0–3).

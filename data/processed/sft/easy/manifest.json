@@ -324,7 +324,7 @@
     },
     "chapters": 477
   },
-  "updated": "2026-10-24T08:09:01",
+  "updated": "2026-10-24T10:18:43",
   "generation_wave0": {
     "model": "opus",
     "effort": "high",
@@ -343,5 +343,16 @@
       "fm_artefact": 1,
       "not_sinhala": 1
     }
+  },
+  "validator": {
+    "model": "sonnet",
+    "effort": "medium",
+    "instructions_sha1": "f6b1df5b1628829e6df69e19d155574c5acc9c1a"
+  },
+  "validation": {
+    "validated": 94,
+    "accepted": 87,
+    "pending": 0,
+    "acceptance": 0.9255
   }
 }
