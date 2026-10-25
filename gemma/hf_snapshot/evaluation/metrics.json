@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-24",
+  "model": "sinhala-mmlu/gemma-4-e4b-sinhala-mmlu",
+  "hardware": "NVIDIA A100-SXM4-40GB",
+  "versions": {
+    "vllm": "0.32.0",
+    "torch": "2.13.0+cu129",
+    "transformers": "5.19.0",
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]"
+  },
+  "decoding": {
+    "samples": 1,
+    "temperature": 0.0,
+    "thinking_budget_tokens": 7168,
+    "max_model_len": 16384,
+    "subject_grade_context": true,
+    "option_shuffling": false,
+    "seed": 1234
+  },
+  "results": {
+    "plain_direct/v_easy600": {
+      "n": 600,
+      "accuracy": 0.37,
+      "pred_positions": {
+        "1": 328,
+        "2": 143,
+        "3": 92,
+        "4": 37
+      },
+      "seconds": 2.4560640779999403
+    },
+    "plain_direct/v_hard_gmmlu1000": {
+      "n": 1000,
+      "accuracy": 0.352,
+      "pred_positions": {
+        "1": 591,
+        "2": 225,
+        "3": 115,
+        "4": 69
+      },
+      "seconds": 6.138518199000032
+    },
+    "plain_direct/vcur_easy": {
+      "n": 195,
+      "accuracy": 0.5948717948717949,
+      "pred_positions": {
+        "1": 96,
+        "2": 30,
+        "3": 45,
+        "4": 24
+      },
+      "seconds": 1.1316552559999309
+    },
+    "plain_direct/vcur_medium": {
+      "n": 282,
+      "accuracy": 0.5212765957446809,
+      "pred_positions": {
+        "1": 175,
+        "2": 44,
+        "3": 38,
+        "4": 25
+      },
+      "seconds": 1.5656693489999043
+    },
+    "plain_direct/vcur_hard": {
+      "n": 267,
+      "accuracy": 0.4681647940074906,
+      "pred_positions": {
+        "1": 154,
+        "2": 55,
+        "3": 38,
+        "4": 20
+      },
+      "seconds": 1.5541647989999774
+    },
+    "plain_direct/vcur_aes": {
+      "n": 282,
+      "accuracy": 0.6028368794326241,
+      "pred_positions": {
+        "1": 154,
+        "2": 45,
+        "3": 50,
+        "4": 33
+      },
+      "seconds": 1.512586363999958
+    },
+    "native_direct/v_easy600": {
+      "n": 600,
+      "accuracy": 0.5183333333333333,
+      "pred_positions": {
+        "1": 85,
+        "2": 215,
+        "3": 103,
+        "4": 197
+      },
+      "seconds": 2.709487184000068
+    },
+    "native_direct/v_hard_gmmlu1000": {
+      "n": 1000,
+      "accuracy": 0.509,
+      "pred_positions": {
+        "1": 250,
+        "2": 200,
+        "3": 105,
+        "4": 445
+      },
+      "seconds": 6.7949073190000036
+    },
+    "native_direct/vcur_easy": {
+      "n": 195,
+      "accuracy": 0.7230769230769231,
+      "pred_positions": {
+        "1": 31,
+        "2": 46,
+        "3": 38,
+        "4": 80
+      },
+      "seconds": 1.2759864689999176
+    },
+    "native_direct/vcur_medium": {
+      "n": 282,
+      "accuracy": 0.7092198581560284,
+      "pred_positions": {
+        "1": 51,
+        "2": 67,
+        "3": 47,
+        "4": 117
+      },
+      "seconds": 1.7380413680000402
+    },
+    "native_direct/vcur_hard": {
+      "n": 267,
+      "accuracy": 0.651685393258427,
+      "pred_positions": {
+        "1": 49,
+        "2": 61,
+        "3": 37,
+        "4": 120
+      },
+      "seconds": 1.699458265999965
+    },
+    "native_direct/vcur_aes": {
+      "n": 282,
+      "accuracy": 0.7021276595744681,
+      "pred_positions": {
+        "1": 38,
+        "2": 86,
+        "3": 49,
+        "4": 109
+      },
+      "seconds": 1.6545982100000174
+    },
+    "think/v_easy600": {
+      "n": 600,
+      "accuracy": 0.6733333333333333,
+      "pred_positions": {
+        "1": 144,
+        "2": 161,
+        "3": 166,
+        "4": 129
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 706.3566666666667,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 101.16096830368042,
+      "forced_scoring_seconds": 20.21798038482666,
+      "token_cap_rate": 0.0
+    },
+    "think/v_hard_gmmlu1000": {
+      "n": 1000,
+      "accuracy": 0.743,
+      "pred_positions": {
+        "1": 233,
+        "2": 259,
+        "3": 252,
+        "4": 256
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 935.763,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 170.96768236160278,
+      "forced_scoring_seconds": 47.89912271499634,
+      "token_cap_rate": 0.0
+    },
+    "think/vcur_easy": {
+      "n": 195,
+      "accuracy": 0.8717948717948718,
+      "pred_positions": {
+        "1": 39,
+        "2": 50,
+        "3": 50,
+        "4": 56
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 539.225641025641,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 31.081972122192383,
+      "forced_scoring_seconds": 4.536779880523682,
+      "token_cap_rate": 0.0
+    },
+    "think/vcur_medium": {
+      "n": 282,
+      "accuracy": 0.8262411347517731,
+      "pred_positions": {
+        "1": 73,
+        "2": 72,
+        "3": 72,
+        "4": 65
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 596.9858156028369,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 37.46258187294006,
+      "forced_scoring_seconds": 7.249725103378296,
+      "token_cap_rate": 0.0
+    },
+    "think/vcur_hard": {
+      "n": 267,
+      "accuracy": 0.8764044943820225,
+      "pred_positions": {
+        "1": 68,
+        "2": 63,
+        "3": 61,
+        "4": 75
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 672.4082397003746,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 60.09521698951721,
+      "forced_scoring_seconds": 7.772916555404663,
+      "token_cap_rate": 0.0
+    },
+    "think/vcur_aes": {
+      "n": 282,
+      "accuracy": 0.8368794326241135,
+      "pred_positions": {
+        "1": 69,
+        "2": 67,
+        "3": 77,
+        "4": 69
+      },
+      "parse_rate": 1.0,
+      "closed_thinking_rate": 1.0,
+      "mean_output_tokens": 580.9113475177305,
+      "parsed_vs_forced_agreement": 1.0,
+      "generation_seconds": 57.80514478683472,
+      "forced_scoring_seconds": 7.045091867446899,
+      "token_cap_rate": 0.0
+    }
+  },
+  "primary_equal_weight_accuracy": 0.7081666666666666,
+  "official_three_level_competition_score": false,
+  "notes": [
+    "Real Easy is a locked 600-question development subset, not the full official test set.",
+    "Global-MMLU Sinhala is a harder-domain proxy, not the official SinhalaMMLU Hard test.",
+    "vcur sets use Gemma teachers and are supplementary.",
+    "Timings are batch measurements, not single-request latency; thinking time includes generation and final option scoring."
+  ]
+}

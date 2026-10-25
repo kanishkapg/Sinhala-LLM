@@ -1,0 +1,6 @@
+{
+  "base": "google/gemma-4-E4B-it",
+  "tuned_checkpoint": "kdb1 (merged reasoning-distillation LoRA)",
+  "alpha": 0.5,
+  "formula": "W_final = W_base + 0.5 * (W_distilled - W_base)"
+}

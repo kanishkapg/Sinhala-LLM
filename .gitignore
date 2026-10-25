@@ -25,3 +25,6 @@ wandb/
 *.png
 *.jpg
 *.jpeg
+
+# Gemma weight-verification download cache (regenerable via gemma/analysis/verify_weights.py)
+gemma/tensor_cache/

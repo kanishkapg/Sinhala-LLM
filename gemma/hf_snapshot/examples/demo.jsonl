@@ -1,0 +1,1 @@
+{"id": "demo:arithmetic-1", "set": "demo", "subject": "Mathematics", "grade": 6, "level": "easy", "question": "දෙක සහ තුන එකතු කළ විට ලැබෙන අගය කීයද?", "choices": ["4", "5", "6", "7"], "answer": 2, "reasoning_en": "Adding 2 and 3 gives 5. The value 5 is the second option, so the answer is option 2.", "source": "Newly authored format demonstration; not a benchmark question."}

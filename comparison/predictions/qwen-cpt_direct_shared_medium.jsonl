@@ -1,0 +1,200 @@
+{"q_no": 1, "subject": "Agriculture and Food Technology", "gold": 3, "pred": 2}
+{"q_no": 6, "subject": "Agriculture and Food Technology", "gold": 2, "pred": 3}
+{"q_no": 11, "subject": "Agriculture and Food Technology", "gold": 1, "pred": 3}
+{"q_no": 16, "subject": "Agriculture and Food Technology", "gold": 3, "pred": 3}
+{"q_no": 21, "subject": "Agriculture and Food Technology", "gold": 1, "pred": 2}
+{"q_no": 26, "subject": "Agriculture and Food Technology", "gold": 1, "pred": 2}
+{"q_no": 31, "subject": "Agriculture and Food Technology", "gold": 1, "pred": 2}
+{"q_no": 36, "subject": "Agriculture and Food Technology", "gold": 1, "pred": 3}
+{"q_no": 4, "subject": "Buddhism", "gold": 2, "pred": 3}
+{"q_no": 9, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 14, "subject": "Buddhism", "gold": 3, "pred": 1}
+{"q_no": 19, "subject": "Buddhism", "gold": 2, "pred": 4}
+{"q_no": 24, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 29, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 34, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 39, "subject": "Buddhism", "gold": 3, "pred": 2}
+{"q_no": 44, "subject": "Buddhism", "gold": 2, "pred": 3}
+{"q_no": 49, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 54, "subject": "Buddhism", "gold": 1, "pred": 3}
+{"q_no": 59, "subject": "Buddhism", "gold": 2, "pred": 3}
+{"q_no": 64, "subject": "Buddhism", "gold": 2, "pred": 1}
+{"q_no": 69, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 74, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 79, "subject": "Buddhism", "gold": 4, "pred": 3}
+{"q_no": 84, "subject": "Buddhism", "gold": 1, "pred": 2}
+{"q_no": 89, "subject": "Buddhism", "gold": 4, "pred": 4}
+{"q_no": 94, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 99, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 104, "subject": "Buddhism", "gold": 3, "pred": 2}
+{"q_no": 109, "subject": "Buddhism", "gold": 3, "pred": 4}
+{"q_no": 114, "subject": "Buddhism", "gold": 4, "pred": 1}
+{"q_no": 119, "subject": "Buddhism", "gold": 1, "pred": 4}
+{"q_no": 124, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 129, "subject": "Buddhism", "gold": 2, "pred": 4}
+{"q_no": 134, "subject": "Buddhism", "gold": 3, "pred": 1}
+{"q_no": 139, "subject": "Buddhism", "gold": 2, "pred": 1}
+{"q_no": 144, "subject": "Buddhism", "gold": 4, "pred": 4}
+{"q_no": 149, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 154, "subject": "Buddhism", "gold": 4, "pred": 4}
+{"q_no": 159, "subject": "Buddhism", "gold": 1, "pred": 2}
+{"q_no": 164, "subject": "Buddhism", "gold": 2, "pred": 1}
+{"q_no": 169, "subject": "Buddhism", "gold": 4, "pred": 4}
+{"q_no": 174, "subject": "Buddhism", "gold": 2, "pred": 4}
+{"q_no": 5, "subject": "Catholicism", "gold": 2, "pred": 2}
+{"q_no": 10, "subject": "Catholicism", "gold": 3, "pred": 3}
+{"q_no": 15, "subject": "Catholicism", "gold": 2, "pred": 2}
+{"q_no": 20, "subject": "Catholicism", "gold": 4, "pred": 4}
+{"q_no": 25, "subject": "Catholicism", "gold": 1, "pred": 1}
+{"q_no": 30, "subject": "Catholicism", "gold": 4, "pred": 4}
+{"q_no": 35, "subject": "Catholicism", "gold": 3, "pred": 3}
+{"q_no": 40, "subject": "Catholicism", "gold": 3, "pred": 2}
+{"q_no": 5, "subject": "Christianity", "gold": 2, "pred": 4}
+{"q_no": 10, "subject": "Christianity", "gold": 2, "pred": 2}
+{"q_no": 15, "subject": "Christianity", "gold": 1, "pred": 1}
+{"q_no": 20, "subject": "Christianity", "gold": 3, "pred": 2}
+{"q_no": 25, "subject": "Christianity", "gold": 4, "pred": 3}
+{"q_no": 30, "subject": "Christianity", "gold": 1, "pred": 1}
+{"q_no": 35, "subject": "Christianity", "gold": 4, "pred": 4}
+{"q_no": 2, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 7, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 12, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 17, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 22, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 27, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 32, "subject": "Civics", "gold": 2, "pred": 4}
+{"q_no": 37, "subject": "Civics", "gold": 3, "pred": 1}
+{"q_no": 42, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 47, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 52, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 57, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 62, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 67, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 72, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 77, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 82, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 87, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 92, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 97, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 102, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 107, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 112, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 117, "subject": "Civics", "gold": 4, "pred": 1}
+{"q_no": 122, "subject": "Civics", "gold": 1, "pred": 2}
+{"q_no": 127, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 132, "subject": "Civics", "gold": 1, "pred": 3}
+{"q_no": 137, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 142, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 147, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 152, "subject": "Civics", "gold": 4, "pred": 3}
+{"q_no": 157, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 3, "subject": "Communication and Media Studies", "gold": 4, "pred": 2}
+{"q_no": 8, "subject": "Communication and Media Studies", "gold": 3, "pred": 4}
+{"q_no": 13, "subject": "Communication and Media Studies", "gold": 1, "pred": 1}
+{"q_no": 18, "subject": "Communication and Media Studies", "gold": 1, "pred": 1}
+{"q_no": 23, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 28, "subject": "Communication and Media Studies", "gold": 4, "pred": 3}
+{"q_no": 33, "subject": "Communication and Media Studies", "gold": 4, "pred": 4}
+{"q_no": 38, "subject": "Communication and Media Studies", "gold": 2, "pred": 1}
+{"q_no": 3, "subject": "Dancing", "gold": 4, "pred": 4}
+{"q_no": 8, "subject": "Dancing", "gold": 2, "pred": 1}
+{"q_no": 13, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 18, "subject": "Dancing", "gold": 4, "pred": 4}
+{"q_no": 23, "subject": "Dancing", "gold": 3, "pred": 3}
+{"q_no": 28, "subject": "Dancing", "gold": 1, "pred": 1}
+{"q_no": 33, "subject": "Dancing", "gold": 3, "pred": 3}
+{"q_no": 38, "subject": "Dancing", "gold": 1, "pred": 1}
+{"q_no": 43, "subject": "Dancing", "gold": 2, "pred": 3}
+{"q_no": 48, "subject": "Dancing", "gold": 4, "pred": 3}
+{"q_no": 53, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 58, "subject": "Dancing", "gold": 3, "pred": 2}
+{"q_no": 63, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 68, "subject": "Dancing", "gold": 3, "pred": 1}
+{"q_no": 73, "subject": "Dancing", "gold": 1, "pred": 1}
+{"q_no": 78, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 83, "subject": "Dancing", "gold": 4, "pred": 1}
+{"q_no": 88, "subject": "Dancing", "gold": 1, "pred": 2}
+{"q_no": 93, "subject": "Dancing", "gold": 4, "pred": 4}
+{"q_no": 98, "subject": "Dancing", "gold": 1, "pred": 2}
+{"q_no": 103, "subject": "Dancing", "gold": 1, "pred": 3}
+{"q_no": 108, "subject": "Dancing", "gold": 3, "pred": 2}
+{"q_no": 113, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 118, "subject": "Dancing", "gold": 1, "pred": 1}
+{"q_no": 123, "subject": "Dancing", "gold": 1, "pred": 2}
+{"q_no": 128, "subject": "Dancing", "gold": 2, "pred": 2}
+{"q_no": 133, "subject": "Dancing", "gold": 1, "pred": 2}
+{"q_no": 138, "subject": "Dancing", "gold": 2, "pred": 4}
+{"q_no": 143, "subject": "Dancing", "gold": 2, "pred": 1}
+{"q_no": 148, "subject": "Dancing", "gold": 1, "pred": 1}
+{"q_no": 153, "subject": "Dancing", "gold": 1, "pred": 2}
+{"q_no": 5, "subject": "Design and Construction Technology", "gold": 4, "pred": 2}
+{"q_no": 10, "subject": "Design and Construction Technology", "gold": 2, "pred": 2}
+{"q_no": 15, "subject": "Design and Construction Technology", "gold": 4, "pred": 4}
+{"q_no": 20, "subject": "Design and Construction Technology", "gold": 3, "pred": 3}
+{"q_no": 25, "subject": "Design and Construction Technology", "gold": 3, "pred": 3}
+{"q_no": 30, "subject": "Design and Construction Technology", "gold": 2, "pred": 3}
+{"q_no": 35, "subject": "Design and Construction Technology", "gold": 1, "pred": 1}
+{"q_no": 3, "subject": "Eastern Music", "gold": 1, "pred": 2}
+{"q_no": 8, "subject": "Eastern Music", "gold": 4, "pred": 2}
+{"q_no": 13, "subject": "Eastern Music", "gold": 4, "pred": 4}
+{"q_no": 18, "subject": "Eastern Music", "gold": 3, "pred": 2}
+{"q_no": 23, "subject": "Eastern Music", "gold": 2, "pred": 3}
+{"q_no": 28, "subject": "Eastern Music", "gold": 3, "pred": 4}
+{"q_no": 33, "subject": "Eastern Music", "gold": 2, "pred": 4}
+{"q_no": 2, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 7, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 12, "subject": "Geography", "gold": 3, "pred": 4}
+{"q_no": 17, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 22, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 27, "subject": "Geography", "gold": 3, "pred": 2}
+{"q_no": 32, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 37, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 1, "subject": "Health", "gold": 1, "pred": 1}
+{"q_no": 6, "subject": "Health", "gold": 3, "pred": 4}
+{"q_no": 11, "subject": "Health", "gold": 3, "pred": 3}
+{"q_no": 16, "subject": "Health", "gold": 2, "pred": 2}
+{"q_no": 21, "subject": "Health", "gold": 1, "pred": 4}
+{"q_no": 26, "subject": "Health", "gold": 1, "pred": 1}
+{"q_no": 31, "subject": "Health", "gold": 3, "pred": 4}
+{"q_no": 36, "subject": "Health", "gold": 3, "pred": 1}
+{"q_no": 41, "subject": "Health", "gold": 3, "pred": 4}
+{"q_no": 46, "subject": "Health", "gold": 2, "pred": 2}
+{"q_no": 51, "subject": "Health", "gold": 2, "pred": 2}
+{"q_no": 56, "subject": "Health", "gold": 1, "pred": 1}
+{"q_no": 61, "subject": "Health", "gold": 1, "pred": 1}
+{"q_no": 66, "subject": "Health", "gold": 3, "pred": 3}
+{"q_no": 71, "subject": "Health", "gold": 4, "pred": 4}
+{"q_no": 4, "subject": "History", "gold": 3, "pred": 2}
+{"q_no": 9, "subject": "History", "gold": 4, "pred": 4}
+{"q_no": 14, "subject": "History", "gold": 4, "pred": 1}
+{"q_no": 19, "subject": "History", "gold": 3, "pred": 2}
+{"q_no": 24, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 29, "subject": "History", "gold": 4, "pred": 2}
+{"q_no": 34, "subject": "History", "gold": 3, "pred": 2}
+{"q_no": 39, "subject": "History", "gold": 3, "pred": 3}
+{"q_no": 44, "subject": "History", "gold": 3, "pred": 3}
+{"q_no": 49, "subject": "History", "gold": 1, "pred": 1}
+{"q_no": 54, "subject": "History", "gold": 4, "pred": 1}
+{"q_no": 59, "subject": "History", "gold": 1, "pred": 1}
+{"q_no": 64, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 69, "subject": "History", "gold": 2, "pred": 3}
+{"q_no": 74, "subject": "History", "gold": 4, "pred": 3}
+{"q_no": 79, "subject": "History", "gold": 4, "pred": 2}
+{"q_no": 84, "subject": "History", "gold": 2, "pred": 3}
+{"q_no": 89, "subject": "History", "gold": 1, "pred": 1}
+{"q_no": 94, "subject": "History", "gold": 1, "pred": 2}
+{"q_no": 99, "subject": "History", "gold": 3, "pred": 2}
+{"q_no": 104, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 109, "subject": "History", "gold": 4, "pred": 1}
+{"q_no": 114, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 119, "subject": "History", "gold": 4, "pred": 2}
+{"q_no": 124, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 4, "subject": "Sinhala", "gold": 4, "pred": 4}
+{"q_no": 9, "subject": "Sinhala", "gold": 1, "pred": 4}
+{"q_no": 14, "subject": "Sinhala", "gold": 2, "pred": 3}
+{"q_no": 19, "subject": "Sinhala", "gold": 3, "pred": 2}
+{"q_no": 24, "subject": "Sinhala", "gold": 4, "pred": 4}
+{"q_no": 29, "subject": "Sinhala", "gold": 3, "pred": 3}
+{"q_no": 34, "subject": "Sinhala", "gold": 3, "pred": 2}
+{"q_no": 39, "subject": "Sinhala", "gold": 3, "pred": 4}
+{"q_no": 44, "subject": "Sinhala", "gold": 3, "pred": 4}

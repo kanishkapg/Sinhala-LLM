@@ -1,0 +1,200 @@
+{"q_no": 1, "subject": "Arts", "gold": 1, "pred": 1}
+{"q_no": 10, "subject": "Arts", "gold": 2, "pred": 2}
+{"q_no": 19, "subject": "Arts", "gold": 1, "pred": 1}
+{"q_no": 28, "subject": "Arts", "gold": 1, "pred": 1}
+{"q_no": 37, "subject": "Arts", "gold": 3, "pred": 3}
+{"q_no": 46, "subject": "Arts", "gold": 3, "pred": 4}
+{"q_no": 55, "subject": "Arts", "gold": 3, "pred": 3}
+{"q_no": 64, "subject": "Arts", "gold": 2, "pred": 2}
+{"q_no": 73, "subject": "Arts", "gold": 1, "pred": 1}
+{"q_no": 82, "subject": "Arts", "gold": 2, "pred": 2}
+{"q_no": 91, "subject": "Arts", "gold": 3, "pred": 3}
+{"q_no": 100, "subject": "Arts", "gold": 1, "pred": 1}
+{"q_no": 9, "subject": "Buddhism", "gold": 2, "pred": 3}
+{"q_no": 18, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 27, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 36, "subject": "Buddhism", "gold": 2, "pred": 1}
+{"q_no": 45, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 54, "subject": "Buddhism", "gold": 2, "pred": 2}
+{"q_no": 63, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 72, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 81, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 90, "subject": "Buddhism", "gold": 2, "pred": 3}
+{"q_no": 99, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 108, "subject": "Buddhism", "gold": 3, "pred": 1}
+{"q_no": 117, "subject": "Buddhism", "gold": 4, "pred": 1}
+{"q_no": 126, "subject": "Buddhism", "gold": 1, "pred": 2}
+{"q_no": 135, "subject": "Buddhism", "gold": 3, "pred": 3}
+{"q_no": 144, "subject": "Buddhism", "gold": 1, "pred": 4}
+{"q_no": 153, "subject": "Buddhism", "gold": 1, "pred": 1}
+{"q_no": 162, "subject": "Buddhism", "gold": 4, "pred": 4}
+{"q_no": 9, "subject": "Catholicism", "gold": 3, "pred": 1}
+{"q_no": 18, "subject": "Catholicism", "gold": 4, "pred": 2}
+{"q_no": 27, "subject": "Catholicism", "gold": 2, "pred": 3}
+{"q_no": 36, "subject": "Catholicism", "gold": 2, "pred": 3}
+{"q_no": 45, "subject": "Catholicism", "gold": 2, "pred": 2}
+{"q_no": 54, "subject": "Catholicism", "gold": 3, "pred": 3}
+{"q_no": 63, "subject": "Catholicism", "gold": 3, "pred": 1}
+{"q_no": 72, "subject": "Catholicism", "gold": 4, "pred": 2}
+{"q_no": 81, "subject": "Catholicism", "gold": 1, "pred": 1}
+{"q_no": 90, "subject": "Catholicism", "gold": 2, "pred": 2}
+{"q_no": 99, "subject": "Catholicism", "gold": 4, "pred": 1}
+{"q_no": 108, "subject": "Catholicism", "gold": 2, "pred": 1}
+{"q_no": 117, "subject": "Catholicism", "gold": 2, "pred": 2}
+{"q_no": 126, "subject": "Catholicism", "gold": 1, "pred": 1}
+{"q_no": 3, "subject": "Christianity", "gold": 3, "pred": 3}
+{"q_no": 12, "subject": "Christianity", "gold": 1, "pred": 1}
+{"q_no": 21, "subject": "Christianity", "gold": 4, "pred": 3}
+{"q_no": 30, "subject": "Christianity", "gold": 3, "pred": 3}
+{"q_no": 39, "subject": "Christianity", "gold": 1, "pred": 1}
+{"q_no": 48, "subject": "Christianity", "gold": 2, "pred": 2}
+{"q_no": 57, "subject": "Christianity", "gold": 2, "pred": 2}
+{"q_no": 66, "subject": "Christianity", "gold": 3, "pred": 3}
+{"q_no": 75, "subject": "Christianity", "gold": 1, "pred": 1}
+{"q_no": 84, "subject": "Christianity", "gold": 2, "pred": 2}
+{"q_no": 93, "subject": "Christianity", "gold": 2, "pred": 2}
+{"q_no": 102, "subject": "Christianity", "gold": 3, "pred": 3}
+{"q_no": 111, "subject": "Christianity", "gold": 4, "pred": 1}
+{"q_no": 120, "subject": "Christianity", "gold": 3, "pred": 4}
+{"q_no": 129, "subject": "Christianity", "gold": 4, "pred": 4}
+{"q_no": 8, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 17, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 26, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 35, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 44, "subject": "Civics", "gold": 3, "pred": 1}
+{"q_no": 53, "subject": "Civics", "gold": 2, "pred": 1}
+{"q_no": 62, "subject": "Civics", "gold": 2, "pred": 2}
+{"q_no": 71, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 80, "subject": "Civics", "gold": 1, "pred": 1}
+{"q_no": 89, "subject": "Civics", "gold": 3, "pred": 3}
+{"q_no": 98, "subject": "Civics", "gold": 3, "pred": 2}
+{"q_no": 107, "subject": "Civics", "gold": 2, "pred": 3}
+{"q_no": 116, "subject": "Civics", "gold": 4, "pred": 4}
+{"q_no": 2, "subject": "Eastern music", "gold": 1, "pred": 4}
+{"q_no": 11, "subject": "Eastern music", "gold": 3, "pred": 3}
+{"q_no": 20, "subject": "Eastern music", "gold": 4, "pred": 2}
+{"q_no": 29, "subject": "Eastern music", "gold": 4, "pred": 4}
+{"q_no": 38, "subject": "Eastern music", "gold": 3, "pred": 3}
+{"q_no": 47, "subject": "Eastern music", "gold": 4, "pred": 1}
+{"q_no": 56, "subject": "Eastern music", "gold": 3, "pred": 3}
+{"q_no": 65, "subject": "Eastern music", "gold": 4, "pred": 2}
+{"q_no": 74, "subject": "Eastern music", "gold": 3, "pred": 4}
+{"q_no": 83, "subject": "Eastern music", "gold": 1, "pred": 1}
+{"q_no": 92, "subject": "Eastern music", "gold": 3, "pred": 1}
+{"q_no": 101, "subject": "Eastern music", "gold": 1, "pred": 3}
+{"q_no": 110, "subject": "Eastern music", "gold": 2, "pred": 3}
+{"q_no": 119, "subject": "Eastern music", "gold": 2, "pred": 2}
+{"q_no": 128, "subject": "Eastern music", "gold": 2, "pred": 4}
+{"q_no": 137, "subject": "Eastern music", "gold": 1, "pred": 3}
+{"q_no": 3, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 12, "subject": "Geography", "gold": 4, "pred": 1}
+{"q_no": 21, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 30, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 39, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 48, "subject": "Geography", "gold": 1, "pred": 4}
+{"q_no": 57, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 66, "subject": "Geography", "gold": 1, "pred": 3}
+{"q_no": 75, "subject": "Geography", "gold": 4, "pred": 3}
+{"q_no": 84, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 93, "subject": "Geography", "gold": 1, "pred": 3}
+{"q_no": 102, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 112, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 3, "subject": "Health and Physical Science", "gold": 3, "pred": 3}
+{"q_no": 12, "subject": "Health and Physical Science", "gold": 4, "pred": 4}
+{"q_no": 21, "subject": "Health and Physical Science", "gold": 1, "pred": 3}
+{"q_no": 30, "subject": "Health and Physical Science", "gold": 3, "pred": 3}
+{"q_no": 39, "subject": "Health and Physical Science", "gold": 2, "pred": 4}
+{"q_no": 48, "subject": "Health and Physical Science", "gold": 3, "pred": 3}
+{"q_no": 57, "subject": "Health and Physical Science", "gold": 3, "pred": 3}
+{"q_no": 66, "subject": "Health and Physical Science", "gold": 2, "pred": 2}
+{"q_no": 75, "subject": "Health and Physical Science", "gold": 1, "pred": 3}
+{"q_no": 84, "subject": "Health and Physical Science", "gold": 2, "pred": 2}
+{"q_no": 93, "subject": "Health and Physical Science", "gold": 2, "pred": 2}
+{"q_no": 102, "subject": "Health and Physical Science", "gold": 3, "pred": 4}
+{"q_no": 111, "subject": "Health and Physical Science", "gold": 3, "pred": 2}
+{"q_no": 120, "subject": "Health and Physical Science", "gold": 2, "pred": 2}
+{"q_no": 129, "subject": "Health and Physical Science", "gold": 2, "pred": 2}
+{"q_no": 8, "subject": "History", "gold": 1, "pred": 2}
+{"q_no": 17, "subject": "History", "gold": 4, "pred": 3}
+{"q_no": 26, "subject": "History", "gold": 2, "pred": 1}
+{"q_no": 35, "subject": "History", "gold": 1, "pred": 3}
+{"q_no": 44, "subject": "History", "gold": 2, "pred": 3}
+{"q_no": 53, "subject": "History", "gold": 4, "pred": 2}
+{"q_no": 62, "subject": "History", "gold": 4, "pred": 1}
+{"q_no": 71, "subject": "History", "gold": 1, "pred": 3}
+{"q_no": 80, "subject": "History", "gold": 4, "pred": 3}
+{"q_no": 89, "subject": "History", "gold": 3, "pred": 3}
+{"q_no": 98, "subject": "History", "gold": 4, "pred": 2}
+{"q_no": 107, "subject": "History", "gold": 2, "pred": 2}
+{"q_no": 116, "subject": "History", "gold": 3, "pred": 3}
+{"q_no": 125, "subject": "History", "gold": 1, "pred": 2}
+{"q_no": 134, "subject": "History", "gold": 4, "pred": 1}
+{"q_no": 143, "subject": "History", "gold": 1, "pred": 4}
+{"q_no": 1, "subject": "Islam", "gold": 3, "pred": 2}
+{"q_no": 10, "subject": "Islam", "gold": 1, "pred": 1}
+{"q_no": 19, "subject": "Islam", "gold": 3, "pred": 4}
+{"q_no": 28, "subject": "Islam", "gold": 1, "pred": 1}
+{"q_no": 37, "subject": "Islam", "gold": 2, "pred": 2}
+{"q_no": 46, "subject": "Islam", "gold": 1, "pred": 2}
+{"q_no": 55, "subject": "Islam", "gold": 3, "pred": 1}
+{"q_no": 64, "subject": "Islam", "gold": 4, "pred": 3}
+{"q_no": 73, "subject": "Islam", "gold": 3, "pred": 1}
+{"q_no": 82, "subject": "Islam", "gold": 1, "pred": 1}
+{"q_no": 91, "subject": "Islam", "gold": 1, "pred": 3}
+{"q_no": 100, "subject": "Islam", "gold": 3, "pred": 3}
+{"q_no": 1, "subject": "Sinhala_language_and_literature", "gold": 2, "pred": 2}
+{"q_no": 10, "subject": "Sinhala language and literature", "gold": 2, "pred": 2}
+{"q_no": 19, "subject": "Sinhala language and literature", "gold": 4, "pred": 3}
+{"q_no": 28, "subject": "Sinhala language and literature", "gold": 1, "pred": 1}
+{"q_no": 37, "subject": "Sinhala language and literature", "gold": 2, "pred": 2}
+{"q_no": 46, "subject": "Sinhala language and literature", "gold": 2, "pred": 3}
+{"q_no": 55, "subject": "Sinhala language and literature", "gold": 1, "pred": 1}
+{"q_no": 64, "subject": "Sinhala language and literature", "gold": 3, "pred": 3}
+{"q_no": 73, "subject": "Sinhala language and literature", "gold": 2, "pred": 2}
+{"q_no": 82, "subject": "Sinhala language and literature", "gold": 4, "pred": 4}
+{"q_no": 91, "subject": "Sinhala language and literature", "gold": 4, "pred": 4}
+{"q_no": 100, "subject": "Sinhala language and literature", "gold": 1, "pred": 2}
+{"q_no": 109, "subject": "Sinhala language and literature", "gold": 1, "pred": 3}
+{"q_no": 118, "subject": "Sinhala language and literature", "gold": 4, "pred": 4}
+{"q_no": 127, "subject": "Sinhala language and literature", "gold": 4, "pred": 4}
+{"q_no": 136, "subject": "Sinhala language and literature", "gold": 1, "pred": 1}
+{"q_no": 145, "subject": "Sinhala language and literature", "gold": 2, "pred": 2}
+{"q_no": 154, "subject": "Sinhala language and literature", "gold": 3, "pred": 3}
+{"q_no": 8, "subject": "dancing", "gold": 2, "pred": 2}
+{"q_no": 17, "subject": "dancing", "gold": 3, "pred": 2}
+{"q_no": 26, "subject": "dancing", "gold": 1, "pred": 1}
+{"q_no": 35, "subject": "dancing", "gold": 2, "pred": 1}
+{"q_no": 44, "subject": "dancing", "gold": 2, "pred": 2}
+{"q_no": 53, "subject": "dancing", "gold": 1, "pred": 2}
+{"q_no": 62, "subject": "dancing", "gold": 1, "pred": 1}
+{"q_no": 71, "subject": "dancing", "gold": 1, "pred": 1}
+{"q_no": 80, "subject": "dancing", "gold": 3, "pred": 1}
+{"q_no": 89, "subject": "dancing", "gold": 1, "pred": 3}
+{"q_no": 98, "subject": "dancing", "gold": 4, "pred": 4}
+{"q_no": 107, "subject": "dancing", "gold": 2, "pred": 2}
+{"q_no": 8, "subject": "drama and Theatre ", "gold": 4, "pred": 2}
+{"q_no": 17, "subject": "drama and Theatre ", "gold": 4, "pred": 4}
+{"q_no": 26, "subject": "drama and Theatre ", "gold": 4, "pred": 4}
+{"q_no": 35, "subject": "drama and Theatre ", "gold": 3, "pred": 2}
+{"q_no": 44, "subject": "drama and Theatre ", "gold": 1, "pred": 1}
+{"q_no": 53, "subject": "drama and Theatre ", "gold": 1, "pred": 1}
+{"q_no": 62, "subject": "drama and Theatre ", "gold": 1, "pred": 1}
+{"q_no": 71, "subject": "drama and Theatre ", "gold": 4, "pred": 2}
+{"q_no": 80, "subject": "drama and Theatre ", "gold": 1, "pred": 1}
+{"q_no": 89, "subject": "drama and Theatre ", "gold": 1, "pred": 1}
+{"q_no": 98, "subject": "drama and Theatre ", "gold": 3, "pred": 3}
+{"q_no": 107, "subject": "drama and Theatre ", "gold": 3, "pred": 3}
+{"q_no": 116, "subject": "drama and Theatre ", "gold": 2, "pred": 2}
+{"q_no": 125, "subject": "drama and Theatre ", "gold": 2, "pred": 2}
+{"q_no": 6, "subject": "science", "gold": 3, "pred": 3}
+{"q_no": 15, "subject": "science", "gold": 1, "pred": 1}
+{"q_no": 24, "subject": "science", "gold": 2, "pred": 2}
+{"q_no": 33, "subject": "science", "gold": 3, "pred": 3}
+{"q_no": 42, "subject": "science", "gold": 1, "pred": 4}
+{"q_no": 51, "subject": "science", "gold": 3, "pred": 3}
+{"q_no": 60, "subject": "science", "gold": 3, "pred": 3}
+{"q_no": 69, "subject": "science", "gold": 4, "pred": 1}
+{"q_no": 78, "subject": "science", "gold": 4, "pred": 4}
+{"q_no": 87, "subject": "science", "gold": 4, "pred": 1}
+{"q_no": 96, "subject": "science", "gold": 3, "pred": 3}
+{"q_no": 105, "subject": "science", "gold": 4, "pred": 4}

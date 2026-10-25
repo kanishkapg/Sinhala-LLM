@@ -1,0 +1,46 @@
+{
+  "model_id": "sinhala-mmlu/gemma-4-e4b-sinhala-mmlu",
+  "source_archive": "SinhalaMMLU_final_model.zip",
+  "base_model": "google/gemma-4-E4B-it",
+  "method": "Correct-teacher-trace reasoning distillation with merged LoRA, followed by 50/50 WiSE-FT interpolation",
+  "interpolation_alpha": 0.5,
+  "training_examples": 7197,
+  "unique_training_questions": 4980,
+  "unique_dev_questions_in_training": 725,
+  "lora": {
+    "rank": 64,
+    "alpha": 64,
+    "dropout": 0.05,
+    "epochs": 2,
+    "learning_rate": 5e-05,
+    "max_sequence_length": 3072,
+    "micro_batch_per_gpu": 1,
+    "batch_tokens": 16384,
+    "target": "language-model linear layers; multimodal towers unchanged"
+  },
+  "reported_parameter_count": 7941100832,
+  "serialized_state_elements": 7941101802,
+  "dtype": "bfloat16",
+  "checkpoint_shards": {
+    "model-00001-of-00004.safetensors": {
+      "bytes": 5637144744,
+      "sha256": "aa3e9d1e0443f9874260af4efbe8f0aa4c8fed25d41c9ca172e4c354d101c709"
+    },
+    "model-00002-of-00004.safetensors": {
+      "bytes": 4994573962,
+      "sha256": "1ca9b8dccac273b1aeb825602138cf522ab68276405d7acbba9536e955289abf"
+    },
+    "model-00003-of-00004.safetensors": {
+      "bytes": 4996204630,
+      "sha256": "72a1bc4d1ae8af17a3b8a779696df13156ed33a60f54358ad4b558b1a426fac5"
+    },
+    "model-00004-of-00004.safetensors": {
+      "bytes": 254550436,
+      "sha256": "8080cb1ab73a91528449fc238665f6a2938583e5f1dc877c099292a1f31f6144"
+    }
+  },
+  "metadata_changes": [
+    "soup.json replaces environment-specific training paths with a public description; tensors, tokenizer and model configuration are unchanged."
+  ],
+  "checkpoint_type": "Full merged weights; no original optimizer/scheduler or unmerged LoRA training state."
+}

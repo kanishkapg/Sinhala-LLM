@@ -1,0 +1,200 @@
+{"q_no": 1, "subject": "Agricultural Science", "gold": 2, "pred": 2}
+{"q_no": 3, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 5, "subject": "Agricultural Science", "gold": 3, "pred": 2}
+{"q_no": 7, "subject": "Agricultural Science", "gold": 4, "pred": 3}
+{"q_no": 9, "subject": "Agricultural Science", "gold": 2, "pred": 1}
+{"q_no": 11, "subject": "Agricultural Science", "gold": 1, "pred": 3}
+{"q_no": 13, "subject": "Agricultural Science", "gold": 4, "pred": 1}
+{"q_no": 15, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 17, "subject": "Agricultural Science", "gold": 3, "pred": 3}
+{"q_no": 19, "subject": "Agricultural Science", "gold": 4, "pred": 4}
+{"q_no": 21, "subject": "Agricultural Science", "gold": 2, "pred": 2}
+{"q_no": 23, "subject": "Agricultural Science", "gold": 4, "pred": 4}
+{"q_no": 25, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 27, "subject": "Agricultural Science", "gold": 2, "pred": 2}
+{"q_no": 29, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 31, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 33, "subject": "Agricultural Science", "gold": 2, "pred": 2}
+{"q_no": 35, "subject": "Agricultural Science", "gold": 2, "pred": 2}
+{"q_no": 37, "subject": "Agricultural Science", "gold": 1, "pred": 1}
+{"q_no": 2, "subject": "Art", "gold": 1, "pred": 2}
+{"q_no": 4, "subject": "Art", "gold": 3, "pred": 2}
+{"q_no": 6, "subject": "Art", "gold": 3, "pred": 4}
+{"q_no": 8, "subject": "Art", "gold": 2, "pred": 2}
+{"q_no": 10, "subject": "Art", "gold": 3, "pred": 1}
+{"q_no": 12, "subject": "Art", "gold": 2, "pred": 1}
+{"q_no": 14, "subject": "Art", "gold": 2, "pred": 2}
+{"q_no": 1, "subject": "Biology", "gold": 3, "pred": 3}
+{"q_no": 3, "subject": "Biology", "gold": 1, "pred": 1}
+{"q_no": 5, "subject": "Biology", "gold": 4, "pred": 1}
+{"q_no": 7, "subject": "Biology", "gold": 3, "pred": 3}
+{"q_no": 9, "subject": "Biology", "gold": 4, "pred": 4}
+{"q_no": 11, "subject": "Biology", "gold": 4, "pred": 3}
+{"q_no": 13, "subject": "Biology", "gold": 3, "pred": 4}
+{"q_no": 15, "subject": "Biology", "gold": 2, "pred": 1}
+{"q_no": 17, "subject": "Biology", "gold": 4, "pred": 1}
+{"q_no": 19, "subject": "Biology", "gold": 1, "pred": 3}
+{"q_no": 21, "subject": "Biology", "gold": 2, "pred": 1}
+{"q_no": 23, "subject": "Biology", "gold": 4, "pred": 4}
+{"q_no": 25, "subject": "Biology", "gold": 4, "pred": 2}
+{"q_no": 27, "subject": "Biology", "gold": 2, "pred": 1}
+{"q_no": 29, "subject": "Biology", "gold": 2, "pred": 3}
+{"q_no": 31, "subject": "Biology", "gold": 1, "pred": 3}
+{"q_no": 33, "subject": "Biology", "gold": 4, "pred": 4}
+{"q_no": 35, "subject": "Biology", "gold": 2, "pred": 2}
+{"q_no": 37, "subject": "Biology", "gold": 3, "pred": 1}
+{"q_no": 39, "subject": "Biology", "gold": 4, "pred": 1}
+{"q_no": 41, "subject": "Biology", "gold": 2, "pred": 3}
+{"q_no": 43, "subject": "Biology", "gold": 1, "pred": 3}
+{"q_no": 45, "subject": "Biology", "gold": 4, "pred": 4}
+{"q_no": 47, "subject": "Biology", "gold": 4, "pred": 3}
+{"q_no": 49, "subject": "Biology", "gold": 1, "pred": 2}
+{"q_no": 1, "subject": "Biosystem Technology", "gold": 3, "pred": 3}
+{"q_no": 3, "subject": "Biosystem Technology", "gold": 4, "pred": 4}
+{"q_no": 5, "subject": "Biosystem Technology", "gold": 4, "pred": 3}
+{"q_no": 7, "subject": "Biosystem Technology", "gold": 4, "pred": 3}
+{"q_no": 9, "subject": "Biosystem Technology", "gold": 3, "pred": 3}
+{"q_no": 11, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 13, "subject": "Biosystem Technology", "gold": 2, "pred": 2}
+{"q_no": 15, "subject": "Biosystem Technology", "gold": 2, "pred": 2}
+{"q_no": 17, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 19, "subject": "Biosystem Technology", "gold": 4, "pred": 4}
+{"q_no": 21, "subject": "Biosystem Technology", "gold": 2, "pred": 2}
+{"q_no": 23, "subject": "Biosystem Technology", "gold": 2, "pred": 2}
+{"q_no": 25, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 27, "subject": "Biosystem Technology", "gold": 2, "pred": 3}
+{"q_no": 29, "subject": "Biosystem Technology", "gold": 4, "pred": 2}
+{"q_no": 31, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 33, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 35, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 37, "subject": "Biosystem Technology", "gold": 3, "pred": 3}
+{"q_no": 39, "subject": "Biosystem Technology", "gold": 1, "pred": 1}
+{"q_no": 41, "subject": "Biosystem Technology", "gold": 2, "pred": 1}
+{"q_no": 2, "subject": "Buddhist Civilization", "gold": 1, "pred": 1}
+{"q_no": 4, "subject": "Buddhist Civilization", "gold": 3, "pred": 1}
+{"q_no": 6, "subject": "Buddhist Civilization", "gold": 3, "pred": 3}
+{"q_no": 8, "subject": "Buddhist Civilization", "gold": 3, "pred": 4}
+{"q_no": 10, "subject": "Buddhist Civilization", "gold": 2, "pred": 1}
+{"q_no": 12, "subject": "Buddhist Civilization", "gold": 4, "pred": 4}
+{"q_no": 14, "subject": "Buddhist Civilization", "gold": 2, "pred": 3}
+{"q_no": 16, "subject": "Buddhist Civilization", "gold": 1, "pred": 2}
+{"q_no": 18, "subject": "Buddhist Civilization", "gold": 3, "pred": 4}
+{"q_no": 20, "subject": "Buddhist Civilization", "gold": 4, "pred": 3}
+{"q_no": 22, "subject": "Buddhist Civilization", "gold": 2, "pred": 4}
+{"q_no": 24, "subject": "Buddhist Civilization", "gold": 1, "pred": 2}
+{"q_no": 26, "subject": "Buddhist Civilization", "gold": 4, "pred": 4}
+{"q_no": 28, "subject": "Buddhist Civilization", "gold": 2, "pred": 1}
+{"q_no": 30, "subject": "Buddhist Civilization", "gold": 3, "pred": 2}
+{"q_no": 32, "subject": "Buddhist Civilization", "gold": 2, "pred": 2}
+{"q_no": 34, "subject": "Buddhist Civilization", "gold": 3, "pred": 3}
+{"q_no": 36, "subject": "Buddhist Civilization", "gold": 1, "pred": 1}
+{"q_no": 38, "subject": "Buddhist Civilization", "gold": 1, "pred": 1}
+{"q_no": 40, "subject": "Buddhist Civilization", "gold": 4, "pred": 1}
+{"q_no": 2, "subject": "Business Studies", "gold": 4, "pred": 4}
+{"q_no": 4, "subject": "Business Studies", "gold": 2, "pred": 2}
+{"q_no": 6, "subject": "Business Studies", "gold": 1, "pred": 1}
+{"q_no": 8, "subject": "Business Studies", "gold": 1, "pred": 1}
+{"q_no": 10, "subject": "Business Studies", "gold": 4, "pred": 4}
+{"q_no": 12, "subject": "Business Studies", "gold": 2, "pred": 3}
+{"q_no": 14, "subject": "Business Studies", "gold": 4, "pred": 2}
+{"q_no": 16, "subject": "Business Studies", "gold": 2, "pred": 4}
+{"q_no": 18, "subject": "Business Studies", "gold": 4, "pred": 1}
+{"q_no": 20, "subject": "Business Studies", "gold": 2, "pred": 4}
+{"q_no": 22, "subject": "Business Studies", "gold": 2, "pred": 2}
+{"q_no": 24, "subject": "Business Studies", "gold": 3, "pred": 3}
+{"q_no": 26, "subject": "Business Studies", "gold": 3, "pred": 3}
+{"q_no": 28, "subject": "Business Studies", "gold": 1, "pred": 4}
+{"q_no": 1, "subject": "Chemistry", "gold": 2, "pred": 1}
+{"q_no": 3, "subject": "Chemistry", "gold": 1, "pred": 4}
+{"q_no": 5, "subject": "Chemistry", "gold": 4, "pred": 1}
+{"q_no": 7, "subject": "Chemistry", "gold": 4, "pred": 3}
+{"q_no": 9, "subject": "Chemistry", "gold": 4, "pred": 2}
+{"q_no": 11, "subject": "Chemistry", "gold": 1, "pred": 2}
+{"q_no": 13, "subject": "Chemistry", "gold": 3, "pred": 4}
+{"q_no": 1, "subject": "Communication and Media Studies", "gold": 1, "pred": 2}
+{"q_no": 3, "subject": "Communication and Media Studies", "gold": 1, "pred": 2}
+{"q_no": 5, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 7, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 9, "subject": "Communication and Media Studies", "gold": 3, "pred": 2}
+{"q_no": 11, "subject": "Communication and Media Studies", "gold": 3, "pred": 4}
+{"q_no": 13, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 15, "subject": "Communication and Media Studies", "gold": 2, "pred": 3}
+{"q_no": 17, "subject": "Communication and Media Studies", "gold": 3, "pred": 4}
+{"q_no": 19, "subject": "Communication and Media Studies", "gold": 4, "pred": 3}
+{"q_no": 21, "subject": "Communication and Media Studies", "gold": 4, "pred": 4}
+{"q_no": 23, "subject": "Communication and Media Studies", "gold": 4, "pred": 2}
+{"q_no": 25, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 27, "subject": "Communication and Media Studies", "gold": 4, "pred": 1}
+{"q_no": 29, "subject": "Communication and Media Studies", "gold": 2, "pred": 2}
+{"q_no": 31, "subject": "Communication and Media Studies", "gold": 1, "pred": 4}
+{"q_no": 33, "subject": "Communication and Media Studies", "gold": 4, "pred": 2}
+{"q_no": 35, "subject": "Communication and Media Studies", "gold": 1, "pred": 2}
+{"q_no": 37, "subject": "Communication and Media Studies", "gold": 3, "pred": 4}
+{"q_no": 39, "subject": "Communication and Media Studies", "gold": 4, "pred": 4}
+{"q_no": 41, "subject": "Communication and Media Studies", "gold": 3, "pred": 2}
+{"q_no": 43, "subject": "Communication and Media Studies", "gold": 2, "pred": 2}
+{"q_no": 45, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 47, "subject": "Communication and Media Studies", "gold": 3, "pred": 3}
+{"q_no": 49, "subject": "Communication and Media Studies", "gold": 2, "pred": 1}
+{"q_no": 1, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 2}
+{"q_no": 3, "subject": "Dancing (Indigenous)", "gold": 4, "pred": 4}
+{"q_no": 5, "subject": "Dancing (Indigenous)", "gold": 1, "pred": 4}
+{"q_no": 7, "subject": "Dancing (Indigenous)", "gold": 4, "pred": 1}
+{"q_no": 9, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 2}
+{"q_no": 11, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 2}
+{"q_no": 13, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 2}
+{"q_no": 15, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 4}
+{"q_no": 17, "subject": "Dancing (Indigenous)", "gold": 2, "pred": 1}
+{"q_no": 19, "subject": "Dancing (Indigenous)", "gold": 1, "pred": 1}
+{"q_no": 21, "subject": "Dancing (Indigenous)", "gold": 3, "pred": 3}
+{"q_no": 1, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 3, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 5, "subject": "Economics", "gold": 1, "pred": 4}
+{"q_no": 7, "subject": "Economics", "gold": 1, "pred": 3}
+{"q_no": 9, "subject": "Economics", "gold": 1, "pred": 3}
+{"q_no": 11, "subject": "Economics", "gold": 1, "pred": 1}
+{"q_no": 13, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 15, "subject": "Economics", "gold": 4, "pred": 3}
+{"q_no": 17, "subject": "Economics", "gold": 3, "pred": 4}
+{"q_no": 19, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 21, "subject": "Economics", "gold": 1, "pred": 2}
+{"q_no": 23, "subject": "Economics", "gold": 4, "pred": 4}
+{"q_no": 25, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 27, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 29, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 31, "subject": "Economics", "gold": 2, "pred": 1}
+{"q_no": 33, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 35, "subject": "Economics", "gold": 4, "pred": 1}
+{"q_no": 37, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 39, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 41, "subject": "Economics", "gold": 3, "pred": 3}
+{"q_no": 43, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 45, "subject": "Economics", "gold": 2, "pred": 2}
+{"q_no": 1, "subject": "Geography", "gold": 3, "pred": 2}
+{"q_no": 3, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 5, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 7, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 9, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 11, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 13, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 15, "subject": "Geography", "gold": 1, "pred": 1}
+{"q_no": 17, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 19, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 21, "subject": "Geography", "gold": 3, "pred": 1}
+{"q_no": 23, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 25, "subject": "Geography", "gold": 3, "pred": 3}
+{"q_no": 27, "subject": "Geography", "gold": 4, "pred": 3}
+{"q_no": 29, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 31, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 33, "subject": "Geography", "gold": 1, "pred": 4}
+{"q_no": 35, "subject": "Geography", "gold": 4, "pred": 4}
+{"q_no": 37, "subject": "Geography", "gold": 2, "pred": 2}
+{"q_no": 39, "subject": "Geography", "gold": 1, "pred": 4}
+{"q_no": 1, "subject": "Home Economics", "gold": 4, "pred": 3}
+{"q_no": 3, "subject": "Home Economics", "gold": 4, "pred": 4}
+{"q_no": 5, "subject": "Home Economics", "gold": 4, "pred": 3}
+{"q_no": 7, "subject": "Home Economics", "gold": 2, "pred": 2}
+{"q_no": 9, "subject": "Home Economics", "gold": 2, "pred": 1}
+{"q_no": 11, "subject": "Home Economics", "gold": 1, "pred": 1}
+{"q_no": 13, "subject": "Home Economics", "gold": 1, "pred": 1}
+{"q_no": 15, "subject": "Home Economics", "gold": 2, "pred": 2}

@@ -1,0 +1,14 @@
+{
+  "seed": 20261019,
+  "sets": {
+    "v_easy600.jsonl": {
+      "n": 600,
+      "sha256": "42b8fd3b667604ff0a9351e46bf266d4d157ba8d92f9f0240662804f316c4034"
+    },
+    "v_hard_gmmlu1000.jsonl": {
+      "n": 1000,
+      "sha256": "ed56c84f07c0e35285389139d961afe39ff4a30c27eb371e5d6ba16c8b9676c2"
+    }
+  },
+  "data_distributed": false
+}

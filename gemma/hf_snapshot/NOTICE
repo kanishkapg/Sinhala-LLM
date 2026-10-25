@@ -1,0 +1,15 @@
+Gemma 4 E4B SinhalaMMLU
+
+This distribution includes weights, configuration, tokenizer and chat-template
+material derived from Google/Google DeepMind's google/gemma-4-E4B-it model.
+Upstream model: https://huggingface.co/google/gemma-4-E4B-it
+Gemma 4 license: https://ai.google.dev/gemma/docs/gemma_4_license
+
+Modifications by the sinhala-mmlu contributors, 2026:
+Sinhala curriculum reasoning distillation with merged language-model LoRA,
+followed by 50/50 interpolation with the base weights. Model packaging,
+evaluation summaries, and inference/further-training documentation and code
+are provided with this release. See MODIFICATIONS.md and provenance.json.
+
+This is a community derivative, not an official Google release or endorsement.
+Distributed under the Apache License, Version 2.0; see LICENSE.

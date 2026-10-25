@@ -1,0 +1,24 @@
+SinhalaMMLU baseline comparison - 2026-10-25 06:02 UTC
+accuracy in %, 200 evenly spread questions per set
+
+set                qwen-cpt/direct  gemma-sft/direct
+mmlu_easy                    59.00             61.00
+shared_easy                  56.50             55.50
+shared_medium                54.50             48.50
+shared_hard                  52.50             54.00
+shared_macro                 54.50             52.67
+
+questions scored (gold labels used / questions asked):
+set                qwen-cpt/direct  gemma-sft/direct
+mmlu_easy                  200/200           200/200
+shared_easy                200/200           200/200
+shared_medium              200/200           200/200
+shared_hard                200/200           200/200
+
+notes:
+  direct = highest-logit option digit (official SinhalaMMLU scoring; the only mode for the Base CPT model)
+  think  = Gemma's intended inference: English reasoning, then 'Answer: N' (its card: ~71% vs ~51% direct)
+  mmlu_easy scores 1850 of 1851: one Geography item has a broken gold label (answer 24 of 4 options)
+  the three shared_* sets use the proxy answer key from scripts/answer_sharedtask_test.py (~85-90%
+  correct), so differences of a few points on those rows are inside the label noise
+  qwen-cpt = sinhala-mmlu/qwen3.5-4b-si-cpt-easy (subfolder e3), gemma-sft = sinhala-mmlu/gemma-4-e4b-sinhala-mmlu (v1.0.0)
